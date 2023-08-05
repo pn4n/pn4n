@@ -1,0 +1,20 @@
+name: Last.fm Charts
+
+on:
+  workflow_dispatch: # Allow manual triggering of workflow
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+
+jobs:
+  lastfm-metrics:
+    name: Update Last.fm Charts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: dxnter/lastfm-readme@v1
+        with:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_USER: jm51n
+          # The following inputs below are only required when the intention is to modify a README.md file in a repository outside where the workflow is running
+          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          #REPOSITORY: <gh_username/gh_username>
