@@ -5,7 +5,7 @@
 > `52 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
 > `30 ▶️` ∙ **[Mumblr](https://www.last.fm/music/Mumblr)**<br/>
 > `28 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
-> `14 ▶️` ∙ **[The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)**<br/>
+> `18 ▶️` ∙ **[The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
