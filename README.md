@@ -4,8 +4,8 @@
 > `521 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 > `47 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `33 ▶️` ∙ **[Stereolab](https://www.last.fm/music/Stereolab)**<br/>
-> `19 ▶️` ∙ **[Heimat](https://www.last.fm/music/Heimat)**<br/>
 > `15 ▶️` ∙ **[Electric Callboy](https://www.last.fm/music/Electric+Callboy)**<br/>
+> `15 ▶️` ∙ **[Heimat](https://www.last.fm/music/Heimat)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `177 ▶️` ∙ **[Der Tag an dem die Welt unterging](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Der+Tag+an+dem+die+Welt+unterging)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
 > `174 ▶️` ∙ **[Das Monster aus dem Schrank](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Das+Monster+aus+dem+Schrank)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
 > `169 ▶️` ∙ **[Das Album](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Das+Album)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
-> `18 ▶️` ∙ **[Zwei](https://www.last.fm/music/Heimat/Zwei)** - [Heimat](https://www.last.fm/music/Heimat)<br/>
 > `18 ▶️` ∙ **[The Ideal Copy](https://www.last.fm/music/Wire/The+Ideal+Copy)** - [Wire](https://www.last.fm/music/Wire)<br/>
+> `15 ▶️` ∙ **[MMXX - Hypa Hypa Edition](https://www.last.fm/music/Electric+Callboy/MMXX+-+Hypa+Hypa+Edition)** - [Electric Callboy](https://www.last.fm/music/Electric+Callboy)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
