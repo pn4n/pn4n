@@ -5,7 +5,7 @@
 > `37 ▶️` ∙ **[Stereolab](https://www.last.fm/music/Stereolab)**<br/>
 > `26 ▶️` ∙ **[Mumblr](https://www.last.fm/music/Mumblr)**<br/>
 > `21 ▶️` ∙ **[Belong](https://www.last.fm/music/Belong)**<br/>
-> `15 ▶️` ∙ **[VR SEX](https://www.last.fm/music/VR+SEX)**<br/>
+> `11 ▶️` ∙ **[Heimat](https://www.last.fm/music/Heimat)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
