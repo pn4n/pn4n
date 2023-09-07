@@ -3,9 +3,9 @@
 
 > `390 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 > `26 ▶️` ∙ **[Mumblr](https://www.last.fm/music/Mumblr)**<br/>
-> `23 ▶️` ∙ **[Stereolab](https://www.last.fm/music/Stereolab)**<br/>
 > `21 ▶️` ∙ **[Belong](https://www.last.fm/music/Belong)**<br/>
 > `19 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
+> `13 ▶️` ∙ **[Stereolab](https://www.last.fm/music/Stereolab)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
