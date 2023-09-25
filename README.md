@@ -5,7 +5,7 @@
 > `69 ▶️` ∙ **[Error37](https://www.last.fm/music/Error37)**<br/>
 > `20 ▶️` ∙ **[Burial](https://www.last.fm/music/Burial)**<br/>
 > `19 ▶️` ∙ **[A Perfect Circle](https://www.last.fm/music/A+Perfect+Circle)**<br/>
-> `16 ▶️` ∙ **[Mindless Self Indulgence](https://www.last.fm/music/Mindless+Self+Indulgence)**<br/>
+> `19 ▶️` ∙ **[DJ Shadow](https://www.last.fm/music/DJ+Shadow)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `53 ▶️` ∙ **[Succ My Life](https://www.last.fm/music/Error37/Succ+My+Life)** - [Error37](https://www.last.fm/music/Error37)<br/>
 > `50 ▶️` ∙ **[Das Monster aus dem Schrank](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Das+Monster+aus+dem+Schrank)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
 > `44 ▶️` ∙ **[Der Tag an dem die Welt unterging](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Der+Tag+an+dem+die+Welt+unterging)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
-> `17 ▶️` ∙ **[Thirteenth Step](https://www.last.fm/music/A+Perfect+Circle/Thirteenth+Step)** - [A Perfect Circle](https://www.last.fm/music/A+Perfect+Circle)<br/>
+> `19 ▶️` ∙ **[Endtroducing.....](https://www.last.fm/music/DJ+Shadow/Endtroducing.....)** - [DJ Shadow](https://www.last.fm/music/DJ+Shadow)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
