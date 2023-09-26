@@ -3,9 +3,9 @@
 
 > `150 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 > `67 ▶️` ∙ **[Error37](https://www.last.fm/music/Error37)**<br/>
+> `20 ▶️` ∙ **[Boards of Canada](https://www.last.fm/music/Boards+of+Canada)**<br/>
 > `20 ▶️` ∙ **[Burial](https://www.last.fm/music/Burial)**<br/>
 > `20 ▶️` ∙ **[DJ Shadow](https://www.last.fm/music/DJ+Shadow)**<br/>
-> `19 ▶️` ∙ **[A Perfect Circle](https://www.last.fm/music/A+Perfect+Circle)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
