@@ -3,9 +3,9 @@
 
 > `74 ▶️` ∙ **[Boards of Canada](https://www.last.fm/music/Boards+of+Canada)**<br/>
 > `68 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
-> `63 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
+> `62 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 > `33 ▶️` ∙ **[DJ Shadow](https://www.last.fm/music/DJ+Shadow)**<br/>
-> `24 ▶️` ∙ **[Burial](https://www.last.fm/music/Burial)**<br/>
+> `18 ▶️` ∙ **[Burial](https://www.last.fm/music/Burial)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
