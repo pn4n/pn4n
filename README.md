@@ -3,7 +3,7 @@
 
 > `138 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 > `68 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
-> `30 ▶️` ∙ **[Boards of Canada](https://www.last.fm/music/Boards+of+Canada)**<br/>
+> `20 ▶️` ∙ **[Boards of Canada](https://www.last.fm/music/Boards+of+Canada)**<br/>
 > `12 ▶️` ∙ **[Primal Scream](https://www.last.fm/music/Primal+Scream)**<br/>
 > `10 ▶️` ∙ **[DJ Shadow](https://www.last.fm/music/DJ+Shadow)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -15,7 +15,7 @@
 > `49 ▶️` ∙ **[Der Tag an dem die Welt unterging](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Der+Tag+an+dem+die+Welt+unterging)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
 > `39 ▶️` ∙ **[Das Album](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Das+Album)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
 > `25 ▶️` ∙ **[The Ideal Copy](https://www.last.fm/music/Wire/The+Ideal+Copy)** - [Wire](https://www.last.fm/music/Wire)<br/>
-> `19 ▶️` ∙ **[Geogaddi](https://www.last.fm/music/Boards+of+Canada/Geogaddi)** - [Boards of Canada](https://www.last.fm/music/Boards+of+Canada)<br/>
+> `12 ▶️` ∙ **[Geogaddi](https://www.last.fm/music/Boards+of+Canada/Geogaddi)** - [Boards of Canada](https://www.last.fm/music/Boards+of+Canada)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
