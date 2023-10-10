@@ -1,8 +1,8 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `98 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 > `83 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
+> `67 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 > `25 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `22 ▶️` ∙ **[Pylon](https://www.last.fm/music/Pylon)**<br/>
 > `16 ▶️` ∙ **[Cranes](https://www.last.fm/music/Cranes)**<br/>
@@ -11,10 +11,10 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `35 ▶️` ∙ **[Das Monster aus dem Schrank](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Das+Monster+aus+dem+Schrank)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
-> `32 ▶️` ∙ **[Das Album](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Das+Album)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
-> `31 ▶️` ∙ **[Der Tag an dem die Welt unterging](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Der+Tag+an+dem+die+Welt+unterging)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
+> `27 ▶️` ∙ **[Das Monster aus dem Schrank](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Das+Monster+aus+dem+Schrank)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
 > `21 ▶️` ∙ **[From the Lion's Mouth](https://www.last.fm/music/The+Sound/From+the+Lion%27s+Mouth)** - [The Sound](https://www.last.fm/music/The+Sound)<br/>
+> `21 ▶️` ∙ **[Das Album](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Das+Album)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
+> `19 ▶️` ∙ **[Der Tag an dem die Welt unterging](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Der+Tag+an+dem+die+Welt+unterging)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
 > `18 ▶️` ∙ **[Chomp (Remastered)](https://www.last.fm/music/Pylon/Chomp+(Remastered))** - [Pylon](https://www.last.fm/music/Pylon)<br/>
 <!--END_LASTFM_ALBUMS-->
 
