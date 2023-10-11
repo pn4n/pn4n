@@ -3,9 +3,9 @@
 
 > `178 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 > `91 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
-> `39 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
-> `25 ▶️` ∙ **[Pylon](https://www.last.fm/music/Pylon)**<br/>
+> `22 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `19 ▶️` ∙ **[Cranes](https://www.last.fm/music/Cranes)**<br/>
+> `18 ▶️` ∙ **[Pylon](https://www.last.fm/music/Pylon)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `29 ▶️` ∙ **[Jeopardy](https://www.last.fm/music/The+Sound/_/Jeopardy)** - [The Sound](https://www.last.fm/music/The+Sound)<br/>
 > `24 ▶️` ∙ **[Party of the Mind](https://www.last.fm/music/The+Sound/_/Party+of+the+Mind)** - [The Sound](https://www.last.fm/music/The+Sound)<br/>
 > `16 ▶️` ∙ **[Total Recall](https://www.last.fm/music/The+Sound/_/Total+Recall)** - [The Sound](https://www.last.fm/music/The+Sound)<br/>
-> `12 ▶️` ∙ **[Spider - Remastered](https://www.last.fm/music/Pylon/_/Spider+-+Remastered)** - [Pylon](https://www.last.fm/music/Pylon)<br/>
 > `11 ▶️` ∙ **[Everywhere](https://www.last.fm/music/Cranes/_/Everywhere)** - [Cranes](https://www.last.fm/music/Cranes)<br/>
+> `10 ▶️` ∙ **[Spider - Remastered](https://www.last.fm/music/Pylon/_/Spider+-+Remastered)** - [Pylon](https://www.last.fm/music/Pylon)<br/>
 <!--END_LASTFM_TRACKS-->
