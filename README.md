@@ -3,9 +3,9 @@
 
 > `178 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 > `91 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
+> `22 ▶️` ∙ **[Colin Newman](https://www.last.fm/music/Colin+Newman)**<br/>
 > `22 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `19 ▶️` ∙ **[Cranes](https://www.last.fm/music/Cranes)**<br/>
-> `18 ▶️` ∙ **[Pylon](https://www.last.fm/music/Pylon)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
