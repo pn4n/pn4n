@@ -5,7 +5,7 @@
 > `83 ▶️` ∙ **[Late of the Pier](https://www.last.fm/music/Late+of+the+Pier)**<br/>
 > `66 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 > `30 ▶️` ∙ **[Colin Newman](https://www.last.fm/music/Colin+Newman)**<br/>
-> `23 ▶️` ∙ **[Marta](https://www.last.fm/music/Marta)**<br/>
+> `26 ▶️` ∙ **[Double Echo](https://www.last.fm/music/Double+Echo)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
