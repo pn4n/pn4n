@@ -2,9 +2,9 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `88 ▶️` ∙ **[Late of the Pier](https://www.last.fm/music/Late+of+the+Pier)**<br/>
-> `65 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
-> `40 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
+> `50 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 > `39 ▶️` ∙ **[Double Echo](https://www.last.fm/music/Double+Echo)**<br/>
+> `31 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 > `26 ▶️` ∙ **[Marta](https://www.last.fm/music/Marta)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -14,8 +14,8 @@
 > `87 ▶️` ∙ **[Fantasy Black Channel](https://www.last.fm/music/Late+of+the+Pier/Fantasy+Black+Channel)** - [Late of the Pier](https://www.last.fm/music/Late+of+the+Pier)<br/>
 > `26 ▶️` ∙ **[When It's Going Wrong](https://www.last.fm/music/Marta/When+It%27s+Going+Wrong)** - [Marta](https://www.last.fm/music/Marta)<br/>
 > `25 ▶️` ∙ **[Ignore Grief (Remixes)](https://www.last.fm/music/Xiu+Xiu/Ignore+Grief+(Remixes))** - [Xiu Xiu](https://www.last.fm/music/Xiu+Xiu)<br/>
-> `23 ▶️` ∙ **[Der Tag an dem die Welt unterging](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Der+Tag+an+dem+die+Welt+unterging)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
 > `22 ▶️` ∙ **[COLLIDE SESSION #2 - Nation of Language](https://www.last.fm/music/REEPERBAHN+FESTIVAL+COLLIDE/COLLIDE+SESSION+%232+-+Nation+of+Language)** - [REEPERBAHN FESTIVAL COLLIDE](https://www.last.fm/music/REEPERBAHN+FESTIVAL+COLLIDE)<br/>
+> `20 ▶️` ∙ **[Life Inside / Rupture / Sylvia](https://www.last.fm/music/Double+Echo/Life+Inside+%2F+Rupture+%2F+Sylvia)** - [Double Echo](https://www.last.fm/music/Double+Echo)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
