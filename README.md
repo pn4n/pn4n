@@ -2,8 +2,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `88 ▶️` ∙ **[Late of the Pier](https://www.last.fm/music/Late+of+the+Pier)**<br/>
-> `50 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
-> `39 ▶️` ∙ **[Double Echo](https://www.last.fm/music/Double+Echo)**<br/>
+> `44 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
+> `38 ▶️` ∙ **[Double Echo](https://www.last.fm/music/Double+Echo)**<br/>
 > `31 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 > `26 ▶️` ∙ **[Marta](https://www.last.fm/music/Marta)**<br/>
 <!--END_LASTFM_ARTISTS-->
