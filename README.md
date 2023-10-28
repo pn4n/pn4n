@@ -23,7 +23,7 @@
 
 > `9 ▶️` ∙ **[Is She Weird](https://www.last.fm/music/Pixies/_/Is+She+Weird)** - [Pixies](https://www.last.fm/music/Pixies)<br/>
 > `6 ▶️` ∙ **[Rupture](https://www.last.fm/music/Double+Echo/_/Rupture)** - [Double Echo](https://www.last.fm/music/Double+Echo)<br/>
+> `3 ▶️` ∙ **[🐝 Behind the Scenes Stream of Rock, Paper, Scissors! 🐝](https://www.last.fm/music/CGP+Grey/_/%F0%9F%90%9D+Behind+the+Scenes+Stream+of+Rock,+Paper,+Scissors!+%F0%9F%90%9D)** - [CGP Grey](https://www.last.fm/music/CGP+Grey)<br/>
 > `3 ▶️` ∙ **[Tame](https://www.last.fm/music/Pixies/_/Tame)** - [Pixies](https://www.last.fm/music/Pixies)<br/>
 > `3 ▶️` ∙ **[Concerning Peace](https://www.last.fm/music/Special+Interest/_/Concerning+Peace)** - [Special Interest](https://www.last.fm/music/Special+Interest)<br/>
-> `3 ▶️` ∙ **[Brothel Creeper - A Place To Bury Strangers Remix](https://www.last.fm/music/Xiu+Xiu/_/Brothel+Creeper+-+A+Place+To+Bury+Strangers+Remix)** - [Xiu Xiu](https://www.last.fm/music/Xiu+Xiu)<br/>
 <!--END_LASTFM_TRACKS-->
