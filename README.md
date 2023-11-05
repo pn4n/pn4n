@@ -4,8 +4,8 @@
 > `78 ▶️` ∙ **[Xiu Xiu](https://www.last.fm/music/Xiu+Xiu)**<br/>
 > `71 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
 > `68 ▶️` ∙ **[mixail I](https://www.last.fm/music/mixail+I)**<br/>
-> `41 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 > `19 ▶️` ∙ **[Adolphson & Falk](https://www.last.fm/music/Adolphson+&+Falk)**<br/>
+> `18 ▶️` ∙ **[Ariel Pink](https://www.last.fm/music/Ariel+Pink)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `40 ▶️` ∙ **[Popfolk](https://www.last.fm/music/mixail+I/Popfolk)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
 > `30 ▶️` ∙ **[FORGET](https://www.last.fm/music/Xiu+Xiu/FORGET)** - [Xiu Xiu](https://www.last.fm/music/Xiu+Xiu)<br/>
 > `28 ▶️` ∙ **[Professional Fatal](https://www.last.fm/music/mixail+I/Professional+Fatal)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
-> `20 ▶️` ∙ **[Das Monster aus dem Schrank](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Das+Monster+aus+dem+Schrank)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
+> `18 ▶️` ∙ **[pom pom](https://www.last.fm/music/Ariel+Pink/pom+pom)** - [Ariel Pink](https://www.last.fm/music/Ariel+Pink)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
