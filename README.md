@@ -3,7 +3,7 @@
 
 > `71 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
 > `68 ▶️` ∙ **[mixail I](https://www.last.fm/music/mixail+I)**<br/>
-> `64 ▶️` ∙ **[Xiu Xiu](https://www.last.fm/music/Xiu+Xiu)**<br/>
+> `33 ▶️` ∙ **[Xiu Xiu](https://www.last.fm/music/Xiu+Xiu)**<br/>
 > `18 ▶️` ∙ **[Ariel Pink](https://www.last.fm/music/Ariel+Pink)**<br/>
 > `18 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -14,8 +14,8 @@
 > `64 ▶️` ∙ **[Sland](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta/Sland)** - [Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)<br/>
 > `40 ▶️` ∙ **[Popfolk](https://www.last.fm/music/mixail+I/Popfolk)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
 > `28 ▶️` ∙ **[Professional Fatal](https://www.last.fm/music/mixail+I/Professional+Fatal)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
-> `26 ▶️` ∙ **[FORGET](https://www.last.fm/music/Xiu+Xiu/FORGET)** - [Xiu Xiu](https://www.last.fm/music/Xiu+Xiu)<br/>
 > `18 ▶️` ∙ **[pom pom](https://www.last.fm/music/Ariel+Pink/pom+pom)** - [Ariel Pink](https://www.last.fm/music/Ariel+Pink)<br/>
+> `14 ▶️` ∙ **[FORGET](https://www.last.fm/music/Xiu+Xiu/FORGET)** - [Xiu Xiu](https://www.last.fm/music/Xiu+Xiu)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `28 ▶️` ∙ **[Ron](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta/_/Ron)** - [Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)<br/>
 > `22 ▶️` ∙ **[Salvare](https://www.last.fm/music/mixail+I/_/Salvare)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
 > `17 ▶️` ∙ **[War Is Love](https://www.last.fm/music/mixail+I/_/War+Is+Love)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
-> `13 ▶️` ∙ **[At Last, At Last](https://www.last.fm/music/Xiu+Xiu/_/At+Last,+At+Last)** - [Xiu Xiu](https://www.last.fm/music/Xiu+Xiu)<br/>
 > `12 ▶️` ∙ **[Cour](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta/_/Cour)** - [Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)<br/>
+> `10 ▶️` ∙ **[At Last, At Last](https://www.last.fm/music/Xiu+Xiu/_/At+Last,+At+Last)** - [Xiu Xiu](https://www.last.fm/music/Xiu+Xiu)<br/>
 <!--END_LASTFM_TRACKS-->
