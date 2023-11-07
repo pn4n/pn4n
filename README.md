@@ -3,7 +3,7 @@
 
 > `71 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
 > `68 ▶️` ∙ **[mixail I](https://www.last.fm/music/mixail+I)**<br/>
-> `33 ▶️` ∙ **[Xiu Xiu](https://www.last.fm/music/Xiu+Xiu)**<br/>
+> `20 ▶️` ∙ **[Xiu Xiu](https://www.last.fm/music/Xiu+Xiu)**<br/>
 > `18 ▶️` ∙ **[Ariel Pink](https://www.last.fm/music/Ariel+Pink)**<br/>
 > `18 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -15,7 +15,7 @@
 > `40 ▶️` ∙ **[Popfolk](https://www.last.fm/music/mixail+I/Popfolk)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
 > `28 ▶️` ∙ **[Professional Fatal](https://www.last.fm/music/mixail+I/Professional+Fatal)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
 > `18 ▶️` ∙ **[pom pom](https://www.last.fm/music/Ariel+Pink/pom+pom)** - [Ariel Pink](https://www.last.fm/music/Ariel+Pink)<br/>
-> `14 ▶️` ∙ **[FORGET](https://www.last.fm/music/Xiu+Xiu/FORGET)** - [Xiu Xiu](https://www.last.fm/music/Xiu+Xiu)<br/>
+> `12 ▶️` ∙ **[Girls](https://www.last.fm/music/Beta+Satan/Girls)** - [Beta Satan](https://www.last.fm/music/Beta+Satan)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
