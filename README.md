@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `72 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
-> `70 ▶️` ∙ **[mixail I](https://www.last.fm/music/mixail+I)**<br/>
+> `71 ▶️` ∙ **[mixail I](https://www.last.fm/music/mixail+I)**<br/>
 > `18 ▶️` ∙ **[Ariel Pink](https://www.last.fm/music/Ariel+Pink)**<br/>
 > `18 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 > `13 ▶️` ∙ **[Beta Satan](https://www.last.fm/music/Beta+Satan)**<br/>
@@ -12,7 +12,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `65 ▶️` ∙ **[Sland](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta/Sland)** - [Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)<br/>
-> `41 ▶️` ∙ **[Popfolk](https://www.last.fm/music/mixail+I/Popfolk)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
+> `42 ▶️` ∙ **[Popfolk](https://www.last.fm/music/mixail+I/Popfolk)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
 > `29 ▶️` ∙ **[Professional Fatal](https://www.last.fm/music/mixail+I/Professional+Fatal)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
 > `18 ▶️` ∙ **[pom pom](https://www.last.fm/music/Ariel+Pink/pom+pom)** - [Ariel Pink](https://www.last.fm/music/Ariel+Pink)<br/>
 > `12 ▶️` ∙ **[Girls](https://www.last.fm/music/Beta+Satan/Girls)** - [Beta Satan](https://www.last.fm/music/Beta+Satan)<br/>
@@ -22,7 +22,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `29 ▶️` ∙ **[Ron](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta/_/Ron)** - [Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)<br/>
-> `23 ▶️` ∙ **[Salvare](https://www.last.fm/music/mixail+I/_/Salvare)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
+> `24 ▶️` ∙ **[Salvare](https://www.last.fm/music/mixail+I/_/Salvare)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
 > `18 ▶️` ∙ **[War Is Love](https://www.last.fm/music/mixail+I/_/War+Is+Love)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
 > `12 ▶️` ∙ **[Cour](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta/_/Cour)** - [Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)<br/>
 > `9 ▶️` ∙ **[At Last, At Last](https://www.last.fm/music/Xiu+Xiu/_/At+Last,+At+Last)** - [Xiu Xiu](https://www.last.fm/music/Xiu+Xiu)<br/>
