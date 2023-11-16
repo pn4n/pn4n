@@ -5,7 +5,7 @@
 > `38 ▶️` ∙ **[4 Позиции Бруно](https://www.last.fm/music/4+%D0%9F%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8+%D0%91%D1%80%D1%83%D0%BD%D0%BE)**<br/>
 > `27 ▶️` ∙ **[Adolphson & Falk](https://www.last.fm/music/Adolphson+&+Falk)**<br/>
 > `16 ▶️` ∙ **[Порез на Собаке](https://www.last.fm/music/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7+%D0%BD%D0%B0+%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B5)**<br/>
-> `11 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
+> `8 ▶️` ∙ **[Cold Cave](https://www.last.fm/music/Cold+Cave)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `53 ▶️` ∙ **[Passion](https://www.last.fm/music/mixail+I/Passion)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
 > `25 ▶️` ∙ **[Samling 81-96](https://www.last.fm/music/Adolphson+&+Falk/Samling+81-96)** - [Adolphson & Falk](https://www.last.fm/music/Adolphson+&+Falk)<br/>
-> `8 ▶️` ∙ **[Sland](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta/Sland)** - [Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)<br/>
 > `8 ▶️` ∙ **[Воспитание и Такт](https://www.last.fm/music/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7+%D0%BD%D0%B0+%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B5/%D0%92%D0%BE%D1%81%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B8+%D0%A2%D0%B0%D0%BA%D1%82)** - [Порез на Собаке](https://www.last.fm/music/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7+%D0%BD%D0%B0+%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B5)<br/>
 > `6 ▶️` ∙ **[Весёлые Старты](https://www.last.fm/music/4+%D0%9F%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8+%D0%91%D1%80%D1%83%D0%BD%D0%BE/%D0%92%D0%B5%D1%81%D1%91%D0%BB%D1%8B%D0%B5+%D0%A1%D1%82%D0%B0%D1%80%D1%82%D1%8B)** - [4 Позиции Бруно](https://www.last.fm/music/4+%D0%9F%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8+%D0%91%D1%80%D1%83%D0%BD%D0%BE)<br/>
+> `6 ▶️` ∙ **[Я Заказан](https://www.last.fm/music/4+%D0%9F%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8+%D0%91%D1%80%D1%83%D0%BD%D0%BE/%D0%AF+%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD)** - [4 Позиции Бруно](https://www.last.fm/music/4+%D0%9F%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8+%D0%91%D1%80%D1%83%D0%BD%D0%BE)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
