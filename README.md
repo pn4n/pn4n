@@ -4,8 +4,8 @@
 > `28 ▶️` ∙ **[Other Lives](https://www.last.fm/music/Other+Lives)**<br/>
 > `21 ▶️` ∙ **[mixail I](https://www.last.fm/music/mixail+I)**<br/>
 > `11 ▶️` ∙ **[Adolphson & Falk](https://www.last.fm/music/Adolphson+&+Falk)**<br/>
+> `10 ▶️` ∙ **[VR SEX](https://www.last.fm/music/VR+SEX)**<br/>
 > `6 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
-> `6 ▶️` ∙ **[Sad Lovers and Giants](https://www.last.fm/music/Sad+Lovers+and+Giants)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `18 ▶️` ∙ **[Passion](https://www.last.fm/music/mixail+I/Passion)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
 > `10 ▶️` ∙ **[Samling 81-96](https://www.last.fm/music/Adolphson+&+Falk/Samling+81-96)** - [Adolphson & Falk](https://www.last.fm/music/Adolphson+&+Falk)<br/>
 > `6 ▶️` ∙ **[Epic Garden Music](https://www.last.fm/music/Sad+Lovers+and+Giants/Epic+Garden+Music)** - [Sad Lovers and Giants](https://www.last.fm/music/Sad+Lovers+and+Giants)<br/>
-> `4 ▶️` ∙ **[Pinned](https://www.last.fm/music/A+Place+to+Bury+Strangers/Pinned)** - [A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)<br/>
+> `5 ▶️` ∙ **[Human Traffic Jam](https://www.last.fm/music/VR+SEX/Human+Traffic+Jam)** - [VR SEX](https://www.last.fm/music/VR+SEX)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
