@@ -3,9 +3,9 @@
 
 > `54 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
 > `51 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
+> `16 ▶️` ∙ **[Clark](https://www.last.fm/music/Clark)**<br/>
 > `13 ▶️` ∙ **[Error37](https://www.last.fm/music/Error37)**<br/>
 > `10 ▶️` ∙ **[Heimat](https://www.last.fm/music/Heimat)**<br/>
-> `10 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `29 ▶️` ∙ **[SEX](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta/SEX)** - [Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)<br/>
 > `20 ▶️` ∙ **[Der Tag an dem die Welt unterging](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Der+Tag+an+dem+die+Welt+unterging)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
 > `16 ▶️` ∙ **[Das Monster aus dem Schrank](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Das+Monster+aus+dem+Schrank)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
+> `14 ▶️` ∙ **[Iradelphic](https://www.last.fm/music/Clark/Iradelphic)** - [Clark](https://www.last.fm/music/Clark)<br/>
 > `14 ▶️` ∙ **[Das Album](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Das+Album)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
-> `8 ▶️` ∙ **[Succ My Life](https://www.last.fm/music/Error37/Succ+My+Life)** - [Error37](https://www.last.fm/music/Error37)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
