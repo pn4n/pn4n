@@ -5,7 +5,7 @@
 > `24 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `18 ▶️` ∙ **[Clark](https://www.last.fm/music/Clark)**<br/>
 > `14 ▶️` ∙ **[Sneaks](https://www.last.fm/music/Sneaks)**<br/>
-> `11 ▶️` ∙ **[Special Interest](https://www.last.fm/music/Special+Interest)**<br/>
+> `13 ▶️` ∙ **[De/Vision](https://www.last.fm/music/De%2FVision)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `39 ▶️` ∙ **[SEX](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta/SEX)** - [Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)<br/>
 > `16 ▶️` ∙ **[Iradelphic](https://www.last.fm/music/Clark/Iradelphic)** - [Clark](https://www.last.fm/music/Clark)<br/>
+> `13 ▶️` ∙ **[Zehn (Best Of)](https://www.last.fm/music/De%2FVision/Zehn+(Best+Of))** - [De/Vision](https://www.last.fm/music/De%2FVision)<br/>
 > `8 ▶️` ∙ **[The EVA EP](https://www.last.fm/music/Sneaks/The+EVA+EP)** - [Sneaks](https://www.last.fm/music/Sneaks)<br/>
 > `6 ▶️` ∙ **[2009](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta/2009)** - [Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)<br/>
-> `6 ▶️` ∙ **[Sland](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta/Sland)** - [Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
