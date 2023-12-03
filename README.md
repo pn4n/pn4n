@@ -23,7 +23,7 @@
 
 > `7 ▶️` ∙ **[Boxed In](https://www.last.fm/music/Sneaks/_/Boxed+In)** - [Sneaks](https://www.last.fm/music/Sneaks)<br/>
 > `6 ▶️` ∙ **[SM](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta/_/SM)** - [Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)<br/>
+> `6 ▶️` ∙ **[Same Old Madness (video version)](https://www.last.fm/music/Ministry/_/Same+Old+Madness+(video+version))** - [Ministry](https://www.last.fm/music/Ministry)<br/>
 > `6 ▶️` ∙ **[Concerning Peace](https://www.last.fm/music/Special+Interest/_/Concerning+Peace)** - [Special Interest](https://www.last.fm/music/Special+Interest)<br/>
 > `6 ▶️` ∙ **[Concerning Peace - Machine Girl Remix](https://www.last.fm/music/Special+Interest/_/Concerning+Peace+-+Machine+Girl+Remix)** - [Special Interest](https://www.last.fm/music/Special+Interest)<br/>
-> `4 ▶️` ∙ **[clip](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta/_/clip)** - [Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)<br/>
 <!--END_LASTFM_TRACKS-->
