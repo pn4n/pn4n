@@ -1,7 +1,7 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `47 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
+> `65 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `19 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `18 ▶️` ∙ **[Clark](https://www.last.fm/music/Clark)**<br/>
 > `17 ▶️` ∙ **[De/Vision](https://www.last.fm/music/De%2FVision)**<br/>
@@ -13,9 +13,9 @@
 
 > `17 ▶️` ∙ **[Zehn (Best Of)](https://www.last.fm/music/De%2FVision/Zehn+(Best+Of))** - [De/Vision](https://www.last.fm/music/De%2FVision)<br/>
 > `16 ▶️` ∙ **[Iradelphic](https://www.last.fm/music/Clark/Iradelphic)** - [Clark](https://www.last.fm/music/Clark)<br/>
+> `15 ▶️` ∙ **[Pip Paine (Pay The £5000 You Owe)](https://www.last.fm/music/Metronomy/Pip+Paine+(Pay+The+%C2%A35000+You+Owe))** - [Metronomy](https://www.last.fm/music/Metronomy)<br/>
+> `13 ▶️` ∙ **[Nights Out](https://www.last.fm/music/Metronomy/Nights+Out)** - [Metronomy](https://www.last.fm/music/Metronomy)<br/>
 > `11 ▶️` ∙ **[SEX](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta/SEX)** - [Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)<br/>
-> `11 ▶️` ∙ **[Everything!](https://www.last.fm/music/Tones+on+Tail/Everything!)** - [Tones on Tail](https://www.last.fm/music/Tones+on+Tail)<br/>
-> `10 ▶️` ∙ **[Nights Out](https://www.last.fm/music/Metronomy/Nights+Out)** - [Metronomy](https://www.last.fm/music/Metronomy)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
