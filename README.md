@@ -22,8 +22,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `8 ▶️` ∙ **[Same Old Madness (video version)](https://www.last.fm/music/Ministry/_/Same+Old+Madness+(video+version))** - [Ministry](https://www.last.fm/music/Ministry)<br/>
+> `8 ▶️` ∙ **[Boxed In](https://www.last.fm/music/Sneaks/_/Boxed+In)** - [Sneaks](https://www.last.fm/music/Sneaks)<br/>
 > `7 ▶️` ∙ **[Someone to Draw the Sword](https://www.last.fm/music/De%2FVision/_/Someone+to+Draw+the+Sword)** - [De/Vision](https://www.last.fm/music/De%2FVision)<br/>
-> `7 ▶️` ∙ **[Boxed In](https://www.last.fm/music/Sneaks/_/Boxed+In)** - [Sneaks](https://www.last.fm/music/Sneaks)<br/>
 > `7 ▶️` ∙ **[Concerning Peace - Machine Girl Remix](https://www.last.fm/music/Special+Interest/_/Concerning+Peace+-+Machine+Girl+Remix)** - [Special Interest](https://www.last.fm/music/Special+Interest)<br/>
 > `6 ▶️` ∙ **[No Self Control](https://www.last.fm/music/Peter+Gabriel/_/No+Self+Control)** - [Peter Gabriel](https://www.last.fm/music/Peter+Gabriel)<br/>
 <!--END_LASTFM_TRACKS-->
