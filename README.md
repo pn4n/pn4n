@@ -3,8 +3,8 @@
 
 > `82 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `35 ▶️` ∙ **[Klaxons](https://www.last.fm/music/Klaxons)**<br/>
+> `35 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 > `20 ▶️` ∙ **[De/Vision](https://www.last.fm/music/De%2FVision)**<br/>
-> `19 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `19 ▶️` ∙ **[VR SEX](https://www.last.fm/music/VR+SEX)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
