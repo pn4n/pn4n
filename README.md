@@ -25,5 +25,5 @@
 > `10 ▶️` ∙ **[Same Old Madness (video version)](https://www.last.fm/music/Ministry/_/Same+Old+Madness+(video+version))** - [Ministry](https://www.last.fm/music/Ministry)<br/>
 > `7 ▶️` ∙ **[Someone to Draw the Sword](https://www.last.fm/music/De%2FVision/_/Someone+to+Draw+the+Sword)** - [De/Vision](https://www.last.fm/music/De%2FVision)<br/>
 > `7 ▶️` ∙ **[Snake Water](https://www.last.fm/music/VR+SEX/_/Snake+Water)** - [VR SEX](https://www.last.fm/music/VR+SEX)<br/>
-> `6 ▶️` ∙ **[No Self Control](https://www.last.fm/music/Peter+Gabriel/_/No+Self+Control)** - [Peter Gabriel](https://www.last.fm/music/Peter+Gabriel)<br/>
+> `6 ▶️` ∙ **[Boxed In](https://www.last.fm/music/Sneaks/_/Boxed+In)** - [Sneaks](https://www.last.fm/music/Sneaks)<br/>
 <!--END_LASTFM_TRACKS-->
