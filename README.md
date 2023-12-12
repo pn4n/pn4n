@@ -2,9 +2,9 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `67 ▶️` ∙ **[VR SEX](https://www.last.fm/music/VR+SEX)**<br/>
-> `37 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `36 ▶️` ∙ **[Klaxons](https://www.last.fm/music/Klaxons)**<br/>
 > `29 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
+> `19 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `19 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
