@@ -5,7 +5,7 @@
 > `36 ▶️` ∙ **[Klaxons](https://www.last.fm/music/Klaxons)**<br/>
 > `29 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 > `19 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
-> `17 ▶️` ∙ **[Art Fact](https://www.last.fm/music/Art+Fact)**<br/>
+> `17 ▶️` ∙ **[Jun Togawa Unit](https://www.last.fm/music/Jun+Togawa+Unit)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
