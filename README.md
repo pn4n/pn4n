@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `53 ▶️` ∙ **[VR SEX](https://www.last.fm/music/VR+SEX)**<br/>
-> `21 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 > `16 ▶️` ∙ **[Liars](https://www.last.fm/music/Liars)**<br/>
 > `15 ▶️` ∙ **[De/Vision](https://www.last.fm/music/De%2FVision)**<br/>
 > `14 ▶️` ∙ **[Beta Satan](https://www.last.fm/music/Beta+Satan)**<br/>
+> `10 ▶️` ∙ **[Portugal. The Man](https://www.last.fm/music/Portugal.+The+Man)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `24 ▶️` ∙ **[Rough Dimension](https://www.last.fm/music/VR+SEX/Rough+Dimension)** - [VR SEX](https://www.last.fm/music/VR+SEX)<br/>
 > `13 ▶️` ∙ **[Girls](https://www.last.fm/music/Beta+Satan/Girls)** - [Beta Satan](https://www.last.fm/music/Beta+Satan)<br/>
 > `11 ▶️` ∙ **[Human Traffic Jam](https://www.last.fm/music/VR+SEX/Human+Traffic+Jam)** - [VR SEX](https://www.last.fm/music/VR+SEX)<br/>
-> `11 ▶️` ∙ **[Silver / Lead](https://www.last.fm/music/Wire/Silver+%2F+Lead)** - [Wire](https://www.last.fm/music/Wire)<br/>
 > `10 ▶️` ∙ **[Horseplay](https://www.last.fm/music/VR+SEX/Horseplay)** - [VR SEX](https://www.last.fm/music/VR+SEX)<br/>
+> `8 ▶️` ∙ **[Strange Days](https://www.last.fm/music/De%2FVision/Strange+Days)** - [De/Vision](https://www.last.fm/music/De%2FVision)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
