@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `24 ▶️` ∙ **[VR SEX](https://www.last.fm/music/VR+SEX)**<br/>
-> `18 ▶️` ∙ **[Экономические итоги 2023](https://www.last.fm/music/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D0%B8%D1%82%D0%BE%D0%B3%D0%B8+2023)**<br/>
 > `16 ▶️` ∙ **[Liars](https://www.last.fm/music/Liars)**<br/>
 > `14 ▶️` ∙ **[Beta Satan](https://www.last.fm/music/Beta+Satan)**<br/>
 > `14 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
+> `10 ▶️` ∙ **[De/Vision](https://www.last.fm/music/De%2FVision)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
