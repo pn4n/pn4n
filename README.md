@@ -1,11 +1,11 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `30 ▶️` ∙ **[Чикатило](https://www.last.fm/music/%D0%A7%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%BB%D0%BE)**<br/>
 > `18 ▶️` ∙ **[Yulia Latynina](https://www.last.fm/music/Yulia+Latynina)**<br/>
 > `16 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
 > `16 ▶️` ∙ **[Live](https://www.last.fm/music/Live)**<br/>
 > `10 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
-> `8 ▶️` ∙ **[VR SEX](https://www.last.fm/music/VR+SEX)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
