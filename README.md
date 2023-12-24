@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `22 ▶️` ∙ **[VR SEX](https://www.last.fm/music/VR+SEX)**<br/>
+> `17 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `10 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
+> `9 ▶️` ∙ **[Gang of Four](https://www.last.fm/music/Gang+of+Four)**<br/>
 > `9 ▶️` ∙ **[Pixies](https://www.last.fm/music/Pixies)**<br/>
-> `8 ▶️` ∙ **[Cold Cave](https://www.last.fm/music/Cold+Cave)**<br/>
-> `8 ▶️` ∙ **[Depeche Mode](https://www.last.fm/music/Depeche+Mode)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
