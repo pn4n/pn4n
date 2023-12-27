@@ -2,8 +2,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `19 ▶️` ∙ **[VR SEX](https://www.last.fm/music/VR+SEX)**<br/>
+> `18 ▶️` ∙ **[Supertramp](https://www.last.fm/music/Supertramp)**<br/>
 > `17 ▶️` ∙ **[Pixies](https://www.last.fm/music/Pixies)**<br/>
-> `16 ▶️` ∙ **[Supertramp](https://www.last.fm/music/Supertramp)**<br/>
 > `16 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `13 ▶️` ∙ **[The Mars Volta](https://www.last.fm/music/The+Mars+Volta)**<br/>
 <!--END_LASTFM_ARTISTS-->
