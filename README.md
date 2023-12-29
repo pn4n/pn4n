@@ -22,7 +22,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `7 ▶️` ∙ **[Ana](https://www.last.fm/music/Pixies/_/Ana)** - [Pixies](https://www.last.fm/music/Pixies)<br/>
-> `5 ▶️` ∙ **[Capricious Salad - 2021 Remastering](https://www.last.fm/music/Miharu+Koshi/_/Capricious+Salad+-+2021+Remastering)** - [Miharu Koshi](https://www.last.fm/music/Miharu+Koshi)<br/>
+> `6 ▶️` ∙ **[Capricious Salad - 2021 Remastering](https://www.last.fm/music/Miharu+Koshi/_/Capricious+Salad+-+2021+Remastering)** - [Miharu Koshi](https://www.last.fm/music/Miharu+Koshi)<br/>
 > `3 ▶️` ∙ **[Rupture](https://www.last.fm/music/Double+Echo/_/Rupture)** - [Double Echo](https://www.last.fm/music/Double+Echo)<br/>
 > `3 ▶️` ∙ **[Oh Darling](https://www.last.fm/music/Supertramp/_/Oh+Darling)** - [Supertramp](https://www.last.fm/music/Supertramp)<br/>
 > `3 ▶️` ∙ **[Oh Darling - 2010 Remastered](https://www.last.fm/music/Supertramp/_/Oh+Darling+-+2010+Remastered)** - [Supertramp](https://www.last.fm/music/Supertramp)<br/>
