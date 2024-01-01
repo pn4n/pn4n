@@ -5,7 +5,7 @@
 > `20 ▶️` ∙ **[Supertramp](https://www.last.fm/music/Supertramp)**<br/>
 > `11 ▶️` ∙ **[Miharu Koshi](https://www.last.fm/music/Miharu+Koshi)**<br/>
 > `11 ▶️` ∙ **[The Mars Volta](https://www.last.fm/music/The+Mars+Volta)**<br/>
-> `9 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
+> `8 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `10 ▶️` ∙ **[Capricious Salad - 2021 Remastering](https://www.last.fm/music/Miharu+Koshi/_/Capricious+Salad+-+2021+Remastering)** - [Miharu Koshi](https://www.last.fm/music/Miharu+Koshi)<br/>
 > `6 ▶️` ∙ **[Oh Darling - 2010 Remastered](https://www.last.fm/music/Supertramp/_/Oh+Darling+-+2010+Remastered)** - [Supertramp](https://www.last.fm/music/Supertramp)<br/>
-> `5 ▶️` ∙ **[Ana](https://www.last.fm/music/Pixies/_/Ana)** - [Pixies](https://www.last.fm/music/Pixies)<br/>
 > `5 ▶️` ∙ **[キスを](https://www.last.fm/music/Yapoos/_/%E3%82%AD%E3%82%B9%E3%82%92)** - [Yapoos](https://www.last.fm/music/Yapoos)<br/>
 > `4 ▶️` ∙ **[Megitsune](https://www.last.fm/music/BABYMETAL/_/Megitsune)** - [BABYMETAL](https://www.last.fm/music/BABYMETAL)<br/>
+> `4 ▶️` ∙ **[Ana](https://www.last.fm/music/Pixies/_/Ana)** - [Pixies](https://www.last.fm/music/Pixies)<br/>
 <!--END_LASTFM_TRACKS-->
