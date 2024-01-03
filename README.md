@@ -24,6 +24,6 @@
 > `12 ▶️` ∙ **[Capricious Salad - 2021 Remastering](https://www.last.fm/music/Miharu+Koshi/_/Capricious+Salad+-+2021+Remastering)** - [Miharu Koshi](https://www.last.fm/music/Miharu+Koshi)<br/>
 > `5 ▶️` ∙ **[キスを](https://www.last.fm/music/Yapoos/_/%E3%82%AD%E3%82%B9%E3%82%92)** - [Yapoos](https://www.last.fm/music/Yapoos)<br/>
 > `4 ▶️` ∙ **[Megitsune](https://www.last.fm/music/BABYMETAL/_/Megitsune)** - [BABYMETAL](https://www.last.fm/music/BABYMETAL)<br/>
-> `4 ▶️` ∙ **[Dinner Without Grace](https://www.last.fm/music/De%2FVision/_/Dinner+Without+Grace)** - [De/Vision](https://www.last.fm/music/De%2FVision)<br/>
-> `4 ▶️` ∙ **[Ana](https://www.last.fm/music/Pixies/_/Ana)** - [Pixies](https://www.last.fm/music/Pixies)<br/>
+> `4 ▶️` ∙ **[Oh Darling - 2010 Remastered](https://www.last.fm/music/Supertramp/_/Oh+Darling+-+2010+Remastered)** - [Supertramp](https://www.last.fm/music/Supertramp)<br/>
+> `4 ▶️` ∙ **[Never On Sunday](https://www.last.fm/music/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%A1%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97/_/Never+On+Sunday)** - [ウォーターメロングループ](https://www.last.fm/music/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%A1%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97)<br/>
 <!--END_LASTFM_TRACKS-->
