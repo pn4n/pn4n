@@ -4,7 +4,7 @@
 > `30 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
 > `22 ▶️` ∙ **[Nirvana](https://www.last.fm/music/Nirvana)**<br/>
 > `13 ▶️` ∙ **[Miharu Koshi](https://www.last.fm/music/Miharu+Koshi)**<br/>
-> `8 ▶️` ∙ **[Supertramp](https://www.last.fm/music/Supertramp)**<br/>
+> `8 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
 > `6 ▶️` ∙ **[BABYMETAL](https://www.last.fm/music/BABYMETAL)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
