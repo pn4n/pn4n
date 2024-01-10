@@ -5,7 +5,7 @@
 > `10 ▶️` ∙ **[Les Savy Fav](https://www.last.fm/music/Les+Savy+Fav)**<br/>
 > `8 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
 > `6 ▶️` ∙ **[BABYMETAL](https://www.last.fm/music/BABYMETAL)**<br/>
-> `5 ▶️` ∙ **[mixail I](https://www.last.fm/music/mixail+I)**<br/>
+> `5 ▶️` ∙ **[Ghinzu](https://www.last.fm/music/Ghinzu)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `5 ▶️` ∙ **[Bublichki](https://www.last.fm/music/mixail+I/_/Bublichki)** - [mixail I](https://www.last.fm/music/mixail+I)<br/>
 > `4 ▶️` ∙ **[Let's Get Out of Here](https://www.last.fm/music/Les+Savy+Fav/_/Let%27s+Get+Out+of+Here)** - [Les Savy Fav](https://www.last.fm/music/Les+Savy+Fav)<br/>
 > `3 ▶️` ∙ **[Megitsune](https://www.last.fm/music/BABYMETAL/_/Megitsune)** - [BABYMETAL](https://www.last.fm/music/BABYMETAL)<br/>
-> `2 ▶️` ∙ **[Take Care of Business](https://www.last.fm/music/Alex+Cameron/_/Take+Care+of+Business)** - [Alex Cameron](https://www.last.fm/music/Alex+Cameron)<br/>
+> `3 ▶️` ∙ **[This War Is Silent](https://www.last.fm/music/Ghinzu/_/This+War+Is+Silent)** - [Ghinzu](https://www.last.fm/music/Ghinzu)<br/>
 <!--END_LASTFM_TRACKS-->
