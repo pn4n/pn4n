@@ -1,7 +1,7 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `26 ▶️` ∙ **[blue smiley](https://www.last.fm/music/blue+smiley)**<br/>
+> `27 ▶️` ∙ **[blue smiley](https://www.last.fm/music/blue+smiley)**<br/>
 > `23 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
 > `17 ▶️` ∙ **[Alla Pugacheva](https://www.last.fm/music/Alla+Pugacheva)**<br/>
 > `15 ▶️` ∙ **[The Garden](https://www.last.fm/music/The+Garden)**<br/>
