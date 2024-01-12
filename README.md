@@ -3,9 +3,9 @@
 
 > `23 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
 > `17 ▶️` ∙ **[Alla Pugacheva](https://www.last.fm/music/Alla+Pugacheva)**<br/>
+> `15 ▶️` ∙ **[The Garden](https://www.last.fm/music/The+Garden)**<br/>
 > `12 ▶️` ∙ **[Les Savy Fav](https://www.last.fm/music/Les+Savy+Fav)**<br/>
 > `10 ▶️` ∙ **[White Lies](https://www.last.fm/music/White+Lies)**<br/>
-> `8 ▶️` ∙ **[Ghinzu](https://www.last.fm/music/Ghinzu)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
