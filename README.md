@@ -5,7 +5,7 @@
 > `27 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
 > `17 ▶️` ∙ **[Alla Pugacheva](https://www.last.fm/music/Alla+Pugacheva)**<br/>
 > `15 ▶️` ∙ **[The Garden](https://www.last.fm/music/The+Garden)**<br/>
-> `10 ▶️` ∙ **[White Lies](https://www.last.fm/music/White+Lies)**<br/>
+> `11 ▶️` ∙ **[Kino](https://www.last.fm/music/Kino)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `26 ▶️` ∙ **[ok](https://www.last.fm/music/blue+smiley/ok)** - [blue smiley](https://www.last.fm/music/blue+smiley)<br/>
 > `25 ▶️` ∙ **[He Poos Clouds](https://www.last.fm/music/Owen+Pallett/He+Poos+Clouds)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
+> `10 ▶️` ∙ **[Виктор Цой 55 (Выпуск в честь 55-летия Виктора Цоя)](https://www.last.fm/music/Kino/%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80+%D0%A6%D0%BE%D0%B9+55+(%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA+%D0%B2+%D1%87%D0%B5%D1%81%D1%82%D1%8C+55-%D0%BB%D0%B5%D1%82%D0%B8%D1%8F+%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B0+%D0%A6%D0%BE%D1%8F))** - [Kino](https://www.last.fm/music/Kino)<br/>
 > `9 ▶️` ∙ **[Зеркало души](https://www.last.fm/music/Alla+Pugacheva/%D0%97%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE+%D0%B4%D1%83%D1%88%D0%B8)** - [Alla Pugacheva](https://www.last.fm/music/Alla+Pugacheva)<br/>
 > `5 ▶️` ∙ **[return](https://www.last.fm/music/blue+smiley/return)** - [blue smiley](https://www.last.fm/music/blue+smiley)<br/>
-> `5 ▶️` ∙ **[Mirror Mirror](https://www.last.fm/music/Ghinzu/Mirror+Mirror)** - [Ghinzu](https://www.last.fm/music/Ghinzu)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
