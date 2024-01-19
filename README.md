@@ -5,7 +5,7 @@
 > `29 ▶️` ∙ **[blue smiley](https://www.last.fm/music/blue+smiley)**<br/>
 > `18 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
 > `18 ▶️` ∙ **[VR SEX](https://www.last.fm/music/VR+SEX)**<br/>
-> `16 ▶️` ∙ **[The Garden](https://www.last.fm/music/The+Garden)**<br/>
+> `14 ▶️` ∙ **[Kino](https://www.last.fm/music/Kino)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
