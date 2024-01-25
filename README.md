@@ -15,7 +15,7 @@
 > `9 ▶️` ∙ **[He Poos Clouds](https://www.last.fm/music/Owen+Pallett/He+Poos+Clouds)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
 > `8 ▶️` ∙ **[Superior State](https://www.last.fm/music/Rendez+Vous/Superior+State)** - [Rendez Vous](https://www.last.fm/music/Rendez+Vous)<br/>
 > `7 ▶️` ∙ **[The Best Of...](https://www.last.fm/music/Siouxsie+and+the+Banshees/The+Best+Of...)** - [Siouxsie and the Banshees](https://www.last.fm/music/Siouxsie+and+the+Banshees)<br/>
-> `6 ▶️` ∙ **[Starflyer 59](https://www.last.fm/music/Starflyer+59/Starflyer+59)** - [Starflyer 59](https://www.last.fm/music/Starflyer+59)<br/>
+> `7 ▶️` ∙ **[Jekyll & Hyde: The Gothic Musical Thriller](https://www.last.fm/music/Various+Artists/Jekyll+&+Hyde:+The+Gothic+Musical+Thriller)** - [Various Artists](https://www.last.fm/music/Various+Artists)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
