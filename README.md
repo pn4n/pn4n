@@ -5,7 +5,7 @@
 > `10 ▶️` ∙ **[Starflyer 59](https://www.last.fm/music/Starflyer+59)**<br/>
 > `9 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
 > `9 ▶️` ∙ **[Siouxsie and the Banshees](https://www.last.fm/music/Siouxsie+and+the+Banshees)**<br/>
-> `6 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
+> `7 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
