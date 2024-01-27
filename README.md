@@ -5,7 +5,7 @@
 > `13 ▶️` ∙ **[blue smiley](https://www.last.fm/music/blue+smiley)**<br/>
 > `12 ▶️` ∙ **[Starflyer 59](https://www.last.fm/music/Starflyer+59)**<br/>
 > `9 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
-> `7 ▶️` ∙ **[Anthony Warlow](https://www.last.fm/music/Anthony+Warlow)**<br/>
+> `9 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
