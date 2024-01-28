@@ -14,8 +14,8 @@
 > `12 ▶️` ∙ **[Starflyer 59](https://www.last.fm/music/Starflyer+59/Starflyer+59)** - [Starflyer 59](https://www.last.fm/music/Starflyer+59)<br/>
 > `12 ▶️` ∙ **[Jekyll & Hyde: The Gothic Musical Thriller](https://www.last.fm/music/Various+Artists/Jekyll+&+Hyde:+The+Gothic+Musical+Thriller)** - [Various Artists](https://www.last.fm/music/Various+Artists)<br/>
 > `8 ▶️` ∙ **[ok](https://www.last.fm/music/blue+smiley/ok)** - [blue smiley](https://www.last.fm/music/blue+smiley)<br/>
-> `8 ▶️` ∙ **[He Poos Clouds](https://www.last.fm/music/Owen+Pallett/He+Poos+Clouds)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
 > `8 ▶️` ∙ **[Are You Satisfied?](https://www.last.fm/music/Soft+Play/Are+You+Satisfied%3F)** - [Soft Play](https://www.last.fm/music/Soft+Play)<br/>
+> `6 ▶️` ∙ **[Hissing Fauna, Are You the Destroyer?](https://www.last.fm/music/of+Montreal/Hissing+Fauna,+Are+You+the+Destroyer%3F)** - [of Montreal](https://www.last.fm/music/of+Montreal)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
