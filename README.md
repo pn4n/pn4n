@@ -4,8 +4,8 @@
 > `17 ▶️` ∙ **[Soft Play](https://www.last.fm/music/Soft+Play)**<br/>
 > `13 ▶️` ∙ **[blue smiley](https://www.last.fm/music/blue+smiley)**<br/>
 > `12 ▶️` ∙ **[Starflyer 59](https://www.last.fm/music/Starflyer+59)**<br/>
-> `9 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
 > `9 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
+> `9 ▶️` ∙ **[The Chameleons](https://www.last.fm/music/The+Chameleons)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,8 +13,8 @@
 
 > `12 ▶️` ∙ **[Starflyer 59](https://www.last.fm/music/Starflyer+59/Starflyer+59)** - [Starflyer 59](https://www.last.fm/music/Starflyer+59)<br/>
 > `12 ▶️` ∙ **[Jekyll & Hyde: The Gothic Musical Thriller](https://www.last.fm/music/Various+Artists/Jekyll+&+Hyde:+The+Gothic+Musical+Thriller)** - [Various Artists](https://www.last.fm/music/Various+Artists)<br/>
-> `9 ▶️` ∙ **[He Poos Clouds](https://www.last.fm/music/Owen+Pallett/He+Poos+Clouds)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
 > `8 ▶️` ∙ **[ok](https://www.last.fm/music/blue+smiley/ok)** - [blue smiley](https://www.last.fm/music/blue+smiley)<br/>
+> `8 ▶️` ∙ **[He Poos Clouds](https://www.last.fm/music/Owen+Pallett/He+Poos+Clouds)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
 > `8 ▶️` ∙ **[Are You Satisfied?](https://www.last.fm/music/Soft+Play/Are+You+Satisfied%3F)** - [Soft Play](https://www.last.fm/music/Soft+Play)<br/>
 <!--END_LASTFM_ALBUMS-->
 
