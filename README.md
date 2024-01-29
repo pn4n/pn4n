@@ -1,11 +1,11 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `19 ▶️` ∙ **[The Chameleons](https://www.last.fm/music/The+Chameleons)**<br/>
 > `17 ▶️` ∙ **[Soft Play](https://www.last.fm/music/Soft+Play)**<br/>
 > `13 ▶️` ∙ **[blue smiley](https://www.last.fm/music/blue+smiley)**<br/>
 > `12 ▶️` ∙ **[Starflyer 59](https://www.last.fm/music/Starflyer+59)**<br/>
 > `9 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
-> `9 ▶️` ∙ **[The Chameleons](https://www.last.fm/music/The+Chameleons)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `12 ▶️` ∙ **[Jekyll & Hyde: The Gothic Musical Thriller](https://www.last.fm/music/Various+Artists/Jekyll+&+Hyde:+The+Gothic+Musical+Thriller)** - [Various Artists](https://www.last.fm/music/Various+Artists)<br/>
 > `8 ▶️` ∙ **[ok](https://www.last.fm/music/blue+smiley/ok)** - [blue smiley](https://www.last.fm/music/blue+smiley)<br/>
 > `8 ▶️` ∙ **[Are You Satisfied?](https://www.last.fm/music/Soft+Play/Are+You+Satisfied%3F)** - [Soft Play](https://www.last.fm/music/Soft+Play)<br/>
-> `6 ▶️` ∙ **[Hissing Fauna, Are You the Destroyer?](https://www.last.fm/music/of+Montreal/Hissing+Fauna,+Are+You+the+Destroyer%3F)** - [of Montreal](https://www.last.fm/music/of+Montreal)<br/>
+> `7 ▶️` ∙ **[Script of the Bridge](https://www.last.fm/music/The+Chameleons/Script+of+the+Bridge)** - [The Chameleons](https://www.last.fm/music/The+Chameleons)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
