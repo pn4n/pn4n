@@ -4,8 +4,8 @@
 > `34 ▶️` ∙ **[The Chameleons](https://www.last.fm/music/The+Chameleons)**<br/>
 > `17 ▶️` ∙ **[Soft Play](https://www.last.fm/music/Soft+Play)**<br/>
 > `6 ▶️` ∙ **[Anthony Warlow](https://www.last.fm/music/Anthony+Warlow)**<br/>
-> `6 ▶️` ∙ **[GAP girls](https://www.last.fm/music/GAP+girls)**<br/>
 > `4 ▶️` ∙ **[1000 Medical Films](https://www.last.fm/music/1000+Medical+Films)**<br/>
+> `4 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `8 ▶️` ∙ **[Script of the Bridge](https://www.last.fm/music/The+Chameleons/Script+of+the+Bridge)** - [The Chameleons](https://www.last.fm/music/The+Chameleons)<br/>
 > `7 ▶️` ∙ **[Dreams in Celluloid: A Collection of Rare Recordings](https://www.last.fm/music/The+Chameleons/Dreams+in+Celluloid:+A+Collection+of+Rare+Recordings)** - [The Chameleons](https://www.last.fm/music/The+Chameleons)<br/>
 > `7 ▶️` ∙ **[Jekyll & Hyde: The Gothic Musical Thriller](https://www.last.fm/music/Various+Artists/Jekyll+&+Hyde:+The+Gothic+Musical+Thriller)** - [Various Artists](https://www.last.fm/music/Various+Artists)<br/>
-> `6 ▶️` ∙ **[Street Desires](https://www.last.fm/music/GAP+girls/Street+Desires)** - [GAP girls](https://www.last.fm/music/GAP+girls)<br/>
+> `5 ▶️` ∙ **[Strange Times](https://www.last.fm/music/The+Chameleons/Strange+Times)** - [The Chameleons](https://www.last.fm/music/The+Chameleons)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `9 ▶️` ∙ **[Looking Inwardly](https://www.last.fm/music/The+Chameleons/_/Looking+Inwardly)** - [The Chameleons](https://www.last.fm/music/The+Chameleons)<br/>
 > `6 ▶️` ∙ **[The World Has Gone Insane](https://www.last.fm/music/Anthony+Warlow/_/The+World+Has+Gone+Insane)** - [Anthony Warlow](https://www.last.fm/music/Anthony+Warlow)<br/>
-> `3 ▶️` ∙ **[Alone Tonight](https://www.last.fm/music/GAP+girls/_/Alone+Tonight)** - [GAP girls](https://www.last.fm/music/GAP+girls)<br/>
-> `3 ▶️` ∙ **[Rings of Comfort](https://www.last.fm/music/GAP+girls/_/Rings+of+Comfort)** - [GAP girls](https://www.last.fm/music/GAP+girls)<br/>
 > `3 ▶️` ∙ **[Monterey](https://www.last.fm/music/Starflyer+59/_/Monterey)** - [Starflyer 59](https://www.last.fm/music/Starflyer+59)<br/>
+> `3 ▶️` ∙ **[Pleasure and Pain](https://www.last.fm/music/The+Chameleons/_/Pleasure+and+Pain)** - [The Chameleons](https://www.last.fm/music/The+Chameleons)<br/>
+> `3 ▶️` ∙ **[Tears](https://www.last.fm/music/The+Chameleons/_/Tears)** - [The Chameleons](https://www.last.fm/music/The+Chameleons)<br/>
 <!--END_LASTFM_TRACKS-->
