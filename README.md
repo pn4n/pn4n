@@ -5,7 +5,7 @@
 > `17 ▶️` ∙ **[Soft Play](https://www.last.fm/music/Soft+Play)**<br/>
 > `6 ▶️` ∙ **[Anthony Warlow](https://www.last.fm/music/Anthony+Warlow)**<br/>
 > `6 ▶️` ∙ **[GAP girls](https://www.last.fm/music/GAP+girls)**<br/>
-> `5 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
+> `4 ▶️` ∙ **[1000 Medical Films](https://www.last.fm/music/1000+Medical+Films)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `6 ▶️` ∙ **[The World Has Gone Insane](https://www.last.fm/music/Anthony+Warlow/_/The+World+Has+Gone+Insane)** - [Anthony Warlow](https://www.last.fm/music/Anthony+Warlow)<br/>
 > `3 ▶️` ∙ **[Alone Tonight](https://www.last.fm/music/GAP+girls/_/Alone+Tonight)** - [GAP girls](https://www.last.fm/music/GAP+girls)<br/>
 > `3 ▶️` ∙ **[Rings of Comfort](https://www.last.fm/music/GAP+girls/_/Rings+of+Comfort)** - [GAP girls](https://www.last.fm/music/GAP+girls)<br/>
-> `3 ▶️` ∙ **[Go](https://www.last.fm/music/Meadowlake/_/Go)** - [Meadowlake](https://www.last.fm/music/Meadowlake)<br/>
+> `3 ▶️` ∙ **[Monterey](https://www.last.fm/music/Starflyer+59/_/Monterey)** - [Starflyer 59](https://www.last.fm/music/Starflyer+59)<br/>
 <!--END_LASTFM_TRACKS-->
