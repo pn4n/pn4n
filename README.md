@@ -5,7 +5,7 @@
 > `17 ▶️` ∙ **[Soft Play](https://www.last.fm/music/Soft+Play)**<br/>
 > `6 ▶️` ∙ **[Anthony Warlow](https://www.last.fm/music/Anthony+Warlow)**<br/>
 > `4 ▶️` ∙ **[1000 Medical Films](https://www.last.fm/music/1000+Medical+Films)**<br/>
-> `4 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
+> `4 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
