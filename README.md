@@ -5,7 +5,7 @@
 > `14 ▶️` ∙ **[Soft Play](https://www.last.fm/music/Soft+Play)**<br/>
 > `7 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
 > `4 ▶️` ∙ **[1000 Medical Films](https://www.last.fm/music/1000+Medical+Films)**<br/>
-> `4 ▶️` ∙ **[The Danse Society](https://www.last.fm/music/The+Danse+Society)**<br/>
+> `4 ▶️` ∙ **[Clan of Xymox](https://www.last.fm/music/Clan+of+Xymox)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
