@@ -3,9 +3,9 @@
 
 > `14 ▶️` ∙ **[Pet Shop Boys](https://www.last.fm/music/Pet+Shop+Boys)**<br/>
 > `9 ▶️` ∙ **[The Mars Volta](https://www.last.fm/music/The+Mars+Volta)**<br/>
-> `7 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
 > `5 ▶️` ∙ **[Jeopardy!](https://www.last.fm/music/Jeopardy!)**<br/>
 > `5 ▶️` ∙ **[Talking Heads](https://www.last.fm/music/Talking+Heads)**<br/>
+> `4 ▶️` ∙ **[Ghostpoet](https://www.last.fm/music/Ghostpoet)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
