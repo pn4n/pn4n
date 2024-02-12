@@ -1,11 +1,11 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `5 ▶️` ∙ **[Pet Shop Boys](https://www.last.fm/music/Pet+Shop+Boys)**<br/>
 > `5 ▶️` ∙ **[Talking Heads](https://www.last.fm/music/Talking+Heads)**<br/>
 > `4 ▶️` ∙ **[Ghostpoet](https://www.last.fm/music/Ghostpoet)**<br/>
 > `4 ▶️` ∙ **[Kate Bush](https://www.last.fm/music/Kate+Bush)**<br/>
 > `4 ▶️` ∙ **[Love and Rockets](https://www.last.fm/music/Love+and+Rockets)**<br/>
+> `4 ▶️` ∙ **[Mindless Self Indulgence](https://www.last.fm/music/Mindless+Self+Indulgence)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
