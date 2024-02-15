@@ -14,8 +14,8 @@
 > `14 ▶️` ∙ **[Be Up a Hello](https://www.last.fm/music/Squarepusher/Be+Up+a+Hello)** - [Squarepusher](https://www.last.fm/music/Squarepusher)<br/>
 > `9 ▶️` ∙ **[Telemoveis](https://www.last.fm/music/Conan+Osiris/Telemoveis)** - [Conan Osiris](https://www.last.fm/music/Conan+Osiris)<br/>
 > `4 ▶️` ∙ **[The Dreaming](https://www.last.fm/music/Kate+Bush/The+Dreaming)** - [Kate Bush](https://www.last.fm/music/Kate+Bush)<br/>
-> `4 ▶️` ∙ **[Frankenstein Girls Will Seem Strangely Sexy](https://www.last.fm/music/Mindless+Self+Indulgence/Frankenstein+Girls+Will+Seem+Strangely+Sexy)** - [Mindless Self Indulgence](https://www.last.fm/music/Mindless+Self+Indulgence)<br/>
-> `2 ▶️` ∙ **[Satan Was A Babyboomer](https://www.last.fm/music/Brutalismus+3000/Satan+Was+A+Babyboomer)** - [Brutalismus 3000](https://www.last.fm/music/Brutalismus+3000)<br/>
+> `4 ▶️` ∙ **[He Poos Clouds](https://www.last.fm/music/Owen+Pallett/He+Poos+Clouds)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
+> `2 ▶️` ∙ **[Has A Good Home](https://www.last.fm/music/Final+Fantasy/Has+A+Good+Home)** - [Final Fantasy](https://www.last.fm/music/Final+Fantasy)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `23 ▶️` ∙ **[Series 1 - Episode 1 - ITVX](https://www.last.fm/music/Jeopardy!/_/Series+1+-+Episode+1+-+ITVX)** - [Jeopardy!](https://www.last.fm/music/Jeopardy!)<br/>
 > `9 ▶️` ∙ **[Telemoveis](https://www.last.fm/music/Conan+Osiris/_/Telemoveis)** - [Conan Osiris](https://www.last.fm/music/Conan+Osiris)<br/>
-> `3 ▶️` ∙ **[Kill the Rock](https://www.last.fm/music/Mindless+Self+Indulgence/_/Kill+the+Rock)** - [Mindless Self Indulgence](https://www.last.fm/music/Mindless+Self+Indulgence)<br/>
 > `3 ▶️` ∙ **[Detroit People Mover](https://www.last.fm/music/Squarepusher/_/Detroit+People+Mover)** - [Squarepusher](https://www.last.fm/music/Squarepusher)<br/>
 > `3 ▶️` ∙ **[Nervelevers](https://www.last.fm/music/Squarepusher/_/Nervelevers)** - [Squarepusher](https://www.last.fm/music/Squarepusher)<br/>
+> `3 ▶️` ∙ **[Terminal Slam](https://www.last.fm/music/Squarepusher/_/Terminal+Slam)** - [Squarepusher](https://www.last.fm/music/Squarepusher)<br/>
 <!--END_LASTFM_TRACKS-->
