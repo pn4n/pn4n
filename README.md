@@ -3,8 +3,8 @@
 
 > `34 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
 > `12 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
-> `11 ▶️` ∙ **[Double Echo](https://www.last.fm/music/Double+Echo)**<br/>
 > `11 ▶️` ∙ **[Conan Osiris](https://www.last.fm/music/Conan+Osiris)**<br/>
+> `11 ▶️` ∙ **[Double Echo](https://www.last.fm/music/Double+Echo)**<br/>
 > `10 ▶️` ∙ **[Aurat](https://www.last.fm/music/Aurat)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
