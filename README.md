@@ -4,8 +4,8 @@
 > `9 ▶️` ∙ **[Double Echo](https://www.last.fm/music/Double+Echo)**<br/>
 > `7 ▶️` ∙ **[Buzz Kull](https://www.last.fm/music/Buzz+Kull)**<br/>
 > `7 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
+> `6 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
 > `5 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
-> `5 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
