@@ -3,9 +3,9 @@
 
 > `22 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
 > `5 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
-> `5 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
 > `4 ▶️` ∙ **[Belly](https://www.last.fm/music/Belly)**<br/>
 > `4 ▶️` ∙ **[Buzz Kull](https://www.last.fm/music/Buzz+Kull)**<br/>
+> `4 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
