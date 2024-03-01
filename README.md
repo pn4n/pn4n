@@ -3,9 +3,9 @@
 
 > `22 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
 > `10 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
-> `7 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
+> `9 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 > `5 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
-> `4 ▶️` ∙ **[Fever Ray](https://www.last.fm/music/Fever+Ray)**<br/>
+> `4 ▶️` ∙ **[Buzz Kull](https://www.last.fm/music/Buzz+Kull)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -21,8 +21,8 @@
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
+> `4 ▶️` ∙ **[Existence](https://www.last.fm/music/Buzz+Kull/_/Existence)** - [Buzz Kull](https://www.last.fm/music/Buzz+Kull)<br/>
 > `4 ▶️` ∙ **[Do You Love?](https://www.last.fm/music/Owen+Pallett/_/Do+You+Love%3F)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
-> `3 ▶️` ∙ **[Existence](https://www.last.fm/music/Buzz+Kull/_/Existence)** - [Buzz Kull](https://www.last.fm/music/Buzz+Kull)<br/>
 > `2 ▶️` ∙ **[Archie, Marry Me](https://www.last.fm/music/Alvvays/_/Archie,+Marry+Me)** - [Alvvays](https://www.last.fm/music/Alvvays)<br/>
 > `2 ▶️` ∙ **[Features Creatures - The Knife Remix](https://www.last.fm/music/Bj%C3%B6rk/_/Features+Creatures+-+The+Knife+Remix)** - [Björk](https://www.last.fm/music/Bj%C3%B6rk)<br/>
 > `2 ▶️` ∙ **[Kandy](https://www.last.fm/music/Fever+Ray/_/Kandy)** - [Fever Ray](https://www.last.fm/music/Fever+Ray)<br/>
