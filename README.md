@@ -4,8 +4,8 @@
 > `22 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
 > `10 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
 > `9 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
-> `5 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
-> `4 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
+> `4 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
+> `3 ▶️` ∙ **[Fever Ray](https://www.last.fm/music/Fever+Ray)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
