@@ -3,8 +3,8 @@
 
 > `10 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
 > `9 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
+> `5 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 > `4 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
-> `4 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 > `3 ▶️` ∙ **[The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
