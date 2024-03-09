@@ -5,7 +5,7 @@
 > `12 ▶️` ∙ **[Asylum Party](https://www.last.fm/music/Asylum+Party)**<br/>
 > `8 ▶️` ∙ **[Klaxons](https://www.last.fm/music/Klaxons)**<br/>
 > `6 ▶️` ∙ **[Zomby](https://www.last.fm/music/Zomby)**<br/>
-> `4 ▶️` ∙ **[Berlin](https://www.last.fm/music/Berlin)**<br/>
+> `5 ▶️` ∙ **[Kraftwerk](https://www.last.fm/music/Kraftwerk)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `9 ▶️` ∙ **[Enjoy The Unknown](https://www.last.fm/music/And+One/_/Enjoy+The+Unknown)** - [And One](https://www.last.fm/music/And+One)<br/>
 > `7 ▶️` ∙ **[Sometimes](https://www.last.fm/music/And+One/_/Sometimes)** - [And One](https://www.last.fm/music/And+One)<br/>
 > `3 ▶️` ∙ **[Christina](https://www.last.fm/music/Buzz+Kull/_/Christina)** - [Buzz Kull](https://www.last.fm/music/Buzz+Kull)<br/>
+> `3 ▶️` ∙ **[Computer Love - 2009 Remaster](https://www.last.fm/music/Kraftwerk/_/Computer+Love+-+2009+Remaster)** - [Kraftwerk](https://www.last.fm/music/Kraftwerk)<br/>
 > `2 ▶️` ∙ **[Call in silence](https://www.last.fm/music/Asylum+Party/_/Call+in+silence)** - [Asylum Party](https://www.last.fm/music/Asylum+Party)<br/>
-> `2 ▶️` ∙ **[Get Found](https://www.last.fm/music/Bass+Drum+of+Death/_/Get+Found)** - [Bass Drum of Death](https://www.last.fm/music/Bass+Drum+of+Death)<br/>
 <!--END_LASTFM_TRACKS-->
