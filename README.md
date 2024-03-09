@@ -15,7 +15,7 @@
 > `6 ▶️` ∙ **[Where Were U In '92 ?](https://www.last.fm/music/Zomby/Where+Were+U+In+%2792+%3F)** - [Zomby](https://www.last.fm/music/Zomby)<br/>
 > `5 ▶️` ∙ **[Surfing the Void](https://www.last.fm/music/Klaxons/Surfing+the+Void)** - [Klaxons](https://www.last.fm/music/Klaxons)<br/>
 > `3 ▶️` ∙ **[Common Era](https://www.last.fm/music/Belong/Common+Era)** - [Belong](https://www.last.fm/music/Belong)<br/>
-> `3 ▶️` ∙ **[Succ My Life](https://www.last.fm/music/Error37/Succ+My+Life)** - [Error37](https://www.last.fm/music/Error37)<br/>
+> `3 ▶️` ∙ **[Chroma](https://www.last.fm/music/Buzz+Kull/Chroma)** - [Buzz Kull](https://www.last.fm/music/Buzz+Kull)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `9 ▶️` ∙ **[Enjoy The Unknown](https://www.last.fm/music/And+One/_/Enjoy+The+Unknown)** - [And One](https://www.last.fm/music/And+One)<br/>
 > `7 ▶️` ∙ **[Sometimes](https://www.last.fm/music/And+One/_/Sometimes)** - [And One](https://www.last.fm/music/And+One)<br/>
+> `3 ▶️` ∙ **[Christina](https://www.last.fm/music/Buzz+Kull/_/Christina)** - [Buzz Kull](https://www.last.fm/music/Buzz+Kull)<br/>
 > `2 ▶️` ∙ **[Call in silence](https://www.last.fm/music/Asylum+Party/_/Call+in+silence)** - [Asylum Party](https://www.last.fm/music/Asylum+Party)<br/>
 > `2 ▶️` ∙ **[Get Found](https://www.last.fm/music/Bass+Drum+of+Death/_/Get+Found)** - [Bass Drum of Death](https://www.last.fm/music/Bass+Drum+of+Death)<br/>
-> `2 ▶️` ∙ **[Brutal Hearts](https://www.last.fm/music/Bedouin+Soundclash/_/Brutal+Hearts)** - [Bedouin Soundclash](https://www.last.fm/music/Bedouin+Soundclash)<br/>
 <!--END_LASTFM_TRACKS-->
