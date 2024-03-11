@@ -14,8 +14,8 @@
 > `11 ▶️` ∙ **[Bodypop (Special Edition)](https://www.last.fm/music/And+One/Bodypop+(Special+Edition))** - [And One](https://www.last.fm/music/And+One)<br/>
 > `6 ▶️` ∙ **[Surfing the Void](https://www.last.fm/music/Klaxons/Surfing+the+Void)** - [Klaxons](https://www.last.fm/music/Klaxons)<br/>
 > `6 ▶️` ∙ **[Where Were U In '92 ?](https://www.last.fm/music/Zomby/Where+Were+U+In+%2792+%3F)** - [Zomby](https://www.last.fm/music/Zomby)<br/>
+> `4 ▶️` ∙ **[Has A Good Home](https://www.last.fm/music/Final+Fantasy/Has+A+Good+Home)** - [Final Fantasy](https://www.last.fm/music/Final+Fantasy)<br/>
 > `3 ▶️` ∙ **[Common Era](https://www.last.fm/music/Belong/Common+Era)** - [Belong](https://www.last.fm/music/Belong)<br/>
-> `3 ▶️` ∙ **[Chroma](https://www.last.fm/music/Buzz+Kull/Chroma)** - [Buzz Kull](https://www.last.fm/music/Buzz+Kull)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
