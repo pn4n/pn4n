@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `22 ▶️` ∙ **[And One](https://www.last.fm/music/And+One)**<br/>
-> `12 ▶️` ∙ **[Asylum Party](https://www.last.fm/music/Asylum+Party)**<br/>
 > `9 ▶️` ∙ **[Klaxons](https://www.last.fm/music/Klaxons)**<br/>
 > `6 ▶️` ∙ **[Zomby](https://www.last.fm/music/Zomby)**<br/>
 > `5 ▶️` ∙ **[Kraftwerk](https://www.last.fm/music/Kraftwerk)**<br/>
+> `4 ▶️` ∙ **[Berlin](https://www.last.fm/music/Berlin)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
