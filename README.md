@@ -3,9 +3,9 @@
 
 > `23 ▶️` ∙ **[And One](https://www.last.fm/music/And+One)**<br/>
 > `9 ▶️` ∙ **[Klaxons](https://www.last.fm/music/Klaxons)**<br/>
+> `8 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
 > `6 ▶️` ∙ **[Zomby](https://www.last.fm/music/Zomby)**<br/>
-> `5 ▶️` ∙ **[Kraftwerk](https://www.last.fm/music/Kraftwerk)**<br/>
-> `4 ▶️` ∙ **[Buzz Kull](https://www.last.fm/music/Buzz+Kull)**<br/>
+> `5 ▶️` ∙ **[Buzz Kull](https://www.last.fm/music/Buzz+Kull)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
