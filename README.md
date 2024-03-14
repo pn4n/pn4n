@@ -5,7 +5,7 @@
 > `14 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
 > `11 ▶️` ∙ **[And One](https://www.last.fm/music/And+One)**<br/>
 > `6 ▶️` ∙ **[Clan of Xymox](https://www.last.fm/music/Clan+of+Xymox)**<br/>
-> `5 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
+> `6 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `22 ▶️` ∙ **[Surfing the Void](https://www.last.fm/music/Klaxons/Surfing+the+Void)** - [Klaxons](https://www.last.fm/music/Klaxons)<br/>
 > `13 ▶️` ∙ **[Myths of the Near Future](https://www.last.fm/music/Klaxons/Myths+of+the+Near+Future)** - [Klaxons](https://www.last.fm/music/Klaxons)<br/>
+> `5 ▶️` ∙ **[Eadem Mutata Resurgo](https://www.last.fm/music/Medio+Mutante/Eadem+Mutata+Resurgo)** - [Medio Mutante](https://www.last.fm/music/Medio+Mutante)<br/>
+> `5 ▶️` ∙ **[Das Album](https://www.last.fm/music/We+Butter+the+Bread+with+Butter/Das+Album)** - [We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)<br/>
 > `4 ▶️` ∙ **[Bodypop (Special Edition)](https://www.last.fm/music/And+One/Bodypop+(Special+Edition))** - [And One](https://www.last.fm/music/And+One)<br/>
-> `4 ▶️` ∙ **[Clan of Xymox](https://www.last.fm/music/Clan+of+Xymox/Clan+of+Xymox)** - [Clan of Xymox](https://www.last.fm/music/Clan+of+Xymox)<br/>
-> `4 ▶️` ∙ **[Eadem Mutata Resurgo](https://www.last.fm/music/Medio+Mutante/Eadem+Mutata+Resurgo)** - [Medio Mutante](https://www.last.fm/music/Medio+Mutante)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
