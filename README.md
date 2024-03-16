@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `29 ▶️` ∙ **[Klaxons](https://www.last.fm/music/Klaxons)**<br/>
+> `21 ▶️` ∙ **[Pink Floyd](https://www.last.fm/music/Pink+Floyd)**<br/>
 > `15 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
-> `14 ▶️` ∙ **[Pink Floyd](https://www.last.fm/music/Pink+Floyd)**<br/>
 > `12 ▶️` ∙ **[Love and Rockets](https://www.last.fm/music/Love+and+Rockets)**<br/>
-> `9 ▶️` ∙ **[And One](https://www.last.fm/music/And+One)**<br/>
+> `12 ▶️` ∙ **[Talking Heads](https://www.last.fm/music/Talking+Heads)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
