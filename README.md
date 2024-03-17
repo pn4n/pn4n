@@ -24,6 +24,6 @@
 > `5 ▶️` ∙ **[Valley of the Calm Trees](https://www.last.fm/music/Klaxons/_/Valley+of+the+Calm+Trees)** - [Klaxons](https://www.last.fm/music/Klaxons)<br/>
 > `4 ▶️` ∙ **[Sometimes](https://www.last.fm/music/And+One/_/Sometimes)** - [And One](https://www.last.fm/music/And+One)<br/>
 > `4 ▶️` ∙ **[Love At First Sight](https://www.last.fm/music/The+Gist/_/Love+At+First+Sight)** - [The Gist](https://www.last.fm/music/The+Gist)<br/>
-> `3 ▶️` ∙ **[7th Time](https://www.last.fm/music/Clan+of+Xymox/_/7th+Time)** - [Clan of Xymox](https://www.last.fm/music/Clan+of+Xymox)<br/>
 > `3 ▶️` ∙ **[4 + 20](https://www.last.fm/music/Crosby,+Stills,+Nash+&+Young/_/4+%252B+20)** - [Crosby, Stills, Nash & Young](https://www.last.fm/music/Crosby,+Stills,+Nash+&+Young)<br/>
+> `3 ▶️` ∙ **[I'm So Tired](https://www.last.fm/music/Fugazi/_/I%27m+So+Tired)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 <!--END_LASTFM_TRACKS-->
