@@ -15,7 +15,7 @@
 > `12 ▶️` ∙ **[Express](https://www.last.fm/music/Love+and+Rockets/Express)** - [Love and Rockets](https://www.last.fm/music/Love+and+Rockets)<br/>
 > `10 ▶️` ∙ **[Myths of the Near Future](https://www.last.fm/music/Klaxons/Myths+of+the+Near+Future)** - [Klaxons](https://www.last.fm/music/Klaxons)<br/>
 > `6 ▶️` ∙ **[The Waking Hour](https://www.last.fm/music/Dalis+Car/The+Waking+Hour)** - [Dalis Car](https://www.last.fm/music/Dalis+Car)<br/>
-> `6 ▶️` ∙ **[The Piper at the Gates of Dawn](https://www.last.fm/music/Pink+Floyd/The+Piper+at+the+Gates+of+Dawn)** - [Pink Floyd](https://www.last.fm/music/Pink+Floyd)<br/>
+> `6 ▶️` ∙ **[He Poos Clouds](https://www.last.fm/music/Owen+Pallett/He+Poos+Clouds)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `5 ▶️` ∙ **[Valley of the Calm Trees](https://www.last.fm/music/Klaxons/_/Valley+of+the+Calm+Trees)** - [Klaxons](https://www.last.fm/music/Klaxons)<br/>
 > `4 ▶️` ∙ **[Sometimes](https://www.last.fm/music/And+One/_/Sometimes)** - [And One](https://www.last.fm/music/And+One)<br/>
-> `4 ▶️` ∙ **[Half Moon](https://www.last.fm/music/Home/_/Half+Moon)** - [Home](https://www.last.fm/music/Home)<br/>
-> `4 ▶️` ∙ **[Turn It Up](https://www.last.fm/music/Robots+in+Disguise/_/Turn+It+Up)** - [Robots in Disguise](https://www.last.fm/music/Robots+in+Disguise)<br/>
-> `4 ▶️` ∙ **[Stay](https://www.last.fm/music/The+Blue+Nile/_/Stay)** - [The Blue Nile](https://www.last.fm/music/The+Blue+Nile)<br/>
+> `4 ▶️` ∙ **[Love At First Sight](https://www.last.fm/music/The+Gist/_/Love+At+First+Sight)** - [The Gist](https://www.last.fm/music/The+Gist)<br/>
+> `4 ▶️` ∙ **[7 Seconds (feat. Neneh Cherry)](https://www.last.fm/music/Youssou+N%27Dour/_/7+Seconds+(feat.+Neneh+Cherry))** - [Youssou N'Dour](https://www.last.fm/music/Youssou+N%27Dour)<br/>
+> `3 ▶️` ∙ **[4 + 20](https://www.last.fm/music/Crosby,+Stills,+Nash+&+Young/_/4+%252B+20)** - [Crosby, Stills, Nash & Young](https://www.last.fm/music/Crosby,+Stills,+Nash+&+Young)<br/>
 <!--END_LASTFM_TRACKS-->
