@@ -3,7 +3,7 @@
 
 > `28 ▶️` ∙ **[Klaxons](https://www.last.fm/music/Klaxons)**<br/>
 > `22 ▶️` ∙ **[Pink Floyd](https://www.last.fm/music/Pink+Floyd)**<br/>
-> `14 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
+> `15 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
 > `12 ▶️` ∙ **[Love and Rockets](https://www.last.fm/music/Love+and+Rockets)**<br/>
 > `12 ▶️` ∙ **[Talking Heads](https://www.last.fm/music/Talking+Heads)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -23,7 +23,7 @@
 
 > `5 ▶️` ∙ **[Valley of the Calm Trees](https://www.last.fm/music/Klaxons/_/Valley+of+the+Calm+Trees)** - [Klaxons](https://www.last.fm/music/Klaxons)<br/>
 > `4 ▶️` ∙ **[Sometimes](https://www.last.fm/music/And+One/_/Sometimes)** - [And One](https://www.last.fm/music/And+One)<br/>
+> `4 ▶️` ∙ **[Away](https://www.last.fm/music/The+Bolshoi/_/Away)** - [The Bolshoi](https://www.last.fm/music/The+Bolshoi)<br/>
 > `4 ▶️` ∙ **[Love At First Sight](https://www.last.fm/music/The+Gist/_/Love+At+First+Sight)** - [The Gist](https://www.last.fm/music/The+Gist)<br/>
 > `4 ▶️` ∙ **[7 Seconds (feat. Neneh Cherry)](https://www.last.fm/music/Youssou+N%27Dour/_/7+Seconds+(feat.+Neneh+Cherry))** - [Youssou N'Dour](https://www.last.fm/music/Youssou+N%27Dour)<br/>
-> `3 ▶️` ∙ **[4 + 20](https://www.last.fm/music/Crosby,+Stills,+Nash+&+Young/_/4+%252B+20)** - [Crosby, Stills, Nash & Young](https://www.last.fm/music/Crosby,+Stills,+Nash+&+Young)<br/>
 <!--END_LASTFM_TRACKS-->
