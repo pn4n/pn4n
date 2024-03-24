@@ -4,8 +4,8 @@
 > `22 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `17 ▶️` ∙ **[VR SEX](https://www.last.fm/music/VR+SEX)**<br/>
 > `14 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
+> `7 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
 > `6 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion)**<br/>
-> `6 ▶️` ∙ **[Porcupine Tree](https://www.last.fm/music/Porcupine+Tree)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `5 ▶️` ∙ **[Colour Me](https://www.last.fm/music/Dot+Allison/_/Colour+Me)** - [Dot Allison](https://www.last.fm/music/Dot+Allison)<br/>
 > `5 ▶️` ∙ **[Take Down the House](https://www.last.fm/music/PromiseLand/_/Take+Down+the+House)** - [PromiseLand](https://www.last.fm/music/PromiseLand)<br/>
+> `4 ▶️` ∙ **[Last Stop](https://www.last.fm/music/Rendez+Vous/_/Last+Stop)** - [Rendez Vous](https://www.last.fm/music/Rendez+Vous)<br/>
 > `3 ▶️` ∙ **[The Second Line](https://www.last.fm/music/Clinic/_/The+Second+Line)** - [Clinic](https://www.last.fm/music/Clinic)<br/>
 > `3 ▶️` ∙ **[Crimewave](https://www.last.fm/music/Crystal+Castles/_/Crimewave)** - [Crystal Castles](https://www.last.fm/music/Crystal+Castles)<br/>
-> `3 ▶️` ∙ **[Blackberry Song](https://www.last.fm/music/Kurt+Vile/_/Blackberry+Song)** - [Kurt Vile](https://www.last.fm/music/Kurt+Vile)<br/>
 <!--END_LASTFM_TRACKS-->
