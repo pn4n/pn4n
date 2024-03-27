@@ -2,17 +2,17 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `23 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
-> `16 ▶️` ∙ **[VR SEX](https://www.last.fm/music/VR+SEX)**<br/>
-> `12 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
 > `11 ▶️` ∙ **[PromiseLand](https://www.last.fm/music/PromiseLand)**<br/>
+> `11 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
+> `11 ▶️` ∙ **[VR SEX](https://www.last.fm/music/VR+SEX)**<br/>
 > `9 ▶️` ∙ **[Mindless Self Indulgence](https://www.last.fm/music/Mindless+Self+Indulgence)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `12 ▶️` ∙ **[Hard Normal Daddy](https://www.last.fm/music/Squarepusher/Hard+Normal+Daddy)** - [Squarepusher](https://www.last.fm/music/Squarepusher)<br/>
 > `11 ▶️` ∙ **[Sad but Happy](https://www.last.fm/music/PromiseLand/Sad+but+Happy)** - [PromiseLand](https://www.last.fm/music/PromiseLand)<br/>
+> `11 ▶️` ∙ **[Hard Normal Daddy](https://www.last.fm/music/Squarepusher/Hard+Normal+Daddy)** - [Squarepusher](https://www.last.fm/music/Squarepusher)<br/>
 > `10 ▶️` ∙ **[Hard Copy](https://www.last.fm/music/VR+SEX/Hard+Copy)** - [VR SEX](https://www.last.fm/music/VR+SEX)<br/>
 > `7 ▶️` ∙ **[Afterglow](https://www.last.fm/music/Dot+Allison/Afterglow)** - [Dot Allison](https://www.last.fm/music/Dot+Allison)<br/>
 > `6 ▶️` ∙ **[In Absentia](https://www.last.fm/music/Porcupine+Tree/In+Absentia)** - [Porcupine Tree](https://www.last.fm/music/Porcupine+Tree)<br/>
