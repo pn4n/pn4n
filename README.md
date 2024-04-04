@@ -3,9 +3,9 @@
 
 > `21 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
 > `9 ▶️` ∙ **[Social Station](https://www.last.fm/music/Social+Station)**<br/>
-> `5 ▶️` ∙ **[Buzz Kull](https://www.last.fm/music/Buzz+Kull)**<br/>
-> `5 ▶️` ∙ **[PromiseLand](https://www.last.fm/music/PromiseLand)**<br/>
-> `4 ▶️` ∙ **[All Your Sisters](https://www.last.fm/music/All+Your+Sisters)**<br/>
+> `4 ▶️` ∙ **[PromiseLand](https://www.last.fm/music/PromiseLand)**<br/>
+> `3 ▶️` ∙ **[All Your Sisters](https://www.last.fm/music/All+Your+Sisters)**<br/>
+> `3 ▶️` ∙ **[Buzz Kull](https://www.last.fm/music/Buzz+Kull)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `21 ▶️` ∙ **[Black Knight](https://www.last.fm/music/mikey+prime/Black+Knight)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
 > `9 ▶️` ∙ **[In the Fallout](https://www.last.fm/music/Social+Station/In+the+Fallout)** - [Social Station](https://www.last.fm/music/Social+Station)<br/>
-> `5 ▶️` ∙ **[Chroma](https://www.last.fm/music/Buzz+Kull/Chroma)** - [Buzz Kull](https://www.last.fm/music/Buzz+Kull)<br/>
-> `5 ▶️` ∙ **[Sad but Happy](https://www.last.fm/music/PromiseLand/Sad+but+Happy)** - [PromiseLand](https://www.last.fm/music/PromiseLand)<br/>
-> `3 ▶️` ∙ **[Trust Ruins](https://www.last.fm/music/All+Your+Sisters/Trust+Ruins)** - [All Your Sisters](https://www.last.fm/music/All+Your+Sisters)<br/>
+> `4 ▶️` ∙ **[Sad but Happy](https://www.last.fm/music/PromiseLand/Sad+but+Happy)** - [PromiseLand](https://www.last.fm/music/PromiseLand)<br/>
+> `3 ▶️` ∙ **[Chroma](https://www.last.fm/music/Buzz+Kull/Chroma)** - [Buzz Kull](https://www.last.fm/music/Buzz+Kull)<br/>
+> `3 ▶️` ∙ **[Portraits](https://www.last.fm/music/Maribou+State/Portraits)** - [Maribou State](https://www.last.fm/music/Maribou+State)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `10 ▶️` ∙ **[Little Devil](https://www.last.fm/music/mikey+prime/_/Little+Devil)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
 > `8 ▶️` ∙ **[Fallout](https://www.last.fm/music/Social+Station/_/Fallout)** - [Social Station](https://www.last.fm/music/Social+Station)<br/>
-> `4 ▶️` ∙ **[Dreams](https://www.last.fm/music/Buzz+Kull/_/Dreams)** - [Buzz Kull](https://www.last.fm/music/Buzz+Kull)<br/>
-> `3 ▶️` ∙ **[YOUR WAY](https://www.last.fm/music/All+Your+Sisters/_/YOUR+WAY)** - [All Your Sisters](https://www.last.fm/music/All+Your+Sisters)<br/>
 > `3 ▶️` ∙ **[Midas (feat. Holly Walker)](https://www.last.fm/music/Maribou+State/_/Midas+(feat.+Holly+Walker))** - [Maribou State](https://www.last.fm/music/Maribou+State)<br/>
+> `3 ▶️` ∙ **[Personal Reflektor](https://www.last.fm/music/PromiseLand/_/Personal+Reflektor)** - [PromiseLand](https://www.last.fm/music/PromiseLand)<br/>
+> `2 ▶️` ∙ **[YOUR WAY](https://www.last.fm/music/All+Your+Sisters/_/YOUR+WAY)** - [All Your Sisters](https://www.last.fm/music/All+Your+Sisters)<br/>
 <!--END_LASTFM_TRACKS-->
