@@ -4,8 +4,8 @@
 > `21 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
 > `9 ▶️` ∙ **[Social Station](https://www.last.fm/music/Social+Station)**<br/>
 > `4 ▶️` ∙ **[PromiseLand](https://www.last.fm/music/PromiseLand)**<br/>
+> `4 ▶️` ∙ **[Гуфовский](https://www.last.fm/music/%D0%93%D1%83%D1%84%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)**<br/>
 > `3 ▶️` ∙ **[All Your Sisters](https://www.last.fm/music/All+Your+Sisters)**<br/>
-> `3 ▶️` ∙ **[Buzz Kull](https://www.last.fm/music/Buzz+Kull)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
