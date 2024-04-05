@@ -3,9 +3,9 @@
 
 > `21 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
 > `9 ▶️` ∙ **[Social Station](https://www.last.fm/music/Social+Station)**<br/>
-> `4 ▶️` ∙ **[PromiseLand](https://www.last.fm/music/PromiseLand)**<br/>
-> `4 ▶️` ∙ **[Гуфовский](https://www.last.fm/music/%D0%93%D1%83%D1%84%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)**<br/>
+> `5 ▶️` ∙ **[Гуфовский](https://www.last.fm/music/%D0%93%D1%83%D1%84%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)**<br/>
 > `3 ▶️` ∙ **[All Your Sisters](https://www.last.fm/music/All+Your+Sisters)**<br/>
+> `3 ▶️` ∙ **[Maribou State](https://www.last.fm/music/Maribou+State)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `21 ▶️` ∙ **[Black Knight](https://www.last.fm/music/mikey+prime/Black+Knight)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
 > `9 ▶️` ∙ **[In the Fallout](https://www.last.fm/music/Social+Station/In+the+Fallout)** - [Social Station](https://www.last.fm/music/Social+Station)<br/>
-> `4 ▶️` ∙ **[Sad but Happy](https://www.last.fm/music/PromiseLand/Sad+but+Happy)** - [PromiseLand](https://www.last.fm/music/PromiseLand)<br/>
-> `3 ▶️` ∙ **[Chroma](https://www.last.fm/music/Buzz+Kull/Chroma)** - [Buzz Kull](https://www.last.fm/music/Buzz+Kull)<br/>
 > `3 ▶️` ∙ **[Portraits](https://www.last.fm/music/Maribou+State/Portraits)** - [Maribou State](https://www.last.fm/music/Maribou+State)<br/>
+> `3 ▶️` ∙ **[Sad but Happy](https://www.last.fm/music/PromiseLand/Sad+but+Happy)** - [PromiseLand](https://www.last.fm/music/PromiseLand)<br/>
+> `2 ▶️` ∙ **[Trust Ruins](https://www.last.fm/music/All+Your+Sisters/Trust+Ruins)** - [All Your Sisters](https://www.last.fm/music/All+Your+Sisters)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
