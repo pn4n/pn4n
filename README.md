@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `28 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
+> `12 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 > `9 ▶️` ∙ **[Social Station](https://www.last.fm/music/Social+Station)**<br/>
+> `5 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 > `4 ▶️` ∙ **[Maribou State](https://www.last.fm/music/Maribou+State)**<br/>
-> `4 ▶️` ∙ **[PromiseLand](https://www.last.fm/music/PromiseLand)**<br/>
-> `2 ▶️` ∙ **[All Your Sisters](https://www.last.fm/music/All+Your+Sisters)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -22,8 +22,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `13 ▶️` ∙ **[Little Devil](https://www.last.fm/music/mikey+prime/_/Little+Devil)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
+> `10 ▶️` ∙ **[none](https://www.last.fm/music/Video+message/_/none)** - [Video message](https://www.last.fm/music/Video+message)<br/>
 > `8 ▶️` ∙ **[Fallout](https://www.last.fm/music/Social+Station/_/Fallout)** - [Social Station](https://www.last.fm/music/Social+Station)<br/>
 > `4 ▶️` ∙ **[Midas (feat. Holly Walker)](https://www.last.fm/music/Maribou+State/_/Midas+(feat.+Holly+Walker))** - [Maribou State](https://www.last.fm/music/Maribou+State)<br/>
 > `3 ▶️` ∙ **[Kiss My Lips](https://www.last.fm/music/mikey+prime/_/Kiss+My+Lips)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
-> `3 ▶️` ∙ **[Ming Kang](https://www.last.fm/music/mikey+prime/_/Ming+Kang)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
 <!--END_LASTFM_TRACKS-->
