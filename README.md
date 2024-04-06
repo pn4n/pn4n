@@ -4,7 +4,7 @@
 > `28 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
 > `12 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 > `9 ▶️` ∙ **[Social Station](https://www.last.fm/music/Social+Station)**<br/>
-> `5 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
+> `6 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 > `4 ▶️` ∙ **[Maribou State](https://www.last.fm/music/Maribou+State)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
