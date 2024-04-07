@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `28 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
-> `12 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
+> `13 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 > `9 ▶️` ∙ **[Social Station](https://www.last.fm/music/Social+Station)**<br/>
 > `6 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 > `4 ▶️` ∙ **[Maribou State](https://www.last.fm/music/Maribou+State)**<br/>
