@@ -5,7 +5,7 @@
 > `13 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 > `9 ▶️` ∙ **[Social Station](https://www.last.fm/music/Social+Station)**<br/>
 > `6 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
-> `4 ▶️` ∙ **[Maribou State](https://www.last.fm/music/Maribou+State)**<br/>
+> `5 ▶️` ∙ **[Maribou State](https://www.last.fm/music/Maribou+State)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,7 +13,7 @@
 
 > `28 ▶️` ∙ **[Black Knight](https://www.last.fm/music/mikey+prime/Black+Knight)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
 > `9 ▶️` ∙ **[In the Fallout](https://www.last.fm/music/Social+Station/In+the+Fallout)** - [Social Station](https://www.last.fm/music/Social+Station)<br/>
-> `4 ▶️` ∙ **[Portraits](https://www.last.fm/music/Maribou+State/Portraits)** - [Maribou State](https://www.last.fm/music/Maribou+State)<br/>
+> `5 ▶️` ∙ **[Portraits](https://www.last.fm/music/Maribou+State/Portraits)** - [Maribou State](https://www.last.fm/music/Maribou+State)<br/>
 > `4 ▶️` ∙ **[Sad but Happy](https://www.last.fm/music/PromiseLand/Sad+but+Happy)** - [PromiseLand](https://www.last.fm/music/PromiseLand)<br/>
 > `2 ▶️` ∙ **[Trust Ruins](https://www.last.fm/music/All+Your+Sisters/Trust+Ruins)** - [All Your Sisters](https://www.last.fm/music/All+Your+Sisters)<br/>
 <!--END_LASTFM_ALBUMS-->
@@ -24,6 +24,6 @@
 > `13 ▶️` ∙ **[Little Devil](https://www.last.fm/music/mikey+prime/_/Little+Devil)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
 > `10 ▶️` ∙ **[none](https://www.last.fm/music/Video+message/_/none)** - [Video message](https://www.last.fm/music/Video+message)<br/>
 > `8 ▶️` ∙ **[Fallout](https://www.last.fm/music/Social+Station/_/Fallout)** - [Social Station](https://www.last.fm/music/Social+Station)<br/>
-> `4 ▶️` ∙ **[Midas (feat. Holly Walker)](https://www.last.fm/music/Maribou+State/_/Midas+(feat.+Holly+Walker))** - [Maribou State](https://www.last.fm/music/Maribou+State)<br/>
+> `5 ▶️` ∙ **[Midas (feat. Holly Walker)](https://www.last.fm/music/Maribou+State/_/Midas+(feat.+Holly+Walker))** - [Maribou State](https://www.last.fm/music/Maribou+State)<br/>
 > `3 ▶️` ∙ **[Kiss My Lips](https://www.last.fm/music/mikey+prime/_/Kiss+My+Lips)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
 <!--END_LASTFM_TRACKS-->
