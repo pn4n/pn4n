@@ -4,8 +4,8 @@
 > `16 ▶️` ∙ **[Anklepants](https://www.last.fm/music/Anklepants)**<br/>
 > `8 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
 > `7 ▶️` ∙ **[Rino Cavurso](https://www.last.fm/music/Rino+Cavurso)**<br/>
-> `6 ▶️` ∙ **[Maribou State](https://www.last.fm/music/Maribou+State)**<br/>
-> `5 ▶️` ∙ **[And One](https://www.last.fm/music/And+One)**<br/>
+> `7 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
+> `6 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
