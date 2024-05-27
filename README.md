@@ -3,9 +3,9 @@
 
 > `8 ▶️` ∙ **[Newclear Waves](https://www.last.fm/music/Newclear+Waves)**<br/>
 > `8 ▶️` ∙ **[The Present Moment](https://www.last.fm/music/The+Present+Moment)**<br/>
-> `2 ▶️` ∙ **[Isolation Ward](https://www.last.fm/music/Isolation+Ward)**<br/>
-> `2 ▶️` ∙ **[Xiu](https://www.last.fm/music/Xiu)**<br/>
-> `1 ▶️` ∙ **[alone in my room](https://www.last.fm/music/alone+in+my+room)**<br/>
+> `3 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
+> `3 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
+> `2 ▶️` ∙ **[Buzz Kull](https://www.last.fm/music/Buzz+Kull)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `8 ▶️` ∙ **[The High Road](https://www.last.fm/music/The+Present+Moment/The+High+Road)** - [The Present Moment](https://www.last.fm/music/The+Present+Moment)<br/>
 > `6 ▶️` ∙ **[Newclear Waves](https://www.last.fm/music/Newclear+Waves/Newclear+Waves)** - [Newclear Waves](https://www.last.fm/music/Newclear+Waves)<br/>
+> `3 ▶️` ∙ **[He Poos Clouds](https://www.last.fm/music/Owen+Pallett/He+Poos+Clouds)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
 > `2 ▶️` ∙ **[Point Final](https://www.last.fm/music/Isolation+Ward/Point+Final)** - [Isolation Ward](https://www.last.fm/music/Isolation+Ward)<br/>
 > `2 ▶️` ∙ **[Archive Tracks 2005-2009](https://www.last.fm/music/Newclear+Waves/Archive+Tracks+2005-2009)** - [Newclear Waves](https://www.last.fm/music/Newclear+Waves)<br/>
-> `1 ▶️` ∙ **[Void Runner](https://www.last.fm/music/alone+in+my+room/Void+Runner)** - [alone in my room](https://www.last.fm/music/alone+in+my+room)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `5 ▶️` ∙ **[Candy O](https://www.last.fm/music/The+Present+Moment/_/Candy+O)** - [The Present Moment](https://www.last.fm/music/The+Present+Moment)<br/>
 > `3 ▶️` ∙ **[Tishina](https://www.last.fm/music/Newclear+Waves/_/Tishina)** - [Newclear Waves](https://www.last.fm/music/Newclear+Waves)<br/>
+> `2 ▶️` ∙ **[Do You Love?](https://www.last.fm/music/Owen+Pallett/_/Do+You+Love%3F)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
+> `2 ▶️` ∙ **[f g](https://www.last.fm/music/Video+message/_/f+g)** - [Video message](https://www.last.fm/music/Video+message)<br/>
 > `1 ▶️` ∙ **[Void Runner](https://www.last.fm/music/alone+in+my+room/_/Void+Runner)** - [alone in my room](https://www.last.fm/music/alone+in+my+room)<br/>
-> `1 ▶️` ∙ **[Dreams](https://www.last.fm/music/Buzz+Kull/_/Dreams)** - [Buzz Kull](https://www.last.fm/music/Buzz+Kull)<br/>
-> `1 ▶️` ∙ **[Spiritual Cramp (Creux Lies mix)](https://www.last.fm/music/Christian+Death/_/Spiritual+Cramp+(Creux+Lies+mix))** - [Christian Death](https://www.last.fm/music/Christian+Death)<br/>
 <!--END_LASTFM_TRACKS-->
