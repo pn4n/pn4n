@@ -5,7 +5,7 @@
 > `29 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
 > `13 ▶️` ∙ **[The Present Moment](https://www.last.fm/music/The+Present+Moment)**<br/>
 > `10 ▶️` ∙ **[Newclear Waves](https://www.last.fm/music/Newclear+Waves)**<br/>
-> `7 ▶️` ∙ **[JJUUJJUU](https://www.last.fm/music/JJUUJJUU)**<br/>
+> `8 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
