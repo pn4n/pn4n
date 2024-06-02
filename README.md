@@ -5,7 +5,7 @@
 > `31 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
 > `25 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
 > `12 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
-> `11 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
+> `10 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `20 ▶️` ∙ **[Erotomania](https://www.last.fm/music/mikey+prime/Erotomania)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
 > `13 ▶️` ∙ **[Nurse!](https://www.last.fm/music/Bar+Italia/Nurse!)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
 > `13 ▶️` ∙ **[The Twits](https://www.last.fm/music/Bar+Italia/The+Twits)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
-> `11 ▶️` ∙ **[Super Freq](https://www.last.fm/music/Machine+Girl/Super+Freq)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
+> `10 ▶️` ∙ **[Super Freq](https://www.last.fm/music/Machine+Girl/Super+Freq)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `13 ▶️` ∙ **[Nurse!](https://www.last.fm/music/Bar+Italia/_/Nurse!)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
 > `13 ▶️` ∙ **[Worlds Greatest Emoter](https://www.last.fm/music/Bar+Italia/_/Worlds+Greatest+Emoter)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
 > `12 ▶️` ∙ **[Pure](https://www.last.fm/music/mikey+prime/_/Pure)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
-> `10 ▶️` ∙ **[Black Glass](https://www.last.fm/music/Machine+Girl/_/Black+Glass)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
+> `9 ▶️` ∙ **[Black Glass](https://www.last.fm/music/Machine+Girl/_/Black+Glass)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
 <!--END_LASTFM_TRACKS-->
