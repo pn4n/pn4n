@@ -1,20 +1,20 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `36 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
-> `29 ▶️` ∙ **[NIGHTSISTER](https://www.last.fm/music/NIGHTSISTER)**<br/>
-> `15 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
+> `35 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
+> `24 ▶️` ∙ **[NIGHTSISTER](https://www.last.fm/music/NIGHTSISTER)**<br/>
+> `20 ▶️` ∙ **[The Shyness Of Strangers](https://www.last.fm/music/The+Shyness+Of+Strangers)**<br/>
+> `14 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
 > `13 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
-> `10 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `33 ▶️` ∙ **[Erotomania](https://www.last.fm/music/mikey+prime/Erotomania)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
-> `24 ▶️` ∙ **[Lost In A Past Life](https://www.last.fm/music/NIGHTSISTER/Lost+In+A+Past+Life)** - [NIGHTSISTER](https://www.last.fm/music/NIGHTSISTER)<br/>
+> `20 ▶️` ∙ **[Lost In A Past Life](https://www.last.fm/music/NIGHTSISTER/Lost+In+A+Past+Life)** - [NIGHTSISTER](https://www.last.fm/music/NIGHTSISTER)<br/>
+> `20 ▶️` ∙ **[Time](https://www.last.fm/music/The+Shyness+Of+Strangers/Time)** - [The Shyness Of Strangers](https://www.last.fm/music/The+Shyness+Of+Strangers)<br/>
 > `9 ▶️` ∙ **[Super Freq](https://www.last.fm/music/Machine+Girl/Super+Freq)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
-> `9 ▶️` ∙ **[Time](https://www.last.fm/music/The+Shyness+Of+Strangers/Time)** - [The Shyness Of Strangers](https://www.last.fm/music/The+Shyness+Of+Strangers)<br/>
 > `9 ▶️` ∙ **[The Soft Moon](https://www.last.fm/music/The+Soft+Moon/The+Soft+Moon)** - [The Soft Moon](https://www.last.fm/music/The+Soft+Moon)<br/>
 <!--END_LASTFM_ALBUMS-->
 
@@ -22,8 +22,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `23 ▶️` ∙ **[Pure](https://www.last.fm/music/mikey+prime/_/Pure)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
-> `21 ▶️` ∙ **[Lost In A Past Life](https://www.last.fm/music/NIGHTSISTER/_/Lost+In+A+Past+Life)** - [NIGHTSISTER](https://www.last.fm/music/NIGHTSISTER)<br/>
+> `17 ▶️` ∙ **[Lost In A Past Life](https://www.last.fm/music/NIGHTSISTER/_/Lost+In+A+Past+Life)** - [NIGHTSISTER](https://www.last.fm/music/NIGHTSISTER)<br/>
+> `11 ▶️` ∙ **[Blood](https://www.last.fm/music/The+Shyness+Of+Strangers/_/Blood)** - [The Shyness Of Strangers](https://www.last.fm/music/The+Shyness+Of+Strangers)<br/>
 > `9 ▶️` ∙ **[When It's Over](https://www.last.fm/music/The+Soft+Moon/_/When+It%27s+Over)** - [The Soft Moon](https://www.last.fm/music/The+Soft+Moon)<br/>
-> `8 ▶️` ∙ **[Worlds Greatest Emoter](https://www.last.fm/music/Bar+Italia/_/Worlds+Greatest+Emoter)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
 > `8 ▶️` ∙ **[Black Glass](https://www.last.fm/music/Machine+Girl/_/Black+Glass)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
 <!--END_LASTFM_TRACKS-->
