@@ -24,6 +24,6 @@
 > `7 ▶️` ∙ **[Kicked Out by Seven](https://www.last.fm/music/Double+Virgo/_/Kicked+Out+by+Seven)** - [Double Virgo](https://www.last.fm/music/Double+Virgo)<br/>
 > `5 ▶️` ∙ **[In the Dark You Die](https://www.last.fm/music/Dark/_/In+the+Dark+You+Die)** - [Dark](https://www.last.fm/music/Dark)<br/>
 > `5 ▶️` ∙ **[Lost In A Past Life](https://www.last.fm/music/NIGHTSISTER/_/Lost+In+A+Past+Life)** - [NIGHTSISTER](https://www.last.fm/music/NIGHTSISTER)<br/>
-> `5 ▶️` ∙ **[Ringleader](https://www.last.fm/music/Public+Memory/_/Ringleader)** - [Public Memory](https://www.last.fm/music/Public+Memory)<br/>
 > `5 ▶️` ∙ **[Ibisco](https://www.last.fm/music/Talk+to+Her/_/Ibisco)** - [Talk to Her](https://www.last.fm/music/Talk+to+Her)<br/>
+> `4 ▶️` ∙ **[Centaurella 44](https://www.last.fm/music/Double+Virgo/_/Centaurella+44)** - [Double Virgo](https://www.last.fm/music/Double+Virgo)<br/>
 <!--END_LASTFM_TRACKS-->
