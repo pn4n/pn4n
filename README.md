@@ -5,7 +5,7 @@
 > `14 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
 > `13 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
 > `8 ▶️` ∙ **[The Shyness Of Strangers](https://www.last.fm/music/The+Shyness+Of+Strangers)**<br/>
-> `6 ▶️` ∙ **[Corbeau Hangs](https://www.last.fm/music/Corbeau+Hangs)**<br/>
+> `8 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
