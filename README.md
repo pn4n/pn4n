@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `22 ▶️` ∙ **[Stereolab](https://www.last.fm/music/Stereolab)**<br/>
-> `14 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
 > `13 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
-> `8 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
+> `6 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
 > `6 ▶️` ∙ **[Corbeau Hangs](https://www.last.fm/music/Corbeau+Hangs)**<br/>
+> `6 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `5 ▶️` ∙ **[In the Dark You Die](https://www.last.fm/music/Dark/_/In+the+Dark+You+Die)** - [Dark](https://www.last.fm/music/Dark)<br/>
 > `5 ▶️` ∙ **[Ibisco](https://www.last.fm/music/Talk+to+Her/_/Ibisco)** - [Talk to Her](https://www.last.fm/music/Talk+to+Her)<br/>
 > `4 ▶️` ∙ **[Centaurella 44](https://www.last.fm/music/Double+Virgo/_/Centaurella+44)** - [Double Virgo](https://www.last.fm/music/Double+Virgo)<br/>
-> `4 ▶️` ∙ **[Pure](https://www.last.fm/music/mikey+prime/_/Pure)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
+> `4 ▶️` ∙ **[Frightening, but blissful](https://www.last.fm/music/Grizz/_/Frightening,+but+blissful)** - [Grizz](https://www.last.fm/music/Grizz)<br/>
 <!--END_LASTFM_TRACKS-->
