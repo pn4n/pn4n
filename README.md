@@ -3,9 +3,9 @@
 
 > `22 ▶️` ∙ **[Stereolab](https://www.last.fm/music/Stereolab)**<br/>
 > `15 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
-> `8 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
+> `7 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
 > `7 ▶️` ∙ **[Corbeau Hangs](https://www.last.fm/music/Corbeau+Hangs)**<br/>
-> `7 ▶️` ∙ **[The Shyness Of Strangers](https://www.last.fm/music/The+Shyness+Of+Strangers)**<br/>
+> `6 ▶️` ∙ **[Dark](https://www.last.fm/music/Dark)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `13 ▶️` ∙ **[Eros In The Bunker](https://www.last.fm/music/Double+Virgo/Eros+In+The+Bunker)** - [Double Virgo](https://www.last.fm/music/Double+Virgo)<br/>
 > `7 ▶️` ∙ **[Optograms](https://www.last.fm/music/Corbeau+Hangs/Optograms)** - [Corbeau Hangs](https://www.last.fm/music/Corbeau+Hangs)<br/>
-> `7 ▶️` ∙ **[Time](https://www.last.fm/music/The+Shyness+Of+Strangers/Time)** - [The Shyness Of Strangers](https://www.last.fm/music/The+Shyness+Of+Strangers)<br/>
 > `6 ▶️` ∙ **[In the Dark You Die](https://www.last.fm/music/Dark/In+the+Dark+You+Die)** - [Dark](https://www.last.fm/music/Dark)<br/>
 > `6 ▶️` ∙ **[Love Will Come Again](https://www.last.fm/music/Talk+to+Her/Love+Will+Come+Again)** - [Talk to Her](https://www.last.fm/music/Talk+to+Her)<br/>
+> `5 ▶️` ∙ **[Frightening, but blissful](https://www.last.fm/music/Grizz/Frightening,+but+blissful)** - [Grizz](https://www.last.fm/music/Grizz)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
