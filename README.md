@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `6 ▶️` ∙ **[Grizz](https://www.last.fm/music/Grizz)**<br/>
+> `5 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 > `4 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
 > `4 ▶️` ∙ **[Public Memory](https://www.last.fm/music/Public+Memory)**<br/>
-> `4 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
-> `4 ▶️` ∙ **[ГОВОРИТ ВАФИН](https://www.last.fm/music/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D)**<br/>
+> `4 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
