@@ -4,8 +4,8 @@
 > `4 ▶️` ∙ **[Grizz](https://www.last.fm/music/Grizz)**<br/>
 > `4 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
 > `4 ▶️` ∙ **[Public Memory](https://www.last.fm/music/Public+Memory)**<br/>
-> `4 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 > `3 ▶️` ∙ **[Fever Ray](https://www.last.fm/music/Fever+Ray)**<br/>
+> `3 ▶️` ∙ **[ГОВОРИТ ВАФИН](https://www.last.fm/music/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
