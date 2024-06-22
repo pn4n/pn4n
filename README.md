@@ -4,8 +4,8 @@
 > `4 ▶️` ∙ **[Grizz](https://www.last.fm/music/Grizz)**<br/>
 > `4 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
 > `4 ▶️` ∙ **[Public Memory](https://www.last.fm/music/Public+Memory)**<br/>
+> `4 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
 > `3 ▶️` ∙ **[Fever Ray](https://www.last.fm/music/Fever+Ray)**<br/>
-> `3 ▶️` ∙ **[ГОВОРИТ ВАФИН](https://www.last.fm/music/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `4 ▶️` ∙ **[Frightening, but blissful](https://www.last.fm/music/Grizz/_/Frightening,+but+blissful)** - [Grizz](https://www.last.fm/music/Grizz)<br/>
 > `4 ▶️` ∙ **[Black Glass](https://www.last.fm/music/Machine+Girl/_/Black+Glass)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
+> `3 ▶️` ∙ **[Постоянный Зритель](https://www.last.fm/music/voice+message/_/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9+%D0%97%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C)** - [voice message](https://www.last.fm/music/voice+message)<br/>
 > `3 ▶️` ∙ **[ВАФИН 51: МЯУКАЮЩИЕ ДВАДЦАТЫЕ. КАКОВО ЖИЛОСЬ В РАННЕМ СССР: КОКАИН, ЦЕРКОВНЫЕ ВЫХОДНЫЕ, УПЛОТНЕНИЯ](https://www.last.fm/music/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D/_/%D0%92%D0%90%D0%A4%D0%98%D0%9D+51:+%D0%9C%D0%AF%D0%A3%D0%9A%D0%90%D0%AE%D0%A9%D0%98%D0%95+%D0%94%D0%92%D0%90%D0%94%D0%A6%D0%90%D0%A2%D0%AB%D0%95.+%D0%9A%D0%90%D0%9A%D0%9E%D0%92%D0%9E+%D0%96%D0%98%D0%9B%D0%9E%D0%A1%D0%AC+%D0%92+%D0%A0%D0%90%D0%9D%D0%9D%D0%95%D0%9C+%D0%A1%D0%A1%D0%A1%D0%A0:+%D0%9A%D0%9E%D0%9A%D0%90%D0%98%D0%9D,+%D0%A6%D0%95%D0%A0%D0%9A%D0%9E%D0%92%D0%9D%D0%AB%D0%95+%D0%92%D0%AB%D0%A5%D0%9E%D0%94%D0%9D%D0%AB%D0%95,+%D0%A3%D0%9F%D0%9B%D0%9E%D0%A2%D0%9D%D0%95%D0%9D%D0%98%D0%AF)** - [ГОВОРИТ ВАФИН](https://www.last.fm/music/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D)<br/>
 > `2 ▶️` ∙ **[I'm Not Done](https://www.last.fm/music/Fever+Ray/_/I%27m+Not+Done)** - [Fever Ray](https://www.last.fm/music/Fever+Ray)<br/>
-> `2 ▶️` ∙ **[Heir](https://www.last.fm/music/Public+Memory/_/Heir)** - [Public Memory](https://www.last.fm/music/Public+Memory)<br/>
 <!--END_LASTFM_TRACKS-->
