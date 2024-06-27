@@ -15,7 +15,7 @@
 > `15 ▶️` ∙ **[Destroy All Human Life](https://www.last.fm/music/Country+Teasers/Destroy+All+Human+Life)** - [Country Teasers](https://www.last.fm/music/Country+Teasers)<br/>
 > `13 ▶️` ∙ **[Hex Box](https://www.last.fm/music/Ruby+Lustre/Hex+Box)** - [Ruby Lustre](https://www.last.fm/music/Ruby+Lustre)<br/>
 > `10 ▶️` ∙ **[The Agony in Memory](https://www.last.fm/music/Garden+of+Mary/The+Agony+in+Memory)** - [Garden of Mary](https://www.last.fm/music/Garden+of+Mary)<br/>
-> `5 ▶️` ∙ **[Toda la mentira sobre Dame Area](https://www.last.fm/music/Dame+Area/Toda+la+mentira+sobre+Dame+Area)** - [Dame Area](https://www.last.fm/music/Dame+Area)<br/>
+> `7 ▶️` ∙ **[Time](https://www.last.fm/music/The+Shyness+Of+Strangers/Time)** - [The Shyness Of Strangers](https://www.last.fm/music/The+Shyness+Of+Strangers)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `15 ▶️` ∙ **[Golden Apples](https://www.last.fm/music/Country+Teasers/_/Golden+Apples)** - [Country Teasers](https://www.last.fm/music/Country+Teasers)<br/>
 > `8 ▶️` ∙ **[Vexed](https://www.last.fm/music/Ruby+Lustre/_/Vexed)** - [Ruby Lustre](https://www.last.fm/music/Ruby+Lustre)<br/>
 > `6 ▶️` ∙ **[The Silent Road](https://www.last.fm/music/Garden+of+Mary/_/The+Silent+Road)** - [Garden of Mary](https://www.last.fm/music/Garden+of+Mary)<br/>
-> `5 ▶️` ∙ **[Tempio senza Luce](https://www.last.fm/music/Dame+Area/_/Tempio+senza+Luce)** - [Dame Area](https://www.last.fm/music/Dame+Area)<br/>
+> `6 ▶️` ∙ **[Lost In A Past Life](https://www.last.fm/music/NIGHTSISTER/_/Lost+In+A+Past+Life)** - [NIGHTSISTER](https://www.last.fm/music/NIGHTSISTER)<br/>
 <!--END_LASTFM_TRACKS-->
