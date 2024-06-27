@@ -4,8 +4,8 @@
 > `37 ▶️` ∙ **[Ruby Lustre](https://www.last.fm/music/Ruby+Lustre)**<br/>
 > `15 ▶️` ∙ **[Country Teasers](https://www.last.fm/music/Country+Teasers)**<br/>
 > `10 ▶️` ∙ **[Garden of Mary](https://www.last.fm/music/Garden+of+Mary)**<br/>
+> `10 ▶️` ∙ **[PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)**<br/>
 > `7 ▶️` ∙ **[Dame Area](https://www.last.fm/music/Dame+Area)**<br/>
-> `7 ▶️` ∙ **[Give My Remains to Broadway](https://www.last.fm/music/Give+My+Remains+to+Broadway)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
