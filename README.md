@@ -5,7 +5,7 @@
 > `16 ▶️` ∙ **[Country Teasers](https://www.last.fm/music/Country+Teasers)**<br/>
 > `10 ▶️` ∙ **[Garden of Mary](https://www.last.fm/music/Garden+of+Mary)**<br/>
 > `10 ▶️` ∙ **[PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)**<br/>
-> `7 ▶️` ∙ **[Dame Area](https://www.last.fm/music/Dame+Area)**<br/>
+> `8 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `16 ▶️` ∙ **[Destroy All Human Life](https://www.last.fm/music/Country+Teasers/Destroy+All+Human+Life)** - [Country Teasers](https://www.last.fm/music/Country+Teasers)<br/>
 > `14 ▶️` ∙ **[Hex Box](https://www.last.fm/music/Ruby+Lustre/Hex+Box)** - [Ruby Lustre](https://www.last.fm/music/Ruby+Lustre)<br/>
 > `10 ▶️` ∙ **[The Agony in Memory](https://www.last.fm/music/Garden+of+Mary/The+Agony+in+Memory)** - [Garden of Mary](https://www.last.fm/music/Garden+of+Mary)<br/>
-> `7 ▶️` ∙ **[Time](https://www.last.fm/music/The+Shyness+Of+Strangers/Time)** - [The Shyness Of Strangers](https://www.last.fm/music/The+Shyness+Of+Strangers)<br/>
+> `7 ▶️` ∙ **[Deutschland im Herbst](https://www.last.fm/music/Death+In+Rome/Deutschland+im+Herbst)** - [Death In Rome](https://www.last.fm/music/Death+In+Rome)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `22 ▶️` ∙ **[Have it All](https://www.last.fm/music/Ruby+Lustre/_/Have+it+All)** - [Ruby Lustre](https://www.last.fm/music/Ruby+Lustre)<br/>
 > `16 ▶️` ∙ **[Golden Apples](https://www.last.fm/music/Country+Teasers/_/Golden+Apples)** - [Country Teasers](https://www.last.fm/music/Country+Teasers)<br/>
 > `9 ▶️` ∙ **[Vexed](https://www.last.fm/music/Ruby+Lustre/_/Vexed)** - [Ruby Lustre](https://www.last.fm/music/Ruby+Lustre)<br/>
-> `6 ▶️` ∙ **[Deutschland Im Herbst](https://www.last.fm/music/Death+In+Rome/_/Deutschland+Im+Herbst)** - [Death In Rome](https://www.last.fm/music/Death+In+Rome)<br/>
+> `7 ▶️` ∙ **[Deutschland Im Herbst](https://www.last.fm/music/Death+In+Rome/_/Deutschland+Im+Herbst)** - [Death In Rome](https://www.last.fm/music/Death+In+Rome)<br/>
 > `6 ▶️` ∙ **[The Silent Road](https://www.last.fm/music/Garden+of+Mary/_/The+Silent+Road)** - [Garden of Mary](https://www.last.fm/music/Garden+of+Mary)<br/>
 <!--END_LASTFM_TRACKS-->
