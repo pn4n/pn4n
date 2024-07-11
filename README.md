@@ -4,8 +4,8 @@
 > `13 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 > `9 ▶️` ∙ **[Liars](https://www.last.fm/music/Liars)**<br/>
 > `7 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
+> `7 ▶️` ∙ **[Massive Attack](https://www.last.fm/music/Massive+Attack)**<br/>
 > `7 ▶️` ∙ **[PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)**<br/>
-> `7 ▶️` ∙ **[Wind Atlas](https://www.last.fm/music/Wind+Atlas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `7 ▶️` ∙ **[An Edible Body](https://www.last.fm/music/Wind+Atlas/An+Edible+Body)** - [Wind Atlas](https://www.last.fm/music/Wind+Atlas)<br/>
 > `6 ▶️` ∙ **[Untitled #13](https://www.last.fm/music/GLWZBLL/Untitled+%2313)** - [GLWZBLL](https://www.last.fm/music/GLWZBLL)<br/>
 > `6 ▶️` ∙ **[Mess](https://www.last.fm/music/Liars/Mess)** - [Liars](https://www.last.fm/music/Liars)<br/>
-> `6 ▶️` ∙ **[He Poos Clouds](https://www.last.fm/music/Owen+Pallett/He+Poos+Clouds)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
 > `5 ▶️` ∙ **[Nótt eftir nótt](https://www.last.fm/music/K%C3%A6lan+Mikla/N%C3%B3tt+eftir+n%C3%B3tt)** - [Kælan Mikla](https://www.last.fm/music/K%C3%A6lan+Mikla)<br/>
+> `5 ▶️` ∙ **[Super Freq](https://www.last.fm/music/Machine+Girl/Super+Freq)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
