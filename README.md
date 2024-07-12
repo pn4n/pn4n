@@ -3,7 +3,7 @@
 
 > `19 ▶️` ∙ **[Yakima Jera](https://www.last.fm/music/Yakima+Jera)**<br/>
 > `13 ▶️` ∙ **[Liars](https://www.last.fm/music/Liars)**<br/>
-> `13 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
+> `12 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 > `7 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
 > `7 ▶️` ∙ **[Massive Attack](https://www.last.fm/music/Massive+Attack)**<br/>
 <!--END_LASTFM_ARTISTS-->
