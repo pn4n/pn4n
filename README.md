@@ -14,8 +14,8 @@
 > `19 ▶️` ∙ **[Capture](https://www.last.fm/music/Yakima+Jera/Capture)** - [Yakima Jera](https://www.last.fm/music/Yakima+Jera)<br/>
 > `10 ▶️` ∙ **[Mess](https://www.last.fm/music/Liars/Mess)** - [Liars](https://www.last.fm/music/Liars)<br/>
 > `7 ▶️` ∙ **[An Edible Body](https://www.last.fm/music/Wind+Atlas/An+Edible+Body)** - [Wind Atlas](https://www.last.fm/music/Wind+Atlas)<br/>
-> `5 ▶️` ∙ **[Untitled #13](https://www.last.fm/music/GLWZBLL/Untitled+%2313)** - [GLWZBLL](https://www.last.fm/music/GLWZBLL)<br/>
-> `5 ▶️` ∙ **[Nótt eftir nótt](https://www.last.fm/music/K%C3%A6lan+Mikla/N%C3%B3tt+eftir+n%C3%B3tt)** - [Kælan Mikla](https://www.last.fm/music/K%C3%A6lan+Mikla)<br/>
+> `5 ▶️` ∙ **["As Much Nothing As Possible" & "They Can Always Hurt You More" Remixes](https://www.last.fm/music/True+Faith/%22As+Much+Nothing+As+Possible%22+&+%22They+Can+Always+Hurt+You+More%22+Remixes)** - [True Faith](https://www.last.fm/music/True+Faith)<br/>
+> `4 ▶️` ∙ **[Untitled #13](https://www.last.fm/music/GLWZBLL/Untitled+%2313)** - [GLWZBLL](https://www.last.fm/music/GLWZBLL)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `8 ▶️` ∙ **[Vox Tuned D.E.D.](https://www.last.fm/music/Liars/_/Vox+Tuned+D.E.D.)** - [Liars](https://www.last.fm/music/Liars)<br/>
 > `6 ▶️` ∙ **[Blasphemic Church](https://www.last.fm/music/Yakima+Jera/_/Blasphemic+Church)** - [Yakima Jera](https://www.last.fm/music/Yakima+Jera)<br/>
-> `5 ▶️` ∙ **[untitled #13](https://www.last.fm/music/GLWZBLL/_/untitled+%2313)** - [GLWZBLL](https://www.last.fm/music/GLWZBLL)<br/>
-> `5 ▶️` ∙ **[Draumadís](https://www.last.fm/music/K%C3%A6lan+Mikla/_/Draumad%C3%ADs)** - [Kælan Mikla](https://www.last.fm/music/K%C3%A6lan+Mikla)<br/>
-> `5 ▶️` ∙ **[Have it All](https://www.last.fm/music/Ruby+Lustre/_/Have+it+All)** - [Ruby Lustre](https://www.last.fm/music/Ruby+Lustre)<br/>
+> `5 ▶️` ∙ **[I Wanted More - Flesh of Morning Remix](https://www.last.fm/music/True+Faith/_/I+Wanted+More+-+Flesh+of+Morning+Remix)** - [True Faith](https://www.last.fm/music/True+Faith)<br/>
+> `5 ▶️` ∙ **[Suymosha Mashrap](https://www.last.fm/music/Video+message/_/Suymosha+Mashrap)** - [Video message](https://www.last.fm/music/Video+message)<br/>
+> `4 ▶️` ∙ **[untitled #13](https://www.last.fm/music/GLWZBLL/_/untitled+%2313)** - [GLWZBLL](https://www.last.fm/music/GLWZBLL)<br/>
 <!--END_LASTFM_TRACKS-->
