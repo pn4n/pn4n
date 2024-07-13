@@ -3,9 +3,9 @@
 
 > `19 ▶️` ∙ **[Yakima Jera](https://www.last.fm/music/Yakima+Jera)**<br/>
 > `13 ▶️` ∙ **[Liars](https://www.last.fm/music/Liars)**<br/>
-> `12 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 > `7 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
 > `7 ▶️` ∙ **[Massive Attack](https://www.last.fm/music/Massive+Attack)**<br/>
+> `7 ▶️` ∙ **[Mindless Self Indulgence](https://www.last.fm/music/Mindless+Self+Indulgence)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `8 ▶️` ∙ **[Vox Tuned D.E.D.](https://www.last.fm/music/Liars/_/Vox+Tuned+D.E.D.)** - [Liars](https://www.last.fm/music/Liars)<br/>
 > `6 ▶️` ∙ **[Blasphemic Church](https://www.last.fm/music/Yakima+Jera/_/Blasphemic+Church)** - [Yakima Jera](https://www.last.fm/music/Yakima+Jera)<br/>
 > `5 ▶️` ∙ **[I Wanted More - Flesh of Morning Remix](https://www.last.fm/music/True+Faith/_/I+Wanted+More+-+Flesh+of+Morning+Remix)** - [True Faith](https://www.last.fm/music/True+Faith)<br/>
-> `5 ▶️` ∙ **[Suymosha Mashrap](https://www.last.fm/music/Video+message/_/Suymosha+Mashrap)** - [Video message](https://www.last.fm/music/Video+message)<br/>
 > `4 ▶️` ∙ **[untitled #13](https://www.last.fm/music/GLWZBLL/_/untitled+%2313)** - [GLWZBLL](https://www.last.fm/music/GLWZBLL)<br/>
+> `4 ▶️` ∙ **[Draumadís](https://www.last.fm/music/K%C3%A6lan+Mikla/_/Draumad%C3%ADs)** - [Kælan Mikla](https://www.last.fm/music/K%C3%A6lan+Mikla)<br/>
 <!--END_LASTFM_TRACKS-->
