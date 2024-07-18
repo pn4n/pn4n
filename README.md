@@ -24,6 +24,6 @@
 > `11 ▶️` ∙ **[Blasphemic Church](https://www.last.fm/music/Yakima+Jera/_/Blasphemic+Church)** - [Yakima Jera](https://www.last.fm/music/Yakima+Jera)<br/>
 > `7 ▶️` ∙ **[Honey Insulation](https://www.last.fm/music/Trashlight/_/Honey+Insulation)** - [Trashlight](https://www.last.fm/music/Trashlight)<br/>
 > `4 ▶️` ∙ **[Diamonds](https://www.last.fm/music/PIXEL+GRIP/_/Diamonds)** - [PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)<br/>
+> `4 ▶️` ∙ **[Camino Del Sol](https://www.last.fm/music/Tempers/_/Camino+Del+Sol)** - [Tempers](https://www.last.fm/music/Tempers)<br/>
 > `3 ▶️` ∙ **[Dream](https://www.last.fm/music/Flesh+Of+Morning/_/Dream)** - [Flesh Of Morning](https://www.last.fm/music/Flesh+Of+Morning)<br/>
-> `3 ▶️` ∙ **[The Devil in Me](https://www.last.fm/music/Flesh+Of+Morning/_/The+Devil+in+Me)** - [Flesh Of Morning](https://www.last.fm/music/Flesh+Of+Morning)<br/>
 <!--END_LASTFM_TRACKS-->
