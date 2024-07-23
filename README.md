@@ -5,7 +5,7 @@
 > `18 ▶️` ∙ **[Solo Ansamblis](https://www.last.fm/music/Solo+Ansamblis)**<br/>
 > `16 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 > `6 ▶️` ∙ **[Eko and Vinda Folio](https://www.last.fm/music/Eko+and+Vinda+Folio)**<br/>
-> `5 ▶️` ∙ **[Trashlight](https://www.last.fm/music/Trashlight)**<br/>
+> `6 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
