@@ -3,9 +3,9 @@
 
 > `20 ▶️` ∙ **[İzmir](https://www.last.fm/music/%C4%B0zmir)**<br/>
 > `18 ▶️` ∙ **[Solo Ansamblis](https://www.last.fm/music/Solo+Ansamblis)**<br/>
+> `13 ▶️` ∙ **[Massive Attack](https://www.last.fm/music/Massive+Attack)**<br/>
 > `12 ▶️` ∙ **[UNKLE](https://www.last.fm/music/UNKLE)**<br/>
 > `6 ▶️` ∙ **[Eko and Vinda Folio](https://www.last.fm/music/Eko+and+Vinda+Folio)**<br/>
-> `6 ▶️` ∙ **[Franke](https://www.last.fm/music/Franke)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
