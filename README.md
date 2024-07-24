@@ -3,9 +3,9 @@
 
 > `20 ▶️` ∙ **[İzmir](https://www.last.fm/music/%C4%B0zmir)**<br/>
 > `18 ▶️` ∙ **[Solo Ansamblis](https://www.last.fm/music/Solo+Ansamblis)**<br/>
-> `16 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
+> `12 ▶️` ∙ **[UNKLE](https://www.last.fm/music/UNKLE)**<br/>
 > `6 ▶️` ∙ **[Eko and Vinda Folio](https://www.last.fm/music/Eko+and+Vinda+Folio)**<br/>
-> `6 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
+> `6 ▶️` ∙ **[Franke](https://www.last.fm/music/Franke)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `12 ▶️` ∙ **[Olos](https://www.last.fm/music/Solo+Ansamblis/Olos)** - [Solo Ansamblis](https://www.last.fm/music/Solo+Ansamblis)<br/>
 > `7 ▶️` ∙ **[ასრულებს გეგმას](https://www.last.fm/music/%C4%B0zmir/%E1%83%90%E1%83%A1%E1%83%A0%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%A1+%E1%83%92%E1%83%94%E1%83%92%E1%83%9B%E1%83%90%E1%83%A1)** - [İzmir](https://www.last.fm/music/%C4%B0zmir)<br/>
 > `6 ▶️` ∙ **[Shen Anateb](https://www.last.fm/music/Eko+and+Vinda+Folio/Shen+Anateb)** - [Eko and Vinda Folio](https://www.last.fm/music/Eko+and+Vinda+Folio)<br/>
+> `6 ▶️` ∙ **[Optimismens hån](https://www.last.fm/music/Franke/Optimismens+h%C3%A5n)** - [Franke](https://www.last.fm/music/Franke)<br/>
 > `6 ▶️` ∙ **[დაღამებიდან დილამდე](https://www.last.fm/music/%C4%B0zmir/%E1%83%93%E1%83%90%E1%83%A6%E1%83%90%E1%83%9B%E1%83%94%E1%83%91%E1%83%98%E1%83%93%E1%83%90%E1%83%9C+%E1%83%93%E1%83%98%E1%83%9A%E1%83%90%E1%83%9B%E1%83%93%E1%83%94)** - [İzmir](https://www.last.fm/music/%C4%B0zmir)<br/>
-> `6 ▶️` ∙ **[ცივი და თეთრი](https://www.last.fm/music/%C4%B0zmir/%E1%83%AA%E1%83%98%E1%83%95%E1%83%98+%E1%83%93%E1%83%90+%E1%83%97%E1%83%94%E1%83%97%E1%83%A0%E1%83%98)** - [İzmir](https://www.last.fm/music/%C4%B0zmir)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
