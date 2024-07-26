@@ -1,7 +1,7 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `28 ▶️` ∙ **[Massive Attack](https://www.last.fm/music/Massive+Attack)**<br/>
+> `27 ▶️` ∙ **[Massive Attack](https://www.last.fm/music/Massive+Attack)**<br/>
 > `19 ▶️` ∙ **[İzmir](https://www.last.fm/music/%C4%B0zmir)**<br/>
 > `18 ▶️` ∙ **[Solo Ansamblis](https://www.last.fm/music/Solo+Ansamblis)**<br/>
 > `12 ▶️` ∙ **[UNKLE](https://www.last.fm/music/UNKLE)**<br/>
