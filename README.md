@@ -24,6 +24,6 @@
 > `5 ▶️` ∙ **[Agurit Khelshi](https://www.last.fm/music/Eko+and+Vinda+Folio/_/Agurit+Khelshi)** - [Eko and Vinda Folio](https://www.last.fm/music/Eko+and+Vinda+Folio)<br/>
 > `5 ▶️` ∙ **[Įstriži žiburiai](https://www.last.fm/music/Solo+Ansamblis/_/%C4%AEstri%C5%BEi+%C5%BEiburiai)** - [Solo Ansamblis](https://www.last.fm/music/Solo+Ansamblis)<br/>
 > `5 ▶️` ∙ **[Nepabust](https://www.last.fm/music/Solo+Ansamblis/_/Nepabust)** - [Solo Ansamblis](https://www.last.fm/music/Solo+Ansamblis)<br/>
+> `5 ▶️` ∙ **[Foxelonez](https://www.last.fm/music/voice+message/_/Foxelonez)** - [voice message](https://www.last.fm/music/voice+message)<br/>
 > `4 ▶️` ∙ **[დასაწყისი](https://www.last.fm/music/%C4%B0zmir/_/%E1%83%93%E1%83%90%E1%83%A1%E1%83%90%E1%83%AC%E1%83%A7%E1%83%98%E1%83%A1%E1%83%98)** - [İzmir](https://www.last.fm/music/%C4%B0zmir)<br/>
-> `4 ▶️` ∙ **[სიღრმე დუმდა](https://www.last.fm/music/%C4%B0zmir/_/%E1%83%A1%E1%83%98%E1%83%A6%E1%83%A0%E1%83%9B%E1%83%94+%E1%83%93%E1%83%A3%E1%83%9B%E1%83%93%E1%83%90)** - [İzmir](https://www.last.fm/music/%C4%B0zmir)<br/>
 <!--END_LASTFM_TRACKS-->
