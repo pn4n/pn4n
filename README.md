@@ -25,5 +25,5 @@
 > `4 ▶️` ∙ **[Demon Chaser](https://www.last.fm/music/PIXEL+GRIP/_/Demon+Chaser)** - [PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)<br/>
 > `3 ▶️` ∙ **[Allt som var mitt eget](https://www.last.fm/music/Franke/_/Allt+som+var+mitt+eget)** - [Franke](https://www.last.fm/music/Franke)<br/>
 > `3 ▶️` ∙ **[Bet You Do.](https://www.last.fm/music/PIXEL+GRIP/_/Bet+You+Do.)** - [PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)<br/>
-> `3 ▶️` ∙ **[Įstriži žiburiai](https://www.last.fm/music/Solo+Ansamblis/_/%C4%AEstri%C5%BEi+%C5%BEiburiai)** - [Solo Ansamblis](https://www.last.fm/music/Solo+Ansamblis)<br/>
+> `3 ▶️` ∙ **[Hearing Damage](https://www.last.fm/music/Thom+Yorke/_/Hearing+Damage)** - [Thom Yorke](https://www.last.fm/music/Thom+Yorke)<br/>
 <!--END_LASTFM_TRACKS-->
