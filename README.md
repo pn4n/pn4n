@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `22 ▶️` ∙ **[PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)**<br/>
-> `12 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
+> `13 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
 > `6 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 > `5 ▶️` ∙ **[Kaelynn Partlow](https://www.last.fm/music/Kaelynn+Partlow)**<br/>
 > `3 ▶️` ∙ **[Error37](https://www.last.fm/music/Error37)**<br/>
