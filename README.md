@@ -3,7 +3,7 @@
 
 > `19 ▶️` ∙ **[Left For Pleasure](https://www.last.fm/music/Left+For+Pleasure)**<br/>
 > `16 ▶️` ∙ **[PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)**<br/>
-> `11 ▶️` ∙ **[Red Lorry Yellow Lorry](https://www.last.fm/music/Red+Lorry+Yellow+Lorry)**<br/>
+> `13 ▶️` ∙ **[Red Lorry Yellow Lorry](https://www.last.fm/music/Red+Lorry+Yellow+Lorry)**<br/>
 > `9 ▶️` ∙ **[Solo Ansamblis](https://www.last.fm/music/Solo+Ansamblis)**<br/>
 > `8 ▶️` ∙ **[Franke](https://www.last.fm/music/Franke)**<br/>
 <!--END_LASTFM_ARTISTS-->
