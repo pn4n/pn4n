@@ -3,9 +3,9 @@
 
 > `19 ▶️` ∙ **[Left For Pleasure](https://www.last.fm/music/Left+For+Pleasure)**<br/>
 > `16 ▶️` ∙ **[PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)**<br/>
-> `13 ▶️` ∙ **[Red Lorry Yellow Lorry](https://www.last.fm/music/Red+Lorry+Yellow+Lorry)**<br/>
+> `14 ▶️` ∙ **[Red Lorry Yellow Lorry](https://www.last.fm/music/Red+Lorry+Yellow+Lorry)**<br/>
 > `9 ▶️` ∙ **[Solo Ansamblis](https://www.last.fm/music/Solo+Ansamblis)**<br/>
-> `8 ▶️` ∙ **[Franke](https://www.last.fm/music/Franke)**<br/>
+> `9 ▶️` ∙ **[The Snake Corps](https://www.last.fm/music/The+Snake+Corps)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `6 ▶️` ∙ **[Diamonds](https://www.last.fm/music/PIXEL+GRIP/_/Diamonds)** - [PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)<br/>
 > `5 ▶️` ∙ **[Hinter Schweren Gedanken](https://www.last.fm/music/Left+For+Pleasure/_/Hinter+Schweren+Gedanken)** - [Left For Pleasure](https://www.last.fm/music/Left+For+Pleasure)<br/>
 > `5 ▶️` ∙ **[Demon Chaser](https://www.last.fm/music/PIXEL+GRIP/_/Demon+Chaser)** - [PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)<br/>
-> `4 ▶️` ∙ **[El Reflejo de mi Muerte](https://www.last.fm/music/Diavol+Str%C3%A2in/_/El+Reflejo+de+mi+Muerte)** - [Diavol Strâin](https://www.last.fm/music/Diavol+Str%C3%A2in)<br/>
+> `5 ▶️` ∙ **[Heat](https://www.last.fm/music/Soft+Cell/_/Heat)** - [Soft Cell](https://www.last.fm/music/Soft+Cell)<br/>
 <!--END_LASTFM_TRACKS-->
