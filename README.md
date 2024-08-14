@@ -1,8 +1,8 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `16 ▶️` ∙ **[The Snake Corps](https://www.last.fm/music/The+Snake+Corps)**<br/>
 > `15 ▶️` ∙ **[Red Lorry Yellow Lorry](https://www.last.fm/music/Red+Lorry+Yellow+Lorry)**<br/>
+> `15 ▶️` ∙ **[The Snake Corps](https://www.last.fm/music/The+Snake+Corps)**<br/>
 > `12 ▶️` ∙ **[PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)**<br/>
 > `11 ▶️` ∙ **[Mumblr](https://www.last.fm/music/Mumblr)**<br/>
 > `11 ▶️` ∙ **[Psyche](https://www.last.fm/music/Psyche)**<br/>
@@ -13,9 +13,9 @@
 
 > `12 ▶️` ∙ **[Smother Earth](https://www.last.fm/music/The+Snake+Corps/Smother+Earth)** - [The Snake Corps](https://www.last.fm/music/The+Snake+Corps)<br/>
 > `10 ▶️` ∙ **[The Influence](https://www.last.fm/music/Psyche/The+Influence)** - [Psyche](https://www.last.fm/music/Psyche)<br/>
-> `9 ▶️` ∙ **[With Sympathy](https://www.last.fm/music/Ministry/With+Sympathy)** - [Ministry](https://www.last.fm/music/Ministry)<br/>
 > `9 ▶️` ∙ **[ARENA](https://www.last.fm/music/PIXEL+GRIP/ARENA)** - [PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)<br/>
 > `8 ▶️` ∙ **[The Never Ending Get Down](https://www.last.fm/music/Mumblr/The+Never+Ending+Get+Down)** - [Mumblr](https://www.last.fm/music/Mumblr)<br/>
+> `7 ▶️` ∙ **[The Art Of Falling Apart](https://www.last.fm/music/Soft+Cell/The+Art+Of+Falling+Apart)** - [Soft Cell](https://www.last.fm/music/Soft+Cell)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
