@@ -15,7 +15,7 @@
 > `9 ▶️` ∙ **[Smother Earth](https://www.last.fm/music/The+Snake+Corps/Smother+Earth)** - [The Snake Corps](https://www.last.fm/music/The+Snake+Corps)<br/>
 > `8 ▶️` ∙ **[The Never Ending Get Down](https://www.last.fm/music/Mumblr/The+Never+Ending+Get+Down)** - [Mumblr](https://www.last.fm/music/Mumblr)<br/>
 > `8 ▶️` ∙ **[ARENA](https://www.last.fm/music/PIXEL+GRIP/ARENA)** - [PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)<br/>
-> `7 ▶️` ∙ **[The Art Of Falling Apart](https://www.last.fm/music/Soft+Cell/The+Art+Of+Falling+Apart)** - [Soft Cell](https://www.last.fm/music/Soft+Cell)<br/>
+> `6 ▶️` ∙ **[Thirteenth Step](https://www.last.fm/music/A+Perfect+Circle/Thirteenth+Step)** - [A Perfect Circle](https://www.last.fm/music/A+Perfect+Circle)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `10 ▶️` ∙ **[Misery](https://www.last.fm/music/Psyche/_/Misery)** - [Psyche](https://www.last.fm/music/Psyche)<br/>
 > `9 ▶️` ∙ **[Come The Glorious Day](https://www.last.fm/music/The+Snake+Corps/_/Come+The+Glorious+Day)** - [The Snake Corps](https://www.last.fm/music/The+Snake+Corps)<br/>
-> `7 ▶️` ∙ **[Heat](https://www.last.fm/music/Soft+Cell/_/Heat)** - [Soft Cell](https://www.last.fm/music/Soft+Cell)<br/>
 > `6 ▶️` ∙ **[Ugly Ugly Tiny Tiny](https://www.last.fm/music/Mumblr/_/Ugly+Ugly+Tiny+Tiny)** - [Mumblr](https://www.last.fm/music/Mumblr)<br/>
 > `6 ▶️` ∙ **[Demon Chaser](https://www.last.fm/music/PIXEL+GRIP/_/Demon+Chaser)** - [PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)<br/>
+> `4 ▶️` ∙ **[Паравозик Томас](https://www.last.fm/music/%D0%9C%D0%91+%D0%9F%D0%B0%D0%BA%D0%B5%D1%82/_/%D0%9F%D0%B0%D1%80%D0%B0%D0%B2%D0%BE%D0%B7%D0%B8%D0%BA+%D0%A2%D0%BE%D0%BC%D0%B0%D1%81)** - [МБ Пакет](https://www.last.fm/music/%D0%9C%D0%91+%D0%9F%D0%B0%D0%BA%D0%B5%D1%82)<br/>
 <!--END_LASTFM_TRACKS-->
