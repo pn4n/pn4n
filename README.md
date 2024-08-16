@@ -3,8 +3,8 @@
 
 > `11 ▶️` ∙ **[Mumblr](https://www.last.fm/music/Mumblr)**<br/>
 > `9 ▶️` ∙ **[Psyche](https://www.last.fm/music/Psyche)**<br/>
-> `8 ▶️` ∙ **[PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)**<br/>
 > `7 ▶️` ∙ **[Martin Dupont](https://www.last.fm/music/Martin+Dupont)**<br/>
+> `7 ▶️` ∙ **[PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)**<br/>
 > `7 ▶️` ∙ **[The Snake Corps](https://www.last.fm/music/The+Snake+Corps)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -25,5 +25,5 @@
 > `6 ▶️` ∙ **[Ugly Ugly Tiny Tiny](https://www.last.fm/music/Mumblr/_/Ugly+Ugly+Tiny+Tiny)** - [Mumblr](https://www.last.fm/music/Mumblr)<br/>
 > `6 ▶️` ∙ **[Come The Glorious Day](https://www.last.fm/music/The+Snake+Corps/_/Come+The+Glorious+Day)** - [The Snake Corps](https://www.last.fm/music/The+Snake+Corps)<br/>
 > `5 ▶️` ∙ **[Demon Chaser](https://www.last.fm/music/PIXEL+GRIP/_/Demon+Chaser)** - [PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)<br/>
-> `4 ▶️` ∙ **[Always on My Mind](https://www.last.fm/music/Pet+Shop+Boys/_/Always+on+My+Mind)** - [Pet Shop Boys](https://www.last.fm/music/Pet+Shop+Boys)<br/>
+> `4 ▶️` ∙ **[Паравозик Томас](https://www.last.fm/music/%D0%9C%D0%91+%D0%9F%D0%B0%D0%BA%D0%B5%D1%82/_/%D0%9F%D0%B0%D1%80%D0%B0%D0%B2%D0%BE%D0%B7%D0%B8%D0%BA+%D0%A2%D0%BE%D0%BC%D0%B0%D1%81)** - [МБ Пакет](https://www.last.fm/music/%D0%9C%D0%91+%D0%9F%D0%B0%D0%BA%D0%B5%D1%82)<br/>
 <!--END_LASTFM_TRACKS-->
