@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `11 ▶️` ∙ **[Mumblr](https://www.last.fm/music/Mumblr)**<br/>
-> `7 ▶️` ∙ **[Martin Dupont](https://www.last.fm/music/Martin+Dupont)**<br/>
 > `7 ▶️` ∙ **[PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)**<br/>
 > `7 ▶️` ∙ **[Psyche](https://www.last.fm/music/Psyche)**<br/>
 > `7 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
+> `6 ▶️` ∙ **[A Perfect Circle](https://www.last.fm/music/A+Perfect+Circle)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
