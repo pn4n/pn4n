@@ -3,9 +3,9 @@
 
 > `21 ▶️` ∙ **[Mujuice](https://www.last.fm/music/Mujuice)**<br/>
 > `11 ▶️` ∙ **[Mumblr](https://www.last.fm/music/Mumblr)**<br/>
+> `10 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
 > `10 ▶️` ∙ **[Аффинаж](https://www.last.fm/music/%D0%90%D1%84%D1%84%D0%B8%D0%BD%D0%B0%D0%B6)**<br/>
-> `7 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
-> `7 ▶️` ∙ **[Psyche](https://www.last.fm/music/Psyche)**<br/>
+> `7 ▶️` ∙ **[Fever Ray](https://www.last.fm/music/Fever+Ray)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
