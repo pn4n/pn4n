@@ -3,7 +3,7 @@
 
 > `21 ▶️` ∙ **[Mujuice](https://www.last.fm/music/Mujuice)**<br/>
 > `20 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
-> `10 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
+> `9 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
 > `9 ▶️` ∙ **[The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful)**<br/>
 > `8 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion)**<br/>
 <!--END_LASTFM_ARTISTS-->
