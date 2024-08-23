@@ -12,10 +12,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `14 ▶️` ∙ **[Hums Of The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful/Hums+Of+The+Lovin%27+Spoonful)** - [The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful)<br/>
+> `9 ▶️` ∙ **[Selected Scenes From the End of the World](https://www.last.fm/music/London+After+Midnight/Selected+Scenes+From+the+End+of+the+World)** - [London After Midnight](https://www.last.fm/music/London+After+Midnight)<br/>
 > `9 ▶️` ∙ **[Deep Cuts](https://www.last.fm/music/The+Knife/Deep+Cuts)** - [The Knife](https://www.last.fm/music/The+Knife)<br/>
 > `8 ▶️` ∙ **[A Haunted Place](https://www.last.fm/music/Kill+Shelter/A+Haunted+Place)** - [Kill Shelter](https://www.last.fm/music/Kill+Shelter)<br/>
 > `8 ▶️` ∙ **[Cool Cool Death!](https://www.last.fm/music/Mujuice/Cool+Cool+Death!)** - [Mujuice](https://www.last.fm/music/Mujuice)<br/>
-> `7 ▶️` ∙ **[Fashionista](https://www.last.fm/music/Folly+Group/Fashionista)** - [Folly Group](https://www.last.fm/music/Folly+Group)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
