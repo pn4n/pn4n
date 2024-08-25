@@ -3,9 +3,9 @@
 
 > `20 ▶️` ∙ **[The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful)**<br/>
 > `19 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
+> `17 ▶️` ∙ **[The Swan](https://www.last.fm/music/The+Swan)**<br/>
 > `16 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
-> `13 ▶️` ∙ **[Silent Runners](https://www.last.fm/music/Silent+Runners)**<br/>
-> `12 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
+> `14 ▶️` ∙ **[Solek](https://www.last.fm/music/Solek)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
