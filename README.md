@@ -1,11 +1,11 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `20 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
 > `20 ▶️` ∙ **[The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful)**<br/>
-> `18 ▶️` ∙ **[Mujuice](https://www.last.fm/music/Mujuice)**<br/>
+> `19 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
 > `16 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
 > `13 ▶️` ∙ **[Silent Runners](https://www.last.fm/music/Silent+Runners)**<br/>
+> `12 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
