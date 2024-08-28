@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `17 ▶️` ∙ **[The Swan](https://www.last.fm/music/The+Swan)**<br/>
-> `16 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
+> `15 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
 > `14 ▶️` ∙ **[Solek](https://www.last.fm/music/Solek)**<br/>
 > `13 ▶️` ∙ **[Die Verlierer](https://www.last.fm/music/Die+Verlierer)**<br/>
-> `12 ▶️` ∙ **[Kill Shelter](https://www.last.fm/music/Kill+Shelter)**<br/>
+> `12 ▶️` ∙ **[London After Midnight](https://www.last.fm/music/London+After+Midnight)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
