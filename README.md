@@ -14,8 +14,8 @@
 > `12 ▶️` ∙ **[Notausgang](https://www.last.fm/music/Die+Verlierer/Notausgang)** - [Die Verlierer](https://www.last.fm/music/Die+Verlierer)<br/>
 > `12 ▶️` ∙ **[The Directory](https://www.last.fm/music/Silent+Runners/The+Directory)** - [Silent Runners](https://www.last.fm/music/Silent+Runners)<br/>
 > `11 ▶️` ∙ **[Hums Of The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful/Hums+Of+The+Lovin%27+Spoonful)** - [The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful)<br/>
-> `8 ▶️` ∙ **[A Haunted Place](https://www.last.fm/music/Kill+Shelter/A+Haunted+Place)** - [Kill Shelter](https://www.last.fm/music/Kill+Shelter)<br/>
 > `8 ▶️` ∙ **[Selected Scenes From the End of the World](https://www.last.fm/music/London+After+Midnight/Selected+Scenes+From+the+End+of+the+World)** - [London After Midnight](https://www.last.fm/music/London+After+Midnight)<br/>
+> `7 ▶️` ∙ **[Menagerie](https://www.last.fm/music/Bill+Withers/Menagerie)** - [Bill Withers](https://www.last.fm/music/Bill+Withers)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `11 ▶️` ∙ **[Summer in the City - Remastered](https://www.last.fm/music/The+Lovin%27+Spoonful/_/Summer+in+the+City+-+Remastered)** - [The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful)<br/>
 > `10 ▶️` ∙ **[Stacheldraht](https://www.last.fm/music/Die+Verlierer/_/Stacheldraht)** - [Die Verlierer](https://www.last.fm/music/Die+Verlierer)<br/>
 > `9 ▶️` ∙ **[Nobody Here](https://www.last.fm/music/Silent+Runners/_/Nobody+Here)** - [Silent Runners](https://www.last.fm/music/Silent+Runners)<br/>
-> `8 ▶️` ∙ **[Raise the Skies](https://www.last.fm/music/Kill+Shelter/_/Raise+the+Skies)** - [Kill Shelter](https://www.last.fm/music/Kill+Shelter)<br/>
 > `7 ▶️` ∙ **[Lovely Day](https://www.last.fm/music/Bill+Withers/_/Lovely+Day)** - [Bill Withers](https://www.last.fm/music/Bill+Withers)<br/>
+> `7 ▶️` ∙ **[Raise the Skies](https://www.last.fm/music/Kill+Shelter/_/Raise+the+Skies)** - [Kill Shelter](https://www.last.fm/music/Kill+Shelter)<br/>
 <!--END_LASTFM_TRACKS-->
