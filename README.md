@@ -5,7 +5,7 @@
 > `17 ▶️` ∙ **[The Swan](https://www.last.fm/music/The+Swan)**<br/>
 > `14 ▶️` ∙ **[Die Verlierer](https://www.last.fm/music/Die+Verlierer)**<br/>
 > `14 ▶️` ∙ **[Solek](https://www.last.fm/music/Solek)**<br/>
-> `10 ▶️` ∙ **[New Order](https://www.last.fm/music/New+Order)**<br/>
+> `12 ▶️` ∙ **[New Order](https://www.last.fm/music/New+Order)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `13 ▶️` ∙ **[Notausgang](https://www.last.fm/music/Die+Verlierer/Notausgang)** - [Die Verlierer](https://www.last.fm/music/Die+Verlierer)<br/>
 > `9 ▶️` ∙ **[Super Freq](https://www.last.fm/music/Machine+Girl/Super+Freq)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
 > `9 ▶️` ∙ **[Until I Die](https://www.last.fm/music/Machine+Girl/Until+I+Die)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
-> `7 ▶️` ∙ **[The Directory](https://www.last.fm/music/Silent+Runners/The+Directory)** - [Silent Runners](https://www.last.fm/music/Silent+Runners)<br/>
-> `6 ▶️` ∙ **[Die Cry Hate](https://www.last.fm/music/Past+Self/Die+Cry+Hate)** - [Past Self](https://www.last.fm/music/Past+Self)<br/>
+> `5 ▶️` ∙ **[Burning In Blue](https://www.last.fm/music/Double+Echo/Burning+In+Blue)** - [Double Echo](https://www.last.fm/music/Double+Echo)<br/>
+> `5 ▶️` ∙ **[Hums Of The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful/Hums+Of+The+Lovin%27+Spoonful)** - [The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `11 ▶️` ∙ **[Stacheldraht](https://www.last.fm/music/Die+Verlierer/_/Stacheldraht)** - [Die Verlierer](https://www.last.fm/music/Die+Verlierer)<br/>
 > `9 ▶️` ∙ **[Black Glass](https://www.last.fm/music/Machine+Girl/_/Black+Glass)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
 > `9 ▶️` ∙ **[Until I Die](https://www.last.fm/music/Machine+Girl/_/Until+I+Die)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
-> `6 ▶️` ∙ **[Nobody Here](https://www.last.fm/music/Silent+Runners/_/Nobody+Here)** - [Silent Runners](https://www.last.fm/music/Silent+Runners)<br/>
-> `6 ▶️` ∙ **[Summer in the City - Remastered](https://www.last.fm/music/The+Lovin%27+Spoonful/_/Summer+in+the+City+-+Remastered)** - [The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful)<br/>
+> `5 ▶️` ∙ **[Summer in the City - Remastered](https://www.last.fm/music/The+Lovin%27+Spoonful/_/Summer+in+the+City+-+Remastered)** - [The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful)<br/>
+> `4 ▶️` ∙ **[Lovely Day](https://www.last.fm/music/Bill+Withers/_/Lovely+Day)** - [Bill Withers](https://www.last.fm/music/Bill+Withers)<br/>
 <!--END_LASTFM_TRACKS-->
