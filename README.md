@@ -5,7 +5,7 @@
 > `17 ▶️` ∙ **[The Swan](https://www.last.fm/music/The+Swan)**<br/>
 > `14 ▶️` ∙ **[Solek](https://www.last.fm/music/Solek)**<br/>
 > `12 ▶️` ∙ **[New Order](https://www.last.fm/music/New+Order)**<br/>
-> `8 ▶️` ∙ **[The Snake Corps](https://www.last.fm/music/The+Snake+Corps)**<br/>
+> `7 ▶️` ∙ **[Fever Ray](https://www.last.fm/music/Fever+Ray)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `9 ▶️` ∙ **[Until I Die](https://www.last.fm/music/Machine+Girl/_/Until+I+Die)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
 > `8 ▶️` ∙ **[Black Glass](https://www.last.fm/music/Machine+Girl/_/Black+Glass)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
 > `4 ▶️` ∙ **[Katy Song](https://www.last.fm/music/Red+House+Painters/_/Katy+Song)** - [Red House Painters](https://www.last.fm/music/Red+House+Painters)<br/>
-> `4 ▶️` ∙ **[Summer in the City - Remastered](https://www.last.fm/music/The+Lovin%27+Spoonful/_/Summer+in+the+City+-+Remastered)** - [The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful)<br/>
 > `4 ▶️` ∙ **[Save my heart.](https://www.last.fm/music/The+Snake+Corps/_/Save+my+heart.)** - [The Snake Corps](https://www.last.fm/music/The+Snake+Corps)<br/>
+> `3 ▶️` ∙ **[Lovely Day](https://www.last.fm/music/Bill+Withers/_/Lovely+Day)** - [Bill Withers](https://www.last.fm/music/Bill+Withers)<br/>
 <!--END_LASTFM_TRACKS-->
