@@ -13,9 +13,9 @@
 
 > `9 ▶️` ∙ **[Until I Die](https://www.last.fm/music/Machine+Girl/Until+I+Die)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
 > `8 ▶️` ∙ **[Super Freq](https://www.last.fm/music/Machine+Girl/Super+Freq)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
-> `6 ▶️` ∙ **[Notausgang](https://www.last.fm/music/Die+Verlierer/Notausgang)** - [Die Verlierer](https://www.last.fm/music/Die+Verlierer)<br/>
-> `5 ▶️` ∙ **[Hums Of The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful/Hums+Of+The+Lovin%27+Spoonful)** - [The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful)<br/>
 > `5 ▶️` ∙ **[Jeopardy](https://www.last.fm/music/The+Sound/Jeopardy)** - [The Sound](https://www.last.fm/music/The+Sound)<br/>
+> `4 ▶️` ∙ **[Radical Romantics](https://www.last.fm/music/Fever+Ray/Radical+Romantics)** - [Fever Ray](https://www.last.fm/music/Fever+Ray)<br/>
+> `4 ▶️` ∙ **[Power corruption and lies](https://www.last.fm/music/New+Order/Power+corruption+and+lies)** - [New Order](https://www.last.fm/music/New+Order)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `9 ▶️` ∙ **[Until I Die](https://www.last.fm/music/Machine+Girl/_/Until+I+Die)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
 > `8 ▶️` ∙ **[Black Glass](https://www.last.fm/music/Machine+Girl/_/Black+Glass)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
-> `6 ▶️` ∙ **[Stacheldraht](https://www.last.fm/music/Die+Verlierer/_/Stacheldraht)** - [Die Verlierer](https://www.last.fm/music/Die+Verlierer)<br/>
-> `5 ▶️` ∙ **[Summer in the City - Remastered](https://www.last.fm/music/The+Lovin%27+Spoonful/_/Summer+in+the+City+-+Remastered)** - [The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful)<br/>
-> `4 ▶️` ∙ **[Lovely Day](https://www.last.fm/music/Bill+Withers/_/Lovely+Day)** - [Bill Withers](https://www.last.fm/music/Bill+Withers)<br/>
+> `4 ▶️` ∙ **[Katy Song](https://www.last.fm/music/Red+House+Painters/_/Katy+Song)** - [Red House Painters](https://www.last.fm/music/Red+House+Painters)<br/>
+> `4 ▶️` ∙ **[Summer in the City - Remastered](https://www.last.fm/music/The+Lovin%27+Spoonful/_/Summer+in+the+City+-+Remastered)** - [The Lovin' Spoonful](https://www.last.fm/music/The+Lovin%27+Spoonful)<br/>
+> `4 ▶️` ∙ **[Save my heart.](https://www.last.fm/music/The+Snake+Corps/_/Save+my+heart.)** - [The Snake Corps](https://www.last.fm/music/The+Snake+Corps)<br/>
 <!--END_LASTFM_TRACKS-->
