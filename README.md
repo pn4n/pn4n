@@ -3,8 +3,8 @@
 
 > `21 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
 > `12 ▶️` ∙ **[New Order](https://www.last.fm/music/New+Order)**<br/>
+> `8 ▶️` ∙ **[The Snake Corps](https://www.last.fm/music/The+Snake+Corps)**<br/>
 > `7 ▶️` ∙ **[Fever Ray](https://www.last.fm/music/Fever+Ray)**<br/>
-> `7 ▶️` ∙ **[The Snake Corps](https://www.last.fm/music/The+Snake+Corps)**<br/>
 > `7 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -13,9 +13,9 @@
 
 > `9 ▶️` ∙ **[Until I Die](https://www.last.fm/music/Machine+Girl/Until+I+Die)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
 > `8 ▶️` ∙ **[Super Freq](https://www.last.fm/music/Machine+Girl/Super+Freq)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
+> `5 ▶️` ∙ **[Flesh On Flesh](https://www.last.fm/music/The+Snake+Corps/Flesh+On+Flesh)** - [The Snake Corps](https://www.last.fm/music/The+Snake+Corps)<br/>
 > `5 ▶️` ∙ **[Jeopardy](https://www.last.fm/music/The+Sound/Jeopardy)** - [The Sound](https://www.last.fm/music/The+Sound)<br/>
 > `4 ▶️` ∙ **[Radical Romantics](https://www.last.fm/music/Fever+Ray/Radical+Romantics)** - [Fever Ray](https://www.last.fm/music/Fever+Ray)<br/>
-> `4 ▶️` ∙ **[Power corruption and lies](https://www.last.fm/music/New+Order/Power+corruption+and+lies)** - [New Order](https://www.last.fm/music/New+Order)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `9 ▶️` ∙ **[Until I Die](https://www.last.fm/music/Machine+Girl/_/Until+I+Die)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
 > `8 ▶️` ∙ **[Black Glass](https://www.last.fm/music/Machine+Girl/_/Black+Glass)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
+> `5 ▶️` ∙ **[Save my heart.](https://www.last.fm/music/The+Snake+Corps/_/Save+my+heart.)** - [The Snake Corps](https://www.last.fm/music/The+Snake+Corps)<br/>
 > `4 ▶️` ∙ **[Katy Song](https://www.last.fm/music/Red+House+Painters/_/Katy+Song)** - [Red House Painters](https://www.last.fm/music/Red+House+Painters)<br/>
-> `4 ▶️` ∙ **[Save my heart.](https://www.last.fm/music/The+Snake+Corps/_/Save+my+heart.)** - [The Snake Corps](https://www.last.fm/music/The+Snake+Corps)<br/>
 > `3 ▶️` ∙ **[Lovely Day](https://www.last.fm/music/Bill+Withers/_/Lovely+Day)** - [Bill Withers](https://www.last.fm/music/Bill+Withers)<br/>
 <!--END_LASTFM_TRACKS-->
