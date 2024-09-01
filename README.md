@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `21 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
-> `17 ▶️` ∙ **[The Swan](https://www.last.fm/music/The+Swan)**<br/>
-> `14 ▶️` ∙ **[Solek](https://www.last.fm/music/Solek)**<br/>
 > `12 ▶️` ∙ **[New Order](https://www.last.fm/music/New+Order)**<br/>
 > `7 ▶️` ∙ **[Fever Ray](https://www.last.fm/music/Fever+Ray)**<br/>
+> `7 ▶️` ∙ **[The Snake Corps](https://www.last.fm/music/The+Snake+Corps)**<br/>
+> `7 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
