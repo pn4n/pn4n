@@ -3,9 +3,9 @@
 
 > `16 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
 > `12 ▶️` ∙ **[New Order](https://www.last.fm/music/New+Order)**<br/>
+> `8 ▶️` ∙ **[Joy Division](https://www.last.fm/music/Joy+Division)**<br/>
 > `8 ▶️` ∙ **[The Snake Corps](https://www.last.fm/music/The+Snake+Corps)**<br/>
 > `7 ▶️` ∙ **[Fever Ray](https://www.last.fm/music/Fever+Ray)**<br/>
-> `6 ▶️` ∙ **[Chrome](https://www.last.fm/music/Chrome)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
