@@ -5,7 +5,7 @@
 > `32 ▶️` ∙ **[The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)**<br/>
 > `20 ▶️` ∙ **[Rökkurró](https://www.last.fm/music/R%C3%B6kkurr%C3%B3)**<br/>
 > `19 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
-> `15 ▶️` ∙ **[Warpaint](https://www.last.fm/music/Warpaint)**<br/>
+> `16 ▶️` ∙ **[Red House Painters](https://www.last.fm/music/Red+House+Painters)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `24 ▶️` ∙ **[It Won/t Be Like This All The Time](https://www.last.fm/music/The+Twilight+Sad/It+Won%2Ft+Be+Like+This+All+The+Time)** - [The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)<br/>
 > `20 ▶️` ∙ **[Í annan heim](https://www.last.fm/music/R%C3%B6kkurr%C3%B3/%C3%8D+annan+heim)** - [Rökkurró](https://www.last.fm/music/R%C3%B6kkurr%C3%B3)<br/>
 > `17 ▶️` ∙ **[Is the Is Are](https://www.last.fm/music/DIIV/Is+the+Is+Are)** - [DIIV](https://www.last.fm/music/DIIV)<br/>
-> `12 ▶️` ∙ **[Warpaint](https://www.last.fm/music/Warpaint/Warpaint)** - [Warpaint](https://www.last.fm/music/Warpaint)<br/>
+> `15 ▶️` ∙ **[Red House Painters I](https://www.last.fm/music/Red+House+Painters/Red+House+Painters+I)** - [Red House Painters](https://www.last.fm/music/Red+House+Painters)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
