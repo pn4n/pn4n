@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `58 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
-> `34 ▶️` ∙ **[Hatari](https://www.last.fm/music/Hatari)**<br/>
+> `38 ▶️` ∙ **[Hatari](https://www.last.fm/music/Hatari)**<br/>
 > `33 ▶️` ∙ **[Rökkurró](https://www.last.fm/music/R%C3%B6kkurr%C3%B3)**<br/>
 > `32 ▶️` ∙ **[The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)**<br/>
 > `25 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
