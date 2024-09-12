@@ -3,9 +3,9 @@
 
 > `54 ▶️` ∙ **[Hatari](https://www.last.fm/music/Hatari)**<br/>
 > `50 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
-> `25 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
-> `24 ▶️` ∙ **[Red House Painters](https://www.last.fm/music/Red+House+Painters)**<br/>
+> `26 ▶️` ∙ **[Red House Painters](https://www.last.fm/music/Red+House+Painters)**<br/>
 > `23 ▶️` ∙ **[Rökkurró](https://www.last.fm/music/R%C3%B6kkurr%C3%B3)**<br/>
+> `16 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `50 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `47 ▶️` ∙ **[Neyslutrans](https://www.last.fm/music/Hatari/Neyslutrans)** - [Hatari](https://www.last.fm/music/Hatari)<br/>
-> `23 ▶️` ∙ **[Is the Is Are](https://www.last.fm/music/DIIV/Is+the+Is+Are)** - [DIIV](https://www.last.fm/music/DIIV)<br/>
-> `23 ▶️` ∙ **[Red House Painters I](https://www.last.fm/music/Red+House+Painters/Red+House+Painters+I)** - [Red House Painters](https://www.last.fm/music/Red+House+Painters)<br/>
+> `25 ▶️` ∙ **[Red House Painters I](https://www.last.fm/music/Red+House+Painters/Red+House+Painters+I)** - [Red House Painters](https://www.last.fm/music/Red+House+Painters)<br/>
 > `23 ▶️` ∙ **[Í annan heim](https://www.last.fm/music/R%C3%B6kkurr%C3%B3/%C3%8D+annan+heim)** - [Rökkurró](https://www.last.fm/music/R%C3%B6kkurr%C3%B3)<br/>
+> `16 ▶️` ∙ **[Is the Is Are](https://www.last.fm/music/DIIV/Is+the+Is+Are)** - [DIIV](https://www.last.fm/music/DIIV)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `21 ▶️` ∙ **[Pidpunk](https://www.last.fm/music/Home+Video/_/Pidpunk)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `20 ▶️` ∙ **[HLAUPTU](https://www.last.fm/music/Hatari/_/HLAUPTU)** - [Hatari](https://www.last.fm/music/Hatari)<br/>
 > `16 ▶️` ∙ **[Niðurlút](https://www.last.fm/music/Hatari/_/Ni%C3%B0url%C3%BAt)** - [Hatari](https://www.last.fm/music/Hatari)<br/>
-> `15 ▶️` ∙ **[Disco//Very](https://www.last.fm/music/Warpaint/_/Disco%2F%2FVery)** - [Warpaint](https://www.last.fm/music/Warpaint)<br/>
-> `12 ▶️` ∙ **[Yr Not Far](https://www.last.fm/music/DIIV/_/Yr+Not+Far)** - [DIIV](https://www.last.fm/music/DIIV)<br/>
+> `12 ▶️` ∙ **[Disco//Very](https://www.last.fm/music/Warpaint/_/Disco%2F%2FVery)** - [Warpaint](https://www.last.fm/music/Warpaint)<br/>
+> `10 ▶️` ∙ **[Black Exit](https://www.last.fm/music/Trztn/_/Black+Exit)** - [Trztn](https://www.last.fm/music/Trztn)<br/>
 <!--END_LASTFM_TRACKS-->
