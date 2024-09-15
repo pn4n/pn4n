@@ -4,8 +4,8 @@
 > `58 ▶️` ∙ **[Hatari](https://www.last.fm/music/Hatari)**<br/>
 > `18 ▶️` ∙ **[Rökkurró](https://www.last.fm/music/R%C3%B6kkurr%C3%B3)**<br/>
 > `17 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
-> `12 ▶️` ∙ **[Geneva Jacuzzi](https://www.last.fm/music/Geneva+Jacuzzi)**<br/>
 > `12 ▶️` ∙ **[Red House Painters](https://www.last.fm/music/Red+House+Painters)**<br/>
+> `9 ▶️` ∙ **[PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
