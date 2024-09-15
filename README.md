@@ -3,7 +3,7 @@
 
 > `58 ▶️` ∙ **[Hatari](https://www.last.fm/music/Hatari)**<br/>
 > `18 ▶️` ∙ **[Rökkurró](https://www.last.fm/music/R%C3%B6kkurr%C3%B3)**<br/>
-> `12 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
+> `11 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
 > `11 ▶️` ∙ **[Red House Painters](https://www.last.fm/music/Red+House+Painters)**<br/>
 > `9 ▶️` ∙ **[PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -13,7 +13,7 @@
 
 > `51 ▶️` ∙ **[Neyslutrans](https://www.last.fm/music/Hatari/Neyslutrans)** - [Hatari](https://www.last.fm/music/Hatari)<br/>
 > `18 ▶️` ∙ **[Í annan heim](https://www.last.fm/music/R%C3%B6kkurr%C3%B3/%C3%8D+annan+heim)** - [Rökkurró](https://www.last.fm/music/R%C3%B6kkurr%C3%B3)<br/>
-> `12 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
+> `11 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `11 ▶️` ∙ **[Red House Painters I](https://www.last.fm/music/Red+House+Painters/Red+House+Painters+I)** - [Red House Painters](https://www.last.fm/music/Red+House+Painters)<br/>
 > `6 ▶️` ∙ **[ARENA](https://www.last.fm/music/PIXEL+GRIP/ARENA)** - [PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)<br/>
 <!--END_LASTFM_ALBUMS-->
