@@ -3,9 +3,9 @@
 
 > `53 ▶️` ∙ **[Phèdre](https://www.last.fm/music/Ph%C3%A8dre)**<br/>
 > `53 ▶️` ∙ **[µ-Ziq](https://www.last.fm/music/%C2%B5-Ziq)**<br/>
+> `42 ▶️` ∙ **[Parfenov](https://www.last.fm/music/Parfenov)**<br/>
 > `34 ▶️` ∙ **[Spit Mask](https://www.last.fm/music/Spit+Mask)**<br/>
 > `32 ▶️` ∙ **[Битлджус, Бэтмен, Алиса, Вилли Вонка](https://www.last.fm/music/%D0%91%D0%B8%D1%82%D0%BB%D0%B4%D0%B6%D1%83%D1%81,+%D0%91%D1%8D%D1%82%D0%BC%D0%B5%D0%BD,+%D0%90%D0%BB%D0%B8%D1%81%D0%B0,+%D0%92%D0%B8%D0%BB%D0%BB%D0%B8+%D0%92%D0%BE%D0%BD%D0%BA%D0%B0)**<br/>
-> `29 ▶️` ∙ **[Parfenov](https://www.last.fm/music/Parfenov)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
