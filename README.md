@@ -5,7 +5,7 @@
 > `48 ▶️` ∙ **[Parfenov](https://www.last.fm/music/Parfenov)**<br/>
 > `36 ▶️` ∙ **[Spit Mask](https://www.last.fm/music/Spit+Mask)**<br/>
 > `32 ▶️` ∙ **[Битлджус, Бэтмен, Алиса, Вилли Вонка](https://www.last.fm/music/%D0%91%D0%B8%D1%82%D0%BB%D0%B4%D0%B6%D1%83%D1%81,+%D0%91%D1%8D%D1%82%D0%BC%D0%B5%D0%BD,+%D0%90%D0%BB%D0%B8%D1%81%D0%B0,+%D0%92%D0%B8%D0%BB%D0%BB%D0%B8+%D0%92%D0%BE%D0%BD%D0%BA%D0%B0)**<br/>
-> `27 ▶️` ∙ **[вДудь](https://www.last.fm/music/%D0%B2%D0%94%D1%83%D0%B4%D1%8C)**<br/>
+> `27 ▶️` ∙ **[µ-Ziq](https://www.last.fm/music/%C2%B5-Ziq)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `19 ▶️` ∙ **[Cocoon](https://www.last.fm/music/Ph%C3%A8dre/_/Cocoon)** - [Phèdre](https://www.last.fm/music/Ph%C3%A8dre)<br/>
 > `17 ▶️` ∙ **[Permission](https://www.last.fm/music/Spit+Mask/_/Permission)** - [Spit Mask](https://www.last.fm/music/Spit+Mask)<br/>
 > `15 ▶️` ∙ **[Dark Love](https://www.last.fm/music/New+Candys/_/Dark+Love)** - [New Candys](https://www.last.fm/music/New+Candys)<br/>
-> `9 ▶️` ∙ **[K-Cloche](https://www.last.fm/music/Datassette/_/K-Cloche)** - [Datassette](https://www.last.fm/music/Datassette)<br/>
+> `10 ▶️` ∙ **[Game and Performance](https://www.last.fm/music/Deux/_/Game+and+Performance)** - [Deux](https://www.last.fm/music/Deux)<br/>
 <!--END_LASTFM_TRACKS-->
