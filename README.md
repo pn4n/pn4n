@@ -3,9 +3,9 @@
 
 > `68 ▶️` ∙ **[Phèdre](https://www.last.fm/music/Ph%C3%A8dre)**<br/>
 > `48 ▶️` ∙ **[Parfenov](https://www.last.fm/music/Parfenov)**<br/>
-> `27 ▶️` ∙ **[вДудь](https://www.last.fm/music/%D0%B2%D0%94%D1%83%D0%B4%D1%8C)**<br/>
 > `23 ▶️` ∙ **[New Candys](https://www.last.fm/music/New+Candys)**<br/>
-> `17 ▶️` ∙ **[Spit Mask](https://www.last.fm/music/Spit+Mask)**<br/>
+> `17 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
+> `17 ▶️` ∙ **[вДудь](https://www.last.fm/music/%D0%B2%D0%94%D1%83%D0%B4%D1%8C)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `37 ▶️` ∙ **[Eterna](https://www.last.fm/music/Ph%C3%A8dre/Eterna)** - [Phèdre](https://www.last.fm/music/Ph%C3%A8dre)<br/>
 > `31 ▶️` ∙ **[Phèdre](https://www.last.fm/music/Ph%C3%A8dre/Ph%C3%A8dre)** - [Phèdre](https://www.last.fm/music/Ph%C3%A8dre)<br/>
 > `18 ▶️` ∙ **[New Candys As Medicine](https://www.last.fm/music/New+Candys/New+Candys+As+Medicine)** - [New Candys](https://www.last.fm/music/New+Candys)<br/>
-> `17 ▶️` ∙ **[SWALLOW](https://www.last.fm/music/Spit+Mask/SWALLOW)** - [Spit Mask](https://www.last.fm/music/Spit+Mask)<br/>
 > `12 ▶️` ∙ **[Decadence](https://www.last.fm/music/Deux/Decadence)** - [Deux](https://www.last.fm/music/Deux)<br/>
+> `8 ▶️` ∙ **[23](https://www.last.fm/music/Blonde+Redhead/23)** - [Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `22 ▶️` ∙ **[APHRODITE](https://www.last.fm/music/Ph%C3%A8dre/_/APHRODITE)** - [Phèdre](https://www.last.fm/music/Ph%C3%A8dre)<br/>
 > `20 ▶️` ∙ **[Cocoon](https://www.last.fm/music/Ph%C3%A8dre/_/Cocoon)** - [Phèdre](https://www.last.fm/music/Ph%C3%A8dre)<br/>
 > `17 ▶️` ∙ **[Dark Love](https://www.last.fm/music/New+Candys/_/Dark+Love)** - [New Candys](https://www.last.fm/music/New+Candys)<br/>
-> `13 ▶️` ∙ **[Permission](https://www.last.fm/music/Spit+Mask/_/Permission)** - [Spit Mask](https://www.last.fm/music/Spit+Mask)<br/>
 > `12 ▶️` ∙ **[Game and Performance](https://www.last.fm/music/Deux/_/Game+and+Performance)** - [Deux](https://www.last.fm/music/Deux)<br/>
+> `11 ▶️` ∙ **[Бен](https://www.last.fm/music/voice+message/_/%D0%91%D0%B5%D0%BD)** - [voice message](https://www.last.fm/music/voice+message)<br/>
 <!--END_LASTFM_TRACKS-->
