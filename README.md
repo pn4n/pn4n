@@ -15,7 +15,7 @@
 > `17 ▶️` ∙ **[Phèdre](https://www.last.fm/music/Ph%C3%A8dre/Ph%C3%A8dre)** - [Phèdre](https://www.last.fm/music/Ph%C3%A8dre)<br/>
 > `13 ▶️` ∙ **[Decadence](https://www.last.fm/music/Deux/Decadence)** - [Deux](https://www.last.fm/music/Deux)<br/>
 > `13 ▶️` ∙ **[Eterna](https://www.last.fm/music/Ph%C3%A8dre/Eterna)** - [Phèdre](https://www.last.fm/music/Ph%C3%A8dre)<br/>
-> `7 ▶️` ∙ **[23](https://www.last.fm/music/Blonde+Redhead/23)** - [Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)<br/>
+> `8 ▶️` ∙ **[23](https://www.last.fm/music/Blonde+Redhead/23)** - [Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
