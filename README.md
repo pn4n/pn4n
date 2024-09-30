@@ -1,11 +1,11 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `11 ▶️` ∙ **[Рейх захватил Францию, СССР](https://www.last.fm/music/%D0%A0%D0%B5%D0%B9%D1%85+%D0%B7%D0%B0%D1%85%D0%B2%D0%B0%D1%82%D0%B8%D0%BB+%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8E,+%D0%A1%D0%A1%D0%A1%D0%A0)**<br/>
 > `10 ▶️` ∙ **[Phèdre](https://www.last.fm/music/Ph%C3%A8dre)**<br/>
 > `8 ▶️` ∙ **[Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)**<br/>
 > `8 ▶️` ∙ **[Deux](https://www.last.fm/music/Deux)**<br/>
 > `8 ▶️` ∙ **[New Candys](https://www.last.fm/music/New+Candys)**<br/>
+> `7 ▶️` ∙ **[Heimat](https://www.last.fm/music/Heimat)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
