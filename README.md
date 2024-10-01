@@ -3,9 +3,9 @@
 
 > `23 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 > `14 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
+> `12 ▶️` ∙ **[#НМДНИ 1925](https://www.last.fm/music/%23%D0%9D%D0%9C%D0%94%D0%9D%D0%98+1925)**<br/>
 > `10 ▶️` ∙ **[Phèdre](https://www.last.fm/music/Ph%C3%A8dre)**<br/>
 > `8 ▶️` ∙ **[Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)**<br/>
-> `8 ▶️` ∙ **[Deux](https://www.last.fm/music/Deux)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
