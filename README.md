@@ -13,9 +13,9 @@
 
 > `4 ▶️` ∙ **[Phèdre](https://www.last.fm/music/Ph%C3%A8dre/Ph%C3%A8dre)** - [Phèdre](https://www.last.fm/music/Ph%C3%A8dre)<br/>
 > `4 ▶️` ∙ **[ГОВОРИТ ВАФИН](https://www.last.fm/music/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D)** - [ГОВОРИТ ВАФИН](https://www.last.fm/music/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D)<br/>
-> `3 ▶️` ∙ **[23](https://www.last.fm/music/Blonde+Redhead/23)** - [Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)<br/>
 > `3 ▶️` ∙ **[Decadence](https://www.last.fm/music/Deux/Decadence)** - [Deux](https://www.last.fm/music/Deux)<br/>
 > `3 ▶️` ∙ **[New Candys As Medicine](https://www.last.fm/music/New+Candys/New+Candys+As+Medicine)** - [New Candys](https://www.last.fm/music/New+Candys)<br/>
+> `3 ▶️` ∙ **[Kaleidoscope (Remastered & Expanded)](https://www.last.fm/music/Siouxsie+and+the+Banshees/Kaleidoscope+(Remastered+&+Expanded))** - [Siouxsie and the Banshees](https://www.last.fm/music/Siouxsie+and+the+Banshees)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `5 ▶️` ∙ **[whyudepressed¿😋](https://www.last.fm/music/Video+message/_/whyudepressed%C2%BF%F0%9F%98%8B)** - [Video message](https://www.last.fm/music/Video+message)<br/>
 > `5 ▶️` ∙ **[Бен](https://www.last.fm/music/voice+message/_/%D0%91%D0%B5%D0%BD)** - [voice message](https://www.last.fm/music/voice+message)<br/>
 > `4 ▶️` ∙ **[APHRODITE](https://www.last.fm/music/Ph%C3%A8dre/_/APHRODITE)** - [Phèdre](https://www.last.fm/music/Ph%C3%A8dre)<br/>
-> `3 ▶️` ∙ **[23](https://www.last.fm/music/Blonde+Redhead/_/23)** - [Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)<br/>
+> `3 ▶️` ∙ **[Game and Performance](https://www.last.fm/music/Deux/_/Game+and+Performance)** - [Deux](https://www.last.fm/music/Deux)<br/>
 <!--END_LASTFM_TRACKS-->
