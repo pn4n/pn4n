@@ -15,7 +15,7 @@
 > `4 ▶️` ∙ **[Phèdre](https://www.last.fm/music/Ph%C3%A8dre/Ph%C3%A8dre)** - [Phèdre](https://www.last.fm/music/Ph%C3%A8dre)<br/>
 > `4 ▶️` ∙ **[Kaleidoscope (Remastered & Expanded)](https://www.last.fm/music/Siouxsie+and+the+Banshees/Kaleidoscope+(Remastered+&+Expanded))** - [Siouxsie and the Banshees](https://www.last.fm/music/Siouxsie+and+the+Banshees)<br/>
 > `3 ▶️` ∙ **[New Candys As Medicine](https://www.last.fm/music/New+Candys/New+Candys+As+Medicine)** - [New Candys](https://www.last.fm/music/New+Candys)<br/>
-> `3 ▶️` ∙ **[Солнцепёк](https://www.last.fm/music/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD+%D0%9D%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B8%D1%82+%D0%9C%D0%BE%D1%80%D0%B5/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5%D0%BF%D1%91%D0%BA)** - [Капитан Ненавидит Море](https://www.last.fm/music/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD+%D0%9D%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B8%D1%82+%D0%9C%D0%BE%D1%80%D0%B5)<br/>
+> `2 ▶️` ∙ **[ok](https://www.last.fm/music/blue+smiley/ok)** - [blue smiley](https://www.last.fm/music/blue+smiley)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
