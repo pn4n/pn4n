@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `32 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
-> `24 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
+> `25 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 > `22 ▶️` ∙ **[Ссср](https://www.last.fm/music/%D0%A1%D1%81%D1%81%D1%80)**<br/>
 > `19 ▶️` ∙ **[Павлик Морозов. Паспорта и прописка. Русский фашист Горгулов. Мичурин. Бараки. ГАЗ](https://www.last.fm/music/%D0%9F%D0%B0%D0%B2%D0%BB%D0%B8%D0%BA+%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2.+%D0%9F%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0+%D0%B8+%D0%BF%D1%80%D0%BE%D0%BF%D0%B8%D1%81%D0%BA%D0%B0.+%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9+%D1%84%D0%B0%D1%88%D0%B8%D1%81%D1%82+%D0%93%D0%BE%D1%80%D0%B3%D1%83%D0%BB%D0%BE%D0%B2.+%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD.+%D0%91%D0%B0%D1%80%D0%B0%D0%BA%D0%B8.+%D0%93%D0%90%D0%97)**<br/>
-> `17 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
+> `18 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
