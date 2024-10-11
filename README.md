@@ -5,7 +5,7 @@
 > `26 ▶️` ∙ **[Павлик Морозов. Паспорта и прописка. Русский фашист Горгулов. Мичурин. Бараки. ГАЗ](https://www.last.fm/music/%D0%9F%D0%B0%D0%B2%D0%BB%D0%B8%D0%BA+%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2.+%D0%9F%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0+%D0%B8+%D0%BF%D1%80%D0%BE%D0%BF%D0%B8%D1%81%D0%BA%D0%B0.+%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9+%D1%84%D0%B0%D1%88%D0%B8%D1%81%D1%82+%D0%93%D0%BE%D1%80%D0%B3%D1%83%D0%BB%D0%BE%D0%B2.+%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD.+%D0%91%D0%B0%D1%80%D0%B0%D0%BA%D0%B8.+%D0%93%D0%90%D0%97)**<br/>
 > `25 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 > `22 ▶️` ∙ **[Ссср](https://www.last.fm/music/%D0%A1%D1%81%D1%81%D1%80)**<br/>
-> `20 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
+> `21 ▶️` ∙ **[«Враги народа». Глава НКВД Ежов. Олимпиада в Германии. Запрет абортов. Война в Испании](https://www.last.fm/music/%C2%AB%D0%92%D1%80%D0%B0%D0%B3%D0%B8+%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%B0%C2%BB.+%D0%93%D0%BB%D0%B0%D0%B2%D0%B0+%D0%9D%D0%9A%D0%92%D0%94+%D0%95%D0%B6%D0%BE%D0%B2.+%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0+%D0%B2+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8.+%D0%97%D0%B0%D0%BF%D1%80%D0%B5%D1%82+%D0%B0%D0%B1%D0%BE%D1%80%D1%82%D0%BE%D0%B2.+%D0%92%D0%BE%D0%B9%D0%BD%D0%B0+%D0%B2+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `29 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `6 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `6 ▶️` ∙ **[ГОВОРИТ ВАФИН](https://www.last.fm/music/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D)** - [ГОВОРИТ ВАФИН](https://www.last.fm/music/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D)<br/>
 > `5 ▶️` ∙ **[All Elephants](https://www.last.fm/music/Mad+Planet/All+Elephants)** - [Mad Planet](https://www.last.fm/music/Mad+Planet)<br/>
 > `4 ▶️` ∙ **[The Automatic Process](https://www.last.fm/music/Home+Video/The+Automatic+Process)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
+> `4 ▶️` ∙ **[ГОВОРИТ ВАФИН](https://www.last.fm/music/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D)** - [ГОВОРИТ ВАФИН](https://www.last.fm/music/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
