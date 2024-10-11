@@ -15,7 +15,7 @@
 > `6 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `5 ▶️` ∙ **[All Elephants](https://www.last.fm/music/Mad+Planet/All+Elephants)** - [Mad Planet](https://www.last.fm/music/Mad+Planet)<br/>
 > `4 ▶️` ∙ **[The Automatic Process](https://www.last.fm/music/Home+Video/The+Automatic+Process)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
-> `4 ▶️` ∙ **[ГОВОРИТ ВАФИН](https://www.last.fm/music/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D)** - [ГОВОРИТ ВАФИН](https://www.last.fm/music/%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%98%D0%A2+%D0%92%D0%90%D0%A4%D0%98%D0%9D)<br/>
+> `3 ▶️` ∙ **[FUSE](https://www.last.fm/music/Cranes/FUSE)** - [Cranes](https://www.last.fm/music/Cranes)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
