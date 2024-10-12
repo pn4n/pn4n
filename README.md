@@ -14,8 +14,8 @@
 > `29 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `6 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `5 ▶️` ∙ **[All Elephants](https://www.last.fm/music/Mad+Planet/All+Elephants)** - [Mad Planet](https://www.last.fm/music/Mad+Planet)<br/>
+> `4 ▶️` ∙ **[Into You](https://www.last.fm/music/Glare/Into+You)** - [Glare](https://www.last.fm/music/Glare)<br/>
 > `4 ▶️` ∙ **[The Automatic Process](https://www.last.fm/music/Home+Video/The+Automatic+Process)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
-> `3 ▶️` ∙ **[FUSE](https://www.last.fm/music/Cranes/FUSE)** - [Cranes](https://www.last.fm/music/Cranes)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `15 ▶️` ∙ **[Pidpunk](https://www.last.fm/music/Home+Video/_/Pidpunk)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `13 ▶️` ∙ **[Папа](https://www.last.fm/music/voice+message/_/%D0%9F%D0%B0%D0%BF%D0%B0)** - [voice message](https://www.last.fm/music/voice+message)<br/>
 > `6 ▶️` ∙ **[Love Addicts](https://www.last.fm/music/Mad+Planet/_/Love+Addicts)** - [Mad Planet](https://www.last.fm/music/Mad+Planet)<br/>
-> `3 ▶️` ∙ **[Fuse](https://www.last.fm/music/Cranes/_/Fuse)** - [Cranes](https://www.last.fm/music/Cranes)<br/>
+> `4 ▶️` ∙ **[Into Me](https://www.last.fm/music/GLARE/_/Into+Me)** - [GLARE](https://www.last.fm/music/GLARE)<br/>
 <!--END_LASTFM_TRACKS-->
