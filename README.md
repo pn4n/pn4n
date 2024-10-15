@@ -2,16 +2,16 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `22 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
-> `18 ▶️` ∙ **[Failure](https://www.last.fm/music/Failure)**<br/>
+> `19 ▶️` ∙ **[Failure](https://www.last.fm/music/Failure)**<br/>
 > `15 ▶️` ∙ **[Glare](https://www.last.fm/music/Glare)**<br/>
 > `14 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
-> `13 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
+> `12 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `17 ▶️` ∙ **[Fantastic Planet](https://www.last.fm/music/Failure/Fantastic+Planet)** - [Failure](https://www.last.fm/music/Failure)<br/>
+> `18 ▶️` ∙ **[Fantastic Planet](https://www.last.fm/music/Failure/Fantastic+Planet)** - [Failure](https://www.last.fm/music/Failure)<br/>
 > `15 ▶️` ∙ **[Far Removed](https://www.last.fm/music/Narrow+Head/Far+Removed)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
 > `11 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `9 ▶️` ∙ **[Into You](https://www.last.fm/music/Glare/Into+You)** - [Glare](https://www.last.fm/music/Glare)<br/>
