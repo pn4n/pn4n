@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `30 ▶️` ∙ **[Failure](https://www.last.fm/music/Failure)**<br/>
-> `19 ▶️` ∙ **[Szablon](https://www.last.fm/music/Szablon)**<br/>
+> `20 ▶️` ∙ **[Szablon](https://www.last.fm/music/Szablon)**<br/>
 > `13 ▶️` ∙ **[Op-Art](https://www.last.fm/music/Op-Art)**<br/>
 > `12 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
 > `12 ▶️` ∙ **[Phèdre](https://www.last.fm/music/Ph%C3%A8dre)**<br/>
@@ -12,7 +12,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `29 ▶️` ∙ **[Fantastic Planet](https://www.last.fm/music/Failure/Fantastic+Planet)** - [Failure](https://www.last.fm/music/Failure)<br/>
-> `18 ▶️` ∙ **[Szumy Miasta](https://www.last.fm/music/Szablon/Szumy+Miasta)** - [Szablon](https://www.last.fm/music/Szablon)<br/>
+> `19 ▶️` ∙ **[Szumy Miasta](https://www.last.fm/music/Szablon/Szumy+Miasta)** - [Szablon](https://www.last.fm/music/Szablon)<br/>
 > `13 ▶️` ∙ **[The Final Act](https://www.last.fm/music/Op-Art/The+Final+Act)** - [Op-Art](https://www.last.fm/music/Op-Art)<br/>
 > `10 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `9 ▶️` ∙ **[Phèdre](https://www.last.fm/music/Ph%C3%A8dre/Ph%C3%A8dre)** - [Phèdre](https://www.last.fm/music/Ph%C3%A8dre)<br/>
