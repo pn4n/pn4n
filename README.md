@@ -13,8 +13,8 @@
 
 > `19 ▶️` ∙ **[Szumy Miasta](https://www.last.fm/music/Szablon/Szumy+Miasta)** - [Szablon](https://www.last.fm/music/Szablon)<br/>
 > `17 ▶️` ∙ **[Red House Painters I](https://www.last.fm/music/Red+House+Painters/Red+House+Painters+I)** - [Red House Painters](https://www.last.fm/music/Red+House+Painters)<br/>
-> `13 ▶️` ∙ **[Fantastic Planet](https://www.last.fm/music/Failure/Fantastic+Planet)** - [Failure](https://www.last.fm/music/Failure)<br/>
 > `13 ▶️` ∙ **[ARENA](https://www.last.fm/music/PIXEL+GRIP/ARENA)** - [PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)<br/>
+> `12 ▶️` ∙ **[Fantastic Planet](https://www.last.fm/music/Failure/Fantastic+Planet)** - [Failure](https://www.last.fm/music/Failure)<br/>
 > `10 ▶️` ∙ **[Zwei](https://www.last.fm/music/Heimat/Zwei)** - [Heimat](https://www.last.fm/music/Heimat)<br/>
 <!--END_LASTFM_ALBUMS-->
 
