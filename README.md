@@ -4,7 +4,7 @@
 > `28 ▶️` ∙ **[Red House Painters](https://www.last.fm/music/Red+House+Painters)**<br/>
 > `19 ▶️` ∙ **[Szablon](https://www.last.fm/music/Szablon)**<br/>
 > `19 ▶️` ∙ **[Радио Долин](https://www.last.fm/music/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE+%D0%94%D0%BE%D0%BB%D0%B8%D0%BD)**<br/>
-> `17 ▶️` ∙ **[PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)**<br/>
+> `18 ▶️` ∙ **[PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)**<br/>
 > `16 ▶️` ∙ **[Mindless Self Indulgence](https://www.last.fm/music/Mindless+Self+Indulgence)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
