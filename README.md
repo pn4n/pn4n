@@ -3,9 +3,9 @@
 
 > `31 ▶️` ∙ **[Red House Painters](https://www.last.fm/music/Red+House+Painters)**<br/>
 > `26 ▶️` ∙ **[Portishead](https://www.last.fm/music/Portishead)**<br/>
-> `19 ▶️` ∙ **[Радио Долин](https://www.last.fm/music/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE+%D0%94%D0%BE%D0%BB%D0%B8%D0%BD)**<br/>
 > `17 ▶️` ∙ **[In Trance 95](https://www.last.fm/music/In+Trance+95)**<br/>
 > `15 ▶️` ∙ **[Belong](https://www.last.fm/music/Belong)**<br/>
+> `15 ▶️` ∙ **[Mindless Self Indulgence](https://www.last.fm/music/Mindless+Self+Indulgence)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `7 ▶️` ∙ **[Triangular Square](https://www.last.fm/music/In+Trance+95/_/Triangular+Square)** - [In Trance 95](https://www.last.fm/music/In+Trance+95)<br/>
 > `7 ▶️` ∙ **[Thrash Me](https://www.last.fm/music/Malaria!/_/Thrash+Me)** - [Malaria!](https://www.last.fm/music/Malaria!)<br/>
 > `7 ▶️` ∙ **[This Hurts](https://www.last.fm/music/Mindless+Self+Indulgence/_/This+Hurts)** - [Mindless Self Indulgence](https://www.last.fm/music/Mindless+Self+Indulgence)<br/>
-> `6 ▶️` ∙ **[Another Space Song](https://www.last.fm/music/Failure/_/Another+Space+Song)** - [Failure](https://www.last.fm/music/Failure)<br/>
+> `6 ▶️` ∙ **[Permission](https://www.last.fm/music/Spit+Mask/_/Permission)** - [Spit Mask](https://www.last.fm/music/Spit+Mask)<br/>
 <!--END_LASTFM_TRACKS-->
