@@ -14,8 +14,8 @@
 > `19 ▶️` ∙ **[Non-Stop Erotic Cabaret](https://www.last.fm/music/Soft+Cell/Non-Stop+Erotic+Cabaret)** - [Soft Cell](https://www.last.fm/music/Soft+Cell)<br/>
 > `16 ▶️` ∙ **[Shapes In A New Geometry](https://www.last.fm/music/In+Trance+95/Shapes+In+A+New+Geometry)** - [In Trance 95](https://www.last.fm/music/In+Trance+95)<br/>
 > `16 ▶️` ∙ **[Red House Painters I](https://www.last.fm/music/Red+House+Painters/Red+House+Painters+I)** - [Red House Painters](https://www.last.fm/music/Red+House+Painters)<br/>
-> `11 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
-> `10 ▶️` ∙ **[Common Era](https://www.last.fm/music/Belong/Common+Era)** - [Belong](https://www.last.fm/music/Belong)<br/>
+> `12 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
+> `11 ▶️` ∙ **[Neyslutrans](https://www.last.fm/music/Hatari/Neyslutrans)** - [Hatari](https://www.last.fm/music/Hatari)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `15 ▶️` ∙ **[Entertain Me](https://www.last.fm/music/Soft+Cell/_/Entertain+Me)** - [Soft Cell](https://www.last.fm/music/Soft+Cell)<br/>
 > `9 ▶️` ∙ **[Triangular Square](https://www.last.fm/music/In+Trance+95/_/Triangular+Square)** - [In Trance 95](https://www.last.fm/music/In+Trance+95)<br/>
 > `7 ▶️` ∙ **[Do You Love?](https://www.last.fm/music/Owen+Pallett/_/Do+You+Love%3F)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
+> `7 ▶️` ∙ **[APHRODITE](https://www.last.fm/music/Ph%C3%A8dre/_/APHRODITE)** - [Phèdre](https://www.last.fm/music/Ph%C3%A8dre)<br/>
 > `7 ▶️` ∙ **[Give Me A Reason](https://www.last.fm/music/Selofan/_/Give+Me+A+Reason)** - [Selofan](https://www.last.fm/music/Selofan)<br/>
-> `7 ▶️` ∙ **[Pragnienie](https://www.last.fm/music/Szablon/_/Pragnienie)** - [Szablon](https://www.last.fm/music/Szablon)<br/>
 <!--END_LASTFM_TRACKS-->
