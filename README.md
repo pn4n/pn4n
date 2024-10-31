@@ -13,9 +13,9 @@
 
 > `19 ▶️` ∙ **[Non-Stop Erotic Cabaret](https://www.last.fm/music/Soft+Cell/Non-Stop+Erotic+Cabaret)** - [Soft Cell](https://www.last.fm/music/Soft+Cell)<br/>
 > `16 ▶️` ∙ **[Shapes In A New Geometry](https://www.last.fm/music/In+Trance+95/Shapes+In+A+New+Geometry)** - [In Trance 95](https://www.last.fm/music/In+Trance+95)<br/>
-> `16 ▶️` ∙ **[Red House Painters I](https://www.last.fm/music/Red+House+Painters/Red+House+Painters+I)** - [Red House Painters](https://www.last.fm/music/Red+House+Painters)<br/>
 > `12 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `11 ▶️` ∙ **[Neyslutrans](https://www.last.fm/music/Hatari/Neyslutrans)** - [Hatari](https://www.last.fm/music/Hatari)<br/>
+> `10 ▶️` ∙ **[Common Era](https://www.last.fm/music/Belong/Common+Era)** - [Belong](https://www.last.fm/music/Belong)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
