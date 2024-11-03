@@ -1,11 +1,11 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `41 ▶️` ∙ **[Liars](https://www.last.fm/music/Liars)**<br/>
+> `44 ▶️` ∙ **[Liars](https://www.last.fm/music/Liars)**<br/>
 > `30 ▶️` ∙ **[Soft Cell](https://www.last.fm/music/Soft+Cell)**<br/>
 > `27 ▶️` ∙ **[The Smiths](https://www.last.fm/music/The+Smiths)**<br/>
+> `23 ▶️` ∙ **[Nirvana](https://www.last.fm/music/Nirvana)**<br/>
 > `17 ▶️` ∙ **[Have a Nice Life](https://www.last.fm/music/Have+a+Nice+Life)**<br/>
-> `13 ▶️` ∙ **[Marie Madeleine](https://www.last.fm/music/Marie+Madeleine)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
