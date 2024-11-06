@@ -14,8 +14,8 @@
 > `23 ▶️` ∙ **[Deceiver](https://www.last.fm/music/DIIV/Deceiver)** - [DIIV](https://www.last.fm/music/DIIV)<br/>
 > `20 ▶️` ∙ **[The Apple Drop](https://www.last.fm/music/Liars/The+Apple+Drop)** - [Liars](https://www.last.fm/music/Liars)<br/>
 > `20 ▶️` ∙ **[V](https://www.last.fm/music/The+Horrors/V)** - [The Horrors](https://www.last.fm/music/The+Horrors)<br/>
-> `18 ▶️` ∙ **[Non-Stop Erotic Cabaret](https://www.last.fm/music/Soft+Cell/Non-Stop+Erotic+Cabaret)** - [Soft Cell](https://www.last.fm/music/Soft+Cell)<br/>
 > `17 ▶️` ∙ **[Mess](https://www.last.fm/music/Liars/Mess)** - [Liars](https://www.last.fm/music/Liars)<br/>
+> `17 ▶️` ∙ **[Non-Stop Erotic Cabaret](https://www.last.fm/music/Soft+Cell/Non-Stop+Erotic+Cabaret)** - [Soft Cell](https://www.last.fm/music/Soft+Cell)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
