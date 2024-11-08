@@ -3,8 +3,8 @@
 
 > `52 ▶️` ∙ **[Liars](https://www.last.fm/music/Liars)**<br/>
 > `51 ▶️` ∙ **[The Horrors](https://www.last.fm/music/The+Horrors)**<br/>
-> `44 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
-> `40 ▶️` ∙ **[Kate Bush](https://www.last.fm/music/Kate+Bush)**<br/>
+> `46 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
+> `38 ▶️` ∙ **[Kate Bush](https://www.last.fm/music/Kate+Bush)**<br/>
 > `29 ▶️` ∙ **[A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -23,7 +23,7 @@
 
 > `15 ▶️` ∙ **[Blankenship](https://www.last.fm/music/DIIV/_/Blankenship)** - [DIIV](https://www.last.fm/music/DIIV)<br/>
 > `11 ▶️` ∙ **[From What the Never Was](https://www.last.fm/music/Liars/_/From+What+the+Never+Was)** - [Liars](https://www.last.fm/music/Liars)<br/>
-> `10 ▶️` ∙ **[Aydin feat. Kevin Parker](https://www.last.fm/music/Discodeine/_/Aydin+feat.+Kevin+Parker)** - [Discodeine](https://www.last.fm/music/Discodeine)<br/>
 > `10 ▶️` ∙ **[River of life](https://www.last.fm/music/Trentem%C3%B8ller/_/River+of+life)** - [Trentemøller](https://www.last.fm/music/Trentem%C3%B8ller)<br/>
 > `9 ▶️` ∙ **[Until the End of Time](https://www.last.fm/music/Screen+Vinyl+Image/_/Until+the+End+of+Time)** - [Screen Vinyl Image](https://www.last.fm/music/Screen+Vinyl+Image)<br/>
+> `8 ▶️` ∙ **[Aydin feat. Kevin Parker](https://www.last.fm/music/Discodeine/_/Aydin+feat.+Kevin+Parker)** - [Discodeine](https://www.last.fm/music/Discodeine)<br/>
 <!--END_LASTFM_TRACKS-->
