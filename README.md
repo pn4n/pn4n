@@ -24,6 +24,6 @@
 > `6 ▶️` ∙ **[Foreseen Death](https://www.last.fm/music/Rendez+Vous/_/Foreseen+Death)** - [Rendez Vous](https://www.last.fm/music/Rendez+Vous)<br/>
 > `6 ▶️` ∙ **[Heartburn](https://www.last.fm/music/THE+SEANCE/_/Heartburn)** - [THE SEANCE](https://www.last.fm/music/THE+SEANCE)<br/>
 > `5 ▶️` ∙ **[Prophet](https://www.last.fm/music/Malaria!/_/Prophet)** - [Malaria!](https://www.last.fm/music/Malaria!)<br/>
-> `5 ▶️` ∙ **[Mi pecho agoniza](https://www.last.fm/music/P%C3%ADldora+Letal/_/Mi+pecho+agoniza)** - [Píldora Letal](https://www.last.fm/music/P%C3%ADldora+Letal)<br/>
 > `5 ▶️` ∙ **[Old Magic](https://www.last.fm/music/Sieben/_/Old+Magic)** - [Sieben](https://www.last.fm/music/Sieben)<br/>
+> `4 ▶️` ∙ **[Mi pecho agoniza](https://www.last.fm/music/P%C3%ADldora+Letal/_/Mi+pecho+agoniza)** - [Píldora Letal](https://www.last.fm/music/P%C3%ADldora+Letal)<br/>
 <!--END_LASTFM_TRACKS-->
