@@ -5,7 +5,7 @@
 > `38 ▶️` ∙ **[The Soft Moon](https://www.last.fm/music/The+Soft+Moon)**<br/>
 > `22 ▶️` ∙ **[The Horrors](https://www.last.fm/music/The+Horrors)**<br/>
 > `12 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
-> `8 ▶️` ∙ **[A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)**<br/>
+> `11 ▶️` ∙ **[Hot Chip](https://www.last.fm/music/Hot+Chip)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
