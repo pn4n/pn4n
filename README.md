@@ -1,11 +1,11 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `39 ▶️` ∙ **[Boards of Canada](https://www.last.fm/music/Boards+of+Canada)**<br/>
 > `38 ▶️` ∙ **[Martial Canterel](https://www.last.fm/music/Martial+Canterel)**<br/>
 > `34 ▶️` ∙ **[Eternal](https://www.last.fm/music/Eternal)**<br/>
-> `23 ▶️` ∙ **[The Horrors](https://www.last.fm/music/The+Horrors)**<br/>
-> `18 ▶️` ∙ **[The Soft Moon](https://www.last.fm/music/The+Soft+Moon)**<br/>
+> `16 ▶️` ∙ **[Hot Chip](https://www.last.fm/music/Hot+Chip)**<br/>
+> `16 ▶️` ∙ **[The Soft Moon](https://www.last.fm/music/The+Soft+Moon)**<br/>
+> `14 ▶️` ∙ **[Ringo Deathstarr](https://www.last.fm/music/Ringo+Deathstarr)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `34 ▶️` ∙ **[Gyors, Lassú](https://www.last.fm/music/Martial+Canterel/Gyors,+Lass%C3%BA)** - [Martial Canterel](https://www.last.fm/music/Martial+Canterel)<br/>
 > `28 ▶️` ∙ **[Breathe](https://www.last.fm/music/Eternal/Breathe)** - [Eternal](https://www.last.fm/music/Eternal)<br/>
-> `22 ▶️` ∙ **[Geogaddi](https://www.last.fm/music/Boards+of+Canada/Geogaddi)** - [Boards of Canada](https://www.last.fm/music/Boards+of+Canada)<br/>
-> `17 ▶️` ∙ **[Criminal](https://www.last.fm/music/The+Soft+Moon/Criminal)** - [The Soft Moon](https://www.last.fm/music/The+Soft+Moon)<br/>
-> `15 ▶️` ∙ **[The Campfire Headphase](https://www.last.fm/music/Boards+of+Canada/The+Campfire+Headphase)** - [Boards of Canada](https://www.last.fm/music/Boards+of+Canada)<br/>
+> `15 ▶️` ∙ **[Criminal](https://www.last.fm/music/The+Soft+Moon/Criminal)** - [The Soft Moon](https://www.last.fm/music/The+Soft+Moon)<br/>
+> `12 ▶️` ∙ **[Ringo Deathstarr](https://www.last.fm/music/Ringo+Deathstarr/Ringo+Deathstarr)** - [Ringo Deathstarr](https://www.last.fm/music/Ringo+Deathstarr)<br/>
+> `9 ▶️` ∙ **[Geogaddi](https://www.last.fm/music/Boards+of+Canada/Geogaddi)** - [Boards of Canada](https://www.last.fm/music/Boards+of+Canada)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
