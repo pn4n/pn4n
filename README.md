@@ -15,7 +15,7 @@
 > `28 ▶️` ∙ **[Breathe](https://www.last.fm/music/Eternal/Breathe)** - [Eternal](https://www.last.fm/music/Eternal)<br/>
 > `15 ▶️` ∙ **[Criminal](https://www.last.fm/music/The+Soft+Moon/Criminal)** - [The Soft Moon](https://www.last.fm/music/The+Soft+Moon)<br/>
 > `12 ▶️` ∙ **[Ringo Deathstarr](https://www.last.fm/music/Ringo+Deathstarr/Ringo+Deathstarr)** - [Ringo Deathstarr](https://www.last.fm/music/Ringo+Deathstarr)<br/>
-> `9 ▶️` ∙ **[Geogaddi](https://www.last.fm/music/Boards+of+Canada/Geogaddi)** - [Boards of Canada](https://www.last.fm/music/Boards+of+Canada)<br/>
+> `8 ▶️` ∙ **[Almost Reach the Sun](https://www.last.fm/music/Trementina/Almost+Reach+the+Sun)** - [Trementina](https://www.last.fm/music/Trementina)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
