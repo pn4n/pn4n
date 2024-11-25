@@ -3,9 +3,9 @@
 
 > `37 ▶️` ∙ **[Martial Canterel](https://www.last.fm/music/Martial+Canterel)**<br/>
 > `28 ▶️` ∙ **[Eternal](https://www.last.fm/music/Eternal)**<br/>
+> `17 ▶️` ∙ **[Diavol Strain](https://www.last.fm/music/Diavol+Strain)**<br/>
 > `16 ▶️` ∙ **[Hot Chip](https://www.last.fm/music/Hot+Chip)**<br/>
 > `14 ▶️` ∙ **[Ringo Deathstarr](https://www.last.fm/music/Ringo+Deathstarr)**<br/>
-> `12 ▶️` ∙ **[Diavol Strain](https://www.last.fm/music/Diavol+Strain)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,8 +13,8 @@
 
 > `33 ▶️` ∙ **[Gyors, Lassú](https://www.last.fm/music/Martial+Canterel/Gyors,+Lass%C3%BA)** - [Martial Canterel](https://www.last.fm/music/Martial+Canterel)<br/>
 > `24 ▶️` ∙ **[Breathe](https://www.last.fm/music/Eternal/Breathe)** - [Eternal](https://www.last.fm/music/Eternal)<br/>
+> `16 ▶️` ∙ **[Vipera Mortis](https://www.last.fm/music/Diavol+Strain/Vipera+Mortis)** - [Diavol Strain](https://www.last.fm/music/Diavol+Strain)<br/>
 > `12 ▶️` ∙ **[Ringo Deathstarr](https://www.last.fm/music/Ringo+Deathstarr/Ringo+Deathstarr)** - [Ringo Deathstarr](https://www.last.fm/music/Ringo+Deathstarr)<br/>
-> `11 ▶️` ∙ **[Vipera Mortis](https://www.last.fm/music/Diavol+Strain/Vipera+Mortis)** - [Diavol Strain](https://www.last.fm/music/Diavol+Strain)<br/>
 > `10 ▶️` ∙ **[Criminal](https://www.last.fm/music/The+Soft+Moon/Criminal)** - [The Soft Moon](https://www.last.fm/music/The+Soft+Moon)<br/>
 <!--END_LASTFM_ALBUMS-->
 
