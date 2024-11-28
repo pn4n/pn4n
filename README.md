@@ -25,5 +25,5 @@
 > `12 ▶️` ∙ **[Traición](https://www.last.fm/music/Diavol+Strain/_/Traici%C3%B3n)** - [Diavol Strain](https://www.last.fm/music/Diavol+Strain)<br/>
 > `6 ▶️` ∙ **[Ölüm Günüm](https://www.last.fm/music/Ductape/_/%C3%96l%C3%BCm+G%C3%BCn%C3%BCm)** - [Ductape](https://www.last.fm/music/Ductape)<br/>
 > `6 ▶️` ∙ **[And I thought](https://www.last.fm/music/Martial+Canterel/_/And+I+thought)** - [Martial Canterel](https://www.last.fm/music/Martial+Canterel)<br/>
-> `5 ▶️` ∙ **[◆](https://www.last.fm/music/Diavol+Strain/_/%E2%97%86)** - [Diavol Strain](https://www.last.fm/music/Diavol+Strain)<br/>
+> `6 ▶️` ∙ **[See You in Hell](https://www.last.fm/music/Suicide+Commando/_/See+You+in+Hell)** - [Suicide Commando](https://www.last.fm/music/Suicide+Commando)<br/>
 <!--END_LASTFM_TRACKS-->
