@@ -5,7 +5,7 @@
 > `20 ▶️` ∙ **[Suicide Commando](https://www.last.fm/music/Suicide+Commando)**<br/>
 > `12 ▶️` ∙ **[Eternal Dust](https://www.last.fm/music/Eternal+Dust)**<br/>
 > `11 ▶️` ∙ **[Dust](https://www.last.fm/music/Dust)**<br/>
-> `7 ▶️` ∙ **[Fragrance](https://www.last.fm/music/Fragrance)**<br/>
+> `8 ▶️` ∙ **[Rain Dogs](https://www.last.fm/music/Rain+Dogs)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
