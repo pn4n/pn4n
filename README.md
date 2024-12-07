@@ -3,9 +3,9 @@
 
 > `24 ▶️` ∙ **[Fragrance](https://www.last.fm/music/Fragrance)**<br/>
 > `20 ▶️` ∙ **[Rain Dogs](https://www.last.fm/music/Rain+Dogs)**<br/>
+> `16 ▶️` ∙ **[Mumblr](https://www.last.fm/music/Mumblr)**<br/>
 > `15 ▶️` ∙ **[The Wake](https://www.last.fm/music/The+Wake)**<br/>
 > `11 ▶️` ∙ **[Pixies](https://www.last.fm/music/Pixies)**<br/>
-> `9 ▶️` ∙ **[Echoberyl](https://www.last.fm/music/Echoberyl)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `15 ▶️` ∙ **[Tears - Mareux Remix](https://www.last.fm/music/Fragrance/_/Tears+-+Mareux+Remix)** - [Fragrance](https://www.last.fm/music/Fragrance)<br/>
 > `10 ▶️` ∙ **[Catacomb Eyes](https://www.last.fm/music/Rain+Dogs/_/Catacomb+Eyes)** - [Rain Dogs](https://www.last.fm/music/Rain+Dogs)<br/>
 > `9 ▶️` ∙ **[English Rain](https://www.last.fm/music/The+Wake/_/English+Rain)** - [The Wake](https://www.last.fm/music/The+Wake)<br/>
-> `7 ▶️` ∙ **[See You in Hell](https://www.last.fm/music/Suicide+Commando/_/See+You+in+Hell)** - [Suicide Commando](https://www.last.fm/music/Suicide+Commando)<br/>
+> `6 ▶️` ∙ **[See You in Hell](https://www.last.fm/music/Suicide+Commando/_/See+You+in+Hell)** - [Suicide Commando](https://www.last.fm/music/Suicide+Commando)<br/>
 > `5 ▶️` ∙ **[Medea's Revenge](https://www.last.fm/music/Echoberyl/_/Medea%27s+Revenge)** - [Echoberyl](https://www.last.fm/music/Echoberyl)<br/>
 <!--END_LASTFM_TRACKS-->
