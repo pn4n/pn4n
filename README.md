@@ -4,7 +4,7 @@
 > `96 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `63 ▶️` ∙ **[LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)**<br/>
 > `16 ▶️` ∙ **[New Order](https://www.last.fm/music/New+Order)**<br/>
-> `14 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
+> `13 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
 > `7 ▶️` ∙ **[Coil](https://www.last.fm/music/Coil)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
