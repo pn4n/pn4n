@@ -3,9 +3,9 @@
 
 > `98 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `65 ▶️` ∙ **[LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)**<br/>
-> `13 ▶️` ∙ **[New Order](https://www.last.fm/music/New+Order)**<br/>
 > `7 ▶️` ∙ **[Ghost Cop](https://www.last.fm/music/Ghost+Cop)**<br/>
 > `6 ▶️` ∙ **[Chest press](https://www.last.fm/music/Chest+press)**<br/>
+> `5 ▶️` ∙ **[Coil](https://www.last.fm/music/Coil)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
