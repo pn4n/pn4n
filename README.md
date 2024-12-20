@@ -1,7 +1,7 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `30 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
+> `29 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `20 ▶️` ∙ **[LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)**<br/>
 > `8 ▶️` ∙ **[Ghost Cop](https://www.last.fm/music/Ghost+Cop)**<br/>
 > `6 ▶️` ∙ **[The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)**<br/>
