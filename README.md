@@ -21,7 +21,7 @@
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `8 ▶️` ∙ **[things i know](https://www.last.fm/music/Badtime/_/things+i+know)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
+> `9 ▶️` ∙ **[things i know](https://www.last.fm/music/Badtime/_/things+i+know)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
 > `7 ▶️` ∙ **[A Shot in the Dark](https://www.last.fm/music/Ghost+Cop/_/A+Shot+in+the+Dark)** - [Ghost Cop](https://www.last.fm/music/Ghost+Cop)<br/>
 > `6 ▶️` ∙ **[Sea of Trees](https://www.last.fm/music/LE+PRINCE+HARRY/_/Sea+of+Trees)** - [LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)<br/>
 > `4 ▶️` ∙ **[parody](https://www.last.fm/music/Badtime/_/parody)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
