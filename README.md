@@ -1,11 +1,11 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `7 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `6 ▶️` ∙ **[Anklepants](https://www.last.fm/music/Anklepants)**<br/>
-> `6 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `6 ▶️` ∙ **[LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)**<br/>
 > `6 ▶️` ∙ **[The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)**<br/>
-> `4 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion)**<br/>
+> `4 ▶️` ∙ **[Ghost Cop](https://www.last.fm/music/Ghost+Cop)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
