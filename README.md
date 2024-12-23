@@ -5,7 +5,7 @@
 > `6 ▶️` ∙ **[Anklepants](https://www.last.fm/music/Anklepants)**<br/>
 > `6 ▶️` ∙ **[LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)**<br/>
 > `6 ▶️` ∙ **[The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)**<br/>
-> `4 ▶️` ∙ **[Ghost Cop](https://www.last.fm/music/Ghost+Cop)**<br/>
+> `4 ▶️` ∙ **[Double Echo](https://www.last.fm/music/Double+Echo)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
