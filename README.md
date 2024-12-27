@@ -5,17 +5,17 @@
 > `13 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `13 ▶️` ∙ **[The Soft Moon](https://www.last.fm/music/The+Soft+Moon)**<br/>
 > `10 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
-> `9 ▶️` ∙ **[LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)**<br/>
+> `8 ▶️` ∙ **[LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `9 ▶️` ∙ **[A Long Way down](https://www.last.fm/music/LE+PRINCE+HARRY/A+Long+Way+down)** - [LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)<br/>
+> `8 ▶️` ∙ **[A Long Way down](https://www.last.fm/music/LE+PRINCE+HARRY/A+Long+Way+down)** - [LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)<br/>
 > `7 ▶️` ∙ **[badtime vol. 2](https://www.last.fm/music/Badtime/badtime+vol.+2)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
 > `7 ▶️` ∙ **[Dusk at Cubist Castle](https://www.last.fm/music/The+Olivia+Tremor+Control/Dusk+at+Cubist+Castle)** - [The Olivia Tremor Control](https://www.last.fm/music/The+Olivia+Tremor+Control)<br/>
 > `6 ▶️` ∙ **[But, What Ends When the Symbols Shatter?](https://www.last.fm/music/Death+in+June/But,+What+Ends+When+the+Symbols+Shatter%3F)** - [Death in June](https://www.last.fm/music/Death+in+June)<br/>
-> `5 ▶️` ∙ **[Nada!](https://www.last.fm/music/Death+in+June/Nada!)** - [Death in June](https://www.last.fm/music/Death+in+June)<br/>
+> `6 ▶️` ∙ **[Gyors, Lassú](https://www.last.fm/music/Martial+Canterel/Gyors,+Lass%C3%BA)** - [Martial Canterel](https://www.last.fm/music/Martial+Canterel)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
