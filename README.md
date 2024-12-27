@@ -3,9 +3,9 @@
 
 > `13 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `13 ▶️` ∙ **[The Soft Moon](https://www.last.fm/music/The+Soft+Moon)**<br/>
+> `11 ▶️` ∙ **[Death in June](https://www.last.fm/music/Death+in+June)**<br/>
 > `9 ▶️` ∙ **[LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)**<br/>
 > `9 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
-> `7 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `6 ▶️` ∙ **[badtime vol. 2](https://www.last.fm/music/Badtime/badtime+vol.+2)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
 > `6 ▶️` ∙ **[Dusk at Cubist Castle](https://www.last.fm/music/The+Olivia+Tremor+Control/Dusk+at+Cubist+Castle)** - [The Olivia Tremor Control](https://www.last.fm/music/The+Olivia+Tremor+Control)<br/>
 > `5 ▶️` ∙ **[badtime vol. 4](https://www.last.fm/music/Badtime/badtime+vol.+4)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
-> `5 ▶️` ∙ **[Super Freq](https://www.last.fm/music/Machine+Girl/Super+Freq)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
+> `5 ▶️` ∙ **[Nada!](https://www.last.fm/music/Death+in+June/Nada!)** - [Death in June](https://www.last.fm/music/Death+in+June)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
