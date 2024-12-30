@@ -3,9 +3,9 @@
 
 > `16 ▶️` ∙ **[Death in June](https://www.last.fm/music/Death+in+June)**<br/>
 > `13 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
-> `13 ▶️` ∙ **[The Soft Moon](https://www.last.fm/music/The+Soft+Moon)**<br/>
+> `11 ▶️` ∙ **[The Soft Moon](https://www.last.fm/music/The+Soft+Moon)**<br/>
 > `8 ▶️` ∙ **[LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)**<br/>
-> `8 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
+> `8 ▶️` ∙ **[Martial Canterel](https://www.last.fm/music/Martial+Canterel)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
