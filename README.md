@@ -3,9 +3,9 @@
 
 > `30 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `16 ▶️` ∙ **[Death in June](https://www.last.fm/music/Death+in+June)**<br/>
-> `11 ▶️` ∙ **[The Soft Moon](https://www.last.fm/music/The+Soft+Moon)**<br/>
 > `10 ▶️` ∙ **[Morphine](https://www.last.fm/music/Morphine)**<br/>
 > `9 ▶️` ∙ **[The The](https://www.last.fm/music/The+The)**<br/>
+> `8 ▶️` ∙ **[LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
