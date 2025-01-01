@@ -3,7 +3,7 @@
 
 > `30 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `16 ▶️` ∙ **[Death in June](https://www.last.fm/music/Death+in+June)**<br/>
-> `10 ▶️` ∙ **[Morphine](https://www.last.fm/music/Morphine)**<br/>
+> `9 ▶️` ∙ **[Morphine](https://www.last.fm/music/Morphine)**<br/>
 > `9 ▶️` ∙ **[The The](https://www.last.fm/music/The+The)**<br/>
 > `8 ▶️` ∙ **[LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -21,9 +21,9 @@
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `4 ▶️` ∙ **[Milk and Honey](https://www.last.fm/music/Jackson+C.+Frank/_/Milk+and+Honey)** - [Jackson C. Frank](https://www.last.fm/music/Jackson+C.+Frank)<br/>
 > `4 ▶️` ∙ **[Surface](https://www.last.fm/music/Keluar/_/Surface)** - [Keluar](https://www.last.fm/music/Keluar)<br/>
 > `3 ▶️` ∙ **[S.O.S.](https://www.last.fm/music/ABBA/_/S.O.S.)** - [ABBA](https://www.last.fm/music/ABBA)<br/>
 > `3 ▶️` ∙ **[demonic boy](https://www.last.fm/music/Badtime/_/demonic+boy)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
 > `3 ▶️` ∙ **[parody](https://www.last.fm/music/Badtime/_/parody)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
+> `3 ▶️` ∙ **[voices](https://www.last.fm/music/Badtime/_/voices)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
 <!--END_LASTFM_TRACKS-->
