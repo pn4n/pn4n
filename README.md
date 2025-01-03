@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `30 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
-> `16 ▶️` ∙ **[Death in June](https://www.last.fm/music/Death+in+June)**<br/>
 > `10 ▶️` ∙ **[Morphine](https://www.last.fm/music/Morphine)**<br/>
 > `8 ▶️` ∙ **[Sanguis et Cinis](https://www.last.fm/music/Sanguis+et+Cinis)**<br/>
 > `8 ▶️` ∙ **[The The](https://www.last.fm/music/The+The)**<br/>
+> `6 ▶️` ∙ **[Orange Blossom](https://www.last.fm/music/Orange+Blossom)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `8 ▶️` ∙ **[Good](https://www.last.fm/music/Morphine/Good)** - [Morphine](https://www.last.fm/music/Morphine)<br/>
 > `8 ▶️` ∙ **[Amnesia](https://www.last.fm/music/Sanguis+et+Cinis/Amnesia)** - [Sanguis et Cinis](https://www.last.fm/music/Sanguis+et+Cinis)<br/>
 > `6 ▶️` ∙ **[Badtime Vol. 1](https://www.last.fm/music/Badtime/Badtime+Vol.+1)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
-> `6 ▶️` ∙ **[But, What Ends When the Symbols Shatter?](https://www.last.fm/music/Death+in+June/But,+What+Ends+When+the+Symbols+Shatter%3F)** - [Death in June](https://www.last.fm/music/Death+in+June)<br/>
+> `6 ▶️` ∙ **[London Town 1983-1993](https://www.last.fm/music/The+The/London+Town+1983-1993)** - [The The](https://www.last.fm/music/The+The)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
