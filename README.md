@@ -3,9 +3,9 @@
 
 > `31 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `10 ▶️` ∙ **[Sanguis et Cinis](https://www.last.fm/music/Sanguis+et+Cinis)**<br/>
-> `9 ▶️` ∙ **[Morphine](https://www.last.fm/music/Morphine)**<br/>
-> `8 ▶️` ∙ **[The The](https://www.last.fm/music/The+The)**<br/>
-> `6 ▶️` ∙ **[Orange Blossom](https://www.last.fm/music/Orange+Blossom)**<br/>
+> `8 ▶️` ∙ **[Morphine](https://www.last.fm/music/Morphine)**<br/>
+> `6 ▶️` ∙ **[The The](https://www.last.fm/music/The+The)**<br/>
+> `5 ▶️` ∙ **[Orange Blossom](https://www.last.fm/music/Orange+Blossom)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `16 ▶️` ∙ **[badtime vol. 3](https://www.last.fm/music/Badtime/badtime+vol.+3)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
 > `10 ▶️` ∙ **[Amnesia](https://www.last.fm/music/Sanguis+et+Cinis/Amnesia)** - [Sanguis et Cinis](https://www.last.fm/music/Sanguis+et+Cinis)<br/>
-> `7 ▶️` ∙ **[Good](https://www.last.fm/music/Morphine/Good)** - [Morphine](https://www.last.fm/music/Morphine)<br/>
 > `6 ▶️` ∙ **[Badtime Vol. 1](https://www.last.fm/music/Badtime/Badtime+Vol.+1)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
-> `6 ▶️` ∙ **[London Town 1983-1993](https://www.last.fm/music/The+The/London+Town+1983-1993)** - [The The](https://www.last.fm/music/The+The)<br/>
+> `6 ▶️` ∙ **[Good](https://www.last.fm/music/Morphine/Good)** - [Morphine](https://www.last.fm/music/Morphine)<br/>
+> `5 ▶️` ∙ **[badtime vol. 4](https://www.last.fm/music/Badtime/badtime+vol.+4)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
