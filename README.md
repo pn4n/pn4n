@@ -3,9 +3,9 @@
 
 > `28 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `11 ▶️` ∙ **[Sanguis et Cinis](https://www.last.fm/music/Sanguis+et+Cinis)**<br/>
-> `8 ▶️` ∙ **[Morphine](https://www.last.fm/music/Morphine)**<br/>
 > `5 ▶️` ∙ **[Orange Blossom](https://www.last.fm/music/Orange+Blossom)**<br/>
 > `5 ▶️` ∙ **[Roxy Music](https://www.last.fm/music/Roxy+Music)**<br/>
+> `5 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `16 ▶️` ∙ **[badtime vol. 3](https://www.last.fm/music/Badtime/badtime+vol.+3)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
 > `11 ▶️` ∙ **[Amnesia](https://www.last.fm/music/Sanguis+et+Cinis/Amnesia)** - [Sanguis et Cinis](https://www.last.fm/music/Sanguis+et+Cinis)<br/>
-> `6 ▶️` ∙ **[Good](https://www.last.fm/music/Morphine/Good)** - [Morphine](https://www.last.fm/music/Morphine)<br/>
 > `5 ▶️` ∙ **[Badtime Vol. 1](https://www.last.fm/music/Badtime/Badtime+Vol.+1)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
 > `4 ▶️` ∙ **[badtime vol. 4](https://www.last.fm/music/Badtime/badtime+vol.+4)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
+> `4 ▶️` ∙ **[Super Freq](https://www.last.fm/music/Machine+Girl/Super+Freq)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
