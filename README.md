@@ -5,7 +5,7 @@
 > `11 ▶️` ∙ **[Sanguis et Cinis](https://www.last.fm/music/Sanguis+et+Cinis)**<br/>
 > `5 ▶️` ∙ **[Roxy Music](https://www.last.fm/music/Roxy+Music)**<br/>
 > `5 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
-> `4 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
+> `5 ▶️` ∙ **[µ-Ziq](https://www.last.fm/music/%C2%B5-Ziq)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
