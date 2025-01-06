@@ -3,9 +3,9 @@
 
 > `30 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `11 ▶️` ∙ **[Sanguis et Cinis](https://www.last.fm/music/Sanguis+et+Cinis)**<br/>
+> `6 ▶️` ∙ **[Solo Ansamblis](https://www.last.fm/music/Solo+Ansamblis)**<br/>
+> `5 ▶️` ∙ **[Oingo Boingo](https://www.last.fm/music/Oingo+Boingo)**<br/>
 > `5 ▶️` ∙ **[Roxy Music](https://www.last.fm/music/Roxy+Music)**<br/>
-> `5 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
-> `5 ▶️` ∙ **[µ-Ziq](https://www.last.fm/music/%C2%B5-Ziq)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
