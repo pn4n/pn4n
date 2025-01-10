@@ -3,9 +3,9 @@
 
 > `14 ▶️` ∙ **[A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)**<br/>
 > `10 ▶️` ∙ **[Revolution Above Disorder](https://www.last.fm/music/Revolution+Above+Disorder)**<br/>
+> `8 ▶️` ∙ **[Cranes](https://www.last.fm/music/Cranes)**<br/>
 > `7 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
-> `7 ▶️` ∙ **[Cranes](https://www.last.fm/music/Cranes)**<br/>
-> `7 ▶️` ∙ **[NZCA/LINES](https://www.last.fm/music/NZCA%2FLINES)**<br/>
+> `7 ▶️` ∙ **[Double Echo](https://www.last.fm/music/Double+Echo)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
