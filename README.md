@@ -5,7 +5,7 @@
 > `11 ▶️` ∙ **[Revolution Above Disorder](https://www.last.fm/music/Revolution+Above+Disorder)**<br/>
 > `8 ▶️` ∙ **[Cranes](https://www.last.fm/music/Cranes)**<br/>
 > `8 ▶️` ∙ **[Joy Division](https://www.last.fm/music/Joy+Division)**<br/>
-> `7 ▶️` ∙ **[Double Echo](https://www.last.fm/music/Double+Echo)**<br/>
+> `8 ▶️` ∙ **[NZCA/LINES](https://www.last.fm/music/NZCA%2FLINES)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,7 +13,7 @@
 
 > `10 ▶️` ∙ **[The Flowers of Destruction (A Place to Bury Strangers Remix)](https://www.last.fm/music/Revolution+Above+Disorder/The+Flowers+of+Destruction+(A+Place+to+Bury+Strangers+Remix))** - [Revolution Above Disorder](https://www.last.fm/music/Revolution+Above+Disorder)<br/>
 > `8 ▶️` ∙ **[Hologram](https://www.last.fm/music/A+Place+to+Bury+Strangers/Hologram)** - [A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)<br/>
-> `7 ▶️` ∙ **[Infinite Summer](https://www.last.fm/music/NZCA+LINES/Infinite+Summer)** - [NZCA LINES](https://www.last.fm/music/NZCA+LINES)<br/>
+> `8 ▶️` ∙ **[Infinite Summer](https://www.last.fm/music/NZCA+LINES/Infinite+Summer)** - [NZCA LINES](https://www.last.fm/music/NZCA+LINES)<br/>
 > `5 ▶️` ∙ **[badtime vol. 3](https://www.last.fm/music/Badtime/badtime+vol.+3)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
 > `5 ▶️` ∙ **[More Constant Than The Gods](https://www.last.fm/music/SubRosa/More+Constant+Than+The+Gods)** - [SubRosa](https://www.last.fm/music/SubRosa)<br/>
 <!--END_LASTFM_ALBUMS-->
