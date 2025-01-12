@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `31 ▶️` ∙ **[NZCA/LINES](https://www.last.fm/music/NZCA%2FLINES)**<br/>
-> `17 ▶️` ∙ **[A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)**<br/>
+> `16 ▶️` ∙ **[A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)**<br/>
 > `14 ▶️` ∙ **[Revolution Above Disorder](https://www.last.fm/music/Revolution+Above+Disorder)**<br/>
 > `8 ▶️` ∙ **[Cranes](https://www.last.fm/music/Cranes)**<br/>
 > `8 ▶️` ∙ **[Joy Division](https://www.last.fm/music/Joy+Division)**<br/>
