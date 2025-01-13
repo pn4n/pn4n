@@ -4,8 +4,8 @@
 > `31 ▶️` ∙ **[NZCA/LINES](https://www.last.fm/music/NZCA%2FLINES)**<br/>
 > `18 ▶️` ∙ **[A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)**<br/>
 > `15 ▶️` ∙ **[Revolution Above Disorder](https://www.last.fm/music/Revolution+Above+Disorder)**<br/>
-> `8 ▶️` ∙ **[Joy Division](https://www.last.fm/music/Joy+Division)**<br/>
-> `7 ▶️` ∙ **[Cranes](https://www.last.fm/music/Cranes)**<br/>
+> `8 ▶️` ∙ **[Cold Cave](https://www.last.fm/music/Cold+Cave)**<br/>
+> `8 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
