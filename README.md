@@ -25,5 +25,5 @@
 > `8 ▶️` ∙ **[In My Hive](https://www.last.fm/music/A+Place+to+Bury+Strangers/_/In+My+Hive)** - [A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)<br/>
 > `6 ▶️` ∙ **[To Be Loved](https://www.last.fm/music/Bent/_/To+Be+Loved)** - [Bent](https://www.last.fm/music/Bent)<br/>
 > `5 ▶️` ∙ **[Persephone Dreams](https://www.last.fm/music/NZCA+LINES/_/Persephone+Dreams)** - [NZCA LINES](https://www.last.fm/music/NZCA+LINES)<br/>
-> `4 ▶️` ∙ **[voices](https://www.last.fm/music/Badtime/_/voices)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
+> `4 ▶️` ∙ **[Pink Frost](https://www.last.fm/music/The+Chills/_/Pink+Frost)** - [The Chills](https://www.last.fm/music/The+Chills)<br/>
 <!--END_LASTFM_TRACKS-->
