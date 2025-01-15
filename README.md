@@ -4,8 +4,8 @@
 > `31 ▶️` ∙ **[NZCA/LINES](https://www.last.fm/music/NZCA%2FLINES)**<br/>
 > `17 ▶️` ∙ **[A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)**<br/>
 > `15 ▶️` ∙ **[Revolution Above Disorder](https://www.last.fm/music/Revolution+Above+Disorder)**<br/>
+> `8 ▶️` ∙ **[Bent](https://www.last.fm/music/Bent)**<br/>
 > `8 ▶️` ∙ **[Cold Cave](https://www.last.fm/music/Cold+Cave)**<br/>
-> `6 ▶️` ∙ **[Bent](https://www.last.fm/music/Bent)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `14 ▶️` ∙ **[The Flowers of Destruction (A Place to Bury Strangers Remix)](https://www.last.fm/music/Revolution+Above+Disorder/The+Flowers+of+Destruction+(A+Place+to+Bury+Strangers+Remix))** - [Revolution Above Disorder](https://www.last.fm/music/Revolution+Above+Disorder)<br/>
 > `12 ▶️` ∙ **[Hologram](https://www.last.fm/music/A+Place+to+Bury+Strangers/Hologram)** - [A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)<br/>
 > `8 ▶️` ∙ **[NZCA/LINES (Spotify Deluxe Edition)](https://www.last.fm/music/NZCA%2FLINES/NZCA%2FLINES+(Spotify+Deluxe+Edition))** - [NZCA/LINES](https://www.last.fm/music/NZCA%2FLINES)<br/>
-> `6 ▶️` ∙ **[Best of (Deluxe Edition)](https://www.last.fm/music/Bent/Best+of+(Deluxe+Edition))** - [Bent](https://www.last.fm/music/Bent)<br/>
+> `7 ▶️` ∙ **[Best of (Deluxe Edition)](https://www.last.fm/music/Bent/Best+of+(Deluxe+Edition))** - [Bent](https://www.last.fm/music/Bent)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
