@@ -5,7 +5,7 @@
 > `9 ▶️` ∙ **[A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)**<br/>
 > `9 ▶️` ∙ **[Bent](https://www.last.fm/music/Bent)**<br/>
 > `9 ▶️` ∙ **[Revolution Above Disorder](https://www.last.fm/music/Revolution+Above+Disorder)**<br/>
-> `6 ▶️` ∙ **[Satanicpornocultshop](https://www.last.fm/music/Satanicpornocultshop)**<br/>
+> `6 ▶️` ∙ **[Ariel Pink](https://www.last.fm/music/Ariel+Pink)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `9 ▶️` ∙ **[The Flowers of Destruction - A Place to Bury Strangers Remix](https://www.last.fm/music/Revolution+Above+Disorder/_/The+Flowers+of+Destruction+-+A+Place+to+Bury+Strangers+Remix)** - [Revolution Above Disorder](https://www.last.fm/music/Revolution+Above+Disorder)<br/>
 > `8 ▶️` ∙ **[In My Hive](https://www.last.fm/music/A+Place+to+Bury+Strangers/_/In+My+Hive)** - [A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)<br/>
 > `7 ▶️` ∙ **[To Be Loved](https://www.last.fm/music/Bent/_/To+Be+Loved)** - [Bent](https://www.last.fm/music/Bent)<br/>
+> `3 ▶️` ∙ **[Black Ballerina](https://www.last.fm/music/Ariel+Pink/_/Black+Ballerina)** - [Ariel Pink](https://www.last.fm/music/Ariel+Pink)<br/>
 > `3 ▶️` ∙ **[Odessa](https://www.last.fm/music/Caribou/_/Odessa)** - [Caribou](https://www.last.fm/music/Caribou)<br/>
-> `3 ▶️` ∙ **[2000 Elefanten](https://www.last.fm/music/Die+Wilde+Jagd/_/2000+Elefanten)** - [Die Wilde Jagd](https://www.last.fm/music/Die+Wilde+Jagd)<br/>
 <!--END_LASTFM_TRACKS-->
