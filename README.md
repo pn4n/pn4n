@@ -3,8 +3,8 @@
 
 > `8 ▶️` ∙ **[A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)**<br/>
 > `6 ▶️` ∙ **[Revolution Above Disorder](https://www.last.fm/music/Revolution+Above+Disorder)**<br/>
-> `6 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 > `5 ▶️` ∙ **[Satanicpornocultshop](https://www.last.fm/music/Satanicpornocultshop)**<br/>
+> `5 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 > `4 ▶️` ∙ **[Black Marble](https://www.last.fm/music/Black+Marble)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
