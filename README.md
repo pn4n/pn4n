@@ -4,8 +4,8 @@
 > `7 ▶️` ∙ **[A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)**<br/>
 > `5 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 > `4 ▶️` ∙ **[Black Marble](https://www.last.fm/music/Black+Marble)**<br/>
+> `4 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion)**<br/>
 > `4 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `4 ▶️` ∙ **[Revolution Above Disorder](https://www.last.fm/music/Revolution+Above+Disorder)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `5 ▶️` ∙ **[Hologram](https://www.last.fm/music/A+Place+to+Bury+Strangers/Hologram)** - [A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)<br/>
 > `4 ▶️` ∙ **[The Flowers of Destruction (A Place to Bury Strangers Remix)](https://www.last.fm/music/Revolution+Above+Disorder/The+Flowers+of+Destruction+(A+Place+to+Bury+Strangers+Remix))** - [Revolution Above Disorder](https://www.last.fm/music/Revolution+Above+Disorder)<br/>
 > `3 ▶️` ∙ **[Intelligence & Sacrifice](https://www.last.fm/music/Alec+Empire/Intelligence+&+Sacrifice)** - [Alec Empire](https://www.last.fm/music/Alec+Empire)<br/>
+> `3 ▶️` ∙ **[badtime vol. 3](https://www.last.fm/music/Badtime/badtime+vol.+3)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
 > `3 ▶️` ∙ **[A Different Arrangement](https://www.last.fm/music/Black+Marble/A+Different+Arrangement)** - [Black Marble](https://www.last.fm/music/Black+Marble)<br/>
-> `3 ▶️` ∙ **[Forever Dolphin Love](https://www.last.fm/music/Connan+Mockasin/Forever+Dolphin+Love)** - [Connan Mockasin](https://www.last.fm/music/Connan+Mockasin)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
