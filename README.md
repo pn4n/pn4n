@@ -4,8 +4,8 @@
 > `17 ▶️` ∙ **[NZCA/LINES](https://www.last.fm/music/NZCA%2FLINES)**<br/>
 > `7 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
 > `7 ▶️` ∙ **[Spirit of the Beehive](https://www.last.fm/music/Spirit+of+the+Beehive)**<br/>
+> `5 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion)**<br/>
 > `4 ▶️` ∙ **[A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)**<br/>
-> `4 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `3 ▶️` ∙ **[The Flowers of Destruction - A Place to Bury Strangers Remix](https://www.last.fm/music/Revolution+Above+Disorder/_/The+Flowers+of+Destruction+-+A+Place+to+Bury+Strangers+Remix)** - [Revolution Above Disorder](https://www.last.fm/music/Revolution+Above+Disorder)<br/>
 > `2 ▶️` ∙ **[Blinkar blå](https://www.last.fm/music/Adolphson+&+Falk/_/Blinkar+bl%C3%A5)** - [Adolphson & Falk](https://www.last.fm/music/Adolphson+&+Falk)<br/>
 > `2 ▶️` ∙ **[Love Is A Shield - Single Version](https://www.last.fm/music/Camouflage/_/Love+Is+A+Shield+-+Single+Version)** - [Camouflage](https://www.last.fm/music/Camouflage)<br/>
-> `2 ▶️` ∙ **[Puppenspieler](https://www.last.fm/music/Die+Selektion/_/Puppenspieler)** - [Die Selektion](https://www.last.fm/music/Die+Selektion)<br/>
+> `2 ▶️` ∙ **[Du rennst](https://www.last.fm/music/Die+Selektion/_/Du+rennst)** - [Die Selektion](https://www.last.fm/music/Die+Selektion)<br/>
 <!--END_LASTFM_TRACKS-->
