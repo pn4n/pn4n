@@ -1,7 +1,7 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `17 ▶️` ∙ **[NZCA/LINES](https://www.last.fm/music/NZCA%2FLINES)**<br/>
+> `18 ▶️` ∙ **[NZCA/LINES](https://www.last.fm/music/NZCA%2FLINES)**<br/>
 > `7 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
 > `7 ▶️` ∙ **[Spirit of the Beehive](https://www.last.fm/music/Spirit+of+the+Beehive)**<br/>
 > `5 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion)**<br/>
@@ -11,7 +11,7 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `12 ▶️` ∙ **[Infinite Summer](https://www.last.fm/music/NZCA+LINES/Infinite+Summer)** - [NZCA LINES](https://www.last.fm/music/NZCA+LINES)<br/>
+> `13 ▶️` ∙ **[Infinite Summer](https://www.last.fm/music/NZCA+LINES/Infinite+Summer)** - [NZCA LINES](https://www.last.fm/music/NZCA+LINES)<br/>
 > `4 ▶️` ∙ **[Loved](https://www.last.fm/music/Cranes/Loved)** - [Cranes](https://www.last.fm/music/Cranes)<br/>
 > `4 ▶️` ∙ **[Neyslutrans](https://www.last.fm/music/Hatari/Neyslutrans)** - [Hatari](https://www.last.fm/music/Hatari)<br/>
 > `4 ▶️` ∙ **[A Long Way down](https://www.last.fm/music/LE+PRINCE+HARRY/A+Long+Way+down)** - [LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)<br/>
