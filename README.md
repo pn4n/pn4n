@@ -12,18 +12,18 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `12 ▶️` ∙ **[Infinite Summer](https://www.last.fm/music/NZCA+LINES/Infinite+Summer)** - [NZCA LINES](https://www.last.fm/music/NZCA+LINES)<br/>
+> `4 ▶️` ∙ **[Loved](https://www.last.fm/music/Cranes/Loved)** - [Cranes](https://www.last.fm/music/Cranes)<br/>
 > `4 ▶️` ∙ **[Neyslutrans](https://www.last.fm/music/Hatari/Neyslutrans)** - [Hatari](https://www.last.fm/music/Hatari)<br/>
 > `4 ▶️` ∙ **[A Long Way down](https://www.last.fm/music/LE+PRINCE+HARRY/A+Long+Way+down)** - [LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)<br/>
 > `4 ▶️` ∙ **[NZCA/LINES (Spotify Deluxe Edition)](https://www.last.fm/music/NZCA%2FLINES/NZCA%2FLINES+(Spotify+Deluxe+Edition))** - [NZCA/LINES](https://www.last.fm/music/NZCA%2FLINES)<br/>
-> `4 ▶️` ∙ **[Superior State](https://www.last.fm/music/Rendez+Vous/Superior+State)** - [Rendez Vous](https://www.last.fm/music/Rendez+Vous)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
+> `4 ▶️` ∙ **[The Flowers of Destruction - A Place to Bury Strangers Remix](https://www.last.fm/music/Revolution+Above+Disorder/_/The+Flowers+of+Destruction+-+A+Place+to+Bury+Strangers+Remix)** - [Revolution Above Disorder](https://www.last.fm/music/Revolution+Above+Disorder)<br/>
 > `3 ▶️` ∙ **[In My Hive](https://www.last.fm/music/A+Place+to+Bury+Strangers/_/In+My+Hive)** - [A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)<br/>
-> `3 ▶️` ∙ **[The Flowers of Destruction - A Place to Bury Strangers Remix](https://www.last.fm/music/Revolution+Above+Disorder/_/The+Flowers+of+Destruction+-+A+Place+to+Bury+Strangers+Remix)** - [Revolution Above Disorder](https://www.last.fm/music/Revolution+Above+Disorder)<br/>
 > `2 ▶️` ∙ **[Blinkar blå](https://www.last.fm/music/Adolphson+&+Falk/_/Blinkar+bl%C3%A5)** - [Adolphson & Falk](https://www.last.fm/music/Adolphson+&+Falk)<br/>
-> `2 ▶️` ∙ **[Love Is A Shield - Single Version](https://www.last.fm/music/Camouflage/_/Love+Is+A+Shield+-+Single+Version)** - [Camouflage](https://www.last.fm/music/Camouflage)<br/>
-> `2 ▶️` ∙ **[Du rennst](https://www.last.fm/music/Die+Selektion/_/Du+rennst)** - [Die Selektion](https://www.last.fm/music/Die+Selektion)<br/>
+> `2 ▶️` ∙ **[bunker](https://www.last.fm/music/Badtime/_/bunker)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
+> `2 ▶️` ∙ **[voices](https://www.last.fm/music/Badtime/_/voices)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
 <!--END_LASTFM_TRACKS-->
