@@ -14,7 +14,7 @@
 > `13 ▶️` ∙ **[Infinite Summer](https://www.last.fm/music/NZCA+LINES/Infinite+Summer)** - [NZCA LINES](https://www.last.fm/music/NZCA+LINES)<br/>
 > `6 ▶️` ∙ **[Loved](https://www.last.fm/music/Cranes/Loved)** - [Cranes](https://www.last.fm/music/Cranes)<br/>
 > `6 ▶️` ∙ **[Neyslutrans](https://www.last.fm/music/Hatari/Neyslutrans)** - [Hatari](https://www.last.fm/music/Hatari)<br/>
-> `6 ▶️` ∙ **[A Long Way down](https://www.last.fm/music/LE+PRINCE+HARRY/A+Long+Way+down)** - [LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)<br/>
+> `5 ▶️` ∙ **[A Long Way down](https://www.last.fm/music/LE+PRINCE+HARRY/A+Long+Way+down)** - [LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)<br/>
 > `5 ▶️` ∙ **[Superior State](https://www.last.fm/music/Rendez+Vous/Superior+State)** - [Rendez Vous](https://www.last.fm/music/Rendez+Vous)<br/>
 <!--END_LASTFM_ALBUMS-->
 
@@ -25,5 +25,5 @@
 > `3 ▶️` ∙ **[In My Hive](https://www.last.fm/music/A+Place+to+Bury+Strangers/_/In+My+Hive)** - [A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)<br/>
 > `3 ▶️` ∙ **[Love Is A Shield - Single Version](https://www.last.fm/music/Camouflage/_/Love+Is+A+Shield+-+Single+Version)** - [Camouflage](https://www.last.fm/music/Camouflage)<br/>
 > `3 ▶️` ∙ **[Beautiful Friend](https://www.last.fm/music/Cranes/_/Beautiful+Friend)** - [Cranes](https://www.last.fm/music/Cranes)<br/>
-> `3 ▶️` ∙ **[Puppenspieler](https://www.last.fm/music/Die+Selektion/_/Puppenspieler)** - [Die Selektion](https://www.last.fm/music/Die+Selektion)<br/>
+> `3 ▶️` ∙ **[Þræll](https://www.last.fm/music/Hatari/_/%C3%9Er%C3%A6ll)** - [Hatari](https://www.last.fm/music/Hatari)<br/>
 <!--END_LASTFM_TRACKS-->
