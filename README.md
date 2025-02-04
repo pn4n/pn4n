@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `34 ▶️` ∙ **[Spirit of the Beehive](https://www.last.fm/music/Spirit+of+the+Beehive)**<br/>
-> `18 ▶️` ∙ **[Видеосообщение](https://www.last.fm/music/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5)**<br/>
+> `19 ▶️` ∙ **[Видеосообщение](https://www.last.fm/music/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5)**<br/>
 > `16 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 > `15 ▶️` ∙ **[Andy Stott](https://www.last.fm/music/Andy+Stott)**<br/>
 > `12 ▶️` ∙ **[Heimat](https://www.last.fm/music/Heimat)**<br/>
