@@ -13,8 +13,8 @@
 
 > `17 ▶️` ∙ **[hypnic jerks](https://www.last.fm/music/Spirit+of+the+Beehive/hypnic+jerks)** - [Spirit of the Beehive](https://www.last.fm/music/Spirit+of+the+Beehive)<br/>
 > `15 ▶️` ∙ **[Faith In Strangers](https://www.last.fm/music/Andy+Stott/Faith+In+Strangers)** - [Andy Stott](https://www.last.fm/music/Andy+Stott)<br/>
-> `9 ▶️` ∙ **[Softic](https://www.last.fm/music/SOFT+BLADE/Softic)** - [SOFT BLADE](https://www.last.fm/music/SOFT+BLADE)<br/>
 > `8 ▶️` ∙ **[Perils From The Sea](https://www.last.fm/music/Mark+Kozelek/Perils+From+The+Sea)** - [Mark Kozelek](https://www.last.fm/music/Mark+Kozelek)<br/>
+> `8 ▶️` ∙ **[Softic](https://www.last.fm/music/SOFT+BLADE/Softic)** - [SOFT BLADE](https://www.last.fm/music/SOFT+BLADE)<br/>
 > `7 ▶️` ∙ **[Iti Eta No](https://www.last.fm/music/Heimat/Iti+Eta+No)** - [Heimat](https://www.last.fm/music/Heimat)<br/>
 <!--END_LASTFM_ALBUMS-->
 
