@@ -3,7 +3,7 @@
 
 > `32 ▶️` ∙ **[Sixth June](https://www.last.fm/music/Sixth+June)**<br/>
 > `20 ▶️` ∙ **[Szablon](https://www.last.fm/music/Szablon)**<br/>
-> `15 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
+> `14 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `11 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
 > `10 ▶️` ∙ **[NZCA/LINES](https://www.last.fm/music/NZCA%2FLINES)**<br/>
 <!--END_LASTFM_ARTISTS-->
