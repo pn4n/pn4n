@@ -3,9 +3,9 @@
 
 > `21 ▶️` ∙ **[Szablon](https://www.last.fm/music/Szablon)**<br/>
 > `15 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
-> `13 ▶️` ∙ **[Sixth June](https://www.last.fm/music/Sixth+June)**<br/>
+> `11 ▶️` ∙ **[Sixth June](https://www.last.fm/music/Sixth+June)**<br/>
 > `10 ▶️` ∙ **[NZCA/LINES](https://www.last.fm/music/NZCA%2FLINES)**<br/>
-> `9 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
+> `8 ▶️` ∙ **[Depeche Mode](https://www.last.fm/music/Depeche+Mode)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `6 ▶️` ∙ **[Line](https://www.last.fm/music/Szablon/_/Line)** - [Szablon](https://www.last.fm/music/Szablon)<br/>
 > `5 ▶️` ∙ **[Bikini Fun](https://www.last.fm/music/Led+Er+Est/_/Bikini+Fun)** - [Led Er Est](https://www.last.fm/music/Led+Er+Est)<br/>
 > `5 ▶️` ∙ **[Drowning](https://www.last.fm/music/Sixth+June/_/Drowning)** - [Sixth June](https://www.last.fm/music/Sixth+June)<br/>
-> `5 ▶️` ∙ **[Trust](https://www.last.fm/music/Sixth+June/_/Trust)** - [Sixth June](https://www.last.fm/music/Sixth+June)<br/>
 > `5 ▶️` ∙ **[Wyrok](https://www.last.fm/music/Szablon/_/Wyrok)** - [Szablon](https://www.last.fm/music/Szablon)<br/>
+> `4 ▶️` ∙ **[Trust](https://www.last.fm/music/Sixth+June/_/Trust)** - [Sixth June](https://www.last.fm/music/Sixth+June)<br/>
 <!--END_LASTFM_TRACKS-->
