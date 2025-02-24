@@ -5,7 +5,7 @@
 > `23 ▶️` ∙ **[МБ Пакет](https://www.last.fm/music/%D0%9C%D0%91+%D0%9F%D0%B0%D0%BA%D0%B5%D1%82)**<br/>
 > `17 ▶️` ∙ **[Klaxons](https://www.last.fm/music/Klaxons)**<br/>
 > `15 ▶️` ∙ **[Labyrinth Ear](https://www.last.fm/music/Labyrinth+Ear)**<br/>
-> `15 ▶️` ∙ **[Szablon](https://www.last.fm/music/Szablon)**<br/>
+> `14 ▶️` ∙ **[The Hellp](https://www.last.fm/music/The+Hellp)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,7 +14,7 @@
 > `44 ▶️` ∙ **[MG Ultra](https://www.last.fm/music/Machine+Girl/MG+Ultra)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
 > `14 ▶️` ∙ **[Oak](https://www.last.fm/music/Labyrinth+Ear/Oak)** - [Labyrinth Ear](https://www.last.fm/music/Labyrinth+Ear)<br/>
 > `13 ▶️` ∙ **[Vol. 1](https://www.last.fm/music/The+Hellp/Vol.+1)** - [The Hellp](https://www.last.fm/music/The+Hellp)<br/>
-> `12 ▶️` ∙ **[Splendor EP](https://www.last.fm/music/Szablon/Splendor+EP)** - [Szablon](https://www.last.fm/music/Szablon)<br/>
+> `10 ▶️` ∙ **[Splendor EP](https://www.last.fm/music/Szablon/Splendor+EP)** - [Szablon](https://www.last.fm/music/Szablon)<br/>
 > `8 ▶️` ∙ **[Body N. Will](https://www.last.fm/music/kumo+99/Body+N.+Will)** - [kumo 99](https://www.last.fm/music/kumo+99)<br/>
 <!--END_LASTFM_ALBUMS-->
 
