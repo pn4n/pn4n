@@ -5,7 +5,7 @@
 > `79 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
 > `42 ▶️` ∙ **[The Hellp](https://www.last.fm/music/The+Hellp)**<br/>
 > `37 ▶️` ∙ **[kumo 99](https://www.last.fm/music/kumo+99)**<br/>
-> `23 ▶️` ∙ **[МБ Пакет](https://www.last.fm/music/%D0%9C%D0%91+%D0%9F%D0%B0%D0%BA%D0%B5%D1%82)**<br/>
+> `23 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
