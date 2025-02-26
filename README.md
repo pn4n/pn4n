@@ -4,7 +4,7 @@
 > `90 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
 > `75 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
 > `39 ▶️` ∙ **[The Hellp](https://www.last.fm/music/The+Hellp)**<br/>
-> `26 ▶️` ∙ **[kumo 99](https://www.last.fm/music/kumo+99)**<br/>
+> `35 ▶️` ∙ **[kumo 99](https://www.last.fm/music/kumo+99)**<br/>
 > `23 ▶️` ∙ **[МБ Пакет](https://www.last.fm/music/%D0%9C%D0%91+%D0%9F%D0%B0%D0%BA%D0%B5%D1%82)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -13,8 +13,8 @@
 
 > `56 ▶️` ∙ **[MG Ultra](https://www.last.fm/music/Machine+Girl/MG+Ultra)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
 > `43 ▶️` ∙ **[Salesforce](https://www.last.fm/music/Lauren+Bousfield/Salesforce)** - [Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)<br/>
+> `28 ▶️` ∙ **[Body N. Will](https://www.last.fm/music/kumo+99/Body+N.+Will)** - [kumo 99](https://www.last.fm/music/kumo+99)<br/>
 > `23 ▶️` ∙ **[Vol. 1](https://www.last.fm/music/The+Hellp/Vol.+1)** - [The Hellp](https://www.last.fm/music/The+Hellp)<br/>
-> `19 ▶️` ∙ **[Body N. Will](https://www.last.fm/music/kumo+99/Body+N.+Will)** - [kumo 99](https://www.last.fm/music/kumo+99)<br/>
 > `18 ▶️` ∙ **[Oak](https://www.last.fm/music/Labyrinth+Ear/Oak)** - [Labyrinth Ear](https://www.last.fm/music/Labyrinth+Ear)<br/>
 <!--END_LASTFM_ALBUMS-->
 
