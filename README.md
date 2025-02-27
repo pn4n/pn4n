@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `104 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
-> `79 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
+> `80 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
 > `45 ▶️` ∙ **[The Hellp](https://www.last.fm/music/The+Hellp)**<br/>
 > `39 ▶️` ∙ **[kumo 99](https://www.last.fm/music/kumo+99)**<br/>
 > `23 ▶️` ∙ **[МБ Пакет](https://www.last.fm/music/%D0%9C%D0%91+%D0%9F%D0%B0%D0%BA%D0%B5%D1%82)**<br/>
