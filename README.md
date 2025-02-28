@@ -1,9 +1,9 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `104 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
-> `80 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
-> `45 ▶️` ∙ **[The Hellp](https://www.last.fm/music/The+Hellp)**<br/>
+> `107 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
+> `76 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
+> `47 ▶️` ∙ **[The Hellp](https://www.last.fm/music/The+Hellp)**<br/>
 > `39 ▶️` ∙ **[kumo 99](https://www.last.fm/music/kumo+99)**<br/>
 > `23 ▶️` ∙ **[МБ Пакет](https://www.last.fm/music/%D0%9C%D0%91+%D0%9F%D0%B0%D0%BA%D0%B5%D1%82)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -11,7 +11,7 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `60 ▶️` ∙ **[MG Ultra](https://www.last.fm/music/Machine+Girl/MG+Ultra)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
+> `58 ▶️` ∙ **[MG Ultra](https://www.last.fm/music/Machine+Girl/MG+Ultra)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
 > `46 ▶️` ∙ **[Salesforce](https://www.last.fm/music/Lauren+Bousfield/Salesforce)** - [Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)<br/>
 > `31 ▶️` ∙ **[Body N. Will](https://www.last.fm/music/kumo+99/Body+N.+Will)** - [kumo 99](https://www.last.fm/music/kumo+99)<br/>
 > `25 ▶️` ∙ **[Vol. 1](https://www.last.fm/music/The+Hellp/Vol.+1)** - [The Hellp](https://www.last.fm/music/The+Hellp)<br/>
