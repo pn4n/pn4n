@@ -3,7 +3,7 @@
 
 > `29 ▶️` ∙ **[Moiman](https://www.last.fm/music/Moiman)**<br/>
 > `21 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
-> `17 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
+> `18 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
 > `14 ▶️` ∙ **[Linea Aspera](https://www.last.fm/music/Linea+Aspera)**<br/>
 > `13 ▶️` ∙ **[Sixth June](https://www.last.fm/music/Sixth+June)**<br/>
 <!--END_LASTFM_ARTISTS-->
