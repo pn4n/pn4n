@@ -4,8 +4,8 @@
 > `31 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
 > `15 ▶️` ∙ **[kumo 99](https://www.last.fm/music/kumo+99)**<br/>
 > `14 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
-> `14 ▶️` ∙ **[Nuovo Testamento](https://www.last.fm/music/Nuovo+Testamento)**<br/>
 > `13 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
+> `13 ▶️` ∙ **[Nuovo Testamento](https://www.last.fm/music/Nuovo+Testamento)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,7 +13,7 @@
 
 > `26 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `12 ▶️` ∙ **[New Earth](https://www.last.fm/music/Nuovo+Testamento/New+Earth)** - [Nuovo Testamento](https://www.last.fm/music/Nuovo+Testamento)<br/>
-> `11 ▶️` ∙ **[BORDAT](https://www.last.fm/music/Moiman/BORDAT)** - [Moiman](https://www.last.fm/music/Moiman)<br/>
+> `9 ▶️` ∙ **[BORDAT](https://www.last.fm/music/Moiman/BORDAT)** - [Moiman](https://www.last.fm/music/Moiman)<br/>
 > `8 ▶️` ∙ **[Body N. Will](https://www.last.fm/music/kumo+99/Body+N.+Will)** - [kumo 99](https://www.last.fm/music/kumo+99)<br/>
 > `8 ▶️` ∙ **[Salesforce](https://www.last.fm/music/Lauren+Bousfield/Salesforce)** - [Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)<br/>
 <!--END_LASTFM_ALBUMS-->
