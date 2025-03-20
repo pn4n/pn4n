@@ -22,8 +22,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `9 ▶️` ∙ **[Michelle Michelle](https://www.last.fm/music/Nuovo+Testamento/_/Michelle+Michelle)** - [Nuovo Testamento](https://www.last.fm/music/Nuovo+Testamento)<br/>
-> `6 ▶️` ∙ **[How Do I Know?](https://www.last.fm/music/Body+of+Light/_/How+Do+I+Know%3F)** - [Body of Light](https://www.last.fm/music/Body+of+Light)<br/>
 > `6 ▶️` ∙ **[Gas Tank](https://www.last.fm/music/Home+Video/_/Gas+Tank)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
+> `5 ▶️` ∙ **[How Do I Know?](https://www.last.fm/music/Body+of+Light/_/How+Do+I+Know%3F)** - [Body of Light](https://www.last.fm/music/Body+of+Light)<br/>
 > `5 ▶️` ∙ **[Confession (of a Time Traveler)](https://www.last.fm/music/Home+Video/_/Confession+(of+a+Time+Traveler))** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `5 ▶️` ∙ **[We](https://www.last.fm/music/Home+Video/_/We)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 <!--END_LASTFM_TRACKS-->
