@@ -4,8 +4,8 @@
 > `31 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
 > `15 ▶️` ∙ **[kumo 99](https://www.last.fm/music/kumo+99)**<br/>
 > `14 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
-> `13 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
-> `13 ▶️` ∙ **[Nuovo Testamento](https://www.last.fm/music/Nuovo+Testamento)**<br/>
+> `14 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
+> `13 ▶️` ∙ **[LustSickPuppy](https://www.last.fm/music/LustSickPuppy)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
