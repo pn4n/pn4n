@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `40 ▶️` ∙ **[FREE.99](https://www.last.fm/music/FREE.99)**<br/>
+> `31 ▶️` ∙ **[Placebo](https://www.last.fm/music/Placebo)**<br/>
 > `29 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
 > `24 ▶️` ∙ **[kumo 99](https://www.last.fm/music/kumo+99)**<br/>
-> `22 ▶️` ∙ **[LustSickPuppy](https://www.last.fm/music/LustSickPuppy)**<br/>
-> `22 ▶️` ∙ **[Placebo](https://www.last.fm/music/Placebo)**<br/>
+> `20 ▶️` ∙ **[LustSickPuppy](https://www.last.fm/music/LustSickPuppy)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `14 ▶️` ∙ **[Salesforce](https://www.last.fm/music/Lauren+Bousfield/Salesforce)** - [Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)<br/>
 > `12 ▶️` ∙ **[TRAUMA REDUCTION PRAYER](https://www.last.fm/music/FREE.99/TRAUMA+REDUCTION+PRAYER)** - [FREE.99](https://www.last.fm/music/FREE.99)<br/>
 > `12 ▶️` ∙ **[COMPUTER ANGELS](https://www.last.fm/music/gabemtnz/COMPUTER+ANGELS)** - [gabemtnz](https://www.last.fm/music/gabemtnz)<br/>
+> `12 ▶️` ∙ **[Meds](https://www.last.fm/music/Placebo/Meds)** - [Placebo](https://www.last.fm/music/Placebo)<br/>
 > `11 ▶️` ∙ **[OUT FOR BLOOD](https://www.last.fm/music/FREE.99/OUT+FOR+BLOOD)** - [FREE.99](https://www.last.fm/music/FREE.99)<br/>
-> `11 ▶️` ∙ **[Meds](https://www.last.fm/music/Placebo/Meds)** - [Placebo](https://www.last.fm/music/Placebo)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
