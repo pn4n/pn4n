@@ -4,8 +4,8 @@
 > `52 ▶️` ∙ **[Placebo](https://www.last.fm/music/Placebo)**<br/>
 > `51 ▶️` ∙ **[Stereolab](https://www.last.fm/music/Stereolab)**<br/>
 > `35 ▶️` ∙ **[nick nicely](https://www.last.fm/music/nick+nicely)**<br/>
-> `19 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
 > `17 ▶️` ∙ **[Dolphin](https://www.last.fm/music/Dolphin)**<br/>
+> `17 ▶️` ∙ **[The Horrors](https://www.last.fm/music/The+Horrors)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `14 ▶️` ∙ **[On The Beach The Ladder Descends](https://www.last.fm/music/nick+nicely/_/On+The+Beach+The+Ladder+Descends)** - [nick nicely](https://www.last.fm/music/nick+nicely)<br/>
 > `12 ▶️` ∙ **[Hilly Fields (1892)](https://www.last.fm/music/nick+nicely/_/Hilly+Fields+(1892))** - [nick nicely](https://www.last.fm/music/nick+nicely)<br/>
 > `10 ▶️` ∙ **[The Flower Called Nowhere](https://www.last.fm/music/Stereolab/_/The+Flower+Called+Nowhere)** - [Stereolab](https://www.last.fm/music/Stereolab)<br/>
-> `9 ▶️` ∙ **[GLITCH IN YOUR HEART](https://www.last.fm/music/gabemtnz/_/GLITCH+IN+YOUR+HEART)** - [gabemtnz](https://www.last.fm/music/gabemtnz)<br/>
 > `8 ▶️` ∙ **[Planted a Thought](https://www.last.fm/music/Arthur+Russell/_/Planted+a+Thought)** - [Arthur Russell](https://www.last.fm/music/Arthur+Russell)<br/>
+> `8 ▶️` ∙ **[GLITCH IN YOUR HEART](https://www.last.fm/music/gabemtnz/_/GLITCH+IN+YOUR+HEART)** - [gabemtnz](https://www.last.fm/music/gabemtnz)<br/>
 <!--END_LASTFM_TRACKS-->
