@@ -3,9 +3,9 @@
 
 > `52 ▶️` ∙ **[Stereolab](https://www.last.fm/music/Stereolab)**<br/>
 > `36 ▶️` ∙ **[nick nicely](https://www.last.fm/music/nick+nicely)**<br/>
-> `21 ▶️` ∙ **[Placebo](https://www.last.fm/music/Placebo)**<br/>
 > `17 ▶️` ∙ **[Dolphin](https://www.last.fm/music/Dolphin)**<br/>
 > `17 ▶️` ∙ **[The Horrors](https://www.last.fm/music/The+Horrors)**<br/>
+> `12 ▶️` ∙ **[FREE.99](https://www.last.fm/music/FREE.99)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `34 ▶️` ∙ **[Psychotropia](https://www.last.fm/music/nick+nicely/Psychotropia)** - [nick nicely](https://www.last.fm/music/nick+nicely)<br/>
 > `14 ▶️` ∙ **[Dots and Loops (Expanded Edition)](https://www.last.fm/music/Stereolab/Dots+and+Loops+(Expanded+Edition))** - [Stereolab](https://www.last.fm/music/Stereolab)<br/>
-> `10 ▶️` ∙ **[Meds](https://www.last.fm/music/Placebo/Meds)** - [Placebo](https://www.last.fm/music/Placebo)<br/>
 > `9 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `9 ▶️` ∙ **[99 Ways to Die, Choose One](https://www.last.fm/music/kumo+99/99+Ways+to+Die,+Choose+One)** - [kumo 99](https://www.last.fm/music/kumo+99)<br/>
+> `9 ▶️` ∙ **[BORDAT](https://www.last.fm/music/Moiman/BORDAT)** - [Moiman](https://www.last.fm/music/Moiman)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `12 ▶️` ∙ **[Hilly Fields (1892)](https://www.last.fm/music/nick+nicely/_/Hilly+Fields+(1892))** - [nick nicely](https://www.last.fm/music/nick+nicely)<br/>
 > `10 ▶️` ∙ **[The Flower Called Nowhere](https://www.last.fm/music/Stereolab/_/The+Flower+Called+Nowhere)** - [Stereolab](https://www.last.fm/music/Stereolab)<br/>
 > `8 ▶️` ∙ **[Planted a Thought](https://www.last.fm/music/Arthur+Russell/_/Planted+a+Thought)** - [Arthur Russell](https://www.last.fm/music/Arthur+Russell)<br/>
-> `6 ▶️` ∙ **[International Dateline](https://www.last.fm/music/Ladytron/_/International+Dateline)** - [Ladytron](https://www.last.fm/music/Ladytron)<br/>
+> `6 ▶️` ∙ **[Dirt - 2005 Remaster](https://www.last.fm/music/The+Stooges/_/Dirt+-+2005+Remaster)** - [The Stooges](https://www.last.fm/music/The+Stooges)<br/>
 <!--END_LASTFM_TRACKS-->
