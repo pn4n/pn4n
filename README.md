@@ -15,7 +15,7 @@
 > `8 ▶️` ∙ **[Fun House (Deluxe Edition)](https://www.last.fm/music/The+Stooges/Fun+House+(Deluxe+Edition))** - [The Stooges](https://www.last.fm/music/The+Stooges)<br/>
 > `5 ▶️` ∙ **[Orgiastic](https://www.last.fm/music/Bibi+Club/Orgiastic)** - [Bibi Club](https://www.last.fm/music/Bibi+Club)<br/>
 > `4 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion/Die+Selektion)** - [Die Selektion](https://www.last.fm/music/Die+Selektion)<br/>
-> `4 ▶️` ∙ **[Rumours (Super Deluxe)](https://www.last.fm/music/Fleetwood+Mac/Rumours+(Super+Deluxe))** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
+> `3 ▶️` ∙ **[Forever (Expanded Edition)](https://www.last.fm/music/Cranes/Forever+(Expanded+Edition))** - [Cranes](https://www.last.fm/music/Cranes)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
