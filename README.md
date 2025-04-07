@@ -13,9 +13,9 @@
 
 > `22 ▶️` ∙ **[23](https://www.last.fm/music/Blonde+Redhead/23)** - [Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)<br/>
 > `4 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion/Die+Selektion)** - [Die Selektion](https://www.last.fm/music/Die+Selektion)<br/>
-> `4 ▶️` ∙ **[Psychotropia](https://www.last.fm/music/nick+nicely/Psychotropia)** - [nick nicely](https://www.last.fm/music/nick+nicely)<br/>
 > `3 ▶️` ∙ **[Mi Fracaso Personal](https://www.last.fm/music/Astrud/Mi+Fracaso+Personal)** - [Astrud](https://www.last.fm/music/Astrud)<br/>
-> `3 ▶️` ∙ **[Orgiastic](https://www.last.fm/music/Bibi+Club/Orgiastic)** - [Bibi Club](https://www.last.fm/music/Bibi+Club)<br/>
+> `3 ▶️` ∙ **[Forever (Expanded Edition)](https://www.last.fm/music/Cranes/Forever+(Expanded+Edition))** - [Cranes](https://www.last.fm/music/Cranes)<br/>
+> `3 ▶️` ∙ **[Loved](https://www.last.fm/music/Cranes/Loved)** - [Cranes](https://www.last.fm/music/Cranes)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `9 ▶️` ∙ **[The Dress](https://www.last.fm/music/Blonde+Redhead/_/The+Dress)** - [Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)<br/>
 > `8 ▶️` ∙ **[Publisher](https://www.last.fm/music/Blonde+Redhead/_/Publisher)** - [Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)<br/>
 > `3 ▶️` ∙ **[Bailando](https://www.last.fm/music/Astrud/_/Bailando)** - [Astrud](https://www.last.fm/music/Astrud)<br/>
-> `3 ▶️` ∙ **[Orgiastic](https://www.last.fm/music/Bibi+Club/_/Orgiastic)** - [Bibi Club](https://www.last.fm/music/Bibi+Club)<br/>
-> `3 ▶️` ∙ **[On The Beach The Ladder Descends](https://www.last.fm/music/nick+nicely/_/On+The+Beach+The+Ladder+Descends)** - [nick nicely](https://www.last.fm/music/nick+nicely)<br/>
+> `2 ▶️` ∙ **[Planted a Thought](https://www.last.fm/music/Arthur+Russell/_/Planted+a+Thought)** - [Arthur Russell](https://www.last.fm/music/Arthur+Russell)<br/>
+> `2 ▶️` ∙ **[Metro - Re-Recorded](https://www.last.fm/music/Berlin/_/Metro+-+Re-Recorded)** - [Berlin](https://www.last.fm/music/Berlin)<br/>
 <!--END_LASTFM_TRACKS-->
