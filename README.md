@@ -1,7 +1,7 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `27 ▶️` ∙ **[Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)**<br/>
+> `28 ▶️` ∙ **[Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)**<br/>
 > `11 ▶️` ∙ **[Astrud](https://www.last.fm/music/Astrud)**<br/>
 > `8 ▶️` ∙ **[Rudy Void](https://www.last.fm/music/Rudy+Void)**<br/>
 > `6 ▶️` ∙ **[Death in Vegas](https://www.last.fm/music/Death+in+Vegas)**<br/>
