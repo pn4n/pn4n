@@ -5,7 +5,7 @@
 > `11 ▶️` ∙ **[Astrud](https://www.last.fm/music/Astrud)**<br/>
 > `10 ▶️` ∙ **[The Mars Volta](https://www.last.fm/music/The+Mars+Volta)**<br/>
 > `9 ▶️` ∙ **[Rudy Void](https://www.last.fm/music/Rudy+Void)**<br/>
-> `6 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
+> `6 ▶️` ∙ **[Peter Bjorn and John](https://www.last.fm/music/Peter+Bjorn+and+John)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `26 ▶️` ∙ **[23](https://www.last.fm/music/Blonde+Redhead/23)** - [Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)<br/>
 > `11 ▶️` ∙ **[Mi Fracaso Personal](https://www.last.fm/music/Astrud/Mi+Fracaso+Personal)** - [Astrud](https://www.last.fm/music/Astrud)<br/>
 > `9 ▶️` ∙ **[You've Got The Mind But Nothing Else To Lose](https://www.last.fm/music/Rudy+Void/You%27ve+Got+The+Mind+But+Nothing+Else+To+Lose)** - [Rudy Void](https://www.last.fm/music/Rudy+Void)<br/>
+> `6 ▶️` ∙ **[Writer's Block](https://www.last.fm/music/Peter+Bjorn+and+John/Writer%27s+Block)** - [Peter Bjorn and John](https://www.last.fm/music/Peter+Bjorn+and+John)<br/>
 > `5 ▶️` ∙ **[Ask Me Tomorrow](https://www.last.fm/music/Mojave+3/Ask+Me+Tomorrow)** - [Mojave 3](https://www.last.fm/music/Mojave+3)<br/>
-> `5 ▶️` ∙ **[Deloused in the Comatorium](https://www.last.fm/music/The+Mars+Volta/Deloused+in+the+Comatorium)** - [The Mars Volta](https://www.last.fm/music/The+Mars+Volta)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
