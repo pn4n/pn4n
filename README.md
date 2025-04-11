@@ -3,8 +3,8 @@
 
 > `27 ▶️` ∙ **[Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)**<br/>
 > `11 ▶️` ∙ **[Astrud](https://www.last.fm/music/Astrud)**<br/>
+> `10 ▶️` ∙ **[Rudy Void](https://www.last.fm/music/Rudy+Void)**<br/>
 > `10 ▶️` ∙ **[The Mars Volta](https://www.last.fm/music/The+Mars+Volta)**<br/>
-> `9 ▶️` ∙ **[Rudy Void](https://www.last.fm/music/Rudy+Void)**<br/>
 > `6 ▶️` ∙ **[Peter Bjorn and John](https://www.last.fm/music/Peter+Bjorn+and+John)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -13,7 +13,7 @@
 
 > `26 ▶️` ∙ **[23](https://www.last.fm/music/Blonde+Redhead/23)** - [Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)<br/>
 > `11 ▶️` ∙ **[Mi Fracaso Personal](https://www.last.fm/music/Astrud/Mi+Fracaso+Personal)** - [Astrud](https://www.last.fm/music/Astrud)<br/>
-> `9 ▶️` ∙ **[You've Got The Mind But Nothing Else To Lose](https://www.last.fm/music/Rudy+Void/You%27ve+Got+The+Mind+But+Nothing+Else+To+Lose)** - [Rudy Void](https://www.last.fm/music/Rudy+Void)<br/>
+> `10 ▶️` ∙ **[You've Got The Mind But Nothing Else To Lose](https://www.last.fm/music/Rudy+Void/You%27ve+Got+The+Mind+But+Nothing+Else+To+Lose)** - [Rudy Void](https://www.last.fm/music/Rudy+Void)<br/>
 > `6 ▶️` ∙ **[Writer's Block](https://www.last.fm/music/Peter+Bjorn+and+John/Writer%27s+Block)** - [Peter Bjorn and John](https://www.last.fm/music/Peter+Bjorn+and+John)<br/>
 > `5 ▶️` ∙ **[Ask Me Tomorrow](https://www.last.fm/music/Mojave+3/Ask+Me+Tomorrow)** - [Mojave 3](https://www.last.fm/music/Mojave+3)<br/>
 <!--END_LASTFM_ALBUMS-->
@@ -24,6 +24,6 @@
 > `12 ▶️` ∙ **[The Dress](https://www.last.fm/music/Blonde+Redhead/_/The+Dress)** - [Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)<br/>
 > `11 ▶️` ∙ **[Bailando](https://www.last.fm/music/Astrud/_/Bailando)** - [Astrud](https://www.last.fm/music/Astrud)<br/>
 > `10 ▶️` ∙ **[Publisher](https://www.last.fm/music/Blonde+Redhead/_/Publisher)** - [Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)<br/>
-> `9 ▶️` ∙ **[You've Got The Mind But Nothing Else To Lose](https://www.last.fm/music/Rudy+Void/_/You%27ve+Got+The+Mind+But+Nothing+Else+To+Lose)** - [Rudy Void](https://www.last.fm/music/Rudy+Void)<br/>
+> `10 ▶️` ∙ **[You've Got The Mind But Nothing Else To Lose](https://www.last.fm/music/Rudy+Void/_/You%27ve+Got+The+Mind+But+Nothing+Else+To+Lose)** - [Rudy Void](https://www.last.fm/music/Rudy+Void)<br/>
 > `5 ▶️` ∙ **[Love Songs on the Radio](https://www.last.fm/music/Mojave+3/_/Love+Songs+on+the+Radio)** - [Mojave 3](https://www.last.fm/music/Mojave+3)<br/>
 <!--END_LASTFM_TRACKS-->
