@@ -4,7 +4,7 @@
 > `18 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `10 ▶️` ∙ **[Vampire Weekend](https://www.last.fm/music/Vampire+Weekend)**<br/>
 > `9 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
-> `8 ▶️` ∙ **[Kumo 99](https://www.last.fm/music/Kumo+99)**<br/>
+> `8 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
 > `8 ▶️` ∙ **[Глюкоза](https://www.last.fm/music/%D0%93%D0%BB%D1%8E%D0%BA%D0%BE%D0%B7%D0%B0)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
