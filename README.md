@@ -3,8 +3,8 @@
 
 > `23 ▶️` ∙ **[Bronski Beat](https://www.last.fm/music/Bronski+Beat)**<br/>
 > `21 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
-> `9 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
 > `8 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
+> `8 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
 > `8 ▶️` ∙ **[Глюкоза](https://www.last.fm/music/%D0%93%D0%BB%D1%8E%D0%BA%D0%BE%D0%B7%D0%B0)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
