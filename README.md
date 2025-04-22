@@ -14,8 +14,8 @@
 > `18 ▶️` ∙ **[badtime vol. 5](https://www.last.fm/music/Badtime/badtime+vol.+5)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
 > `17 ▶️` ∙ **[The Age of Consent](https://www.last.fm/music/Bronski+Beat/The+Age+of+Consent)** - [Bronski Beat](https://www.last.fm/music/Bronski+Beat)<br/>
 > `5 ▶️` ∙ **[Truthdare Doubledare](https://www.last.fm/music/Bronski+Beat/Truthdare+Doubledare)** - [Bronski Beat](https://www.last.fm/music/Bronski+Beat)<br/>
-> `5 ▶️` ∙ **[Harmony](https://www.last.fm/music/Glukoza/Harmony)** - [Glukoza](https://www.last.fm/music/Glukoza)<br/>
-> `5 ▶️` ∙ **[MG Ultra](https://www.last.fm/music/Machine+Girl/MG+Ultra)** - [Machine Girl](https://www.last.fm/music/Machine+Girl)<br/>
+> `4 ▶️` ∙ **[Clan of Xymox](https://www.last.fm/music/Clan+of+Xymox/Clan+of+Xymox)** - [Clan of Xymox](https://www.last.fm/music/Clan+of+Xymox)<br/>
+> `4 ▶️` ∙ **[Figure Study](https://www.last.fm/music/Figure+Study/Figure+Study)** - [Figure Study](https://www.last.fm/music/Figure+Study)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
