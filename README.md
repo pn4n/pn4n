@@ -3,8 +3,8 @@
 
 > `41 ▶️` ∙ **[Solo Ansamblis](https://www.last.fm/music/Solo+Ansamblis)**<br/>
 > `21 ▶️` ∙ **[Vampire Weekend](https://www.last.fm/music/Vampire+Weekend)**<br/>
-> `20 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `19 ▶️` ∙ **[La Dispute](https://www.last.fm/music/La+Dispute)**<br/>
+> `18 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `14 ▶️` ∙ **[Kyla Vėjas!](https://www.last.fm/music/Kyla+V%C4%97jas!)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -15,7 +15,7 @@
 > `10 ▶️` ∙ **[Contra](https://www.last.fm/music/Vampire+Weekend/Contra)** - [Vampire Weekend](https://www.last.fm/music/Vampire+Weekend)<br/>
 > `9 ▶️` ∙ **[Crockett's Theme / Ocean Drive](https://www.last.fm/music/FPU/Crockett%27s+Theme+%2F+Ocean+Drive)** - [FPU](https://www.last.fm/music/FPU)<br/>
 > `9 ▶️` ∙ **[Vampire Weekend](https://www.last.fm/music/Vampire+Weekend/Vampire+Weekend)** - [Vampire Weekend](https://www.last.fm/music/Vampire+Weekend)<br/>
-> `8 ▶️` ∙ **[badtime vol. 5](https://www.last.fm/music/Badtime/badtime+vol.+5)** - [Badtime](https://www.last.fm/music/Badtime)<br/>
+> `8 ▶️` ∙ **[A Long Way down](https://www.last.fm/music/LE+PRINCE+HARRY/A+Long+Way+down)** - [LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
