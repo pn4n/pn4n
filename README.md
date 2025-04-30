@@ -5,7 +5,7 @@
 > `15 ▶️` ∙ **[FPU](https://www.last.fm/music/FPU)**<br/>
 > `14 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `13 ▶️` ∙ **[Grizzly Bear](https://www.last.fm/music/Grizzly+Bear)**<br/>
-> `8 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
+> `8 ▶️` ∙ **[Solo Ansamblis](https://www.last.fm/music/Solo+Ansamblis)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `14 ▶️` ∙ **[Ocean Drive - Tiga's White Linen Vox](https://www.last.fm/music/FPU/_/Ocean+Drive+-+Tiga%27s+White+Linen+Vox)** - [FPU](https://www.last.fm/music/FPU)<br/>
 > `12 ▶️` ∙ **[Yet Again](https://www.last.fm/music/Grizzly+Bear/_/Yet+Again)** - [Grizzly Bear](https://www.last.fm/music/Grizzly+Bear)<br/>
 > `9 ▶️` ∙ **[I Stand Corrected](https://www.last.fm/music/Vampire+Weekend/_/I+Stand+Corrected)** - [Vampire Weekend](https://www.last.fm/music/Vampire+Weekend)<br/>
-> `3 ▶️` ∙ **[Devil in the Dovetail](https://www.last.fm/music/Double+Virgo/_/Devil+in+the+Dovetail)** - [Double Virgo](https://www.last.fm/music/Double+Virgo)<br/>
 > `2 ▶️` ∙ **[The Noose](https://www.last.fm/music/A+Perfect+Circle/_/The+Noose)** - [A Perfect Circle](https://www.last.fm/music/A+Perfect+Circle)<br/>
+> `2 ▶️` ∙ **[End of the Night](https://www.last.fm/music/A+Place+to+Bury+Strangers/_/End+of+the+Night)** - [A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)<br/>
 <!--END_LASTFM_TRACKS-->
