@@ -15,7 +15,7 @@
 > `13 ▶️` ∙ **[Vampire Weekend](https://www.last.fm/music/Vampire+Weekend/Vampire+Weekend)** - [Vampire Weekend](https://www.last.fm/music/Vampire+Weekend)<br/>
 > `12 ▶️` ∙ **[Shields](https://www.last.fm/music/Grizzly+Bear/Shields)** - [Grizzly Bear](https://www.last.fm/music/Grizzly+Bear)<br/>
 > `10 ▶️` ∙ **[Contra](https://www.last.fm/music/Vampire+Weekend/Contra)** - [Vampire Weekend](https://www.last.fm/music/Vampire+Weekend)<br/>
-> `4 ▶️` ∙ **[Breathe](https://www.last.fm/music/Eternal/Breathe)** - [Eternal](https://www.last.fm/music/Eternal)<br/>
+> `4 ▶️` ∙ **[American Gothic](https://www.last.fm/music/MicA/American+Gothic)** - [MicA](https://www.last.fm/music/MicA)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
