@@ -3,9 +3,9 @@
 
 > `25 ▶️` ∙ **[Vampire Weekend](https://www.last.fm/music/Vampire+Weekend)**<br/>
 > `15 ▶️` ∙ **[FPU](https://www.last.fm/music/FPU)**<br/>
-> `14 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `13 ▶️` ∙ **[Grizzly Bear](https://www.last.fm/music/Grizzly+Bear)**<br/>
 > `8 ▶️` ∙ **[Solo Ansamblis](https://www.last.fm/music/Solo+Ansamblis)**<br/>
+> `7 ▶️` ∙ **[My manifesto](https://www.last.fm/music/My+manifesto)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `13 ▶️` ∙ **[Vampire Weekend](https://www.last.fm/music/Vampire+Weekend/Vampire+Weekend)** - [Vampire Weekend](https://www.last.fm/music/Vampire+Weekend)<br/>
 > `12 ▶️` ∙ **[Shields](https://www.last.fm/music/Grizzly+Bear/Shields)** - [Grizzly Bear](https://www.last.fm/music/Grizzly+Bear)<br/>
 > `10 ▶️` ∙ **[Contra](https://www.last.fm/music/Vampire+Weekend/Contra)** - [Vampire Weekend](https://www.last.fm/music/Vampire+Weekend)<br/>
-> `7 ▶️` ∙ **[A Long Way down](https://www.last.fm/music/LE+PRINCE+HARRY/A+Long+Way+down)** - [LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)<br/>
+> `4 ▶️` ∙ **[Breathe](https://www.last.fm/music/Eternal/Breathe)** - [Eternal](https://www.last.fm/music/Eternal)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
