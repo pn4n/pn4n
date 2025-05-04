@@ -5,7 +5,7 @@
 > `5 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion)**<br/>
 > `5 ▶️` ∙ **[Double Echo](https://www.last.fm/music/Double+Echo)**<br/>
 > `5 ▶️` ∙ **[Grizzly Bear](https://www.last.fm/music/Grizzly+Bear)**<br/>
-> `5 ▶️` ∙ **[Solo Ansamblis](https://www.last.fm/music/Solo+Ansamblis)**<br/>
+> `5 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `6 ▶️` ∙ **[Crockett's Theme / Ocean Drive](https://www.last.fm/music/FPU/Crockett%27s+Theme+%2F+Ocean+Drive)** - [FPU](https://www.last.fm/music/FPU)<br/>
 > `5 ▶️` ∙ **[Shields](https://www.last.fm/music/Grizzly+Bear/Shields)** - [Grizzly Bear](https://www.last.fm/music/Grizzly+Bear)<br/>
+> `5 ▶️` ∙ **[He Poos Clouds](https://www.last.fm/music/Owen+Pallett/He+Poos+Clouds)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
+> `4 ▶️` ∙ **[Sins Of The Flesh](https://www.last.fm/music/Sister+Machine+Gun/Sins+Of+The+Flesh)** - [Sister Machine Gun](https://www.last.fm/music/Sister+Machine+Gun)<br/>
 > `4 ▶️` ∙ **[The Best Of The Shangri-Las](https://www.last.fm/music/The+Shangri-Las/The+Best+Of+The+Shangri-Las)** - [The Shangri-Las](https://www.last.fm/music/The+Shangri-Las)<br/>
-> `4 ▶️` ∙ **[Vampire Weekend](https://www.last.fm/music/Vampire+Weekend/Vampire+Weekend)** - [Vampire Weekend](https://www.last.fm/music/Vampire+Weekend)<br/>
-> `3 ▶️` ∙ **[Dear Catastrophe Waitress](https://www.last.fm/music/Belle+and+Sebastian/Dear+Catastrophe+Waitress)** - [Belle and Sebastian](https://www.last.fm/music/Belle+and+Sebastian)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `5 ▶️` ∙ **[Yet Again](https://www.last.fm/music/Grizzly+Bear/_/Yet+Again)** - [Grizzly Bear](https://www.last.fm/music/Grizzly+Bear)<br/>
 > `4 ▶️` ∙ **[I Stand Corrected](https://www.last.fm/music/Vampire+Weekend/_/I+Stand+Corrected)** - [Vampire Weekend](https://www.last.fm/music/Vampire+Weekend)<br/>
 > `3 ▶️` ∙ **[The Chain - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/The+Chain+-+2004+Remaster)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
-> `2 ▶️` ∙ **[На заре](https://www.last.fm/music/alyans/_/%D0%9D%D0%B0+%D0%B7%D0%B0%D1%80%D0%B5)** - [alyans](https://www.last.fm/music/alyans)<br/>
+> `3 ▶️` ∙ **[Do You Love?](https://www.last.fm/music/Owen+Pallett/_/Do+You+Love%3F)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
 <!--END_LASTFM_TRACKS-->
