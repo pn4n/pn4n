@@ -1,10 +1,10 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `7 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
 > `7 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 > `6 ▶️` ∙ **[Sister Machine Gun](https://www.last.fm/music/Sister+Machine+Gun)**<br/>
 > `5 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion)**<br/>
-> `5 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
 > `5 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -22,8 +22,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `4 ▶️` ∙ **[Ocean Drive - Tiga's White Linen Vox](https://www.last.fm/music/FPU/_/Ocean+Drive+-+Tiga%27s+White+Linen+Vox)** - [FPU](https://www.last.fm/music/FPU)<br/>
+> `3 ▶️` ∙ **[Rad Pitt](https://www.last.fm/music/Egyptian+Hip+Hop/_/Rad+Pitt)** - [Egyptian Hip Hop](https://www.last.fm/music/Egyptian+Hip+Hop)<br/>
 > `3 ▶️` ∙ **[Yet Again](https://www.last.fm/music/Grizzly+Bear/_/Yet+Again)** - [Grizzly Bear](https://www.last.fm/music/Grizzly+Bear)<br/>
 > `3 ▶️` ∙ **[Do You Love?](https://www.last.fm/music/Owen+Pallett/_/Do+You+Love%3F)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
 > `3 ▶️` ∙ **[I Stand Corrected](https://www.last.fm/music/Vampire+Weekend/_/I+Stand+Corrected)** - [Vampire Weekend](https://www.last.fm/music/Vampire+Weekend)<br/>
-> `2 ▶️` ∙ **[The Outsider](https://www.last.fm/music/A+Perfect+Circle/_/The+Outsider)** - [A Perfect Circle](https://www.last.fm/music/A+Perfect+Circle)<br/>
 <!--END_LASTFM_TRACKS-->
