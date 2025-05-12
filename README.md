@@ -4,8 +4,8 @@
 > `26 ▶️` ∙ **[The Zombies](https://www.last.fm/music/The+Zombies)**<br/>
 > `7 ▶️` ∙ **[FPU](https://www.last.fm/music/FPU)**<br/>
 > `7 ▶️` ∙ **[Tindersticks](https://www.last.fm/music/Tindersticks)**<br/>
-> `6 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 > `6 ▶️` ∙ **[Ночной Проспект](https://www.last.fm/music/%D0%9D%D0%BE%D1%87%D0%BD%D0%BE%D0%B9+%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82)**<br/>
+> `5 ▶️` ∙ **[We Butter the Bread with Butter](https://www.last.fm/music/We+Butter+the+Bread+with+Butter)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `7 ▶️` ∙ **[Crockett's Theme / Ocean Drive](https://www.last.fm/music/FPU/Crockett%27s+Theme+%2F+Ocean+Drive)** - [FPU](https://www.last.fm/music/FPU)<br/>
 > `7 ▶️` ∙ **[Odessey and Oracle](https://www.last.fm/music/The+Zombies/Odessey+and+Oracle)** - [The Zombies](https://www.last.fm/music/The+Zombies)<br/>
 > `6 ▶️` ∙ **[Гуманитарная жизнь](https://www.last.fm/music/%D0%9D%D0%BE%D1%87%D0%BD%D0%BE%D0%B9+%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82/%D0%93%D1%83%D0%BC%D0%B0%D0%BD%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F+%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C)** - [Ночной Проспект](https://www.last.fm/music/%D0%9D%D0%BE%D1%87%D0%BD%D0%BE%D0%B9+%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82)<br/>
-> `4 ▶️` ∙ **[Deja Vu](https://www.last.fm/music/Crosby,+Stills,+Nash+&+Young/Deja+Vu)** - [Crosby, Stills, Nash & Young](https://www.last.fm/music/Crosby,+Stills,+Nash+&+Young)<br/>
+> `4 ▶️` ∙ **[Salome (Deluxe Version)](https://www.last.fm/music/Marriages/Salome+(Deluxe+Version))** - [Marriages](https://www.last.fm/music/Marriages)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
