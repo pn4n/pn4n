@@ -24,6 +24,6 @@
 > `7 ▶️` ∙ **[Ocean Drive - Tiga's White Linen Vox](https://www.last.fm/music/FPU/_/Ocean+Drive+-+Tiga%27s+White+Linen+Vox)** - [FPU](https://www.last.fm/music/FPU)<br/>
 > `4 ▶️` ∙ **[Summertime](https://www.last.fm/music/The+Zombies/_/Summertime)** - [The Zombies](https://www.last.fm/music/The+Zombies)<br/>
 > `4 ▶️` ∙ **[Always a Stranger](https://www.last.fm/music/Tindersticks/_/Always+a+Stranger)** - [Tindersticks](https://www.last.fm/music/Tindersticks)<br/>
-> `3 ▶️` ∙ **[Rad Pitt](https://www.last.fm/music/Egyptian+Hip+Hop/_/Rad+Pitt)** - [Egyptian Hip Hop](https://www.last.fm/music/Egyptian+Hip+Hop)<br/>
 > `3 ▶️` ∙ **[Skin](https://www.last.fm/music/Marriages/_/Skin)** - [Marriages](https://www.last.fm/music/Marriages)<br/>
+> `3 ▶️` ∙ **[Time of the Season - Mono Version](https://www.last.fm/music/The+Zombies/_/Time+of+the+Season+-+Mono+Version)** - [The Zombies](https://www.last.fm/music/The+Zombies)<br/>
 <!--END_LASTFM_TRACKS-->
