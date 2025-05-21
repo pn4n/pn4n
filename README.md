@@ -22,8 +22,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `7 ▶️` ∙ **[Nothing is Safe](https://www.last.fm/music/clipping./_/Nothing+is+Safe)** - [clipping.](https://www.last.fm/music/clipping.)<br/>
+> `5 ▶️` ∙ **[I Don't Want to Play](https://www.last.fm/music/Detachments/_/I+Don%27t+Want+to+Play)** - [Detachments](https://www.last.fm/music/Detachments)<br/>
 > `5 ▶️` ∙ **[Ocean Drive - Tiga's White Linen Vox](https://www.last.fm/music/FPU/_/Ocean+Drive+-+Tiga%27s+White+Linen+Vox)** - [FPU](https://www.last.fm/music/FPU)<br/>
 > `5 ▶️` ∙ **[Нумеро уно](https://www.last.fm/music/%D0%9F%D1%82%D0%B8%D1%86%D1%83+%D0%95%D0%BC%D1%8A/_/%D0%9D%D1%83%D0%BC%D0%B5%D1%80%D0%BE+%D1%83%D0%BD%D0%BE)** - [Птицу Емъ](https://www.last.fm/music/%D0%9F%D1%82%D0%B8%D1%86%D1%83+%D0%95%D0%BC%D1%8A)<br/>
-> `4 ▶️` ∙ **[I Don't Want to Play](https://www.last.fm/music/Detachments/_/I+Don%27t+Want+to+Play)** - [Detachments](https://www.last.fm/music/Detachments)<br/>
 > `4 ▶️` ∙ **[Биохазард](https://www.last.fm/music/%D0%9F%D1%82%D0%B8%D1%86%D1%83+%D0%95%D0%BC%D1%8A/_/%D0%91%D0%B8%D0%BE%D1%85%D0%B0%D0%B7%D0%B0%D1%80%D0%B4)** - [Птицу Емъ](https://www.last.fm/music/%D0%9F%D1%82%D0%B8%D1%86%D1%83+%D0%95%D0%BC%D1%8A)<br/>
 <!--END_LASTFM_TRACKS-->
