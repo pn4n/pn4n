@@ -15,7 +15,7 @@
 > `10 ▶️` ∙ **[Detachments](https://www.last.fm/music/Detachments/Detachments)** - [Detachments](https://www.last.fm/music/Detachments)<br/>
 > `9 ▶️` ∙ **[Remember When](https://www.last.fm/music/The+Shirelles/Remember+When)** - [The Shirelles](https://www.last.fm/music/The+Shirelles)<br/>
 > `9 ▶️` ∙ **[Давай забудем о морали](https://www.last.fm/music/%D0%9F%D1%82%D0%B8%D1%86%D1%83+%D0%95%D0%BC%D1%8A/%D0%94%D0%B0%D0%B2%D0%B0%D0%B9+%D0%B7%D0%B0%D0%B1%D1%83%D0%B4%D0%B5%D0%BC+%D0%BE+%D0%BC%D0%BE%D1%80%D0%B0%D0%BB%D0%B8)** - [Птицу Емъ](https://www.last.fm/music/%D0%9F%D1%82%D0%B8%D1%86%D1%83+%D0%95%D0%BC%D1%8A)<br/>
-> `7 ▶️` ∙ **[A Long Way down](https://www.last.fm/music/LE+PRINCE+HARRY/A+Long+Way+down)** - [LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)<br/>
+> `8 ▶️` ∙ **[A Long Way down](https://www.last.fm/music/LE+PRINCE+HARRY/A+Long+Way+down)** - [LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
