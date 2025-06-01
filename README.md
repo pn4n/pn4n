@@ -3,9 +3,9 @@
 
 > `21 ▶️` ∙ **[Shad Shadows](https://www.last.fm/music/Shad+Shadows)**<br/>
 > `17 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
+> `10 ▶️` ∙ **[Птицу Емъ](https://www.last.fm/music/%D0%9F%D1%82%D0%B8%D1%86%D1%83+%D0%95%D0%BC%D1%8A)**<br/>
 > `9 ▶️` ∙ **[Loveth Besamoh](https://www.last.fm/music/Loveth+Besamoh)**<br/>
 > `9 ▶️` ∙ **[Pictureplane](https://www.last.fm/music/Pictureplane)**<br/>
-> `9 ▶️` ∙ **[The Hangmen](https://www.last.fm/music/The+Hangmen)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
