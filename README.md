@@ -1,29 +1,29 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `17 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
-> `9 ▶️` ∙ **[Anja Huwe](https://www.last.fm/music/Anja+Huwe)**<br/>
-> `9 ▶️` ∙ **[The Hangmen](https://www.last.fm/music/The+Hangmen)**<br/>
+> `8 ▶️` ∙ **[Anja Huwe](https://www.last.fm/music/Anja+Huwe)**<br/>
+> `5 ▶️` ∙ **[Deux](https://www.last.fm/music/Deux)**<br/>
 > `5 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
 > `4 ▶️` ∙ **[Air](https://www.last.fm/music/Air)**<br/>
+> `4 ▶️` ∙ **[Buzz Kull](https://www.last.fm/music/Buzz+Kull)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `9 ▶️` ∙ **[PolarForest](https://www.last.fm/music/Anja+Huwe/PolarForest)** - [Anja Huwe](https://www.last.fm/music/Anja+Huwe)<br/>
-> `9 ▶️` ∙ **[the girl who faded away](https://www.last.fm/music/The+Hangmen/the+girl+who+faded+away)** - [The Hangmen](https://www.last.fm/music/The+Hangmen)<br/>
-> `4 ▶️` ∙ **[The Ideal Copy](https://www.last.fm/music/Wire/The+Ideal+Copy)** - [Wire](https://www.last.fm/music/Wire)<br/>
-> `3 ▶️` ∙ **[A-Z (Remastered)](https://www.last.fm/music/Colin+Newman/A-Z+(Remastered))** - [Colin Newman](https://www.last.fm/music/Colin+Newman)<br/>
-> `3 ▶️` ∙ **[Entertainment!](https://www.last.fm/music/Gang+of+Four/Entertainment!)** - [Gang of Four](https://www.last.fm/music/Gang+of+Four)<br/>
+> `8 ▶️` ∙ **[PolarForest](https://www.last.fm/music/Anja+Huwe/PolarForest)** - [Anja Huwe](https://www.last.fm/music/Anja+Huwe)<br/>
+> `5 ▶️` ∙ **[Decadence](https://www.last.fm/music/Deux/Decadence)** - [Deux](https://www.last.fm/music/Deux)<br/>
+> `4 ▶️` ∙ **[Wunderkammer Desire](https://www.last.fm/music/Shad+Shadows/Wunderkammer+Desire)** - [Shad Shadows](https://www.last.fm/music/Shad+Shadows)<br/>
+> `4 ▶️` ∙ **[the girl who faded away](https://www.last.fm/music/The+Hangmen/the+girl+who+faded+away)** - [The Hangmen](https://www.last.fm/music/The+Hangmen)<br/>
+> `3 ▶️` ∙ **[New Kind Of Cross](https://www.last.fm/music/Buzz+Kull/New+Kind+Of+Cross)** - [Buzz Kull](https://www.last.fm/music/Buzz+Kull)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `9 ▶️` ∙ **[PolarForest](https://www.last.fm/music/Anja+Huwe/_/PolarForest)** - [Anja Huwe](https://www.last.fm/music/Anja+Huwe)<br/>
-> `9 ▶️` ∙ **[The Girl Who Faded Away](https://www.last.fm/music/The+Hangmen/_/The+Girl+Who+Faded+Away)** - [The Hangmen](https://www.last.fm/music/The+Hangmen)<br/>
-> `3 ▶️` ∙ **[Wrong Rain](https://www.last.fm/music/Shad+Shadows/_/Wrong+Rain)** - [Shad Shadows](https://www.last.fm/music/Shad+Shadows)<br/>
-> `3 ▶️` ∙ **[FALLING - Twin Tribes Remix](https://www.last.fm/music/Soft+Vein/_/FALLING+-+Twin+Tribes+Remix)** - [Soft Vein](https://www.last.fm/music/Soft+Vein)<br/>
-> `2 ▶️` ∙ **[Halo](https://www.last.fm/music/A+Transition/_/Halo)** - [A Transition](https://www.last.fm/music/A+Transition)<br/>
+> `8 ▶️` ∙ **[PolarForest](https://www.last.fm/music/Anja+Huwe/_/PolarForest)** - [Anja Huwe](https://www.last.fm/music/Anja+Huwe)<br/>
+> `4 ▶️` ∙ **[Wrong Rain](https://www.last.fm/music/Shad+Shadows/_/Wrong+Rain)** - [Shad Shadows](https://www.last.fm/music/Shad+Shadows)<br/>
+> `4 ▶️` ∙ **[The Girl Who Faded Away](https://www.last.fm/music/The+Hangmen/_/The+Girl+Who+Faded+Away)** - [The Hangmen](https://www.last.fm/music/The+Hangmen)<br/>
+> `3 ▶️` ∙ **[Sex And Trouble](https://www.last.fm/music/Deux/_/Sex+And+Trouble)** - [Deux](https://www.last.fm/music/Deux)<br/>
+> `2 ▶️` ∙ **[Indu (Turned Leaf Mix)](https://www.last.fm/music/Adham+Shaikh/_/Indu+(Turned+Leaf+Mix))** - [Adham Shaikh](https://www.last.fm/music/Adham+Shaikh)<br/>
 <!--END_LASTFM_TRACKS-->
