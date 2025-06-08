@@ -3,9 +3,9 @@
 
 > `17 ▶️` ∙ **[Ghostpoet](https://www.last.fm/music/Ghostpoet)**<br/>
 > `9 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
+> `7 ▶️` ∙ **[John Maus](https://www.last.fm/music/John+Maus)**<br/>
 > `6 ▶️` ∙ **[Deux](https://www.last.fm/music/Deux)**<br/>
-> `5 ▶️` ∙ **[John Maus](https://www.last.fm/music/John+Maus)**<br/>
-> `4 ▶️` ∙ **[Air](https://www.last.fm/music/Air)**<br/>
+> `5 ▶️` ∙ **[Orange Blossom](https://www.last.fm/music/Orange+Blossom)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
