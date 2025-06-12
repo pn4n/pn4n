@@ -5,7 +5,7 @@
 > `23 ▶️` ∙ **[Dntel](https://www.last.fm/music/Dntel)**<br/>
 > `20 ▶️` ∙ **[Ghostpoet](https://www.last.fm/music/Ghostpoet)**<br/>
 > `14 ▶️` ∙ **[The Magnetic Fields](https://www.last.fm/music/The+Magnetic+Fields)**<br/>
-> `11 ▶️` ∙ **[Jonathan Bree](https://www.last.fm/music/Jonathan+Bree)**<br/>
+> `11 ▶️` ∙ **[DeVotchKa](https://www.last.fm/music/DeVotchKa)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
