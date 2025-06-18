@@ -15,7 +15,7 @@
 > `7 ▶️` ∙ **[Seduction (The Society Collection)](https://www.last.fm/music/The+Danse+Society/Seduction+(The+Society+Collection))** - [The Danse Society](https://www.last.fm/music/The+Danse+Society)<br/>
 > `6 ▶️` ∙ **[How It Ends](https://www.last.fm/music/DeVotchKa/How+It+Ends)** - [DeVotchKa](https://www.last.fm/music/DeVotchKa)<br/>
 > `6 ▶️` ∙ **[Life Is Full of Possibilities (Deluxe)](https://www.last.fm/music/Dntel/Life+Is+Full+of+Possibilities+(Deluxe))** - [Dntel](https://www.last.fm/music/Dntel)<br/>
-> `6 ▶️` ∙ **[After the Curtains Close](https://www.last.fm/music/Jonathan+Bree/After+the+Curtains+Close)** - [Jonathan Bree](https://www.last.fm/music/Jonathan+Bree)<br/>
+> `6 ▶️` ∙ **[Wunderkammer Desire](https://www.last.fm/music/Shad+Shadows/Wunderkammer+Desire)** - [Shad Shadows](https://www.last.fm/music/Shad+Shadows)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `9 ▶️` ∙ **[On Our Honeymoon](https://www.last.fm/music/The+Wake/_/On+Our+Honeymoon)** - [The Wake](https://www.last.fm/music/The+Wake)<br/>
 > `6 ▶️` ∙ **[(This Is) The Dream Of Evan And Chan - Remastered](https://www.last.fm/music/Dntel/_/(This+Is)+The+Dream+Of+Evan+And+Chan+-+Remastered)** - [Dntel](https://www.last.fm/music/Dntel)<br/>
-> `6 ▶️` ∙ **[Meadows in Bloom](https://www.last.fm/music/Jonathan+Bree/_/Meadows+in+Bloom)** - [Jonathan Bree](https://www.last.fm/music/Jonathan+Bree)<br/>
 > `6 ▶️` ∙ **[Wrong Rain](https://www.last.fm/music/Shad+Shadows/_/Wrong+Rain)** - [Shad Shadows](https://www.last.fm/music/Shad+Shadows)<br/>
 > `5 ▶️` ∙ **[Viens Avec Moi](https://www.last.fm/music/DeVotchKa/_/Viens+Avec+Moi)** - [DeVotchKa](https://www.last.fm/music/DeVotchKa)<br/>
+> `5 ▶️` ∙ **[Meadows in Bloom](https://www.last.fm/music/Jonathan+Bree/_/Meadows+in+Bloom)** - [Jonathan Bree](https://www.last.fm/music/Jonathan+Bree)<br/>
 <!--END_LASTFM_TRACKS-->
