@@ -4,8 +4,8 @@
 > `11 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
 > `9 ▶️` ∙ **[The Wake](https://www.last.fm/music/The+Wake)**<br/>
 > `9 ▶️` ∙ **[Птицу Емъ](https://www.last.fm/music/%D0%9F%D1%82%D0%B8%D1%86%D1%83+%D0%95%D0%BC%D1%8A)**<br/>
-> `8 ▶️` ∙ **[Double Echo](https://www.last.fm/music/Double+Echo)**<br/>
-> `8 ▶️` ∙ **[The Danse Society](https://www.last.fm/music/The+Danse+Society)**<br/>
+> `7 ▶️` ∙ **[Double Echo](https://www.last.fm/music/Double+Echo)**<br/>
+> `6 ▶️` ∙ **[clipping.](https://www.last.fm/music/clipping.)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
