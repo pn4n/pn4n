@@ -3,9 +3,9 @@
 
 > `9 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
 > `7 ▶️` ∙ **[LustSickPuppy](https://www.last.fm/music/LustSickPuppy)**<br/>
-> `7 ▶️` ∙ **[The Magnetic Fields](https://www.last.fm/music/The+Magnetic+Fields)**<br/>
-> `7 ▶️` ∙ **[Timber Timbre](https://www.last.fm/music/Timber+Timbre)**<br/>
 > `6 ▶️` ∙ **[4 Позиции Бруно](https://www.last.fm/music/4+%D0%9F%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8+%D0%91%D1%80%D1%83%D0%BD%D0%BE)**<br/>
+> `6 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
+> `6 ▶️` ∙ **[Linea Aspera](https://www.last.fm/music/Linea+Aspera)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
