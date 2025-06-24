@@ -5,7 +5,7 @@
 > `9 ▶️` ∙ **[U.S. Girls](https://www.last.fm/music/U.S.+Girls)**<br/>
 > `8 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `8 ▶️` ∙ **[LustSickPuppy](https://www.last.fm/music/LustSickPuppy)**<br/>
-> `6 ▶️` ∙ **[4 Позиции Бруно](https://www.last.fm/music/4+%D0%9F%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8+%D0%91%D1%80%D1%83%D0%BD%D0%BE)**<br/>
+> `6 ▶️` ∙ **[Chris Rea](https://www.last.fm/music/Chris+Rea)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
