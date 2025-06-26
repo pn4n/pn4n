@@ -4,8 +4,8 @@
 > `14 ▶️` ∙ **[U.S. Girls](https://www.last.fm/music/U.S.+Girls)**<br/>
 > `13 ▶️` ∙ **[Linea Aspera](https://www.last.fm/music/Linea+Aspera)**<br/>
 > `11 ▶️` ∙ **[Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)**<br/>
-> `10 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
-> `7 ▶️` ∙ **[FREE.99](https://www.last.fm/music/FREE.99)**<br/>
+> `8 ▶️` ∙ **[FREE.99](https://www.last.fm/music/FREE.99)**<br/>
+> `7 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `8 ▶️` ∙ **[Window Shades](https://www.last.fm/music/U.S.+Girls/_/Window+Shades)** - [U.S. Girls](https://www.last.fm/music/U.S.+Girls)<br/>
 > `7 ▶️` ∙ **[Serotonin Rushes](https://www.last.fm/music/Fujiya+&+Miyagi/_/Serotonin+Rushes)** - [Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)<br/>
 > `6 ▶️` ∙ **[Curse Of The Traveller](https://www.last.fm/music/Chris+Rea/_/Curse+Of+The+Traveller)** - [Chris Rea](https://www.last.fm/music/Chris+Rea)<br/>
-> `6 ▶️` ∙ **[RIDE IT](https://www.last.fm/music/LustSickPuppy/_/RIDE+IT)** - [LustSickPuppy](https://www.last.fm/music/LustSickPuppy)<br/>
+> `5 ▶️` ∙ **[RIDE IT](https://www.last.fm/music/LustSickPuppy/_/RIDE+IT)** - [LustSickPuppy](https://www.last.fm/music/LustSickPuppy)<br/>
 <!--END_LASTFM_TRACKS-->
