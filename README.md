@@ -4,7 +4,7 @@
 > `14 ▶️` ∙ **[U.S. Girls](https://www.last.fm/music/U.S.+Girls)**<br/>
 > `13 ▶️` ∙ **[Linea Aspera](https://www.last.fm/music/Linea+Aspera)**<br/>
 > `10 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
-> `8 ▶️` ∙ **[Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)**<br/>
+> `9 ▶️` ∙ **[Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)**<br/>
 > `7 ▶️` ∙ **[LustSickPuppy](https://www.last.fm/music/LustSickPuppy)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -25,5 +25,5 @@
 > `8 ▶️` ∙ **[Window Shades](https://www.last.fm/music/U.S.+Girls/_/Window+Shades)** - [U.S. Girls](https://www.last.fm/music/U.S.+Girls)<br/>
 > `6 ▶️` ∙ **[Curse Of The Traveller](https://www.last.fm/music/Chris+Rea/_/Curse+Of+The+Traveller)** - [Chris Rea](https://www.last.fm/music/Chris+Rea)<br/>
 > `6 ▶️` ∙ **[RIDE IT](https://www.last.fm/music/LustSickPuppy/_/RIDE+IT)** - [LustSickPuppy](https://www.last.fm/music/LustSickPuppy)<br/>
-> `4 ▶️` ∙ **[Serotonin Rushes](https://www.last.fm/music/Fujiya+&+Miyagi/_/Serotonin+Rushes)** - [Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)<br/>
+> `5 ▶️` ∙ **[Serotonin Rushes](https://www.last.fm/music/Fujiya+&+Miyagi/_/Serotonin+Rushes)** - [Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)<br/>
 <!--END_LASTFM_TRACKS-->
