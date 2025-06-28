@@ -5,7 +5,7 @@
 > `14 ▶️` ∙ **[Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)**<br/>
 > `14 ▶️` ∙ **[U.S. Girls](https://www.last.fm/music/U.S.+Girls)**<br/>
 > `13 ▶️` ∙ **[Linea Aspera](https://www.last.fm/music/Linea+Aspera)**<br/>
-> `8 ▶️` ∙ **[Wolf Parade](https://www.last.fm/music/Wolf+Parade)**<br/>
+> `7 ▶️` ∙ **[Chris Rea](https://www.last.fm/music/Chris+Rea)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `13 ▶️` ∙ **[Linea Aspera](https://www.last.fm/music/Linea+Aspera/Linea+Aspera)** - [Linea Aspera](https://www.last.fm/music/Linea+Aspera)<br/>
 > `12 ▶️` ∙ **[Half Free](https://www.last.fm/music/U.S.+Girls/Half+Free)** - [U.S. Girls](https://www.last.fm/music/U.S.+Girls)<br/>
 > `10 ▶️` ∙ **[Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi/Fujiya+&+Miyagi)** - [Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)<br/>
-> `8 ▶️` ∙ **[Apologies to the Queen Mary](https://www.last.fm/music/Wolf+Parade/Apologies+to+the+Queen+Mary)** - [Wolf Parade](https://www.last.fm/music/Wolf+Parade)<br/>
 > `7 ▶️` ∙ **[Dancing with Strangers](https://www.last.fm/music/Chris+Rea/Dancing+with+Strangers)** - [Chris Rea](https://www.last.fm/music/Chris+Rea)<br/>
+> `7 ▶️` ∙ **[TRAUMA REDUCTION PRAYER](https://www.last.fm/music/FREE.99/TRAUMA+REDUCTION+PRAYER)** - [FREE.99](https://www.last.fm/music/FREE.99)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
