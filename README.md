@@ -24,6 +24,6 @@
 > `16 ▶️` ∙ **[Serotonin Rushes](https://www.last.fm/music/Fujiya+&+Miyagi/_/Serotonin+Rushes)** - [Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)<br/>
 > `13 ▶️` ∙ **[Window Shades](https://www.last.fm/music/U.S.+Girls/_/Window+Shades)** - [U.S. Girls](https://www.last.fm/music/U.S.+Girls)<br/>
 > `9 ▶️` ∙ **[Lamanai](https://www.last.fm/music/Linea+Aspera/_/Lamanai)** - [Linea Aspera](https://www.last.fm/music/Linea+Aspera)<br/>
+> `8 ▶️` ∙ **[Collective Dreamwish Of Upperclass Elegance](https://www.last.fm/music/Grandaddy/_/Collective+Dreamwish+Of+Upperclass+Elegance)** - [Grandaddy](https://www.last.fm/music/Grandaddy)<br/>
 > `8 ▶️` ∙ **[The Future](https://www.last.fm/music/Second+Still/_/The+Future)** - [Second Still](https://www.last.fm/music/Second+Still)<br/>
-> `7 ▶️` ∙ **[Collective Dreamwish Of Upperclass Elegance](https://www.last.fm/music/Grandaddy/_/Collective+Dreamwish+Of+Upperclass+Elegance)** - [Grandaddy](https://www.last.fm/music/Grandaddy)<br/>
 <!--END_LASTFM_TRACKS-->
