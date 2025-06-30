@@ -5,7 +5,7 @@
 > `26 ▶️` ∙ **[Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)**<br/>
 > `22 ▶️` ∙ **[FREE.99](https://www.last.fm/music/FREE.99)**<br/>
 > `18 ▶️` ∙ **[U.S. Girls](https://www.last.fm/music/U.S.+Girls)**<br/>
-> `13 ▶️` ∙ **[Linea Aspera](https://www.last.fm/music/Linea+Aspera)**<br/>
+> `14 ▶️` ∙ **[Linea Aspera](https://www.last.fm/music/Linea+Aspera)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,7 +14,7 @@
 > `17 ▶️` ∙ **[Heartland](https://www.last.fm/music/Owen+Pallett/Heartland)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
 > `16 ▶️` ∙ **[Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi/Fujiya+&+Miyagi)** - [Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)<br/>
 > `16 ▶️` ∙ **[Half Free](https://www.last.fm/music/U.S.+Girls/Half+Free)** - [U.S. Girls](https://www.last.fm/music/U.S.+Girls)<br/>
-> `11 ▶️` ∙ **[Linea Aspera](https://www.last.fm/music/Linea+Aspera/Linea+Aspera)** - [Linea Aspera](https://www.last.fm/music/Linea+Aspera)<br/>
+> `12 ▶️` ∙ **[Linea Aspera](https://www.last.fm/music/Linea+Aspera/Linea+Aspera)** - [Linea Aspera](https://www.last.fm/music/Linea+Aspera)<br/>
 > `11 ▶️` ∙ **[In Conflict](https://www.last.fm/music/Owen+Pallett/In+Conflict)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
 <!--END_LASTFM_ALBUMS-->
 
