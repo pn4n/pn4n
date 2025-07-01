@@ -4,8 +4,8 @@
 > `39 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
 > `27 ▶️` ∙ **[Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)**<br/>
 > `21 ▶️` ∙ **[FREE.99](https://www.last.fm/music/FREE.99)**<br/>
-> `11 ▶️` ∙ **[U.S. Girls](https://www.last.fm/music/U.S.+Girls)**<br/>
-> `11 ▶️` ∙ **[Wolf Parade](https://www.last.fm/music/Wolf+Parade)**<br/>
+> `17 ▶️` ∙ **[clipping.](https://www.last.fm/music/clipping.)**<br/>
+> `11 ▶️` ∙ **[Menomena](https://www.last.fm/music/Menomena)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
