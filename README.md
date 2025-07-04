@@ -5,7 +5,7 @@
 > `27 ▶️` ∙ **[clipping.](https://www.last.fm/music/clipping.)**<br/>
 > `17 ▶️` ∙ **[Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)**<br/>
 > `12 ▶️` ∙ **[Menomena](https://www.last.fm/music/Menomena)**<br/>
-> `10 ▶️` ∙ **[Sixth June](https://www.last.fm/music/Sixth+June)**<br/>
+> `11 ▶️` ∙ **[Sixth June](https://www.last.fm/music/Sixth+June)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
