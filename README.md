@@ -1,7 +1,7 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `39 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
+> `36 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
 > `27 ▶️` ∙ **[clipping.](https://www.last.fm/music/clipping.)**<br/>
 > `14 ▶️` ∙ **[Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)**<br/>
 > `12 ▶️` ∙ **[Menomena](https://www.last.fm/music/Menomena)**<br/>
@@ -12,8 +12,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `19 ▶️` ∙ **[Heartland](https://www.last.fm/music/Owen+Pallett/Heartland)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
-> `12 ▶️` ∙ **[In Conflict](https://www.last.fm/music/Owen+Pallett/In+Conflict)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
 > `11 ▶️` ∙ **[Visions of Bodies Being Burned](https://www.last.fm/music/clipping./Visions+of+Bodies+Being+Burned)** - [clipping.](https://www.last.fm/music/clipping.)<br/>
+> `10 ▶️` ∙ **[In Conflict](https://www.last.fm/music/Owen+Pallett/In+Conflict)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
 > `8 ▶️` ∙ **[Face](https://www.last.fm/music/clipping./Face)** - [clipping.](https://www.last.fm/music/clipping.)<br/>
 > `8 ▶️` ∙ **[Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi/Fujiya+&+Miyagi)** - [Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)<br/>
 <!--END_LASTFM_ALBUMS-->
