@@ -5,7 +5,7 @@
 > `14 ▶️` ∙ **[Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)**<br/>
 > `12 ▶️` ∙ **[Attic Abasement](https://www.last.fm/music/Attic+Abasement)**<br/>
 > `12 ▶️` ∙ **[clipping.](https://www.last.fm/music/clipping.)**<br/>
-> `6 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion)**<br/>
+> `10 ▶️` ∙ **[Tricky](https://www.last.fm/music/Tricky)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
