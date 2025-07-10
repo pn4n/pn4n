@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `46 ▶️` ∙ **[Mumblr](https://www.last.fm/music/Mumblr)**<br/>
+> `25 ▶️` ∙ **[Tricky](https://www.last.fm/music/Tricky)**<br/>
 > `14 ▶️` ∙ **[Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)**<br/>
 > `12 ▶️` ∙ **[Attic Abasement](https://www.last.fm/music/Attic+Abasement)**<br/>
 > `12 ▶️` ∙ **[clipping.](https://www.last.fm/music/clipping.)**<br/>
-> `10 ▶️` ∙ **[Tricky](https://www.last.fm/music/Tricky)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
