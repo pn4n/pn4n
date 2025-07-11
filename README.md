@@ -5,7 +5,7 @@
 > `27 ▶️` ∙ **[Tricky](https://www.last.fm/music/Tricky)**<br/>
 > `21 ▶️` ∙ **[Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)**<br/>
 > `13 ▶️` ∙ **[Attic Abasement](https://www.last.fm/music/Attic+Abasement)**<br/>
-> `8 ▶️` ∙ **[Special Interest](https://www.last.fm/music/Special+Interest)**<br/>
+> `10 ▶️` ∙ **[Special Interest](https://www.last.fm/music/Special+Interest)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `10 ▶️` ∙ **[New Girl](https://www.last.fm/music/Aldo+Fisk/_/New+Girl)** - [Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)<br/>
 > `9 ▶️` ∙ **[Ugly Ugly Tiny Tiny](https://www.last.fm/music/Mumblr/_/Ugly+Ugly+Tiny+Tiny)** - [Mumblr](https://www.last.fm/music/Mumblr)<br/>
-> `5 ▶️` ∙ **[Change Machine](https://www.last.fm/music/Attic+Abasement/_/Change+Machine)** - [Attic Abasement](https://www.last.fm/music/Attic+Abasement)<br/>
-> `5 ▶️` ∙ **[Slick](https://www.last.fm/music/Micachu/_/Slick)** - [Micachu](https://www.last.fm/music/Micachu)<br/>
-> `5 ▶️` ∙ **[Street Pulse Beat](https://www.last.fm/music/Special+Interest/_/Street+Pulse+Beat)** - [Special Interest](https://www.last.fm/music/Special+Interest)<br/>
+> `7 ▶️` ∙ **[Street Pulse Beat](https://www.last.fm/music/Special+Interest/_/Street+Pulse+Beat)** - [Special Interest](https://www.last.fm/music/Special+Interest)<br/>
+> `6 ▶️` ∙ **[Jerney](https://www.last.fm/music/De+Ambassade/_/Jerney)** - [De Ambassade](https://www.last.fm/music/De+Ambassade)<br/>
+> `6 ▶️` ∙ **[Slick](https://www.last.fm/music/Micachu/_/Slick)** - [Micachu](https://www.last.fm/music/Micachu)<br/>
 <!--END_LASTFM_TRACKS-->
