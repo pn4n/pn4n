@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `32 ▶️` ∙ **[Thievery Corporation](https://www.last.fm/music/Thievery+Corporation)**<br/>
-> `27 ▶️` ∙ **[Tricky](https://www.last.fm/music/Tricky)**<br/>
+> `17 ▶️` ∙ **[Tricky](https://www.last.fm/music/Tricky)**<br/>
 > `15 ▶️` ∙ **[Mumblr](https://www.last.fm/music/Mumblr)**<br/>
 > `14 ▶️` ∙ **[Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)**<br/>
 > `12 ▶️` ∙ **[Special Interest](https://www.last.fm/music/Special+Interest)**<br/>
