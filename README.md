@@ -25,5 +25,5 @@
 > `4 ▶️` ∙ **[Lithium](https://www.last.fm/music/Labyrinth+Ear/_/Lithium)** - [Labyrinth Ear](https://www.last.fm/music/Labyrinth+Ear)<br/>
 > `4 ▶️` ∙ **[Metodika](https://www.last.fm/music/Palm%C4%97s+%C5%BEiedas/_/Metodika)** - [Palmės žiedas](https://www.last.fm/music/Palm%C4%97s+%C5%BEiedas)<br/>
 > `4 ▶️` ∙ **[Last Dance](https://www.last.fm/music/THE+SEANCE/_/Last+Dance)** - [THE SEANCE](https://www.last.fm/music/THE+SEANCE)<br/>
-> `4 ▶️` ∙ **[Beautiful Drug](https://www.last.fm/music/Thievery+Corporation/_/Beautiful+Drug)** - [Thievery Corporation](https://www.last.fm/music/Thievery+Corporation)<br/>
+> `3 ▶️` ∙ **[La Noyade (Leroy Se Meurt Remix)](https://www.last.fm/music/Blind+Delon/_/La+Noyade+(Leroy+Se+Meurt+Remix))** - [Blind Delon](https://www.last.fm/music/Blind+Delon)<br/>
 <!--END_LASTFM_TRACKS-->
