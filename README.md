@@ -4,8 +4,8 @@
 > `19 ▶️` ∙ **[Sad Lovers and Giants](https://www.last.fm/music/Sad+Lovers+and+Giants)**<br/>
 > `14 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `11 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
-> `10 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `9 ▶️` ∙ **[The Soft Moon](https://www.last.fm/music/The+Soft+Moon)**<br/>
+> `9 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
