@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `15 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
-> `14 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
+> `11 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `10 ▶️` ∙ **[Phèdre](https://www.last.fm/music/Ph%C3%A8dre)**<br/>
 > `9 ▶️` ∙ **[A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)**<br/>
 > `9 ▶️` ∙ **[Hatari](https://www.last.fm/music/Hatari)**<br/>
