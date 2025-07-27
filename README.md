@@ -23,7 +23,7 @@
 
 > `5 ▶️` ∙ **[Niðurlút](https://www.last.fm/music/Hatari/_/Ni%C3%B0url%C3%BAt)** - [Hatari](https://www.last.fm/music/Hatari)<br/>
 > `4 ▶️` ∙ **[Pidpunk](https://www.last.fm/music/Home+Video/_/Pidpunk)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
-> `4 ▶️` ∙ **[Last Dance](https://www.last.fm/music/THE+SEANCE/_/Last+Dance)** - [THE SEANCE](https://www.last.fm/music/THE+SEANCE)<br/>
 > `4 ▶️` ∙ **[Blasphemic Church](https://www.last.fm/music/Yakima+Jera/_/Blasphemic+Church)** - [Yakima Jera](https://www.last.fm/music/Yakima+Jera)<br/>
 > `3 ▶️` ∙ **[Allt som var mitt eget](https://www.last.fm/music/Franke/_/Allt+som+var+mitt+eget)** - [Franke](https://www.last.fm/music/Franke)<br/>
+> `3 ▶️` ∙ **[Pure](https://www.last.fm/music/mikey+prime/_/Pure)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
 <!--END_LASTFM_TRACKS-->
