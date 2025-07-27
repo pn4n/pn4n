@@ -25,5 +25,5 @@
 > `4 ▶️` ∙ **[Pidpunk](https://www.last.fm/music/Home+Video/_/Pidpunk)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `4 ▶️` ∙ **[Blasphemic Church](https://www.last.fm/music/Yakima+Jera/_/Blasphemic+Church)** - [Yakima Jera](https://www.last.fm/music/Yakima+Jera)<br/>
 > `3 ▶️` ∙ **[Allt som var mitt eget](https://www.last.fm/music/Franke/_/Allt+som+var+mitt+eget)** - [Franke](https://www.last.fm/music/Franke)<br/>
-> `3 ▶️` ∙ **[Pure](https://www.last.fm/music/mikey+prime/_/Pure)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
+> `3 ▶️` ∙ **[Serotonin Rushes](https://www.last.fm/music/Fujiya+&+Miyagi/_/Serotonin+Rushes)** - [Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)<br/>
 <!--END_LASTFM_TRACKS-->
