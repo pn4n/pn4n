@@ -22,8 +22,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `5 ▶️` ∙ **[Niðurlút](https://www.last.fm/music/Hatari/_/Ni%C3%B0url%C3%BAt)** - [Hatari](https://www.last.fm/music/Hatari)<br/>
+> `4 ▶️` ∙ **[Serotonin Rushes](https://www.last.fm/music/Fujiya+&+Miyagi/_/Serotonin+Rushes)** - [Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)<br/>
 > `4 ▶️` ∙ **[Pidpunk](https://www.last.fm/music/Home+Video/_/Pidpunk)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `4 ▶️` ∙ **[Blasphemic Church](https://www.last.fm/music/Yakima+Jera/_/Blasphemic+Church)** - [Yakima Jera](https://www.last.fm/music/Yakima+Jera)<br/>
 > `3 ▶️` ∙ **[Allt som var mitt eget](https://www.last.fm/music/Franke/_/Allt+som+var+mitt+eget)** - [Franke](https://www.last.fm/music/Franke)<br/>
-> `3 ▶️` ∙ **[Serotonin Rushes](https://www.last.fm/music/Fujiya+&+Miyagi/_/Serotonin+Rushes)** - [Fujiya & Miyagi](https://www.last.fm/music/Fujiya+&+Miyagi)<br/>
 <!--END_LASTFM_TRACKS-->
