@@ -4,8 +4,8 @@
 > `12 ▶️` ∙ **[Yakima Jera](https://www.last.fm/music/Yakima+Jera)**<br/>
 > `8 ▶️` ∙ **[Keškušta](https://www.last.fm/music/Ke%C5%A1ku%C5%A1ta)**<br/>
 > `7 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
-> `6 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
-> `6 ▶️` ∙ **[Phèdre](https://www.last.fm/music/Ph%C3%A8dre)**<br/>
+> `6 ▶️` ∙ **[urbandoned.](https://www.last.fm/music/urbandoned.)**<br/>
+> `5 ▶️` ∙ **[Hatari](https://www.last.fm/music/Hatari)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `4 ▶️` ∙ **[Blasphemic Church](https://www.last.fm/music/Yakima+Jera/_/Blasphemic+Church)** - [Yakima Jera](https://www.last.fm/music/Yakima+Jera)<br/>
 > `3 ▶️` ∙ **[Niðurlút](https://www.last.fm/music/Hatari/_/Ni%C3%B0url%C3%BAt)** - [Hatari](https://www.last.fm/music/Hatari)<br/>
 > `3 ▶️` ∙ **[Pure](https://www.last.fm/music/mikey+prime/_/Pure)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
-> `3 ▶️` ∙ **[APHRODITE](https://www.last.fm/music/Ph%C3%A8dre/_/APHRODITE)** - [Phèdre](https://www.last.fm/music/Ph%C3%A8dre)<br/>
+> `3 ▶️` ∙ **[Another Life](https://www.last.fm/music/Twin+Tribes/_/Another+Life)** - [Twin Tribes](https://www.last.fm/music/Twin+Tribes)<br/>
 > `3 ▶️` ∙ **[You](https://www.last.fm/music/Yakima+Jera/_/You)** - [Yakima Jera](https://www.last.fm/music/Yakima+Jera)<br/>
 <!--END_LASTFM_TRACKS-->
