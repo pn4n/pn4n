@@ -5,7 +5,7 @@
 > `10 ▶️` ∙ **[Cold Showers](https://www.last.fm/music/Cold+Showers)**<br/>
 > `10 ▶️` ∙ **[R. Missing](https://www.last.fm/music/R.+Missing)**<br/>
 > `9 ▶️` ∙ **[Vast](https://www.last.fm/music/Vast)**<br/>
-> `8 ▶️` ∙ **[Fragrance](https://www.last.fm/music/Fragrance)**<br/>
+> `7 ▶️` ∙ **[Fragrance](https://www.last.fm/music/Fragrance)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `7 ▶️` ∙ **[Sliver](https://www.last.fm/music/Cold+Showers/_/Sliver)** - [Cold Showers](https://www.last.fm/music/Cold+Showers)<br/>
 > `4 ▶️` ∙ **[Honeymoon](https://www.last.fm/music/Magic+Wands/_/Honeymoon)** - [Magic Wands](https://www.last.fm/music/Magic+Wands)<br/>
 > `4 ▶️` ∙ **[Another Life](https://www.last.fm/music/Twin+Tribes/_/Another+Life)** - [Twin Tribes](https://www.last.fm/music/Twin+Tribes)<br/>
-> `3 ▶️` ∙ **[Tears - Mareux Remix](https://www.last.fm/music/Fragrance/_/Tears+-+Mareux+Remix)** - [Fragrance](https://www.last.fm/music/Fragrance)<br/>
+> `3 ▶️` ∙ **[Blue Chest](https://www.last.fm/music/Red+Snapper/_/Blue+Chest)** - [Red Snapper](https://www.last.fm/music/Red+Snapper)<br/>
 <!--END_LASTFM_TRACKS-->
