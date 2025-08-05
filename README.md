@@ -5,7 +5,7 @@
 > `16 ▶️` ∙ **[Emika](https://www.last.fm/music/Emika)**<br/>
 > `11 ▶️` ∙ **[Vast](https://www.last.fm/music/Vast)**<br/>
 > `10 ▶️` ∙ **[R. Missing](https://www.last.fm/music/R.+Missing)**<br/>
-> `8 ▶️` ∙ **[T.G.T.B.](https://www.last.fm/music/T.G.T.B.)**<br/>
+> `10 ▶️` ∙ **[T.G.T.B.](https://www.last.fm/music/T.G.T.B.)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
