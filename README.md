@@ -25,5 +25,5 @@
 > `15 ▶️` ∙ **[Sliver](https://www.last.fm/music/Cold+Showers/_/Sliver)** - [Cold Showers](https://www.last.fm/music/Cold+Showers)<br/>
 > `7 ▶️` ∙ **[Honeymoon](https://www.last.fm/music/Magic+Wands/_/Honeymoon)** - [Magic Wands](https://www.last.fm/music/Magic+Wands)<br/>
 > `5 ▶️` ∙ **[Blue Chest](https://www.last.fm/music/Red+Snapper/_/Blue+Chest)** - [Red Snapper](https://www.last.fm/music/Red+Snapper)<br/>
-> `5 ▶️` ∙ **[Another Life](https://www.last.fm/music/Twin+Tribes/_/Another+Life)** - [Twin Tribes](https://www.last.fm/music/Twin+Tribes)<br/>
+> `5 ▶️` ∙ **[Candle](https://www.last.fm/music/Vast/_/Candle)** - [Vast](https://www.last.fm/music/Vast)<br/>
 <!--END_LASTFM_TRACKS-->
