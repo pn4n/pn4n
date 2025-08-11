@@ -3,8 +3,8 @@
 
 > `11 ▶️` ∙ **[Failure](https://www.last.fm/music/Failure)**<br/>
 > `11 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
-> `11 ▶️` ∙ **[Night Sins](https://www.last.fm/music/Night+Sins)**<br/>
 > `11 ▶️` ∙ **[T.G.T.B.](https://www.last.fm/music/T.G.T.B.)**<br/>
+> `10 ▶️` ∙ **[Night Sins](https://www.last.fm/music/Night+Sins)**<br/>
 > `9 ▶️` ∙ **[Cold Showers](https://www.last.fm/music/Cold+Showers)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
