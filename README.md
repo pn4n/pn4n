@@ -25,5 +25,5 @@
 > `9 ▶️` ∙ **[Super Falling Star](https://www.last.fm/music/Stereolab/_/Super+Falling+Star)** - [Stereolab](https://www.last.fm/music/Stereolab)<br/>
 > `7 ▶️` ∙ **[Demons Sing Love Songs](https://www.last.fm/music/Unwound/_/Demons+Sing+Love+Songs)** - [Unwound](https://www.last.fm/music/Unwound)<br/>
 > `6 ▶️` ∙ **[Olympic Airways](https://www.last.fm/music/Foals/_/Olympic+Airways)** - [Foals](https://www.last.fm/music/Foals)<br/>
-> `5 ▶️` ∙ **[Another Space Song](https://www.last.fm/music/Failure/_/Another+Space+Song)** - [Failure](https://www.last.fm/music/Failure)<br/>
+> `5 ▶️` ∙ **[Baby Says](https://www.last.fm/music/The+Kills/_/Baby+Says)** - [The Kills](https://www.last.fm/music/The+Kills)<br/>
 <!--END_LASTFM_TRACKS-->
