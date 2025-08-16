@@ -23,7 +23,7 @@
 
 > `15 ▶️` ∙ **[Sliver](https://www.last.fm/music/Cold+Showers/_/Sliver)** - [Cold Showers](https://www.last.fm/music/Cold+Showers)<br/>
 > `7 ▶️` ∙ **[Olympic Airways](https://www.last.fm/music/Foals/_/Olympic+Airways)** - [Foals](https://www.last.fm/music/Foals)<br/>
-> `6 ▶️` ∙ **[Super Falling Star](https://www.last.fm/music/Stereolab/_/Super+Falling+Star)** - [Stereolab](https://www.last.fm/music/Stereolab)<br/>
 > `6 ▶️` ∙ **[Baby Says](https://www.last.fm/music/The+Kills/_/Baby+Says)** - [The Kills](https://www.last.fm/music/The+Kills)<br/>
-> `5 ▶️` ∙ **[Demons Sing Love Songs](https://www.last.fm/music/Unwound/_/Demons+Sing+Love+Songs)** - [Unwound](https://www.last.fm/music/Unwound)<br/>
+> `4 ▶️` ∙ **[Astronauts and All - B-Side](https://www.last.fm/music/Foals/_/Astronauts+and+All+-+B-Side)** - [Foals](https://www.last.fm/music/Foals)<br/>
+> `4 ▶️` ∙ **[Cassius](https://www.last.fm/music/Foals/_/Cassius)** - [Foals](https://www.last.fm/music/Foals)<br/>
 <!--END_LASTFM_TRACKS-->
