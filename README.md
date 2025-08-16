@@ -1,8 +1,8 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `70 ▶️` ∙ **[Foals](https://www.last.fm/music/Foals)**<br/>
-> `22 ▶️` ∙ **[Cold Showers](https://www.last.fm/music/Cold+Showers)**<br/>
+> `71 ▶️` ∙ **[Foals](https://www.last.fm/music/Foals)**<br/>
+> `21 ▶️` ∙ **[Cold Showers](https://www.last.fm/music/Cold+Showers)**<br/>
 > `16 ▶️` ∙ **[The Kills](https://www.last.fm/music/The+Kills)**<br/>
 > `11 ▶️` ∙ **[Camp Blu](https://www.last.fm/music/Camp+Blu)**<br/>
 > `10 ▶️` ∙ **[The Horrors](https://www.last.fm/music/The+Horrors)**<br/>
@@ -11,19 +11,19 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `39 ▶️` ∙ **[Antidotes](https://www.last.fm/music/Foals/Antidotes)** - [Foals](https://www.last.fm/music/Foals)<br/>
-> `21 ▶️` ∙ **[Sliver](https://www.last.fm/music/Cold+Showers/Sliver)** - [Cold Showers](https://www.last.fm/music/Cold+Showers)<br/>
+> `40 ▶️` ∙ **[Antidotes](https://www.last.fm/music/Foals/Antidotes)** - [Foals](https://www.last.fm/music/Foals)<br/>
+> `20 ▶️` ∙ **[Sliver](https://www.last.fm/music/Cold+Showers/Sliver)** - [Cold Showers](https://www.last.fm/music/Cold+Showers)<br/>
 > `10 ▶️` ∙ **[Holy Fire](https://www.last.fm/music/Foals/Holy+Fire)** - [Foals](https://www.last.fm/music/Foals)<br/>
 > `8 ▶️` ∙ **[Total Life Forever](https://www.last.fm/music/Foals/Total+Life+Forever)** - [Foals](https://www.last.fm/music/Foals)<br/>
-> `8 ▶️` ∙ **[Peng!](https://www.last.fm/music/Stereolab/Peng!)** - [Stereolab](https://www.last.fm/music/Stereolab)<br/>
+> `8 ▶️` ∙ **[Ash & Ice](https://www.last.fm/music/The+Kills/Ash+&+Ice)** - [The Kills](https://www.last.fm/music/The+Kills)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `16 ▶️` ∙ **[Sliver](https://www.last.fm/music/Cold+Showers/_/Sliver)** - [Cold Showers](https://www.last.fm/music/Cold+Showers)<br/>
-> `8 ▶️` ∙ **[Super Falling Star](https://www.last.fm/music/Stereolab/_/Super+Falling+Star)** - [Stereolab](https://www.last.fm/music/Stereolab)<br/>
-> `6 ▶️` ∙ **[Olympic Airways](https://www.last.fm/music/Foals/_/Olympic+Airways)** - [Foals](https://www.last.fm/music/Foals)<br/>
+> `15 ▶️` ∙ **[Sliver](https://www.last.fm/music/Cold+Showers/_/Sliver)** - [Cold Showers](https://www.last.fm/music/Cold+Showers)<br/>
+> `7 ▶️` ∙ **[Olympic Airways](https://www.last.fm/music/Foals/_/Olympic+Airways)** - [Foals](https://www.last.fm/music/Foals)<br/>
+> `6 ▶️` ∙ **[Super Falling Star](https://www.last.fm/music/Stereolab/_/Super+Falling+Star)** - [Stereolab](https://www.last.fm/music/Stereolab)<br/>
 > `6 ▶️` ∙ **[Baby Says](https://www.last.fm/music/The+Kills/_/Baby+Says)** - [The Kills](https://www.last.fm/music/The+Kills)<br/>
 > `5 ▶️` ∙ **[Demons Sing Love Songs](https://www.last.fm/music/Unwound/_/Demons+Sing+Love+Songs)** - [Unwound](https://www.last.fm/music/Unwound)<br/>
 <!--END_LASTFM_TRACKS-->
