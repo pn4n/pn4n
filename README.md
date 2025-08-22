@@ -3,8 +3,8 @@
 
 > `11 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
 > `5 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
+> `5 ▶️` ∙ **[Nightbus](https://www.last.fm/music/Nightbus)**<br/>
 > `5 ▶️` ∙ **[The Danse Society](https://www.last.fm/music/The+Danse+Society)**<br/>
-> `5 ▶️` ∙ **[The Kinks](https://www.last.fm/music/The+Kinks)**<br/>
 > `4 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -13,9 +13,9 @@
 
 > `11 ▶️` ∙ **[Slow Air](https://www.last.fm/music/Still+Corners/Slow+Air)** - [Still Corners](https://www.last.fm/music/Still+Corners)<br/>
 > `4 ▶️` ∙ **[Try Out](https://www.last.fm/music/Kas+Product/Try+Out)** - [Kas Product](https://www.last.fm/music/Kas+Product)<br/>
+> `4 ▶️` ∙ **[PLДYING / PRДYING](https://www.last.fm/music/KOMPROMAT/PL%D0%94YING+%2F+PR%D0%94YING)** - [KOMPROMAT](https://www.last.fm/music/KOMPROMAT)<br/>
 > `4 ▶️` ∙ **[Some Vague Desire](https://www.last.fm/music/The+Agnes+Circle/Some+Vague+Desire)** - [The Agnes Circle](https://www.last.fm/music/The+Agnes+Circle)<br/>
 > `4 ▶️` ∙ **[Seduction (The Society Collection)](https://www.last.fm/music/The+Danse+Society/Seduction+(The+Society+Collection))** - [The Danse Society](https://www.last.fm/music/The+Danse+Society)<br/>
-> `4 ▶️` ∙ **[Fight Club (Original Motion Picture Score)](https://www.last.fm/music/The+Dust+Brothers/Fight+Club+(Original+Motion+Picture+Score))** - [The Dust Brothers](https://www.last.fm/music/The+Dust+Brothers)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `4 ▶️` ∙ **[Monument](https://www.last.fm/music/The+Agnes+Circle/_/Monument)** - [The Agnes Circle](https://www.last.fm/music/The+Agnes+Circle)<br/>
 > `3 ▶️` ∙ **[Olympic Airways](https://www.last.fm/music/Foals/_/Olympic+Airways)** - [Foals](https://www.last.fm/music/Foals)<br/>
 > `3 ▶️` ∙ **[Man of Time](https://www.last.fm/music/Kas+Product/_/Man+of+Time)** - [Kas Product](https://www.last.fm/music/Kas+Product)<br/>
-> `2 ▶️` ∙ **[Taker](https://www.last.fm/music/DIIV/_/Taker)** - [DIIV](https://www.last.fm/music/DIIV)<br/>
+> `3 ▶️` ∙ **[I SURRENDER](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille/_/I+SURRENDER)** - [KOMPROMAT, Rebeka Warrior, Vitalic, Vimala Pons, Sonia DeVille](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille)<br/>
 <!--END_LASTFM_TRACKS-->
