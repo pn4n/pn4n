@@ -5,7 +5,7 @@
 > `5 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
 > `5 ▶️` ∙ **[Nightbus](https://www.last.fm/music/Nightbus)**<br/>
 > `5 ▶️` ∙ **[The Danse Society](https://www.last.fm/music/The+Danse+Society)**<br/>
-> `4 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
+> `4 ▶️` ∙ **[Kas Product](https://www.last.fm/music/Kas+Product)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `8 ▶️` ∙ **[Fade Out](https://www.last.fm/music/Still+Corners/_/Fade+Out)** - [Still Corners](https://www.last.fm/music/Still+Corners)<br/>
 > `4 ▶️` ∙ **[Monument](https://www.last.fm/music/The+Agnes+Circle/_/Monument)** - [The Agnes Circle](https://www.last.fm/music/The+Agnes+Circle)<br/>
-> `3 ▶️` ∙ **[Olympic Airways](https://www.last.fm/music/Foals/_/Olympic+Airways)** - [Foals](https://www.last.fm/music/Foals)<br/>
 > `3 ▶️` ∙ **[Man of Time](https://www.last.fm/music/Kas+Product/_/Man+of+Time)** - [Kas Product](https://www.last.fm/music/Kas+Product)<br/>
 > `3 ▶️` ∙ **[I SURRENDER](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille/_/I+SURRENDER)** - [KOMPROMAT, Rebeka Warrior, Vitalic, Vimala Pons, Sonia DeVille](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille)<br/>
+> `3 ▶️` ∙ **[Exposed to Some Light](https://www.last.fm/music/Nightbus/_/Exposed+to+Some+Light)** - [Nightbus](https://www.last.fm/music/Nightbus)<br/>
 <!--END_LASTFM_TRACKS-->
