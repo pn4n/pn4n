@@ -3,9 +3,9 @@
 
 > `12 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
 > `7 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
+> `7 ▶️` ∙ **[The Danse Society](https://www.last.fm/music/The+Danse+Society)**<br/>
 > `6 ▶️` ∙ **[KOMPROMAT, Rebeka Warrior, Vitalic, Vimala Pons, Sonia DeVille](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille)**<br/>
 > `6 ▶️` ∙ **[Nightbus](https://www.last.fm/music/Nightbus)**<br/>
-> `6 ▶️` ∙ **[The Danse Society](https://www.last.fm/music/The+Danse+Society)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `6 ▶️` ∙ **[PLДYING / PRДYING](https://www.last.fm/music/KOMPROMAT/PL%D0%94YING+%2F+PR%D0%94YING)** - [KOMPROMAT](https://www.last.fm/music/KOMPROMAT)<br/>
 > `5 ▶️` ∙ **[Try Out](https://www.last.fm/music/Kas+Product/Try+Out)** - [Kas Product](https://www.last.fm/music/Kas+Product)<br/>
 > `5 ▶️` ∙ **[Pace](https://www.last.fm/music/mikey+prime/Pace)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
-> `4 ▶️` ∙ **[A Long Way down](https://www.last.fm/music/LE+PRINCE+HARRY/A+Long+Way+down)** - [LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)<br/>
+> `5 ▶️` ∙ **[Seduction (The Society Collection)](https://www.last.fm/music/The+Danse+Society/Seduction+(The+Society+Collection))** - [The Danse Society](https://www.last.fm/music/The+Danse+Society)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
