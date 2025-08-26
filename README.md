@@ -1,8 +1,8 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `12 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
-> `8 ▶️` ∙ **[KOMPROMAT, Rebeka Warrior, Vitalic, Vimala Pons, Sonia DeVille](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille)**<br/>
+> `14 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
+> `10 ▶️` ∙ **[KOMPROMAT, Rebeka Warrior, Vitalic, Vimala Pons, Sonia DeVille](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille)**<br/>
 > `7 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
 > `7 ▶️` ∙ **[The Danse Society](https://www.last.fm/music/The+Danse+Society)**<br/>
 > `6 ▶️` ∙ **[A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)**<br/>
@@ -11,19 +11,19 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `12 ▶️` ∙ **[Slow Air](https://www.last.fm/music/Still+Corners/Slow+Air)** - [Still Corners](https://www.last.fm/music/Still+Corners)<br/>
-> `8 ▶️` ∙ **[PLДYING / PRДYING](https://www.last.fm/music/KOMPROMAT/PL%D0%94YING+%2F+PR%D0%94YING)** - [KOMPROMAT](https://www.last.fm/music/KOMPROMAT)<br/>
-> `5 ▶️` ∙ **[Try Out](https://www.last.fm/music/Kas+Product/Try+Out)** - [Kas Product](https://www.last.fm/music/Kas+Product)<br/>
+> `14 ▶️` ∙ **[Slow Air](https://www.last.fm/music/Still+Corners/Slow+Air)** - [Still Corners](https://www.last.fm/music/Still+Corners)<br/>
+> `10 ▶️` ∙ **[PLДYING / PRДYING](https://www.last.fm/music/KOMPROMAT/PL%D0%94YING+%2F+PR%D0%94YING)** - [KOMPROMAT](https://www.last.fm/music/KOMPROMAT)<br/>
+> `6 ▶️` ∙ **[Try Out](https://www.last.fm/music/Kas+Product/Try+Out)** - [Kas Product](https://www.last.fm/music/Kas+Product)<br/>
+> `5 ▶️` ∙ **[A Long Way down](https://www.last.fm/music/LE+PRINCE+HARRY/A+Long+Way+down)** - [LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)<br/>
 > `5 ▶️` ∙ **[Pace](https://www.last.fm/music/mikey+prime/Pace)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
-> `5 ▶️` ∙ **[Seduction (The Society Collection)](https://www.last.fm/music/The+Danse+Society/Seduction+(The+Society+Collection))** - [The Danse Society](https://www.last.fm/music/The+Danse+Society)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `9 ▶️` ∙ **[Fade Out](https://www.last.fm/music/Still+Corners/_/Fade+Out)** - [Still Corners](https://www.last.fm/music/Still+Corners)<br/>
-> `7 ▶️` ∙ **[I SURRENDER](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille/_/I+SURRENDER)** - [KOMPROMAT, Rebeka Warrior, Vitalic, Vimala Pons, Sonia DeVille](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille)<br/>
-> `4 ▶️` ∙ **[Man of Time](https://www.last.fm/music/Kas+Product/_/Man+of+Time)** - [Kas Product](https://www.last.fm/music/Kas+Product)<br/>
+> `11 ▶️` ∙ **[Fade Out](https://www.last.fm/music/Still+Corners/_/Fade+Out)** - [Still Corners](https://www.last.fm/music/Still+Corners)<br/>
+> `9 ▶️` ∙ **[I SURRENDER](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille/_/I+SURRENDER)** - [KOMPROMAT, Rebeka Warrior, Vitalic, Vimala Pons, Sonia DeVille](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille)<br/>
+> `5 ▶️` ∙ **[Man of Time](https://www.last.fm/music/Kas+Product/_/Man+of+Time)** - [Kas Product](https://www.last.fm/music/Kas+Product)<br/>
 > `4 ▶️` ∙ **[Exposed to Some Light](https://www.last.fm/music/Nightbus/_/Exposed+to+Some+Light)** - [Nightbus](https://www.last.fm/music/Nightbus)<br/>
-> `4 ▶️` ∙ **[Monument](https://www.last.fm/music/The+Agnes+Circle/_/Monument)** - [The Agnes Circle](https://www.last.fm/music/The+Agnes+Circle)<br/>
+> `4 ▶️` ∙ **[Cool](https://www.last.fm/music/Pylon/_/Cool)** - [Pylon](https://www.last.fm/music/Pylon)<br/>
 <!--END_LASTFM_TRACKS-->
