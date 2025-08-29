@@ -4,8 +4,8 @@
 > `13 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `12 ▶️` ∙ **[KOMPROMAT, Rebeka Warrior, Vitalic, Vimala Pons, Sonia DeVille](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille)**<br/>
 > `12 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
+> `10 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
 > `9 ▶️` ∙ **[A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)**<br/>
-> `9 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
