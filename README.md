@@ -5,7 +5,7 @@
 > `8 ▶️` ∙ **[KOMPROMAT, Rebeka Warrior, Vitalic, Vimala Pons, Sonia DeVille](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille)**<br/>
 > `7 ▶️` ∙ **[A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)**<br/>
 > `7 ▶️` ∙ **[Phèdre](https://www.last.fm/music/Ph%C3%A8dre)**<br/>
-> `6 ▶️` ∙ **[LE PRINCE HARRY](https://www.last.fm/music/LE+PRINCE+HARRY)**<br/>
+> `6 ▶️` ∙ **[İzmir](https://www.last.fm/music/%C4%B0zmir)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
