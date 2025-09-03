@@ -24,6 +24,6 @@
 > `5 ▶️` ∙ **[MENTIRAS](https://www.last.fm/music/BOAN/_/MENTIRAS)** - [BOAN](https://www.last.fm/music/BOAN)<br/>
 > `5 ▶️` ∙ **[I SURRENDER](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille/_/I+SURRENDER)** - [KOMPROMAT, Rebeka Warrior, Vitalic, Vimala Pons, Sonia DeVille](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille)<br/>
 > `5 ▶️` ∙ **[This Lamb Sells Condos](https://www.last.fm/music/Owen+Pallett/_/This+Lamb+Sells+Condos)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
-> `5 ▶️` ∙ **[Fade Out](https://www.last.fm/music/Still+Corners/_/Fade+Out)** - [Still Corners](https://www.last.fm/music/Still+Corners)<br/>
+> `4 ▶️` ∙ **[Fade Out](https://www.last.fm/music/Still+Corners/_/Fade+Out)** - [Still Corners](https://www.last.fm/music/Still+Corners)<br/>
 > `3 ▶️` ∙ **[Pure](https://www.last.fm/music/mikey+prime/_/Pure)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
 <!--END_LASTFM_TRACKS-->
