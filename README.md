@@ -3,9 +3,9 @@
 
 > `34 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `12 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
-> `6 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
 > `6 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
 > `6 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
+> `6 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
