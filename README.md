@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `34 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
-> `11 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
+> `7 ▶️` ∙ **[mikey prime](https://www.last.fm/music/mikey+prime)**<br/>
 > `6 ▶️` ∙ **[KOMPROMAT, Rebeka Warrior, Vitalic, Vimala Pons, Sonia DeVille](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille)**<br/>
 > `6 ▶️` ∙ **[Nightbus](https://www.last.fm/music/Nightbus)**<br/>
 > `6 ▶️` ∙ **[Owen Pallett](https://www.last.fm/music/Owen+Pallett)**<br/>
@@ -24,6 +24,6 @@
 > `6 ▶️` ∙ **[I SURRENDER](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille/_/I+SURRENDER)** - [KOMPROMAT, Rebeka Warrior, Vitalic, Vimala Pons, Sonia DeVille](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille)<br/>
 > `5 ▶️` ∙ **[This Lamb Sells Condos](https://www.last.fm/music/Owen+Pallett/_/This+Lamb+Sells+Condos)** - [Owen Pallett](https://www.last.fm/music/Owen+Pallett)<br/>
 > `4 ▶️` ∙ **[Exposed to Some Light](https://www.last.fm/music/Nightbus/_/Exposed+to+Some+Light)** - [Nightbus](https://www.last.fm/music/Nightbus)<br/>
+> `4 ▶️` ∙ **[Monterey](https://www.last.fm/music/Starflyer+59/_/Monterey)** - [Starflyer 59](https://www.last.fm/music/Starflyer+59)<br/>
 > `3 ▶️` ∙ **[She Wants](https://www.last.fm/music/Metronomy/_/She+Wants)** - [Metronomy](https://www.last.fm/music/Metronomy)<br/>
-> `3 ▶️` ∙ **[Pure](https://www.last.fm/music/mikey+prime/_/Pure)** - [mikey prime](https://www.last.fm/music/mikey+prime)<br/>
 <!--END_LASTFM_TRACKS-->
