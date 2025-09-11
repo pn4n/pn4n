@@ -4,8 +4,8 @@
 > `21 ▶️` ∙ **[Jonathan Bree](https://www.last.fm/music/Jonathan+Bree)**<br/>
 > `16 ▶️` ∙ **[KOMPROMAT, Rebeka Warrior, Vitalic, Vimala Pons, Sonia DeVille](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille)**<br/>
 > `15 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
+> `13 ▶️` ∙ **[Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)**<br/>
 > `12 ▶️` ∙ **[Drug Store Romeos](https://www.last.fm/music/Drug+Store+Romeos)**<br/>
-> `11 ▶️` ∙ **[Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `18 ▶️` ∙ **[PLДYING / PRДYING](https://www.last.fm/music/KOMPROMAT/PL%D0%94YING+%2F+PR%D0%94YING)** - [KOMPROMAT](https://www.last.fm/music/KOMPROMAT)<br/>
 > `14 ▶️` ∙ **[After the Curtains Close](https://www.last.fm/music/Jonathan+Bree/After+the+Curtains+Close)** - [Jonathan Bree](https://www.last.fm/music/Jonathan+Bree)<br/>
 > `10 ▶️` ∙ **[The world within our bedrooms](https://www.last.fm/music/Drug+Store+Romeos/The+world+within+our+bedrooms)** - [Drug Store Romeos](https://www.last.fm/music/Drug+Store+Romeos)<br/>
+> `7 ▶️` ∙ **[Flounder King](https://www.last.fm/music/Aldo+Fisk/Flounder+King)** - [Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)<br/>
 > `7 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
-> `7 ▶️` ∙ **[Pre-Code Hollywood](https://www.last.fm/music/Jonathan+Bree/Pre-Code+Hollywood)** - [Jonathan Bree](https://www.last.fm/music/Jonathan+Bree)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
