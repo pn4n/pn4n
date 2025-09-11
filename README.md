@@ -5,7 +5,7 @@
 > `16 ▶️` ∙ **[KOMPROMAT, Rebeka Warrior, Vitalic, Vimala Pons, Sonia DeVille](https://www.last.fm/music/KOMPROMAT,+Rebeka+Warrior,+Vitalic,+Vimala+Pons,+Sonia+DeVille)**<br/>
 > `15 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
 > `12 ▶️` ∙ **[Drug Store Romeos](https://www.last.fm/music/Drug+Store+Romeos)**<br/>
-> `10 ▶️` ∙ **[Cold Showers](https://www.last.fm/music/Cold+Showers)**<br/>
+> `11 ▶️` ∙ **[Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
