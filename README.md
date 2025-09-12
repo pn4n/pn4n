@@ -1,7 +1,7 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `31 ▶️` ∙ **[Foals](https://www.last.fm/music/Foals)**<br/>
+> `32 ▶️` ∙ **[Foals](https://www.last.fm/music/Foals)**<br/>
 > `22 ▶️` ∙ **[Jonathan Bree](https://www.last.fm/music/Jonathan+Bree)**<br/>
 > `19 ▶️` ∙ **[Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)**<br/>
 > `15 ▶️` ∙ **[Drug Store Romeos](https://www.last.fm/music/Drug+Store+Romeos)**<br/>
