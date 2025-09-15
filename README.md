@@ -3,8 +3,8 @@
 
 > `34 ▶️` ∙ **[Foals](https://www.last.fm/music/Foals)**<br/>
 > `20 ▶️` ∙ **[Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)**<br/>
-> `18 ▶️` ∙ **[Jonathan Bree](https://www.last.fm/music/Jonathan+Bree)**<br/>
 > `15 ▶️` ∙ **[Drug Store Romeos](https://www.last.fm/music/Drug+Store+Romeos)**<br/>
+> `14 ▶️` ∙ **[Jonathan Bree](https://www.last.fm/music/Jonathan+Bree)**<br/>
 > `13 ▶️` ∙ **[múm](https://www.last.fm/music/m%C3%BAm)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -14,8 +14,8 @@
 > `13 ▶️` ∙ **[Flounder King](https://www.last.fm/music/Aldo+Fisk/Flounder+King)** - [Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)<br/>
 > `13 ▶️` ∙ **[The world within our bedrooms](https://www.last.fm/music/Drug+Store+Romeos/The+world+within+our+bedrooms)** - [Drug Store Romeos](https://www.last.fm/music/Drug+Store+Romeos)<br/>
 > `12 ▶️` ∙ **[Antidotes](https://www.last.fm/music/Foals/Antidotes)** - [Foals](https://www.last.fm/music/Foals)<br/>
-> `11 ▶️` ∙ **[After the Curtains Close](https://www.last.fm/music/Jonathan+Bree/After+the+Curtains+Close)** - [Jonathan Bree](https://www.last.fm/music/Jonathan+Bree)<br/>
-> `11 ▶️` ∙ **[PLДYING / PRДYING](https://www.last.fm/music/KOMPROMAT/PL%D0%94YING+%2F+PR%D0%94YING)** - [KOMPROMAT](https://www.last.fm/music/KOMPROMAT)<br/>
+> `10 ▶️` ∙ **[Holding On](https://www.last.fm/music/Sally+Dige/Holding+On)** - [Sally Dige](https://www.last.fm/music/Sally+Dige)<br/>
+> `8 ▶️` ∙ **[Desire](https://www.last.fm/music/Desire/Desire)** - [Desire](https://www.last.fm/music/Desire)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `13 ▶️` ∙ **[Vibrate](https://www.last.fm/music/Drug+Store+Romeos/_/Vibrate)** - [Drug Store Romeos](https://www.last.fm/music/Drug+Store+Romeos)<br/>
 > `8 ▶️` ∙ **[Don't Call](https://www.last.fm/music/Desire/_/Don%27t+Call)** - [Desire](https://www.last.fm/music/Desire)<br/>
 > `8 ▶️` ∙ **[Emptiness](https://www.last.fm/music/Sally+Dige/_/Emptiness)** - [Sally Dige](https://www.last.fm/music/Sally+Dige)<br/>
-> `7 ▶️` ∙ **[Until We're Done](https://www.last.fm/music/Jonathan+Bree/_/Until+We%27re+Done)** - [Jonathan Bree](https://www.last.fm/music/Jonathan+Bree)<br/>
 > `6 ▶️` ∙ **[Q&K](https://www.last.fm/music/New+Candys/_/Q&K)** - [New Candys](https://www.last.fm/music/New+Candys)<br/>
+> `5 ▶️` ∙ **[Flounder King](https://www.last.fm/music/Aldo+Fisk/_/Flounder+King)** - [Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)<br/>
 <!--END_LASTFM_TRACKS-->
