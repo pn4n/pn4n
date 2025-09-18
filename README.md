@@ -4,7 +4,7 @@
 > `33 ▶️` ∙ **[Foals](https://www.last.fm/music/Foals)**<br/>
 > `15 ▶️` ∙ **[Locked Club](https://www.last.fm/music/Locked+Club)**<br/>
 > `13 ▶️` ∙ **[múm](https://www.last.fm/music/m%C3%BAm)**<br/>
-> `12 ▶️` ∙ **[Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)**<br/>
+> `9 ▶️` ∙ **[Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)**<br/>
 > `8 ▶️` ∙ **[New Candys](https://www.last.fm/music/New+Candys)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -14,8 +14,8 @@
 > `11 ▶️` ∙ **[Antidotes](https://www.last.fm/music/Foals/Antidotes)** - [Foals](https://www.last.fm/music/Foals)<br/>
 > `8 ▶️` ∙ **[Holy Fire](https://www.last.fm/music/Foals/Holy+Fire)** - [Foals](https://www.last.fm/music/Foals)<br/>
 > `7 ▶️` ∙ **[Flounder King](https://www.last.fm/music/Aldo+Fisk/Flounder+King)** - [Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)<br/>
-> `7 ▶️` ∙ **[Lucky Dog](https://www.last.fm/music/Dwaal+Troupe/Lucky+Dog)** - [Dwaal Troupe](https://www.last.fm/music/Dwaal+Troupe)<br/>
 > `7 ▶️` ∙ **[EGIPET](https://www.last.fm/music/Locked+Club/EGIPET)** - [Locked Club](https://www.last.fm/music/Locked+Club)<br/>
+> `7 ▶️` ∙ **[Summer Make Good](https://www.last.fm/music/m%C3%BAm/Summer+Make+Good)** - [múm](https://www.last.fm/music/m%C3%BAm)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
