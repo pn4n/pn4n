@@ -4,8 +4,8 @@
 > `16 ▶️` ∙ **[Locked Club](https://www.last.fm/music/Locked+Club)**<br/>
 > `13 ▶️` ∙ **[múm](https://www.last.fm/music/m%C3%BAm)**<br/>
 > `12 ▶️` ∙ **[New Order](https://www.last.fm/music/New+Order)**<br/>
-> `7 ▶️` ∙ **[Public Memory](https://www.last.fm/music/Public+Memory)**<br/>
-> `5 ▶️` ∙ **[New Candys](https://www.last.fm/music/New+Candys)**<br/>
+> `6 ▶️` ∙ **[Public Memory](https://www.last.fm/music/Public+Memory)**<br/>
+> `4 ▶️` ∙ **[Death in June](https://www.last.fm/music/Death+in+June)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `7 ▶️` ∙ **[EGIPET](https://www.last.fm/music/Locked+Club/EGIPET)** - [Locked Club](https://www.last.fm/music/Locked+Club)<br/>
 > `7 ▶️` ∙ **[Summer Make Good](https://www.last.fm/music/m%C3%BAm/Summer+Make+Good)** - [múm](https://www.last.fm/music/m%C3%BAm)<br/>
 > `5 ▶️` ∙ **[Irak](https://www.last.fm/music/Locked+Club/Irak)** - [Locked Club](https://www.last.fm/music/Locked+Club)<br/>
-> `5 ▶️` ∙ **[Wuthering Drum](https://www.last.fm/music/Public+Memory/Wuthering+Drum)** - [Public Memory](https://www.last.fm/music/Public+Memory)<br/>
-> `4 ▶️` ∙ **[PLДYING / PRДYING](https://www.last.fm/music/KOMPROMAT/PL%D0%94YING+%2F+PR%D0%94YING)** - [KOMPROMAT](https://www.last.fm/music/KOMPROMAT)<br/>
+> `4 ▶️` ∙ **[Wuthering Drum](https://www.last.fm/music/Public+Memory/Wuthering+Drum)** - [Public Memory](https://www.last.fm/music/Public+Memory)<br/>
+> `3 ▶️` ∙ **[PLДYING / PRДYING](https://www.last.fm/music/KOMPROMAT/PL%D0%94YING+%2F+PR%D0%94YING)** - [KOMPROMAT](https://www.last.fm/music/KOMPROMAT)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `5 ▶️` ∙ **[Edu V Egipet](https://www.last.fm/music/Locked+Club/_/Edu+V+Egipet)** - [Locked Club](https://www.last.fm/music/Locked+Club)<br/>
 > `4 ▶️` ∙ **[Devchonka](https://www.last.fm/music/Locked+Club/_/Devchonka)** - [Locked Club](https://www.last.fm/music/Locked+Club)<br/>
-> `3 ▶️` ∙ **[Don't Call](https://www.last.fm/music/Desire/_/Don%27t+Call)** - [Desire](https://www.last.fm/music/Desire)<br/>
 > `3 ▶️` ∙ **[Doschitai](https://www.last.fm/music/Locked+Club/_/Doschitai)** - [Locked Club](https://www.last.fm/music/Locked+Club)<br/>
 > `3 ▶️` ∙ **[The Ghosts You Draw On My Back](https://www.last.fm/music/m%C3%BAm/_/The+Ghosts+You+Draw+On+My+Back)** - [múm](https://www.last.fm/music/m%C3%BAm)<br/>
+> `3 ▶️` ∙ **[Angel Dust](https://www.last.fm/music/New+Order/_/Angel+Dust)** - [New Order](https://www.last.fm/music/New+Order)<br/>
 <!--END_LASTFM_TRACKS-->
