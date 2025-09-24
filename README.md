@@ -4,8 +4,8 @@
 > `37 ▶️` ∙ **[Kumo 99](https://www.last.fm/music/Kumo+99)**<br/>
 > `25 ▶️` ∙ **[ayegy](https://www.last.fm/music/ayegy)**<br/>
 > `10 ▶️` ∙ **[Itoa, なかむらみなみ](https://www.last.fm/music/Itoa,+%E3%81%AA%E3%81%8B%E3%82%80%E3%82%89%E3%81%BF%E3%81%AA%E3%81%BF)**<br/>
+> `10 ▶️` ∙ **[Joy Division](https://www.last.fm/music/Joy+Division)**<br/>
 > `9 ▶️` ∙ **[Failure](https://www.last.fm/music/Failure)**<br/>
-> `9 ▶️` ∙ **[Mietze Conte](https://www.last.fm/music/Mietze+Conte)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
