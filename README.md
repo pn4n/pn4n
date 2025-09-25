@@ -15,7 +15,7 @@
 > `15 ▶️` ∙ **[BLACKTHORN](https://www.last.fm/music/ayegy/BLACKTHORN)** - [ayegy](https://www.last.fm/music/ayegy)<br/>
 > `11 ▶️` ∙ **[Oh No](https://www.last.fm/music/Itoa/Oh+No)** - [Itoa](https://www.last.fm/music/Itoa)<br/>
 > `9 ▶️` ∙ **[Fantastic Planet](https://www.last.fm/music/Failure/Fantastic+Planet)** - [Failure](https://www.last.fm/music/Failure)<br/>
-> `6 ▶️` ∙ **[The Waves](https://www.last.fm/music/Tamaryn/The+Waves)** - [Tamaryn](https://www.last.fm/music/Tamaryn)<br/>
+> `7 ▶️` ∙ **[Fiction Tales](https://www.last.fm/music/Modern+Eon/Fiction+Tales)** - [Modern Eon](https://www.last.fm/music/Modern+Eon)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
