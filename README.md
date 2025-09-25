@@ -3,9 +3,9 @@
 
 > `37 ▶️` ∙ **[Kumo 99](https://www.last.fm/music/Kumo+99)**<br/>
 > `25 ▶️` ∙ **[ayegy](https://www.last.fm/music/ayegy)**<br/>
-> `12 ▶️` ∙ **[Joy Division](https://www.last.fm/music/Joy+Division)**<br/>
-> `12 ▶️` ∙ **[New Order](https://www.last.fm/music/New+Order)**<br/>
+> `13 ▶️` ∙ **[Joy Division](https://www.last.fm/music/Joy+Division)**<br/>
 > `12 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
+> `11 ▶️` ∙ **[Little Nemo](https://www.last.fm/music/Little+Nemo)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
