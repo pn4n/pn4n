@@ -25,5 +25,5 @@
 > `9 ▶️` ∙ **[Another Space Song](https://www.last.fm/music/Failure/_/Another+Space+Song)** - [Failure](https://www.last.fm/music/Failure)<br/>
 > `7 ▶️` ∙ **[The Devil Works Hard... But I Work Harder](https://www.last.fm/music/ayegy/_/The+Devil+Works+Hard...+But+I+Work+Harder)** - [ayegy](https://www.last.fm/music/ayegy)<br/>
 > `7 ▶️` ∙ **[Love Fade](https://www.last.fm/music/Tamaryn/_/Love+Fade)** - [Tamaryn](https://www.last.fm/music/Tamaryn)<br/>
-> `6 ▶️` ∙ **[UUU](https://www.last.fm/music/kumo+99/_/UUU)** - [kumo 99](https://www.last.fm/music/kumo+99)<br/>
+> `6 ▶️` ∙ **[UUU](https://www.last.fm/music/Kumo+99/_/UUU)** - [Kumo 99](https://www.last.fm/music/Kumo+99)<br/>
 <!--END_LASTFM_TRACKS-->
