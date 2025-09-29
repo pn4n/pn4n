@@ -1,9 +1,9 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `27 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
 > `27 ▶️` ∙ **[Portwave](https://www.last.fm/music/Portwave)**<br/>
-> `25 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
-> `23 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
+> `27 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
 > `14 ▶️` ∙ **[Joy Division](https://www.last.fm/music/Joy+Division)**<br/>
 > `12 ▶️` ∙ **[Little Nemo](https://www.last.fm/music/Little+Nemo)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -11,11 +11,11 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `18 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `17 ▶️` ∙ **[YOUMONLYHATONCEBTHATWILLBENOUG](https://www.last.fm/music/Portwave/YOUMONLYHATONCEBTHATWILLBENOUG)** - [Portwave](https://www.last.fm/music/Portwave)<br/>
-> `16 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `11 ▶️` ∙ **[The Waves](https://www.last.fm/music/Tamaryn/The+Waves)** - [Tamaryn](https://www.last.fm/music/Tamaryn)<br/>
 > `10 ▶️` ∙ **[Remember Pepper?](https://www.last.fm/music/Still+Corners/Remember+Pepper%3F)** - [Still Corners](https://www.last.fm/music/Still+Corners)<br/>
-> `7 ▶️` ∙ **[Street Desires](https://www.last.fm/music/GAP+girls/Street+Desires)** - [GAP girls](https://www.last.fm/music/GAP+girls)<br/>
+> `8 ▶️` ∙ **[Drop](https://www.last.fm/music/Tying+Tiffany/Drop)** - [Tying Tiffany](https://www.last.fm/music/Tying+Tiffany)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
