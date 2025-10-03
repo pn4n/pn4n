@@ -3,16 +3,16 @@
 
 > `27 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
 > `25 ▶️` ∙ **[Portwave](https://www.last.fm/music/Portwave)**<br/>
-> `20 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
-> `18 ▶️` ∙ **[Bronski Beat](https://www.last.fm/music/Bronski+Beat)**<br/>
+> `21 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
+> `19 ▶️` ∙ **[Bronski Beat](https://www.last.fm/music/Bronski+Beat)**<br/>
 > `13 ▶️` ∙ **[Tying Tiffany](https://www.last.fm/music/Tying+Tiffany)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `17 ▶️` ∙ **[The Age of Consent](https://www.last.fm/music/Bronski+Beat/The+Age+of+Consent)** - [Bronski Beat](https://www.last.fm/music/Bronski+Beat)<br/>
 > `17 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
-> `16 ▶️` ∙ **[The Age of Consent](https://www.last.fm/music/Bronski+Beat/The+Age+of+Consent)** - [Bronski Beat](https://www.last.fm/music/Bronski+Beat)<br/>
 > `16 ▶️` ∙ **[YOUMONLYHATONCEBTHATWILLBENOUG](https://www.last.fm/music/Portwave/YOUMONLYHATONCEBTHATWILLBENOUG)** - [Portwave](https://www.last.fm/music/Portwave)<br/>
 > `12 ▶️` ∙ **[The Bells Of 1 2](https://www.last.fm/music/Sol+Seppy/The+Bells+Of+1+2)** - [Sol Seppy](https://www.last.fm/music/Sol+Seppy)<br/>
 > `11 ▶️` ∙ **[Drop](https://www.last.fm/music/Tying+Tiffany/Drop)** - [Tying Tiffany](https://www.last.fm/music/Tying+Tiffany)<br/>
