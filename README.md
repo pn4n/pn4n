@@ -2,8 +2,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `27 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
-> `20 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
 > `19 ▶️` ∙ **[Bronski Beat](https://www.last.fm/music/Bronski+Beat)**<br/>
+> `19 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
 > `13 ▶️` ∙ **[Tying Tiffany](https://www.last.fm/music/Tying+Tiffany)**<br/>
 > `12 ▶️` ∙ **[Sol Seppy](https://www.last.fm/music/Sol+Seppy)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -24,6 +24,6 @@
 > `8 ▶️` ∙ **[Faith In Love](https://www.last.fm/music/Cansei+de+Ser+Sexy/_/Faith+In+Love)** - [Cansei de Ser Sexy](https://www.last.fm/music/Cansei+de+Ser+Sexy)<br/>
 > `8 ▶️` ∙ **[Move](https://www.last.fm/music/Sol+Seppy/_/Move)** - [Sol Seppy](https://www.last.fm/music/Sol+Seppy)<br/>
 > `8 ▶️` ∙ **[One Second](https://www.last.fm/music/Tying+Tiffany/_/One+Second)** - [Tying Tiffany](https://www.last.fm/music/Tying+Tiffany)<br/>
-> `6 ▶️` ∙ **[SHADOW LADY](https://www.last.fm/music/Portwave/_/SHADOW+LADY)** - [Portwave](https://www.last.fm/music/Portwave)<br/>
+> `5 ▶️` ∙ **[SHADOW LADY](https://www.last.fm/music/Portwave/_/SHADOW+LADY)** - [Portwave](https://www.last.fm/music/Portwave)<br/>
 > `4 ▶️` ∙ **[Pidpunk](https://www.last.fm/music/Home+Video/_/Pidpunk)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 <!--END_LASTFM_TRACKS-->
