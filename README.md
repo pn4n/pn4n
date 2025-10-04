@@ -3,7 +3,7 @@
 
 > `27 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
 > `19 ▶️` ∙ **[Bronski Beat](https://www.last.fm/music/Bronski+Beat)**<br/>
-> `19 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
+> `18 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
 > `13 ▶️` ∙ **[Tying Tiffany](https://www.last.fm/music/Tying+Tiffany)**<br/>
 > `12 ▶️` ∙ **[Sol Seppy](https://www.last.fm/music/Sol+Seppy)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -24,6 +24,6 @@
 > `8 ▶️` ∙ **[Faith In Love](https://www.last.fm/music/Cansei+de+Ser+Sexy/_/Faith+In+Love)** - [Cansei de Ser Sexy](https://www.last.fm/music/Cansei+de+Ser+Sexy)<br/>
 > `8 ▶️` ∙ **[Move](https://www.last.fm/music/Sol+Seppy/_/Move)** - [Sol Seppy](https://www.last.fm/music/Sol+Seppy)<br/>
 > `8 ▶️` ∙ **[One Second](https://www.last.fm/music/Tying+Tiffany/_/One+Second)** - [Tying Tiffany](https://www.last.fm/music/Tying+Tiffany)<br/>
-> `5 ▶️` ∙ **[SHADOW LADY](https://www.last.fm/music/Portwave/_/SHADOW+LADY)** - [Portwave](https://www.last.fm/music/Portwave)<br/>
 > `4 ▶️` ∙ **[Pidpunk](https://www.last.fm/music/Home+Video/_/Pidpunk)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
+> `4 ▶️` ∙ **[Oh No](https://www.last.fm/music/Itoa,+%E3%81%AA%E3%81%8B%E3%82%80%E3%82%89%E3%81%BF%E3%81%AA%E3%81%BF/_/Oh+No)** - [Itoa, なかむらみなみ](https://www.last.fm/music/Itoa,+%E3%81%AA%E3%81%8B%E3%82%80%E3%82%89%E3%81%BF%E3%81%AA%E3%81%BF)<br/>
 <!--END_LASTFM_TRACKS-->
