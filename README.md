@@ -4,8 +4,8 @@
 > `27 ▶️` ∙ **[Home Video](https://www.last.fm/music/Home+Video)**<br/>
 > `19 ▶️` ∙ **[Bronski Beat](https://www.last.fm/music/Bronski+Beat)**<br/>
 > `17 ▶️` ∙ **[Still Corners](https://www.last.fm/music/Still+Corners)**<br/>
-> `13 ▶️` ∙ **[Tying Tiffany](https://www.last.fm/music/Tying+Tiffany)**<br/>
 > `12 ▶️` ∙ **[Sol Seppy](https://www.last.fm/music/Sol+Seppy)**<br/>
+> `12 ▶️` ∙ **[Tying Tiffany](https://www.last.fm/music/Tying+Tiffany)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,7 +14,7 @@
 > `17 ▶️` ∙ **[The Age of Consent](https://www.last.fm/music/Bronski+Beat/The+Age+of+Consent)** - [Bronski Beat](https://www.last.fm/music/Bronski+Beat)<br/>
 > `17 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `12 ▶️` ∙ **[The Bells Of 1 2](https://www.last.fm/music/Sol+Seppy/The+Bells+Of+1+2)** - [Sol Seppy](https://www.last.fm/music/Sol+Seppy)<br/>
-> `11 ▶️` ∙ **[Drop](https://www.last.fm/music/Tying+Tiffany/Drop)** - [Tying Tiffany](https://www.last.fm/music/Tying+Tiffany)<br/>
+> `10 ▶️` ∙ **[Drop](https://www.last.fm/music/Tying+Tiffany/Drop)** - [Tying Tiffany](https://www.last.fm/music/Tying+Tiffany)<br/>
 > `8 ▶️` ∙ **[Planta](https://www.last.fm/music/Cansei+de+Ser+Sexy/Planta)** - [Cansei de Ser Sexy](https://www.last.fm/music/Cansei+de+Ser+Sexy)<br/>
 <!--END_LASTFM_ALBUMS-->
 
@@ -23,7 +23,7 @@
 
 > `8 ▶️` ∙ **[Faith In Love](https://www.last.fm/music/Cansei+de+Ser+Sexy/_/Faith+In+Love)** - [Cansei de Ser Sexy](https://www.last.fm/music/Cansei+de+Ser+Sexy)<br/>
 > `8 ▶️` ∙ **[Move](https://www.last.fm/music/Sol+Seppy/_/Move)** - [Sol Seppy](https://www.last.fm/music/Sol+Seppy)<br/>
-> `8 ▶️` ∙ **[One Second](https://www.last.fm/music/Tying+Tiffany/_/One+Second)** - [Tying Tiffany](https://www.last.fm/music/Tying+Tiffany)<br/>
+> `7 ▶️` ∙ **[One Second](https://www.last.fm/music/Tying+Tiffany/_/One+Second)** - [Tying Tiffany](https://www.last.fm/music/Tying+Tiffany)<br/>
 > `4 ▶️` ∙ **[Pidpunk](https://www.last.fm/music/Home+Video/_/Pidpunk)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
 > `4 ▶️` ∙ **[Oh No](https://www.last.fm/music/Itoa,+%E3%81%AA%E3%81%8B%E3%82%80%E3%82%89%E3%81%BF%E3%81%AA%E3%81%BF/_/Oh+No)** - [Itoa, なかむらみなみ](https://www.last.fm/music/Itoa,+%E3%81%AA%E3%81%8B%E3%82%80%E3%82%89%E3%81%BF%E3%81%AA%E3%81%BF)<br/>
 <!--END_LASTFM_TRACKS-->
