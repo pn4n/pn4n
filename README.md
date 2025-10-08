@@ -1,8 +1,8 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `20 ▶️` ∙ **[Past Model](https://www.last.fm/music/Past+Model)**<br/>
 > `19 ▶️` ∙ **[Bronski Beat](https://www.last.fm/music/Bronski+Beat)**<br/>
-> `17 ▶️` ∙ **[Past Model](https://www.last.fm/music/Past+Model)**<br/>
 > `16 ▶️` ∙ **[Night Sins](https://www.last.fm/music/Night+Sins)**<br/>
 > `15 ▶️` ∙ **[The Agnes Circle](https://www.last.fm/music/The+Agnes+Circle)**<br/>
 > `14 ▶️` ∙ **[Second Still](https://www.last.fm/music/Second+Still)**<br/>
@@ -11,8 +11,8 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `20 ▶️` ∙ **[In Light](https://www.last.fm/music/Past+Model/In+Light)** - [Past Model](https://www.last.fm/music/Past+Model)<br/>
 > `17 ▶️` ∙ **[The Age of Consent](https://www.last.fm/music/Bronski+Beat/The+Age+of+Consent)** - [Bronski Beat](https://www.last.fm/music/Bronski+Beat)<br/>
-> `17 ▶️` ∙ **[In Light](https://www.last.fm/music/Past+Model/In+Light)** - [Past Model](https://www.last.fm/music/Past+Model)<br/>
 > `11 ▶️` ∙ **[Some Vague Desire](https://www.last.fm/music/The+Agnes+Circle/Some+Vague+Desire)** - [The Agnes Circle](https://www.last.fm/music/The+Agnes+Circle)<br/>
 > `10 ▶️` ∙ **[The Lost Art of Murder](https://www.last.fm/music/Lust+Era/The+Lost+Art+of+Murder)** - [Lust Era](https://www.last.fm/music/Lust+Era)<br/>
 > `8 ▶️` ∙ **[New Kind Of Cross](https://www.last.fm/music/Buzz+Kull/New+Kind+Of+Cross)** - [Buzz Kull](https://www.last.fm/music/Buzz+Kull)<br/>
@@ -21,9 +21,9 @@
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `11 ▶️` ∙ **[Shelter](https://www.last.fm/music/Past+Model/_/Shelter)** - [Past Model](https://www.last.fm/music/Past+Model)<br/>
+> `14 ▶️` ∙ **[Shelter](https://www.last.fm/music/Past+Model/_/Shelter)** - [Past Model](https://www.last.fm/music/Past+Model)<br/>
 > `7 ▶️` ∙ **[The Garden (feat. Modern Heaven)](https://www.last.fm/music/Buzz+Kull,+Modern+Heaven/_/The+Garden+(feat.+Modern+Heaven))** - [Buzz Kull, Modern Heaven](https://www.last.fm/music/Buzz+Kull,+Modern+Heaven)<br/>
 > `7 ▶️` ∙ **[Tyrant](https://www.last.fm/music/Lust+Era/_/Tyrant)** - [Lust Era](https://www.last.fm/music/Lust+Era)<br/>
-> `5 ▶️` ∙ **[Oh No](https://www.last.fm/music/Itoa,+%E3%81%AA%E3%81%8B%E3%82%80%E3%82%89%E3%81%BF%E3%81%AA%E3%81%BF/_/Oh+No)** - [Itoa, なかむらみなみ](https://www.last.fm/music/Itoa,+%E3%81%AA%E3%81%8B%E3%82%80%E3%82%89%E3%81%BF%E3%81%AA%E3%81%BF)<br/>
-> `5 ▶️` ∙ **[Move](https://www.last.fm/music/Sol+Seppy/_/Move)** - [Sol Seppy](https://www.last.fm/music/Sol+Seppy)<br/>
+> `4 ▶️` ∙ **[Woods](https://www.last.fm/music/Black+Marble/_/Woods)** - [Black Marble](https://www.last.fm/music/Black+Marble)<br/>
+> `4 ▶️` ∙ **[Oh No](https://www.last.fm/music/Itoa,+%E3%81%AA%E3%81%8B%E3%82%80%E3%82%89%E3%81%BF%E3%81%AA%E3%81%BF/_/Oh+No)** - [Itoa, なかむらみなみ](https://www.last.fm/music/Itoa,+%E3%81%AA%E3%81%8B%E3%82%80%E3%82%89%E3%81%BF%E3%81%AA%E3%81%BF)<br/>
 <!--END_LASTFM_TRACKS-->
