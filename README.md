@@ -2,9 +2,9 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `23 ▶️` ∙ **[Past Model](https://www.last.fm/music/Past+Model)**<br/>
-> `22 ▶️` ∙ **[Pictureplane](https://www.last.fm/music/Pictureplane)**<br/>
 > `21 ▶️` ∙ **[Mellow Grave](https://www.last.fm/music/Mellow+Grave)**<br/>
-> `16 ▶️` ∙ **[Night Sins](https://www.last.fm/music/Night+Sins)**<br/>
+> `21 ▶️` ∙ **[Pictureplane](https://www.last.fm/music/Pictureplane)**<br/>
+> `17 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
 > `15 ▶️` ∙ **[Kip Tyler](https://www.last.fm/music/Kip+Tyler)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
