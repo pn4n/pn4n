@@ -1,8 +1,8 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `24 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
 > `24 ▶️` ∙ **[Mellow Grave](https://www.last.fm/music/Mellow+Grave)**<br/>
+> `23 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
 > `22 ▶️` ∙ **[Pictureplane](https://www.last.fm/music/Pictureplane)**<br/>
 > `17 ▶️` ∙ **[Kip Tyler](https://www.last.fm/music/Kip+Tyler)**<br/>
 > `15 ▶️` ∙ **[Kap Bambino](https://www.last.fm/music/Kap+Bambino)**<br/>
