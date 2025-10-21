@@ -24,6 +24,6 @@
 > `10 ▶️` ∙ **[Acheron](https://www.last.fm/music/DIIV/_/Acheron)** - [DIIV](https://www.last.fm/music/DIIV)<br/>
 > `9 ▶️` ∙ **[Pills I Swallow](https://www.last.fm/music/The+Twilight+Sad/_/Pills+I+Swallow)** - [The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)<br/>
 > `8 ▶️` ∙ **[Driving Me Backwards](https://www.last.fm/music/Brian+Eno/_/Driving+Me+Backwards)** - [Brian Eno](https://www.last.fm/music/Brian+Eno)<br/>
-> `8 ▶️` ∙ **[Weregild](https://www.last.fm/music/Grimes/_/Weregild)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
 > `7 ▶️` ∙ **[Dead Finks Don't Talk](https://www.last.fm/music/Brian+Eno/_/Dead+Finks+Don%27t+Talk)** - [Brian Eno](https://www.last.fm/music/Brian+Eno)<br/>
+> `7 ▶️` ∙ **[Weregild](https://www.last.fm/music/Grimes/_/Weregild)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
 <!--END_LASTFM_TRACKS-->
