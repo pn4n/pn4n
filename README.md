@@ -4,7 +4,7 @@
 > `29 ▶️` ∙ **[Brian Eno](https://www.last.fm/music/Brian+Eno)**<br/>
 > `25 ▶️` ∙ **[Talking Heads](https://www.last.fm/music/Talking+Heads)**<br/>
 > `17 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
-> `14 ▶️` ∙ **[Galatée](https://www.last.fm/music/Galat%C3%A9e)**<br/>
+> `15 ▶️` ∙ **[Galatée](https://www.last.fm/music/Galat%C3%A9e)**<br/>
 > `12 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -15,7 +15,7 @@
 > `12 ▶️` ∙ **[Deceiver](https://www.last.fm/music/DIIV/Deceiver)** - [DIIV](https://www.last.fm/music/DIIV)<br/>
 > `10 ▶️` ∙ **[SMOKE FILLED THE ROOM, WE SLEPT](https://www.last.fm/music/Mellow+Grave/SMOKE+FILLED+THE+ROOM,+WE+SLEPT)** - [Mellow Grave](https://www.last.fm/music/Mellow+Grave)<br/>
 > `9 ▶️` ∙ **[Entertainment!](https://www.last.fm/music/Gang+of+Four/Entertainment!)** - [Gang of Four](https://www.last.fm/music/Gang+of+Four)<br/>
-> `8 ▶️` ∙ **[Nobody Wants To Be Here & Nobody Wants To Leave](https://www.last.fm/music/The+Twilight+Sad/Nobody+Wants+To+Be+Here+&+Nobody+Wants+To+Leave)** - [The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)<br/>
+> `7 ▶️` ∙ **[Halfaxa](https://www.last.fm/music/Grimes/Halfaxa)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `10 ▶️` ∙ **[Acheron](https://www.last.fm/music/DIIV/_/Acheron)** - [DIIV](https://www.last.fm/music/DIIV)<br/>
 > `8 ▶️` ∙ **[Driving Me Backwards](https://www.last.fm/music/Brian+Eno/_/Driving+Me+Backwards)** - [Brian Eno](https://www.last.fm/music/Brian+Eno)<br/>
-> `8 ▶️` ∙ **[Pills I Swallow](https://www.last.fm/music/The+Twilight+Sad/_/Pills+I+Swallow)** - [The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)<br/>
 > `7 ▶️` ∙ **[Dead Finks Don't Talk](https://www.last.fm/music/Brian+Eno/_/Dead+Finks+Don%27t+Talk)** - [Brian Eno](https://www.last.fm/music/Brian+Eno)<br/>
 > `7 ▶️` ∙ **[Weregild](https://www.last.fm/music/Grimes/_/Weregild)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
+> `7 ▶️` ∙ **[Pills I Swallow](https://www.last.fm/music/The+Twilight+Sad/_/Pills+I+Swallow)** - [The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)<br/>
 <!--END_LASTFM_TRACKS-->
