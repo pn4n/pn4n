@@ -4,8 +4,8 @@
 > `39 ▶️` ∙ **[Afar](https://www.last.fm/music/Afar)**<br/>
 > `22 ▶️` ∙ **[The Dharma Chain](https://www.last.fm/music/The+Dharma+Chain)**<br/>
 > `19 ▶️` ∙ **[Casablanca Drivers](https://www.last.fm/music/Casablanca+Drivers)**<br/>
-> `14 ▶️` ∙ **[Spoon](https://www.last.fm/music/Spoon)**<br/>
 > `11 ▶️` ∙ **[David Shaw and The Beat](https://www.last.fm/music/David+Shaw+and+The+Beat)**<br/>
+> `9 ▶️` ∙ **[Molly Nilsson](https://www.last.fm/music/Molly+Nilsson)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
