@@ -3,9 +3,9 @@
 
 > `19 ▶️` ∙ **[Charlotte Gainsbourg](https://www.last.fm/music/Charlotte+Gainsbourg)**<br/>
 > `17 ▶️` ∙ **[Kids don't smoke](https://www.last.fm/music/Kids+don%27t+smoke)**<br/>
-> `10 ▶️` ∙ **[Afar](https://www.last.fm/music/Afar)**<br/>
-> `9 ▶️` ∙ **[The Dharma Chain](https://www.last.fm/music/The+Dharma+Chain)**<br/>
+> `9 ▶️` ∙ **[Afar](https://www.last.fm/music/Afar)**<br/>
 > `8 ▶️` ∙ **[Baeks](https://www.last.fm/music/Baeks)**<br/>
+> `8 ▶️` ∙ **[The Dharma Chain](https://www.last.fm/music/The+Dharma+Chain)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,8 +13,8 @@
 
 > `19 ▶️` ∙ **[5:55 (Nouvelle Edition)](https://www.last.fm/music/Charlotte+Gainsbourg/5:55+(Nouvelle+Edition))** - [Charlotte Gainsbourg](https://www.last.fm/music/Charlotte+Gainsbourg)<br/>
 > `10 ▶️` ∙ **[Headlights](https://www.last.fm/music/Kids+don%27t+smoke/Headlights)** - [Kids don't smoke](https://www.last.fm/music/Kids+don%27t+smoke)<br/>
-> `9 ▶️` ∙ **[Nowhere](https://www.last.fm/music/The+Dharma+Chain/Nowhere)** - [The Dharma Chain](https://www.last.fm/music/The+Dharma+Chain)<br/>
-> `6 ▶️` ∙ **[tell me more](https://www.last.fm/music/Afar/tell+me+more)** - [Afar](https://www.last.fm/music/Afar)<br/>
+> `8 ▶️` ∙ **[Nowhere](https://www.last.fm/music/The+Dharma+Chain/Nowhere)** - [The Dharma Chain](https://www.last.fm/music/The+Dharma+Chain)<br/>
+> `5 ▶️` ∙ **[tell me more](https://www.last.fm/music/Afar/tell+me+more)** - [Afar](https://www.last.fm/music/Afar)<br/>
 > `5 ▶️` ∙ **[Venom](https://www.last.fm/music/beaks/Venom)** - [beaks](https://www.last.fm/music/beaks)<br/>
 <!--END_LASTFM_ALBUMS-->
 
