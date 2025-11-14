@@ -4,8 +4,8 @@
 > `19 ▶️` ∙ **[Charlotte Gainsbourg](https://www.last.fm/music/Charlotte+Gainsbourg)**<br/>
 > `17 ▶️` ∙ **[Kids don't smoke](https://www.last.fm/music/Kids+don%27t+smoke)**<br/>
 > `9 ▶️` ∙ **[Afar](https://www.last.fm/music/Afar)**<br/>
-> `8 ▶️` ∙ **[Baeks](https://www.last.fm/music/Baeks)**<br/>
 > `8 ▶️` ∙ **[The Dharma Chain](https://www.last.fm/music/The+Dharma+Chain)**<br/>
+> `7 ▶️` ∙ **[Baeks](https://www.last.fm/music/Baeks)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `10 ▶️` ∙ **[Headlights](https://www.last.fm/music/Kids+don%27t+smoke/Headlights)** - [Kids don't smoke](https://www.last.fm/music/Kids+don%27t+smoke)<br/>
 > `8 ▶️` ∙ **[Nowhere](https://www.last.fm/music/The+Dharma+Chain/Nowhere)** - [The Dharma Chain](https://www.last.fm/music/The+Dharma+Chain)<br/>
 > `5 ▶️` ∙ **[tell me more](https://www.last.fm/music/Afar/tell+me+more)** - [Afar](https://www.last.fm/music/Afar)<br/>
-> `5 ▶️` ∙ **[Venom](https://www.last.fm/music/beaks/Venom)** - [beaks](https://www.last.fm/music/beaks)<br/>
+> `5 ▶️` ∙ **[Sun](https://www.last.fm/music/Cat+Power/Sun)** - [Cat Power](https://www.last.fm/music/Cat+Power)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `12 ▶️` ∙ **[The Operation](https://www.last.fm/music/Charlotte+Gainsbourg/_/The+Operation)** - [Charlotte Gainsbourg](https://www.last.fm/music/Charlotte+Gainsbourg)<br/>
 > `6 ▶️` ∙ **[The Songs That We Sing](https://www.last.fm/music/Charlotte+Gainsbourg/_/The+Songs+That+We+Sing)** - [Charlotte Gainsbourg](https://www.last.fm/music/Charlotte+Gainsbourg)<br/>
 > `6 ▶️` ∙ **[Game Plan (DnB flip)](https://www.last.fm/music/Kids+don%27t+smoke/_/Game+Plan+(DnB+flip))** - [Kids don't smoke](https://www.last.fm/music/Kids+don%27t+smoke)<br/>
-> `5 ▶️` ∙ **[Venom](https://www.last.fm/music/beaks/_/Venom)** - [beaks](https://www.last.fm/music/beaks)<br/>
-> `5 ▶️` ∙ **[Oh No](https://www.last.fm/music/Itoa/_/Oh+No)** - [Itoa](https://www.last.fm/music/Itoa)<br/>
+> `5 ▶️` ∙ **[A Strange Thing To Say](https://www.last.fm/music/Sopor+Aeternus+&+The+Ensemble+of+Shadows/_/A+Strange+Thing+To+Say)** - [Sopor Aeternus & The Ensemble of Shadows](https://www.last.fm/music/Sopor+Aeternus+&+The+Ensemble+of+Shadows)<br/>
+> `4 ▶️` ∙ **[try not to sleep](https://www.last.fm/music/Afar/_/try+not+to+sleep)** - [Afar](https://www.last.fm/music/Afar)<br/>
 <!--END_LASTFM_TRACKS-->
