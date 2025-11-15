@@ -5,7 +5,7 @@
 > `17 ▶️` ∙ **[Kids don't smoke](https://www.last.fm/music/Kids+don%27t+smoke)**<br/>
 > `9 ▶️` ∙ **[Afar](https://www.last.fm/music/Afar)**<br/>
 > `8 ▶️` ∙ **[The Dharma Chain](https://www.last.fm/music/The+Dharma+Chain)**<br/>
-> `7 ▶️` ∙ **[Baeks](https://www.last.fm/music/Baeks)**<br/>
+> `6 ▶️` ∙ **[Baeks](https://www.last.fm/music/Baeks)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `6 ▶️` ∙ **[The Songs That We Sing](https://www.last.fm/music/Charlotte+Gainsbourg/_/The+Songs+That+We+Sing)** - [Charlotte Gainsbourg](https://www.last.fm/music/Charlotte+Gainsbourg)<br/>
 > `6 ▶️` ∙ **[Game Plan (DnB flip)](https://www.last.fm/music/Kids+don%27t+smoke/_/Game+Plan+(DnB+flip))** - [Kids don't smoke](https://www.last.fm/music/Kids+don%27t+smoke)<br/>
 > `4 ▶️` ∙ **[try not to sleep](https://www.last.fm/music/Afar/_/try+not+to+sleep)** - [Afar](https://www.last.fm/music/Afar)<br/>
-> `4 ▶️` ∙ **[Venom](https://www.last.fm/music/beaks/_/Venom)** - [beaks](https://www.last.fm/music/beaks)<br/>
+> `4 ▶️` ∙ **[Yesterday [Mixed]](https://www.last.fm/music/Fahrland/_/Yesterday+%5BMixed%5D)** - [Fahrland](https://www.last.fm/music/Fahrland)<br/>
 <!--END_LASTFM_TRACKS-->
