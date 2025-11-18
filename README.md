@@ -4,8 +4,8 @@
 > `26 ▶️` ∙ **[Kids don't smoke](https://www.last.fm/music/Kids+don%27t+smoke)**<br/>
 > `8 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
 > `7 ▶️` ∙ **[Little Element](https://www.last.fm/music/Little+Element)**<br/>
+> `7 ▶️` ∙ **[Pictureplane](https://www.last.fm/music/Pictureplane)**<br/>
 > `6 ▶️` ∙ **[Afar](https://www.last.fm/music/Afar)**<br/>
-> `6 ▶️` ∙ **[Baeks](https://www.last.fm/music/Baeks)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
