@@ -1,17 +1,17 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `41 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
+> `38 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
 > `33 ▶️` ∙ **[Olenka and The Autumn Lovers](https://www.last.fm/music/Olenka+and+The+Autumn+Lovers)**<br/>
 > `18 ▶️` ∙ **[Vashti Bunyan](https://www.last.fm/music/Vashti+Bunyan)**<br/>
 > `12 ▶️` ∙ **[EERA](https://www.last.fm/music/EERA)**<br/>
-> `11 ▶️` ∙ **[Kids don't smoke](https://www.last.fm/music/Kids+don%27t+smoke)**<br/>
+> `8 ▶️` ∙ **[Ghostpoet](https://www.last.fm/music/Ghostpoet)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `39 ▶️` ∙ **[Some Like It Hot](https://www.last.fm/music/Bar+Italia/Some+Like+It+Hot)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
+> `36 ▶️` ∙ **[Some Like It Hot](https://www.last.fm/music/Bar+Italia/Some+Like+It+Hot)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
 > `24 ▶️` ∙ **[Olenka & The Autumn Lovers](https://www.last.fm/music/Olenka+and+The+Autumn+Lovers/Olenka+&+The+Autumn+Lovers)** - [Olenka and The Autumn Lovers](https://www.last.fm/music/Olenka+and+The+Autumn+Lovers)<br/>
 > `13 ▶️` ∙ **[Lookaftering](https://www.last.fm/music/Vashti+Bunyan/Lookaftering)** - [Vashti Bunyan](https://www.last.fm/music/Vashti+Bunyan)<br/>
 > `12 ▶️` ∙ **[Reflection of Youth](https://www.last.fm/music/EERA/Reflection+of+Youth)** - [EERA](https://www.last.fm/music/EERA)<br/>
