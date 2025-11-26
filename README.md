@@ -4,7 +4,7 @@
 > `33 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
 > `32 ▶️` ∙ **[Olenka and The Autumn Lovers](https://www.last.fm/music/Olenka+and+The+Autumn+Lovers)**<br/>
 > `18 ▶️` ∙ **[Vashti Bunyan](https://www.last.fm/music/Vashti+Bunyan)**<br/>
-> `15 ▶️` ∙ **[LustSickPuppy](https://www.last.fm/music/LustSickPuppy)**<br/>
+> `16 ▶️` ∙ **[LustSickPuppy](https://www.last.fm/music/LustSickPuppy)**<br/>
 > `12 ▶️` ∙ **[EERA](https://www.last.fm/music/EERA)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
