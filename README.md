@@ -2,9 +2,9 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `11 ▶️` ∙ **[EERA](https://www.last.fm/music/EERA)**<br/>
-> `10 ▶️` ∙ **[clipping.](https://www.last.fm/music/clipping.)**<br/>
-> `9 ▶️` ∙ **[LustSickPuppy](https://www.last.fm/music/LustSickPuppy)**<br/>
+> `9 ▶️` ∙ **[clipping.](https://www.last.fm/music/clipping.)**<br/>
 > `8 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
+> `8 ▶️` ∙ **[LustSickPuppy](https://www.last.fm/music/LustSickPuppy)**<br/>
 > `8 ▶️` ∙ **[Порез на Собаке](https://www.last.fm/music/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7+%D0%BD%D0%B0+%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B5)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
