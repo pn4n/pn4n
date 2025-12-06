@@ -23,7 +23,7 @@
 
 > `7 ▶️` ∙ **[Living](https://www.last.fm/music/EERA/_/Living)** - [EERA](https://www.last.fm/music/EERA)<br/>
 > `5 ▶️` ∙ **[Something Special](https://www.last.fm/music/Afar/_/Something+Special)** - [Afar](https://www.last.fm/music/Afar)<br/>
+> `4 ▶️` ∙ **[BOY DESTROYER](https://www.last.fm/music/LustSickPuppy/_/BOY+DESTROYER)** - [LustSickPuppy](https://www.last.fm/music/LustSickPuppy)<br/>
 > `4 ▶️` ∙ **[Stereo Love](https://www.last.fm/music/my!lane/_/Stereo+Love)** - [my!lane](https://www.last.fm/music/my!lane)<br/>
-> `3 ▶️` ∙ **[Cowbella](https://www.last.fm/music/Bar+Italia/_/Cowbella)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
-> `3 ▶️` ∙ **[Feels Eternal](https://www.last.fm/music/Fall+Shock/_/Feels+Eternal)** - [Fall Shock](https://www.last.fm/music/Fall+Shock)<br/>
+> `4 ▶️` ∙ **[I Dream Of Jeannie - With The Light Brown Hair](https://www.last.fm/music/Stina+Nordenstam/_/I+Dream+Of+Jeannie+-+With+The+Light+Brown+Hair)** - [Stina Nordenstam](https://www.last.fm/music/Stina+Nordenstam)<br/>
 <!--END_LASTFM_TRACKS-->
