@@ -15,7 +15,7 @@
 > `21 ▶️` ∙ **[Some Like It Hot](https://www.last.fm/music/Bar+Italia/Some+Like+It+Hot)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
 > `18 ▶️` ∙ **[Come Away With ESG](https://www.last.fm/music/ESG/Come+Away+With+ESG)** - [ESG](https://www.last.fm/music/ESG)<br/>
 > `12 ▶️` ∙ **[Adult Romantix](https://www.last.fm/music/Winter/Adult+Romantix)** - [Winter](https://www.last.fm/music/Winter)<br/>
-> `11 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
+> `11 ▶️` ∙ **[The Bells Of 1 2](https://www.last.fm/music/Sol+Seppy/The+Bells+Of+1+2)** - [Sol Seppy](https://www.last.fm/music/Sol+Seppy)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `17 ▶️` ∙ **[due dilettante](https://www.last.fm/music/Double+Virgo/_/due+dilettante)** - [Double Virgo](https://www.last.fm/music/Double+Virgo)<br/>
 > `8 ▶️` ∙ **[Booksmart Hunny](https://www.last.fm/music/Milo+Korbenski/_/Booksmart+Hunny)** - [Milo Korbenski](https://www.last.fm/music/Milo+Korbenski)<br/>
 > `8 ▶️` ∙ **[I Dream Of Jeannie - With The Light Brown Hair](https://www.last.fm/music/Stina+Nordenstam/_/I+Dream+Of+Jeannie+-+With+The+Light+Brown+Hair)** - [Stina Nordenstam](https://www.last.fm/music/Stina+Nordenstam)<br/>
+> `8 ▶️` ∙ **[Being No One, Going Nowhere](https://www.last.fm/music/STRFKR/_/Being+No+One,+Going+Nowhere)** - [STRFKR](https://www.last.fm/music/STRFKR)<br/>
 > `7 ▶️` ∙ **[Something Special](https://www.last.fm/music/Afar/_/Something+Special)** - [Afar](https://www.last.fm/music/Afar)<br/>
-> `7 ▶️` ∙ **[A Perfect End](https://www.last.fm/music/Mouth+ulcers/_/A+Perfect+End)** - [Mouth ulcers](https://www.last.fm/music/Mouth+ulcers)<br/>
 <!--END_LASTFM_TRACKS-->
