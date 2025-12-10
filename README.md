@@ -25,5 +25,5 @@
 > `8 ▶️` ∙ **[Booksmart Hunny](https://www.last.fm/music/Milo+Korbenski/_/Booksmart+Hunny)** - [Milo Korbenski](https://www.last.fm/music/Milo+Korbenski)<br/>
 > `8 ▶️` ∙ **[I Dream Of Jeannie - With The Light Brown Hair](https://www.last.fm/music/Stina+Nordenstam/_/I+Dream+Of+Jeannie+-+With+The+Light+Brown+Hair)** - [Stina Nordenstam](https://www.last.fm/music/Stina+Nordenstam)<br/>
 > `8 ▶️` ∙ **[Being No One, Going Nowhere](https://www.last.fm/music/STRFKR/_/Being+No+One,+Going+Nowhere)** - [STRFKR](https://www.last.fm/music/STRFKR)<br/>
-> `7 ▶️` ∙ **[Something Special](https://www.last.fm/music/Afar/_/Something+Special)** - [Afar](https://www.last.fm/music/Afar)<br/>
+> `7 ▶️` ∙ **[A Perfect End](https://www.last.fm/music/Mouth+ulcers/_/A+Perfect+End)** - [Mouth ulcers](https://www.last.fm/music/Mouth+ulcers)<br/>
 <!--END_LASTFM_TRACKS-->
