@@ -1,7 +1,7 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `42 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
+> `41 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
 > `34 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
 > `33 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `18 ▶️` ∙ **[Beirut](https://www.last.fm/music/Beirut)**<br/>
@@ -12,7 +12,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `34 ▶️` ∙ **[Shakedown](https://www.last.fm/music/Double+Virgo/Shakedown)** - [Double Virgo](https://www.last.fm/music/Double+Virgo)<br/>
-> `23 ▶️` ∙ **[Some Like It Hot](https://www.last.fm/music/Bar+Italia/Some+Like+It+Hot)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
+> `22 ▶️` ∙ **[Some Like It Hot](https://www.last.fm/music/Bar+Italia/Some+Like+It+Hot)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
 > `12 ▶️` ∙ **[Adult Romantix](https://www.last.fm/music/Winter/Adult+Romantix)** - [Winter](https://www.last.fm/music/Winter)<br/>
 > `11 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
 > `11 ▶️` ∙ **[Danger in Fives](https://www.last.fm/music/Wombo/Danger+in+Fives)** - [Wombo](https://www.last.fm/music/Wombo)<br/>
