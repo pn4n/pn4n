@@ -4,8 +4,8 @@
 > `31 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `18 ▶️` ∙ **[Beirut](https://www.last.fm/music/Beirut)**<br/>
 > `14 ▶️` ∙ **[Starfucker](https://www.last.fm/music/Starfucker)**<br/>
+> `12 ▶️` ∙ **[Pictureplane](https://www.last.fm/music/Pictureplane)**<br/>
 > `11 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
-> `10 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `11 ▶️` ∙ **[Being No One, Going Nowhere](https://www.last.fm/music/STRFKR/Being+No+One,+Going+Nowhere)** - [STRFKR](https://www.last.fm/music/STRFKR)<br/>
 > `8 ▶️` ∙ **[Some Like It Hot](https://www.last.fm/music/Bar+Italia/Some+Like+It+Hot)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
 > `8 ▶️` ∙ **[When You Gonna Tell 'Em the Truth, Aaron?](https://www.last.fm/music/Milo+Korbenski/When+You+Gonna+Tell+%27Em+the+Truth,+Aaron%3F)** - [Milo Korbenski](https://www.last.fm/music/Milo+Korbenski)<br/>
-> `7 ▶️` ∙ **[Witching Hour (Bonus Track Version)](https://www.last.fm/music/Ladytron/Witching+Hour+(Bonus+Track+Version))** - [Ladytron](https://www.last.fm/music/Ladytron)<br/>
+> `8 ▶️` ∙ **[Like the Sound of Injured Love](https://www.last.fm/music/R.+Missing/Like+the+Sound+of+Injured+Love)** - [R. Missing](https://www.last.fm/music/R.+Missing)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
