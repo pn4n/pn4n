@@ -23,7 +23,7 @@
 
 > `6 ▶️` ∙ **[Let in the Night Outside](https://www.last.fm/music/R.+Missing/_/Let+in+the+Night+Outside)** - [R. Missing](https://www.last.fm/music/R.+Missing)<br/>
 > `4 ▶️` ∙ **[Destroy Everything You Touch](https://www.last.fm/music/Ladytron/_/Destroy+Everything+You+Touch)** - [Ladytron](https://www.last.fm/music/Ladytron)<br/>
-> `3 ▶️` ∙ **[due dilettante](https://www.last.fm/music/Double+Virgo/_/due+dilettante)** - [Double Virgo](https://www.last.fm/music/Double+Virgo)<br/>
 > `3 ▶️` ∙ **[Lithium](https://www.last.fm/music/Labyrinth+Ear/_/Lithium)** - [Labyrinth Ear](https://www.last.fm/music/Labyrinth+Ear)<br/>
 > `3 ▶️` ∙ **[International Dateline](https://www.last.fm/music/Ladytron/_/International+Dateline)** - [Ladytron](https://www.last.fm/music/Ladytron)<br/>
+> `3 ▶️` ∙ **[Heaven is a State of Mind](https://www.last.fm/music/Pictureplane/_/Heaven+is+a+State+of+Mind)** - [Pictureplane](https://www.last.fm/music/Pictureplane)<br/>
 <!--END_LASTFM_TRACKS-->
