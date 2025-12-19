@@ -4,8 +4,8 @@
 > `11 ▶️` ∙ **[Klaxons](https://www.last.fm/music/Klaxons)**<br/>
 > `11 ▶️` ∙ **[Pictureplane](https://www.last.fm/music/Pictureplane)**<br/>
 > `10 ▶️` ∙ **[R. Missing](https://www.last.fm/music/R.+Missing)**<br/>
+> `9 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
 > `6 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `5 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `10 ▶️` ∙ **[Like the Sound of Injured Love](https://www.last.fm/music/R.+Missing/Like+the+Sound+of+Injured+Love)** - [R. Missing](https://www.last.fm/music/R.+Missing)<br/>
 > `5 ▶️` ∙ **[Witching Hour (Bonus Track Version)](https://www.last.fm/music/Ladytron/Witching+Hour+(Bonus+Track+Version))** - [Ladytron](https://www.last.fm/music/Ladytron)<br/>
+> `5 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife/The+Knife)** - [The Knife](https://www.last.fm/music/The+Knife)<br/>
 > `4 ▶️` ∙ **[Oak](https://www.last.fm/music/Labyrinth+Ear/Oak)** - [Labyrinth Ear](https://www.last.fm/music/Labyrinth+Ear)<br/>
 > `4 ▶️` ∙ **[Sex Distortion](https://www.last.fm/music/Pictureplane/Sex+Distortion)** - [Pictureplane](https://www.last.fm/music/Pictureplane)<br/>
-> `4 ▶️` ∙ **[Riki](https://www.last.fm/music/Riki/Riki)** - [Riki](https://www.last.fm/music/Riki)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
