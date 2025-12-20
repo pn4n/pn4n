@@ -4,8 +4,8 @@
 > `44 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
 > `10 ▶️` ∙ **[Pictureplane](https://www.last.fm/music/Pictureplane)**<br/>
 > `10 ▶️` ∙ **[R. Missing](https://www.last.fm/music/R.+Missing)**<br/>
-> `5 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
-> `5 ▶️` ∙ **[Ladytron](https://www.last.fm/music/Ladytron)**<br/>
+> `5 ▶️` ∙ **[Nuovo Testamento](https://www.last.fm/music/Nuovo+Testamento)**<br/>
+> `5 ▶️` ∙ **[VOGUE.NOIR](https://www.last.fm/music/VOGUE.NOIR)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `6 ▶️` ∙ **[Let in the Night Outside](https://www.last.fm/music/R.+Missing/_/Let+in+the+Night+Outside)** - [R. Missing](https://www.last.fm/music/R.+Missing)<br/>
 > `4 ▶️` ∙ **[Lithium](https://www.last.fm/music/Labyrinth+Ear/_/Lithium)** - [Labyrinth Ear](https://www.last.fm/music/Labyrinth+Ear)<br/>
-> `4 ▶️` ∙ **[Destroy Everything You Touch](https://www.last.fm/music/Ladytron/_/Destroy+Everything+You+Touch)** - [Ladytron](https://www.last.fm/music/Ladytron)<br/>
 > `3 ▶️` ∙ **[Kandy](https://www.last.fm/music/Fever+Ray/_/Kandy)** - [Fever Ray](https://www.last.fm/music/Fever+Ray)<br/>
+> `3 ▶️` ∙ **[Destroy Everything You Touch](https://www.last.fm/music/Ladytron/_/Destroy+Everything+You+Touch)** - [Ladytron](https://www.last.fm/music/Ladytron)<br/>
 > `2 ▶️` ∙ **[Pearl - Edit](https://www.last.fm/music/Chapterhouse/_/Pearl+-+Edit)** - [Chapterhouse](https://www.last.fm/music/Chapterhouse)<br/>
 <!--END_LASTFM_TRACKS-->
