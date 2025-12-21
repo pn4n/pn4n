@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `44 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
-> `10 ▶️` ∙ **[Pictureplane](https://www.last.fm/music/Pictureplane)**<br/>
-> `10 ▶️` ∙ **[R. Missing](https://www.last.fm/music/R.+Missing)**<br/>
-> `5 ▶️` ∙ **[Nuovo Testamento](https://www.last.fm/music/Nuovo+Testamento)**<br/>
-> `5 ▶️` ∙ **[VOGUE.NOIR](https://www.last.fm/music/VOGUE.NOIR)**<br/>
+> `10 ▶️` ∙ **[4 Позиции Бруно](https://www.last.fm/music/4+%D0%9F%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8+%D0%91%D1%80%D1%83%D0%BD%D0%BE)**<br/>
+> `7 ▶️` ∙ **[R. Missing](https://www.last.fm/music/R.+Missing)**<br/>
+> `7 ▶️` ∙ **[Порез на Собаке](https://www.last.fm/music/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7+%D0%BD%D0%B0+%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B5)**<br/>
+> `5 ▶️` ∙ **[The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `14 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife/The+Knife)** - [The Knife](https://www.last.fm/music/The+Knife)<br/>
 > `11 ▶️` ∙ **[Deep Cuts](https://www.last.fm/music/The+Knife/Deep+Cuts)** - [The Knife](https://www.last.fm/music/The+Knife)<br/>
-> `10 ▶️` ∙ **[Like the Sound of Injured Love](https://www.last.fm/music/R.+Missing/Like+the+Sound+of+Injured+Love)** - [R. Missing](https://www.last.fm/music/R.+Missing)<br/>
 > `9 ▶️` ∙ **[Shaking the Habitual](https://www.last.fm/music/The+Knife/Shaking+the+Habitual)** - [The Knife](https://www.last.fm/music/The+Knife)<br/>
 > `8 ▶️` ∙ **[Silent Shout](https://www.last.fm/music/The+Knife/Silent+Shout)** - [The Knife](https://www.last.fm/music/The+Knife)<br/>
+> `7 ▶️` ∙ **[Like the Sound of Injured Love](https://www.last.fm/music/R.+Missing/Like+the+Sound+of+Injured+Love)** - [R. Missing](https://www.last.fm/music/R.+Missing)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
