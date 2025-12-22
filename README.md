@@ -23,7 +23,7 @@
 
 > `4 ▶️` ∙ **[Lithium](https://www.last.fm/music/Labyrinth+Ear/_/Lithium)** - [Labyrinth Ear](https://www.last.fm/music/Labyrinth+Ear)<br/>
 > `3 ▶️` ∙ **[Kandy](https://www.last.fm/music/Fever+Ray/_/Kandy)** - [Fever Ray](https://www.last.fm/music/Fever+Ray)<br/>
+> `3 ▶️` ∙ **[Let The Sunshine In (Reprise)](https://www.last.fm/music/The+5th+Dimension/_/Let+The+Sunshine+In+(Reprise))** - [The 5th Dimension](https://www.last.fm/music/The+5th+Dimension)<br/>
 > `2 ▶️` ∙ **[I Make My Own Dust](https://www.last.fm/music/Bar+Italia/_/I+Make+My+Own+Dust)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
 > `2 ▶️` ∙ **[Acheron](https://www.last.fm/music/DIIV/_/Acheron)** - [DIIV](https://www.last.fm/music/DIIV)<br/>
-> `2 ▶️` ∙ **[burning bridges](https://www.last.fm/music/Double+Virgo/_/burning+bridges)** - [Double Virgo](https://www.last.fm/music/Double+Virgo)<br/>
 <!--END_LASTFM_TRACKS-->
