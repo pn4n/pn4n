@@ -3,9 +3,9 @@
 
 > `44 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
 > `10 ▶️` ∙ **[4 Позиции Бруно](https://www.last.fm/music/4+%D0%9F%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8+%D0%91%D1%80%D1%83%D0%BD%D0%BE)**<br/>
+> `7 ▶️` ∙ **[The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)**<br/>
 > `7 ▶️` ∙ **[Порез на Собаке](https://www.last.fm/music/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7+%D0%BD%D0%B0+%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B5)**<br/>
 > `6 ▶️` ∙ **[Klaxons](https://www.last.fm/music/Klaxons)**<br/>
-> `6 ▶️` ∙ **[The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
