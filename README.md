@@ -3,9 +3,9 @@
 
 > `44 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
 > `10 ▶️` ∙ **[4 Позиции Бруно](https://www.last.fm/music/4+%D0%9F%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8+%D0%91%D1%80%D1%83%D0%BD%D0%BE)**<br/>
-> `7 ▶️` ∙ **[The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)**<br/>
-> `7 ▶️` ∙ **[Порез на Собаке](https://www.last.fm/music/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7+%D0%BD%D0%B0+%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B5)**<br/>
 > `6 ▶️` ∙ **[Klaxons](https://www.last.fm/music/Klaxons)**<br/>
+> `6 ▶️` ∙ **[The Twilight Sad](https://www.last.fm/music/The+Twilight+Sad)**<br/>
+> `6 ▶️` ∙ **[Порез на Собаке](https://www.last.fm/music/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7+%D0%BD%D0%B0+%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B5)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `4 ▶️` ∙ **[Lithium](https://www.last.fm/music/Labyrinth+Ear/_/Lithium)** - [Labyrinth Ear](https://www.last.fm/music/Labyrinth+Ear)<br/>
 > `3 ▶️` ∙ **[Kandy](https://www.last.fm/music/Fever+Ray/_/Kandy)** - [Fever Ray](https://www.last.fm/music/Fever+Ray)<br/>
+> `2 ▶️` ∙ **[I Make My Own Dust](https://www.last.fm/music/Bar+Italia/_/I+Make+My+Own+Dust)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
 > `2 ▶️` ∙ **[Acheron](https://www.last.fm/music/DIIV/_/Acheron)** - [DIIV](https://www.last.fm/music/DIIV)<br/>
 > `2 ▶️` ∙ **[burning bridges](https://www.last.fm/music/Double+Virgo/_/burning+bridges)** - [Double Virgo](https://www.last.fm/music/Double+Virgo)<br/>
-> `2 ▶️` ∙ **[Relax](https://www.last.fm/music/Frankie+Goes+to+Hollywood/_/Relax)** - [Frankie Goes to Hollywood](https://www.last.fm/music/Frankie+Goes+to+Hollywood)<br/>
 <!--END_LASTFM_TRACKS-->
