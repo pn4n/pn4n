@@ -21,9 +21,9 @@
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
+> `5 ▶️` ∙ **[Cuts You Inside](https://www.last.fm/music/House+of+Harm/_/Cuts+You+Inside)** - [House of Harm](https://www.last.fm/music/House+of+Harm)<br/>
 > `4 ▶️` ∙ **[Lithium](https://www.last.fm/music/Labyrinth+Ear/_/Lithium)** - [Labyrinth Ear](https://www.last.fm/music/Labyrinth+Ear)<br/>
+> `3 ▶️` ∙ **[Nite Rite](https://www.last.fm/music/Ash+Code/_/Nite+Rite)** - [Ash Code](https://www.last.fm/music/Ash+Code)<br/>
 > `3 ▶️` ∙ **[Kandy](https://www.last.fm/music/Fever+Ray/_/Kandy)** - [Fever Ray](https://www.last.fm/music/Fever+Ray)<br/>
 > `3 ▶️` ∙ **[Let The Sunshine In (Reprise)](https://www.last.fm/music/The+5th+Dimension/_/Let+The+Sunshine+In+(Reprise))** - [The 5th Dimension](https://www.last.fm/music/The+5th+Dimension)<br/>
-> `2 ▶️` ∙ **[I Make My Own Dust](https://www.last.fm/music/Bar+Italia/_/I+Make+My+Own+Dust)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
-> `2 ▶️` ∙ **[Acheron](https://www.last.fm/music/DIIV/_/Acheron)** - [DIIV](https://www.last.fm/music/DIIV)<br/>
 <!--END_LASTFM_TRACKS-->
