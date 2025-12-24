@@ -3,9 +3,9 @@
 
 > `44 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
 > `10 ▶️` ∙ **[4 Позиции Бруно](https://www.last.fm/music/4+%D0%9F%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8+%D0%91%D1%80%D1%83%D0%BD%D0%BE)**<br/>
-> `7 ▶️` ∙ **[Primal Scream](https://www.last.fm/music/Primal+Scream)**<br/>
-> `6 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion)**<br/>
-> `6 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
+> `8 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
+> `8 ▶️` ∙ **[Jefferson Airplane](https://www.last.fm/music/Jefferson+Airplane)**<br/>
+> `7 ▶️` ∙ **[Pet Shop Boys](https://www.last.fm/music/Pet+Shop+Boys)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `5 ▶️` ∙ **[Cuts You Inside](https://www.last.fm/music/House+of+Harm/_/Cuts+You+Inside)** - [House of Harm](https://www.last.fm/music/House+of+Harm)<br/>
 > `3 ▶️` ∙ **[Nite Rite](https://www.last.fm/music/Ash+Code/_/Nite+Rite)** - [Ash Code](https://www.last.fm/music/Ash+Code)<br/>
+> `3 ▶️` ∙ **[I Make My Own Dust](https://www.last.fm/music/Bar+Italia/_/I+Make+My+Own+Dust)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
 > `3 ▶️` ∙ **[Let The Sunshine In (Reprise)](https://www.last.fm/music/The+5th+Dimension/_/Let+The+Sunshine+In+(Reprise))** - [The 5th Dimension](https://www.last.fm/music/The+5th+Dimension)<br/>
-> `2 ▶️` ∙ **[I Make My Own Dust](https://www.last.fm/music/Bar+Italia/_/I+Make+My+Own+Dust)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
 > `2 ▶️` ∙ **[Crimewave](https://www.last.fm/music/Crystal+Castles/_/Crimewave)** - [Crystal Castles](https://www.last.fm/music/Crystal+Castles)<br/>
 <!--END_LASTFM_TRACKS-->
