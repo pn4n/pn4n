@@ -4,8 +4,8 @@
 > `44 ▶️` ∙ **[The Knife](https://www.last.fm/music/The+Knife)**<br/>
 > `10 ▶️` ∙ **[4 Позиции Бруно](https://www.last.fm/music/4+%D0%9F%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8+%D0%91%D1%80%D1%83%D0%BD%D0%BE)**<br/>
 > `7 ▶️` ∙ **[Primal Scream](https://www.last.fm/music/Primal+Scream)**<br/>
+> `6 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion)**<br/>
 > `6 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
-> `6 ▶️` ∙ **[House of Harm](https://www.last.fm/music/House+of+Harm)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `11 ▶️` ∙ **[Deep Cuts](https://www.last.fm/music/The+Knife/Deep+Cuts)** - [The Knife](https://www.last.fm/music/The+Knife)<br/>
 > `9 ▶️` ∙ **[Shaking the Habitual](https://www.last.fm/music/The+Knife/Shaking+the+Habitual)** - [The Knife](https://www.last.fm/music/The+Knife)<br/>
 > `8 ▶️` ∙ **[Silent Shout](https://www.last.fm/music/The+Knife/Silent+Shout)** - [The Knife](https://www.last.fm/music/The+Knife)<br/>
-> `6 ▶️` ∙ **[Воспитание и Такт](https://www.last.fm/music/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7+%D0%BD%D0%B0+%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B5/%D0%92%D0%BE%D1%81%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B8+%D0%A2%D0%B0%D0%BA%D1%82)** - [Порез на Собаке](https://www.last.fm/music/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7+%D0%BD%D0%B0+%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B5)<br/>
+> `6 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles/Crystal+Castles)** - [Crystal Castles](https://www.last.fm/music/Crystal+Castles)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `3 ▶️` ∙ **[Nite Rite](https://www.last.fm/music/Ash+Code/_/Nite+Rite)** - [Ash Code](https://www.last.fm/music/Ash+Code)<br/>
 > `3 ▶️` ∙ **[Let The Sunshine In (Reprise)](https://www.last.fm/music/The+5th+Dimension/_/Let+The+Sunshine+In+(Reprise))** - [The 5th Dimension](https://www.last.fm/music/The+5th+Dimension)<br/>
 > `2 ▶️` ∙ **[I Make My Own Dust](https://www.last.fm/music/Bar+Italia/_/I+Make+My+Own+Dust)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
-> `2 ▶️` ∙ **[burning bridges](https://www.last.fm/music/Double+Virgo/_/burning+bridges)** - [Double Virgo](https://www.last.fm/music/Double+Virgo)<br/>
+> `2 ▶️` ∙ **[Crimewave](https://www.last.fm/music/Crystal+Castles/_/Crimewave)** - [Crystal Castles](https://www.last.fm/music/Crystal+Castles)<br/>
 <!--END_LASTFM_TRACKS-->
