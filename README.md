@@ -25,5 +25,5 @@
 > `3 ▶️` ∙ **[Nite Rite](https://www.last.fm/music/Ash+Code/_/Nite+Rite)** - [Ash Code](https://www.last.fm/music/Ash+Code)<br/>
 > `3 ▶️` ∙ **[Let The Sunshine In (Reprise)](https://www.last.fm/music/The+5th+Dimension/_/Let+The+Sunshine+In+(Reprise))** - [The 5th Dimension](https://www.last.fm/music/The+5th+Dimension)<br/>
 > `2 ▶️` ∙ **[I Make My Own Dust](https://www.last.fm/music/Bar+Italia/_/I+Make+My+Own+Dust)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
-> `2 ▶️` ∙ **[Acheron](https://www.last.fm/music/DIIV/_/Acheron)** - [DIIV](https://www.last.fm/music/DIIV)<br/>
+> `2 ▶️` ∙ **[burning bridges](https://www.last.fm/music/Double+Virgo/_/burning+bridges)** - [Double Virgo](https://www.last.fm/music/Double+Virgo)<br/>
 <!--END_LASTFM_TRACKS-->
