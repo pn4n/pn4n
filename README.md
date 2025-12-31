@@ -3,8 +3,8 @@
 
 > `17 ▶️` ∙ **[GIRL PUSHER](https://www.last.fm/music/GIRL+PUSHER)**<br/>
 > `12 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
-> `12 ▶️` ∙ **[Warpaint](https://www.last.fm/music/Warpaint)**<br/>
 > `11 ▶️` ∙ **[LustSickPuppy](https://www.last.fm/music/LustSickPuppy)**<br/>
+> `11 ▶️` ∙ **[Warpaint](https://www.last.fm/music/Warpaint)**<br/>
 > `8 ▶️` ∙ **[3l3d3p](https://www.last.fm/music/3l3d3p)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -13,9 +13,9 @@
 
 > `8 ▶️` ∙ **[Groceries EP 2](https://www.last.fm/music/GIRL+PUSHER/Groceries+EP+2)** - [GIRL PUSHER](https://www.last.fm/music/GIRL+PUSHER)<br/>
 > `8 ▶️` ∙ **[I DRINK HER P1SS](https://www.last.fm/music/Human+Part/I+DRINK+HER+P1SS)** - [Human Part](https://www.last.fm/music/Human+Part)<br/>
-> `7 ▶️` ∙ **[Warpaint](https://www.last.fm/music/Warpaint/Warpaint)** - [Warpaint](https://www.last.fm/music/Warpaint)<br/>
 > `6 ▶️` ∙ **[AS HARD AS YOU CAN](https://www.last.fm/music/LustSickPuppy/AS+HARD+AS+YOU+CAN)** - [LustSickPuppy](https://www.last.fm/music/LustSickPuppy)<br/>
-> `5 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles/Crystal+Castles)** - [Crystal Castles](https://www.last.fm/music/Crystal+Castles)<br/>
+> `6 ▶️` ∙ **[Warpaint](https://www.last.fm/music/Warpaint/Warpaint)** - [Warpaint](https://www.last.fm/music/Warpaint)<br/>
+> `4 ▶️` ∙ **[General!](https://www.last.fm/music/3l3d3p/General!)** - [3l3d3p](https://www.last.fm/music/3l3d3p)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
