@@ -4,8 +4,8 @@
 > `8 ▶️` ∙ **[GIRL PUSHER](https://www.last.fm/music/GIRL+PUSHER)**<br/>
 > `6 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
 > `6 ▶️` ∙ **[Warpaint](https://www.last.fm/music/Warpaint)**<br/>
-> `4 ▶️` ∙ **[Jefferson Airplane](https://www.last.fm/music/Jefferson+Airplane)**<br/>
 > `4 ▶️` ∙ **[Kids don't smoke](https://www.last.fm/music/Kids+don%27t+smoke)**<br/>
+> `4 ▶️` ∙ **[Lauren Bousfield, Girls Rituals](https://www.last.fm/music/Lauren+Bousfield,+Girls+Rituals)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
