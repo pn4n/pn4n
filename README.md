@@ -3,9 +3,9 @@
 
 > `6 ▶️` ∙ **[GIRL PUSHER](https://www.last.fm/music/GIRL+PUSHER)**<br/>
 > `5 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
-> `4 ▶️` ∙ **[Kids don't smoke](https://www.last.fm/music/Kids+don%27t+smoke)**<br/>
 > `4 ▶️` ∙ **[Portishead](https://www.last.fm/music/Portishead)**<br/>
 > `4 ▶️` ∙ **[Warpaint](https://www.last.fm/music/Warpaint)**<br/>
+> `3 ▶️` ∙ **[Bleib Modern](https://www.last.fm/music/Bleib+Modern)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `5 ▶️` ∙ **[I DRINK HER P1SS](https://www.last.fm/music/Human+Part/I+DRINK+HER+P1SS)** - [Human Part](https://www.last.fm/music/Human+Part)<br/>
 > `4 ▶️` ∙ **[Warpaint](https://www.last.fm/music/Warpaint/Warpaint)** - [Warpaint](https://www.last.fm/music/Warpaint)<br/>
 > `3 ▶️` ∙ **[All Is Fair In Love And War](https://www.last.fm/music/Bleib+Modern/All+Is+Fair+In+Love+And+War)** - [Bleib Modern](https://www.last.fm/music/Bleib+Modern)<br/>
-> `3 ▶️` ∙ **[No Certain Night or Morning](https://www.last.fm/music/Home+Video/No+Certain+Night+or+Morning)** - [Home Video](https://www.last.fm/music/Home+Video)<br/>
+> `3 ▶️` ∙ **[Used to Be Better](https://www.last.fm/music/Lauren+Bousfield/Used+to+Be+Better)** - [Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
