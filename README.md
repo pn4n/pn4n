@@ -2,8 +2,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `6 ▶️` ∙ **[GIRL PUSHER](https://www.last.fm/music/GIRL+PUSHER)**<br/>
+> `6 ▶️` ∙ **[Warpaint](https://www.last.fm/music/Warpaint)**<br/>
 > `5 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
-> `5 ▶️` ∙ **[Warpaint](https://www.last.fm/music/Warpaint)**<br/>
 > `4 ▶️` ∙ **[Portishead](https://www.last.fm/music/Portishead)**<br/>
 > `4 ▶️` ∙ **[Tim Buckley](https://www.last.fm/music/Tim+Buckley)**<br/>
 <!--END_LASTFM_ARTISTS-->
