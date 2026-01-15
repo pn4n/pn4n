@@ -4,8 +4,8 @@
 > `9 ▶️` ∙ **[Tears for Fears](https://www.last.fm/music/Tears+for+Fears)**<br/>
 > `7 ▶️` ∙ **[Late of the Pier](https://www.last.fm/music/Late+of+the+Pier)**<br/>
 > `7 ▶️` ∙ **[O. Children](https://www.last.fm/music/O.+Children)**<br/>
+> `6 ▶️` ∙ **[Yakima Jera](https://www.last.fm/music/Yakima+Jera)**<br/>
 > `5 ▶️` ∙ **[A Place to Bury Strangers](https://www.last.fm/music/A+Place+to+Bury+Strangers)**<br/>
-> `5 ▶️` ∙ **[Marc Almond](https://www.last.fm/music/Marc+Almond)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
