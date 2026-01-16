@@ -3,8 +3,8 @@
 
 > `9 ▶️` ∙ **[Tears for Fears](https://www.last.fm/music/Tears+for+Fears)**<br/>
 > `8 ▶️` ∙ **[Late of the Pier](https://www.last.fm/music/Late+of+the+Pier)**<br/>
+> `8 ▶️` ∙ **[O. Children](https://www.last.fm/music/O.+Children)**<br/>
 > `7 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
-> `7 ▶️` ∙ **[O. Children](https://www.last.fm/music/O.+Children)**<br/>
 > `7 ▶️` ∙ **[Yakima Jera](https://www.last.fm/music/Yakima+Jera)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
