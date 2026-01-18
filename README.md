@@ -5,7 +5,7 @@
 > `9 ▶️` ∙ **[Tears for Fears](https://www.last.fm/music/Tears+for+Fears)**<br/>
 > `8 ▶️` ∙ **[O. Children](https://www.last.fm/music/O.+Children)**<br/>
 > `7 ▶️` ∙ **[Foals](https://www.last.fm/music/Foals)**<br/>
-> `7 ▶️` ∙ **[Late of the Pier](https://www.last.fm/music/Late+of+the+Pier)**<br/>
+> `7 ▶️` ∙ **[Yakima Jera](https://www.last.fm/music/Yakima+Jera)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
