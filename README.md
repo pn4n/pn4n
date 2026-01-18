@@ -5,7 +5,7 @@
 > `9 ▶️` ∙ **[Tears for Fears](https://www.last.fm/music/Tears+for+Fears)**<br/>
 > `8 ▶️` ∙ **[O. Children](https://www.last.fm/music/O.+Children)**<br/>
 > `7 ▶️` ∙ **[Foals](https://www.last.fm/music/Foals)**<br/>
-> `7 ▶️` ∙ **[Ghinzu](https://www.last.fm/music/Ghinzu)**<br/>
+> `7 ▶️` ∙ **[Late of the Pier](https://www.last.fm/music/Late+of+the+Pier)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,7 +13,7 @@
 
 > `9 ▶️` ∙ **[Salesforce](https://www.last.fm/music/Lauren+Bousfield/Salesforce)** - [Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)<br/>
 > `7 ▶️` ∙ **[Antidotes](https://www.last.fm/music/Foals/Antidotes)** - [Foals](https://www.last.fm/music/Foals)<br/>
-> `6 ▶️` ∙ **[Blow](https://www.last.fm/music/Ghinzu/Blow)** - [Ghinzu](https://www.last.fm/music/Ghinzu)<br/>
+> `5 ▶️` ∙ **[Blow](https://www.last.fm/music/Ghinzu/Blow)** - [Ghinzu](https://www.last.fm/music/Ghinzu)<br/>
 > `5 ▶️` ∙ **[New Mexico](https://www.last.fm/music/Oppenheimer+Analysis/New+Mexico)** - [Oppenheimer Analysis](https://www.last.fm/music/Oppenheimer+Analysis)<br/>
 > `5 ▶️` ∙ **[Capture](https://www.last.fm/music/Yakima+Jera/Capture)** - [Yakima Jera](https://www.last.fm/music/Yakima+Jera)<br/>
 <!--END_LASTFM_ALBUMS-->
