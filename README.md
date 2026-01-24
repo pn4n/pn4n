@@ -4,7 +4,7 @@
 > `59 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
 > `22 ▶️` ∙ **[LustSickPuppy](https://www.last.fm/music/LustSickPuppy)**<br/>
 > `22 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
-> `21 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
+> `20 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
 > `18 ▶️` ∙ **[3l3d3p](https://www.last.fm/music/3l3d3p)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
