@@ -15,7 +15,7 @@
 > `13 ▶️` ∙ **[I DRINK HER P1SS](https://www.last.fm/music/Human+Part/I+DRINK+HER+P1SS)** - [Human Part](https://www.last.fm/music/Human+Part)<br/>
 > `12 ▶️` ∙ **[.Ziptape](https://www.last.fm/music/Human+Part/.Ziptape)** - [Human Part](https://www.last.fm/music/Human+Part)<br/>
 > `12 ▶️` ∙ **[YALL SOME BROKE BOYS](https://www.last.fm/music/Human+Part/YALL+SOME+BROKE+BOYS)** - [Human Part](https://www.last.fm/music/Human+Part)<br/>
-> `11 ▶️` ∙ **[Girls](https://www.last.fm/music/Beta+Satan/Girls)** - [Beta Satan](https://www.last.fm/music/Beta+Satan)<br/>
+> `12 ▶️` ∙ **[Infinite Summer](https://www.last.fm/music/NZCA+LINES/Infinite+Summer)** - [NZCA LINES](https://www.last.fm/music/NZCA+LINES)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
