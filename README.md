@@ -4,8 +4,8 @@
 > `44 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
 > `24 ▶️` ∙ **[OK Go](https://www.last.fm/music/OK+Go)**<br/>
 > `20 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
+> `20 ▶️` ∙ **[Martin Dupont](https://www.last.fm/music/Martin+Dupont)**<br/>
 > `19 ▶️` ∙ **[Liars](https://www.last.fm/music/Liars)**<br/>
-> `18 ▶️` ∙ **[NZCA/LINES](https://www.last.fm/music/NZCA%2FLINES)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
