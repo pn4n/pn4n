@@ -13,9 +13,9 @@
 
 > `21 ▶️` ∙ **[Infinite Summer](https://www.last.fm/music/NZCA+LINES/Infinite+Summer)** - [NZCA LINES](https://www.last.fm/music/NZCA+LINES)<br/>
 > `13 ▶️` ∙ **[...Like Clockwork](https://www.last.fm/music/Queens+of+the+Stone+Age/...Like+Clockwork)** - [Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age)<br/>
-> `11 ▶️` ∙ **[Girls](https://www.last.fm/music/Beta+Satan/Girls)** - [Beta Satan](https://www.last.fm/music/Beta+Satan)<br/>
-> `11 ▶️` ∙ **[Salesforce](https://www.last.fm/music/Lauren+Bousfield/Salesforce)** - [Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)<br/>
 > `11 ▶️` ∙ **[Of the Blue Colour of the Sky (Extra Nice Edition)](https://www.last.fm/music/OK+Go/Of+the+Blue+Colour+of+the+Sky+(Extra+Nice+Edition))** - [OK Go](https://www.last.fm/music/OK+Go)<br/>
+> `10 ▶️` ∙ **[NZCA/LINES (Spotify Deluxe Edition)](https://www.last.fm/music/NZCA%2FLINES/NZCA%2FLINES+(Spotify+Deluxe+Edition))** - [NZCA/LINES](https://www.last.fm/music/NZCA%2FLINES)<br/>
+> `9 ▶️` ∙ **[Hot Paradox](https://www.last.fm/music/Martin+Dupont/Hot+Paradox)** - [Martin Dupont](https://www.last.fm/music/Martin+Dupont)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `8 ▶️` ∙ **[Excessive Moonlight](https://www.last.fm/music/Indian+Jewelry/_/Excessive+Moonlight)** - [Indian Jewelry](https://www.last.fm/music/Indian+Jewelry)<br/>
 > `6 ▶️` ∙ **[I DRINK HER P1SS](https://www.last.fm/music/Human+Part/_/I+DRINK+HER+P1SS)** - [Human Part](https://www.last.fm/music/Human+Part)<br/>
-> `6 ▶️` ∙ **[Narrow Down Concepts Force Meaning](https://www.last.fm/music/Lauren+Bousfield/_/Narrow+Down+Concepts+Force+Meaning)** - [Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)<br/>
 > `5 ▶️` ∙ **[The Vampyre of Time and Memory](https://www.last.fm/music/Queens+of+the+Stone+Age/_/The+Vampyre+of+Time+and+Memory)** - [Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age)<br/>
 > `4 ▶️` ∙ **[yall some broke boys](https://www.last.fm/music/Human+Part/_/yall+some+broke+boys)** - [Human Part](https://www.last.fm/music/Human+Part)<br/>
+> `4 ▶️` ∙ **[Narrow Down Concepts Force Meaning](https://www.last.fm/music/Lauren+Bousfield/_/Narrow+Down+Concepts+Force+Meaning)** - [Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)<br/>
 <!--END_LASTFM_TRACKS-->
