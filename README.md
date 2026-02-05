@@ -4,8 +4,8 @@
 > `12 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
 > `7 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
 > `6 ▶️` ∙ **[KOMPROMAT](https://www.last.fm/music/KOMPROMAT)**<br/>
+> `6 ▶️` ∙ **[SHVDE](https://www.last.fm/music/SHVDE)**<br/>
 > `5 ▶️` ∙ **[Red Snapper](https://www.last.fm/music/Red+Snapper)**<br/>
-> `5 ▶️` ∙ **[Solo Ansamblis](https://www.last.fm/music/Solo+Ansamblis)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
