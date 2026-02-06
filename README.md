@@ -3,9 +3,9 @@
 
 > `11 ▶️` ∙ **[Yakima Jera](https://www.last.fm/music/Yakima+Jera)**<br/>
 > `8 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
+> `7 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
 > `6 ▶️` ∙ **[KOMPROMAT](https://www.last.fm/music/KOMPROMAT)**<br/>
 > `6 ▶️` ∙ **[SHVDE](https://www.last.fm/music/SHVDE)**<br/>
-> `5 ▶️` ∙ **[Red Snapper](https://www.last.fm/music/Red+Snapper)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -21,9 +21,9 @@
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
+> `7 ▶️` ∙ **[.](https://www.last.fm/music/voice+message/_/%252E)** - [voice message](https://www.last.fm/music/voice+message)<br/>
 > `5 ▶️` ∙ **[yall some broke boys](https://www.last.fm/music/Human+Part/_/yall+some+broke+boys)** - [Human Part](https://www.last.fm/music/Human+Part)<br/>
 > `5 ▶️` ∙ **[End Wave](https://www.last.fm/music/Yakima+Jera/_/End+Wave)** - [Yakima Jera](https://www.last.fm/music/Yakima+Jera)<br/>
 > `4 ▶️` ∙ **[Blasphemic Church](https://www.last.fm/music/Yakima+Jera/_/Blasphemic+Church)** - [Yakima Jera](https://www.last.fm/music/Yakima+Jera)<br/>
-> `3 ▶️` ∙ **[I DRINK HER P1SS](https://www.last.fm/music/Human+Part/_/I+DRINK+HER+P1SS)** - [Human Part](https://www.last.fm/music/Human+Part)<br/>
-> `3 ▶️` ∙ **[I LET MYSELF GO BLIND](https://www.last.fm/music/KOMPROMAT/_/I+LET+MYSELF+GO+BLIND)** - [KOMPROMAT](https://www.last.fm/music/KOMPROMAT)<br/>
+> `3 ▶️` ∙ **[Saturday Night Special](https://www.last.fm/music/Fad+Gadget/_/Saturday+Night+Special)** - [Fad Gadget](https://www.last.fm/music/Fad+Gadget)<br/>
 <!--END_LASTFM_TRACKS-->
