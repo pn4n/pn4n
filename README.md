@@ -3,9 +3,9 @@
 
 > `13 ▶️` ∙ **[Yakima Jera](https://www.last.fm/music/Yakima+Jera)**<br/>
 > `11 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
-> `8 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
-> `7 ▶️` ∙ **[Vashti Bunyan](https://www.last.fm/music/Vashti+Bunyan)**<br/>
 > `6 ▶️` ∙ **[Computer Kill](https://www.last.fm/music/Computer+Kill)**<br/>
+> `6 ▶️` ∙ **[SHVDE](https://www.last.fm/music/SHVDE)**<br/>
+> `6 ▶️` ∙ **[Vashti Bunyan](https://www.last.fm/music/Vashti+Bunyan)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `7 ▶️` ∙ **[Azrael Take My Hand](https://www.last.fm/music/Yakima+Jera/Azrael+Take+My+Hand)** - [Yakima Jera](https://www.last.fm/music/Yakima+Jera)<br/>
 > `6 ▶️` ∙ **[Voices](https://www.last.fm/music/Computer+Kill/Voices)** - [Computer Kill](https://www.last.fm/music/Computer+Kill)<br/>
 > `6 ▶️` ∙ **[Capture](https://www.last.fm/music/Yakima+Jera/Capture)** - [Yakima Jera](https://www.last.fm/music/Yakima+Jera)<br/>
-> `5 ▶️` ∙ **[YALL SOME BROKE BOYS](https://www.last.fm/music/Human+Part/YALL+SOME+BROKE+BOYS)** - [Human Part](https://www.last.fm/music/Human+Part)<br/>
 > `5 ▶️` ∙ **[Yeezus](https://www.last.fm/music/Kanye+West/Yeezus)** - [Kanye West](https://www.last.fm/music/Kanye+West)<br/>
+> `4 ▶️` ∙ **[Deja Vu](https://www.last.fm/music/Crosby,+Stills,+Nash+&+Young/Deja+Vu)** - [Crosby, Stills, Nash & Young](https://www.last.fm/music/Crosby,+Stills,+Nash+&+Young)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `7 ▶️` ∙ **[.](https://www.last.fm/music/voice+message/_/%252E)** - [voice message](https://www.last.fm/music/voice+message)<br/>
 > `7 ▶️` ∙ **[End Wave](https://www.last.fm/music/Yakima+Jera/_/End+Wave)** - [Yakima Jera](https://www.last.fm/music/Yakima+Jera)<br/>
 > `6 ▶️` ∙ **[Voices](https://www.last.fm/music/Computer+Kill/_/Voices)** - [Computer Kill](https://www.last.fm/music/Computer+Kill)<br/>
-> `5 ▶️` ∙ **[yall some broke boys](https://www.last.fm/music/Human+Part/_/yall+some+broke+boys)** - [Human Part](https://www.last.fm/music/Human+Part)<br/>
 > `4 ▶️` ∙ **[I'd Like to Walk Around in Your Mind](https://www.last.fm/music/Vashti+Bunyan/_/I%27d+Like+to+Walk+Around+in+Your+Mind)** - [Vashti Bunyan](https://www.last.fm/music/Vashti+Bunyan)<br/>
+> `4 ▶️` ∙ **[Blasphemic Church](https://www.last.fm/music/Yakima+Jera/_/Blasphemic+Church)** - [Yakima Jera](https://www.last.fm/music/Yakima+Jera)<br/>
 <!--END_LASTFM_TRACKS-->
