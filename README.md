@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `13 ▶️` ∙ **[Yakima Jera](https://www.last.fm/music/Yakima+Jera)**<br/>
+> `11 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
 > `8 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
-> `8 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
-> `7 ▶️` ∙ **[Lauren Bousfield](https://www.last.fm/music/Lauren+Bousfield)**<br/>
 > `7 ▶️` ∙ **[Vashti Bunyan](https://www.last.fm/music/Vashti+Bunyan)**<br/>
+> `6 ▶️` ∙ **[Computer Kill](https://www.last.fm/music/Computer+Kill)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
