@@ -4,8 +4,8 @@
 > `13 ▶️` ∙ **[Yakima Jera](https://www.last.fm/music/Yakima+Jera)**<br/>
 > `12 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
 > `8 ▶️` ∙ **[Computer Kill](https://www.last.fm/music/Computer+Kill)**<br/>
+> `8 ▶️` ∙ **[New Candys](https://www.last.fm/music/New+Candys)**<br/>
 > `8 ▶️` ∙ **[Tristesse Contemporaine](https://www.last.fm/music/Tristesse+Contemporaine)**<br/>
-> `6 ▶️` ∙ **[SHVDE](https://www.last.fm/music/SHVDE)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
