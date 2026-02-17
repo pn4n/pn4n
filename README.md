@@ -14,8 +14,8 @@
 > `29 ▶️` ∙ **[The Most Dear and The Future](https://www.last.fm/music/ear/The+Most+Dear+and+The+Future)** - [ear](https://www.last.fm/music/ear)<br/>
 > `25 ▶️` ∙ **[Dancing Is Depressing (Expanded Edition)](https://www.last.fm/music/Attic+Abasement/Dancing+Is+Depressing+(Expanded+Edition))** - [Attic Abasement](https://www.last.fm/music/Attic+Abasement)<br/>
 > `13 ▶️` ∙ **[White Jesus/Black God](https://www.last.fm/music/Mumblr/White+Jesus%2FBlack+God)** - [Mumblr](https://www.last.fm/music/Mumblr)<br/>
-> `12 ▶️` ∙ **[Just Enough Hip To Be Woman](https://www.last.fm/music/Broncho/Just+Enough+Hip+To+Be+Woman)** - [Broncho](https://www.last.fm/music/Broncho)<br/>
 > `12 ▶️` ∙ **[Maxed Out On Distractions](https://www.last.fm/music/Corners/Maxed+Out+On+Distractions)** - [Corners](https://www.last.fm/music/Corners)<br/>
+> `11 ▶️` ∙ **[Esoteric](https://www.last.fm/music/Kiss+Facility/Esoteric)** - [Kiss Facility](https://www.last.fm/music/Kiss+Facility)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
