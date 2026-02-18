@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `43 ▶️` ∙ **[Mumblr](https://www.last.fm/music/Mumblr)**<br/>
-> `35 ▶️` ∙ **[ear](https://www.last.fm/music/ear)**<br/>
+> `41 ▶️` ∙ **[ear](https://www.last.fm/music/ear)**<br/>
 > `31 ▶️` ∙ **[Attic Abasement](https://www.last.fm/music/Attic+Abasement)**<br/>
 > `24 ▶️` ∙ **[Kiss Facility](https://www.last.fm/music/Kiss+Facility)**<br/>
 > `19 ▶️` ∙ **[Corners](https://www.last.fm/music/Corners)**<br/>
@@ -11,7 +11,7 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `29 ▶️` ∙ **[The Most Dear and The Future](https://www.last.fm/music/ear/The+Most+Dear+and+The+Future)** - [ear](https://www.last.fm/music/ear)<br/>
+> `35 ▶️` ∙ **[The Most Dear and The Future](https://www.last.fm/music/ear/The+Most+Dear+and+The+Future)** - [ear](https://www.last.fm/music/ear)<br/>
 > `25 ▶️` ∙ **[Dancing Is Depressing (Expanded Edition)](https://www.last.fm/music/Attic+Abasement/Dancing+Is+Depressing+(Expanded+Edition))** - [Attic Abasement](https://www.last.fm/music/Attic+Abasement)<br/>
 > `13 ▶️` ∙ **[White Jesus/Black God](https://www.last.fm/music/Mumblr/White+Jesus%2FBlack+God)** - [Mumblr](https://www.last.fm/music/Mumblr)<br/>
 > `10 ▶️` ∙ **[Esoteric](https://www.last.fm/music/Kiss+Facility/Esoteric)** - [Kiss Facility](https://www.last.fm/music/Kiss+Facility)<br/>
