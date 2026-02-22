@@ -3,8 +3,8 @@
 
 > `20 ▶️` ∙ **[µ-Ziq](https://www.last.fm/music/%C2%B5-Ziq)**<br/>
 > `19 ▶️` ∙ **[ear](https://www.last.fm/music/ear)**<br/>
-> `11 ▶️` ∙ **[Attic Abasement](https://www.last.fm/music/Attic+Abasement)**<br/>
 > `9 ▶️` ∙ **[Helen Sun](https://www.last.fm/music/Helen+Sun)**<br/>
+> `7 ▶️` ∙ **[Attic Abasement](https://www.last.fm/music/Attic+Abasement)**<br/>
 > `7 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -13,8 +13,8 @@
 
 > `16 ▶️` ∙ **[The Most Dear and The Future](https://www.last.fm/music/ear/The+Most+Dear+and+The+Future)** - [ear](https://www.last.fm/music/ear)<br/>
 > `11 ▶️` ∙ **[Royal Astronomy](https://www.last.fm/music/%C2%B5-Ziq/Royal+Astronomy)** - [µ-Ziq](https://www.last.fm/music/%C2%B5-Ziq)<br/>
-> `9 ▶️` ∙ **[Dancing Is Depressing (Expanded Edition)](https://www.last.fm/music/Attic+Abasement/Dancing+Is+Depressing+(Expanded+Edition))** - [Attic Abasement](https://www.last.fm/music/Attic+Abasement)<br/>
 > `9 ▶️` ∙ **[talk with your Teeth](https://www.last.fm/music/Helen+Sun/talk+with+your+Teeth)** - [Helen Sun](https://www.last.fm/music/Helen+Sun)<br/>
+> `6 ▶️` ∙ **[Dancing Is Depressing (Expanded Edition)](https://www.last.fm/music/Attic+Abasement/Dancing+Is+Depressing+(Expanded+Edition))** - [Attic Abasement](https://www.last.fm/music/Attic+Abasement)<br/>
 > `6 ▶️` ∙ **[Best of Deluxe Edition](https://www.last.fm/music/Bent/Best+of+Deluxe+Edition)** - [Bent](https://www.last.fm/music/Bent)<br/>
 <!--END_LASTFM_ALBUMS-->
 
@@ -23,7 +23,7 @@
 
 > `9 ▶️` ∙ **[Shiny kindness](https://www.last.fm/music/Helen+Sun/_/Shiny+kindness)** - [Helen Sun](https://www.last.fm/music/Helen+Sun)<br/>
 > `7 ▶️` ∙ **[56](https://www.last.fm/music/%C2%B5-Ziq/_/56)** - [µ-Ziq](https://www.last.fm/music/%C2%B5-Ziq)<br/>
-> `6 ▶️` ∙ **[A Werewolf](https://www.last.fm/music/Attic+Abasement/_/A+Werewolf)** - [Attic Abasement](https://www.last.fm/music/Attic+Abasement)<br/>
 > `6 ▶️` ∙ **[The Fade Out Line](https://www.last.fm/music/Phoebe+Killdeer/_/The+Fade+Out+Line)** - [Phoebe Killdeer](https://www.last.fm/music/Phoebe+Killdeer)<br/>
+> `4 ▶️` ∙ **[A Werewolf](https://www.last.fm/music/Attic+Abasement/_/A+Werewolf)** - [Attic Abasement](https://www.last.fm/music/Attic+Abasement)<br/>
 > `4 ▶️` ∙ **[Cumberland Gap](https://www.last.fm/music/David+Rawlings/_/Cumberland+Gap)** - [David Rawlings](https://www.last.fm/music/David+Rawlings)<br/>
 <!--END_LASTFM_TRACKS-->
