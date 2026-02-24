@@ -3,9 +3,9 @@
 
 > `21 ▶️` ∙ **[µ-Ziq](https://www.last.fm/music/%C2%B5-Ziq)**<br/>
 > `19 ▶️` ∙ **[ear](https://www.last.fm/music/ear)**<br/>
+> `18 ▶️` ∙ **[a-ha](https://www.last.fm/music/a-ha)**<br/>
+> `10 ▶️` ∙ **[Tears for Fears](https://www.last.fm/music/Tears+for+Fears)**<br/>
 > `9 ▶️` ∙ **[Helen Sun](https://www.last.fm/music/Helen+Sun)**<br/>
-> `9 ▶️` ∙ **[Tears for Fears](https://www.last.fm/music/Tears+for+Fears)**<br/>
-> `8 ▶️` ∙ **[VOGUE.NOIR](https://www.last.fm/music/VOGUE.NOIR)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `16 ▶️` ∙ **[The Most Dear and The Future](https://www.last.fm/music/ear/The+Most+Dear+and+The+Future)** - [ear](https://www.last.fm/music/ear)<br/>
 > `12 ▶️` ∙ **[Royal Astronomy](https://www.last.fm/music/%C2%B5-Ziq/Royal+Astronomy)** - [µ-Ziq](https://www.last.fm/music/%C2%B5-Ziq)<br/>
+> `9 ▶️` ∙ **[Scoundrel Days (Deluxe Edition)](https://www.last.fm/music/a-ha/Scoundrel+Days+(Deluxe+Edition))** - [a-ha](https://www.last.fm/music/a-ha)<br/>
 > `9 ▶️` ∙ **[talk with your Teeth](https://www.last.fm/music/Helen+Sun/talk+with+your+Teeth)** - [Helen Sun](https://www.last.fm/music/Helen+Sun)<br/>
 > `6 ▶️` ∙ **[Best of Deluxe Edition](https://www.last.fm/music/Bent/Best+of+Deluxe+Edition)** - [Bent](https://www.last.fm/music/Bent)<br/>
-> `6 ▶️` ∙ **[Lunatic Harness](https://www.last.fm/music/%C2%B5-Ziq/Lunatic+Harness)** - [µ-Ziq](https://www.last.fm/music/%C2%B5-Ziq)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
