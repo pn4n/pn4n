@@ -4,8 +4,8 @@
 > `21 ▶️` ∙ **[µ-Ziq](https://www.last.fm/music/%C2%B5-Ziq)**<br/>
 > `19 ▶️` ∙ **[ear](https://www.last.fm/music/ear)**<br/>
 > `9 ▶️` ∙ **[Helen Sun](https://www.last.fm/music/Helen+Sun)**<br/>
-> `7 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
-> `6 ▶️` ∙ **[Bent](https://www.last.fm/music/Bent)**<br/>
+> `9 ▶️` ∙ **[Tears for Fears](https://www.last.fm/music/Tears+for+Fears)**<br/>
+> `8 ▶️` ∙ **[VOGUE.NOIR](https://www.last.fm/music/VOGUE.NOIR)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `9 ▶️` ∙ **[Shiny kindness](https://www.last.fm/music/Helen+Sun/_/Shiny+kindness)** - [Helen Sun](https://www.last.fm/music/Helen+Sun)<br/>
 > `8 ▶️` ∙ **[56](https://www.last.fm/music/%C2%B5-Ziq/_/56)** - [µ-Ziq](https://www.last.fm/music/%C2%B5-Ziq)<br/>
 > `4 ▶️` ∙ **[Cumberland Gap](https://www.last.fm/music/David+Rawlings/_/Cumberland+Gap)** - [David Rawlings](https://www.last.fm/music/David+Rawlings)<br/>
+> `4 ▶️` ∙ **[HOT LOVE (BOY HARSHER REMIX)](https://www.last.fm/music/DEBBY+FRIDAY/_/HOT+LOVE+(BOY+HARSHER+REMIX))** - [DEBBY FRIDAY](https://www.last.fm/music/DEBBY+FRIDAY)<br/>
 > `4 ▶️` ∙ **[Another Space Song](https://www.last.fm/music/Failure/_/Another+Space+Song)** - [Failure](https://www.last.fm/music/Failure)<br/>
-> `4 ▶️` ∙ **[Sweet About Me](https://www.last.fm/music/Gabriella+Cilmi/_/Sweet+About+Me)** - [Gabriella Cilmi](https://www.last.fm/music/Gabriella+Cilmi)<br/>
 <!--END_LASTFM_TRACKS-->
