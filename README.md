@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `27 ▶️` ∙ **[Patch +](https://www.last.fm/music/Patch+%252B)**<br/>
-> `23 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
+> `21 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
 > `19 ▶️` ∙ **[Kumo 99](https://www.last.fm/music/Kumo+99)**<br/>
 > `17 ▶️` ∙ **[Ms* Gloom](https://www.last.fm/music/Ms*+Gloom)**<br/>
 > `14 ▶️` ∙ **[bassvictim](https://www.last.fm/music/bassvictim)**<br/>
