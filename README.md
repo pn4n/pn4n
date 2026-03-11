@@ -12,8 +12,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `33 ▶️` ∙ **[J is for Joon](https://www.last.fm/music/Ms*+Gloom/J+is+for+Joon)** - [Ms* Gloom](https://www.last.fm/music/Ms*+Gloom)<br/>
-> `16 ▶️` ∙ **[White Paper](https://www.last.fm/music/Patch+%252B/White+Paper)** - [Patch +](https://www.last.fm/music/Patch+%252B)<br/>
 > `15 ▶️` ∙ **[yes, please.](https://www.last.fm/music/Sextile/yes,+please.)** - [Sextile](https://www.last.fm/music/Sextile)<br/>
+> `12 ▶️` ∙ **[White Paper](https://www.last.fm/music/Patch+%252B/White+Paper)** - [Patch +](https://www.last.fm/music/Patch+%252B)<br/>
 > `11 ▶️` ∙ **[Headplate](https://www.last.fm/music/Kumo+99/Headplate)** - [Kumo 99](https://www.last.fm/music/Kumo+99)<br/>
 > `9 ▶️` ∙ **[Basspunk](https://www.last.fm/music/bassvictim/Basspunk)** - [bassvictim](https://www.last.fm/music/bassvictim)<br/>
 <!--END_LASTFM_ALBUMS-->
@@ -24,6 +24,6 @@
 > `20 ▶️` ∙ **[Something To Hold Onto - Harder](https://www.last.fm/music/Ms*+Gloom/_/Something+To+Hold+Onto+-+Harder)** - [Ms* Gloom](https://www.last.fm/music/Ms*+Gloom)<br/>
 > `10 ▶️` ∙ **[Kids](https://www.last.fm/music/Sextile/_/Kids)** - [Sextile](https://www.last.fm/music/Sextile)<br/>
 > `9 ▶️` ∙ **[Dopamine Chaser](https://www.last.fm/music/Kumo+99/_/Dopamine+Chaser)** - [Kumo 99](https://www.last.fm/music/Kumo+99)<br/>
-> `8 ▶️` ∙ **[blue is the color](https://www.last.fm/music/Requisit/_/blue+is+the+color)** - [Requisit](https://www.last.fm/music/Requisit)<br/>
 > `6 ▶️` ∙ **[H.A.L.](https://www.last.fm/music/Detachments/_/H.A.L.)** - [Detachments](https://www.last.fm/music/Detachments)<br/>
+> `6 ▶️` ∙ **[DRANKSMOKE (WHAT WE GONNA DO)](https://www.last.fm/music/Human+Part/_/DRANKSMOKE+(WHAT+WE+GONNA+DO))** - [Human Part](https://www.last.fm/music/Human+Part)<br/>
 <!--END_LASTFM_TRACKS-->
