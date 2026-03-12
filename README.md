@@ -3,9 +3,9 @@
 
 > `39 ▶️` ∙ **[Ms* Gloom](https://www.last.fm/music/Ms*+Gloom)**<br/>
 > `32 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
-> `24 ▶️` ∙ **[Kumo 99](https://www.last.fm/music/Kumo+99)**<br/>
-> `21 ▶️` ∙ **[bassvictim](https://www.last.fm/music/bassvictim)**<br/>
-> `20 ▶️` ∙ **[Sextile](https://www.last.fm/music/Sextile)**<br/>
+> `23 ▶️` ∙ **[Kumo 99](https://www.last.fm/music/Kumo+99)**<br/>
+> `19 ▶️` ∙ **[bassvictim](https://www.last.fm/music/bassvictim)**<br/>
+> `19 ▶️` ∙ **[Sextile](https://www.last.fm/music/Sextile)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
