@@ -1,11 +1,11 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `21 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
-> `7 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
-> `4 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion)**<br/>
+> `20 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
+> `5 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
 > `4 ▶️` ∙ **[MGMT](https://www.last.fm/music/MGMT)**<br/>
-> `3 ▶️` ∙ **[DoubleVirgo](https://www.last.fm/music/DoubleVirgo)**<br/>
+> `3 ▶️` ∙ **[John Maus](https://www.last.fm/music/John+Maus)**<br/>
+> `3 ▶️` ∙ **[Kids don't smoke](https://www.last.fm/music/Kids+don%27t+smoke)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
