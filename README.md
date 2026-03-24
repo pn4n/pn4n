@@ -5,7 +5,7 @@
 > `8 ▶️` ∙ **[Helen Sun](https://www.last.fm/music/Helen+Sun)**<br/>
 > `7 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
 > `5 ▶️` ∙ **[Kumo 99](https://www.last.fm/music/Kumo+99)**<br/>
-> `4 ▶️` ∙ **[Ms* Gloom](https://www.last.fm/music/Ms*+Gloom)**<br/>
+> `4 ▶️` ∙ **[Little Nemo](https://www.last.fm/music/Little+Nemo)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
