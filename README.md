@@ -4,8 +4,8 @@
 > `11 ▶️` ∙ **[Patch +](https://www.last.fm/music/Patch+%252B)**<br/>
 > `8 ▶️` ∙ **[Helen Sun](https://www.last.fm/music/Helen+Sun)**<br/>
 > `7 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
+> `6 ▶️` ∙ **[O. Children](https://www.last.fm/music/O.+Children)**<br/>
 > `5 ▶️` ∙ **[Kumo 99](https://www.last.fm/music/Kumo+99)**<br/>
-> `4 ▶️` ∙ **[Little Nemo](https://www.last.fm/music/Little+Nemo)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `9 ▶️` ∙ **[White Paper](https://www.last.fm/music/Patch+%252B/White+Paper)** - [Patch +](https://www.last.fm/music/Patch+%252B)<br/>
 > `7 ▶️` ∙ **[talk with your Teeth](https://www.last.fm/music/Helen+Sun/talk+with+your+Teeth)** - [Helen Sun](https://www.last.fm/music/Helen+Sun)<br/>
 > `4 ▶️` ∙ **[J is for Joon](https://www.last.fm/music/Ms*+Gloom/J+is+for+Joon)** - [Ms* Gloom](https://www.last.fm/music/Ms*+Gloom)<br/>
+> `4 ▶️` ∙ **[Apnea](https://www.last.fm/music/O.+Children/Apnea)** - [O. Children](https://www.last.fm/music/O.+Children)<br/>
 > `3 ▶️` ∙ **[Peace](https://www.last.fm/music/Anything+Box/Peace)** - [Anything Box](https://www.last.fm/music/Anything+Box)<br/>
-> `3 ▶️` ∙ **[Dancing Is Depressing (Expanded Edition)](https://www.last.fm/music/Attic+Abasement/Dancing+Is+Depressing+(Expanded+Edition))** - [Attic Abasement](https://www.last.fm/music/Attic+Abasement)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
