@@ -5,7 +5,7 @@
 > `12 ▶️` ∙ **[Helen Sun](https://www.last.fm/music/Helen+Sun)**<br/>
 > `12 ▶️` ∙ **[Patch +](https://www.last.fm/music/Patch+%252B)**<br/>
 > `10 ▶️` ∙ **[O. Children](https://www.last.fm/music/O.+Children)**<br/>
-> `7 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
+> `8 ▶️` ∙ **[Kumo 99](https://www.last.fm/music/Kumo+99)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
