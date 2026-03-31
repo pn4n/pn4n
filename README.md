@@ -5,7 +5,7 @@
 > `15 ▶️` ∙ **[Ms* Gloom](https://www.last.fm/music/Ms*+Gloom)**<br/>
 > `14 ▶️` ∙ **[Maysev](https://www.last.fm/music/Maysev)**<br/>
 > `10 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
-> `9 ▶️` ∙ **[O. Children](https://www.last.fm/music/O.+Children)**<br/>
+> `8 ▶️` ∙ **[O. Children](https://www.last.fm/music/O.+Children)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `15 ▶️` ∙ **[Toxe2](https://www.last.fm/music/Toxe/Toxe2)** - [Toxe](https://www.last.fm/music/Toxe)<br/>
 > `14 ▶️` ∙ **[Hass EP](https://www.last.fm/music/Maysev/Hass+EP)** - [Maysev](https://www.last.fm/music/Maysev)<br/>
 > `9 ▶️` ∙ **[Tracey Denim](https://www.last.fm/music/Bar+Italia/Tracey+Denim)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
-> `6 ▶️` ∙ **[Drifting Deeper](https://www.last.fm/music/16+Underground/Drifting+Deeper)** - [16 Underground](https://www.last.fm/music/16+Underground)<br/>
+> `7 ▶️` ∙ **[That We Can Play](https://www.last.fm/music/Games/That+We+Can+Play)** - [Games](https://www.last.fm/music/Games)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `10 ▶️` ∙ **[Pillow Fight](https://www.last.fm/music/Toxe/_/Pillow+Fight)** - [Toxe](https://www.last.fm/music/Toxe)<br/>
 > `9 ▶️` ∙ **[Guard](https://www.last.fm/music/Bar+Italia/_/Guard)** - [Bar Italia](https://www.last.fm/music/Bar+Italia)<br/>
 > `8 ▶️` ∙ **[Joker](https://www.last.fm/music/Ms*+Gloom/_/Joker)** - [Ms* Gloom](https://www.last.fm/music/Ms*+Gloom)<br/>
-> `6 ▶️` ∙ **[Chasing a Comfort](https://www.last.fm/music/16+Underground/_/Chasing+a+Comfort)** - [16 Underground](https://www.last.fm/music/16+Underground)<br/>
+> `7 ▶️` ∙ **[Strawberry Skies](https://www.last.fm/music/Games/_/Strawberry+Skies)** - [Games](https://www.last.fm/music/Games)<br/>
 <!--END_LASTFM_TRACKS-->
