@@ -4,8 +4,8 @@
 > `16 ▶️` ∙ **[Toxe](https://www.last.fm/music/Toxe)**<br/>
 > `15 ▶️` ∙ **[Ms* Gloom](https://www.last.fm/music/Ms*+Gloom)**<br/>
 > `14 ▶️` ∙ **[Maysev](https://www.last.fm/music/Maysev)**<br/>
-> `11 ▶️` ∙ **[O. Children](https://www.last.fm/music/O.+Children)**<br/>
 > `10 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
+> `9 ▶️` ∙ **[O. Children](https://www.last.fm/music/O.+Children)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
