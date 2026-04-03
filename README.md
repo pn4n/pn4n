@@ -15,7 +15,7 @@
 > `10 ▶️` ∙ **[Babylon By Car](https://www.last.fm/music/Bot%27Ox/Babylon+By+Car)** - [Bot'Ox](https://www.last.fm/music/Bot%27Ox)<br/>
 > `9 ▶️` ∙ **[That We Can Play](https://www.last.fm/music/Games/That+We+Can+Play)** - [Games](https://www.last.fm/music/Games)<br/>
 > `7 ▶️` ∙ **[Drifting Deeper](https://www.last.fm/music/16+Underground/Drifting+Deeper)** - [16 Underground](https://www.last.fm/music/16+Underground)<br/>
-> `7 ▶️` ∙ **[Hass EP](https://www.last.fm/music/Maysev/Hass+EP)** - [Maysev](https://www.last.fm/music/Maysev)<br/>
+> `6 ▶️` ∙ **[Remote Control](https://www.last.fm/music/Discovery+Zone/Remote+Control)** - [Discovery Zone](https://www.last.fm/music/Discovery+Zone)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `10 ▶️` ∙ **[Blue Steel](https://www.last.fm/music/Bot%27Ox,+Anna+Jean/_/Blue+Steel)** - [Bot'Ox, Anna Jean](https://www.last.fm/music/Bot%27Ox,+Anna+Jean)<br/>
 > `9 ▶️` ∙ **[Strawberry Skies](https://www.last.fm/music/Games/_/Strawberry+Skies)** - [Games](https://www.last.fm/music/Games)<br/>
 > `7 ▶️` ∙ **[Chasing a Comfort](https://www.last.fm/music/16+Underground/_/Chasing+a+Comfort)** - [16 Underground](https://www.last.fm/music/16+Underground)<br/>
-> `7 ▶️` ∙ **[Five.One](https://www.last.fm/music/Maysev/_/Five.One)** - [Maysev](https://www.last.fm/music/Maysev)<br/>
+> `5 ▶️` ∙ **[Dark Allies](https://www.last.fm/music/Light+Asylum/_/Dark+Allies)** - [Light Asylum](https://www.last.fm/music/Light+Asylum)<br/>
 <!--END_LASTFM_TRACKS-->
