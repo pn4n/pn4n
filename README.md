@@ -25,5 +25,5 @@
 > `5 ▶️` ∙ **[Blue Steel](https://www.last.fm/music/Bot%27Ox,+Anna+Jean/_/Blue+Steel)** - [Bot'Ox, Anna Jean](https://www.last.fm/music/Bot%27Ox,+Anna+Jean)<br/>
 > `5 ▶️` ∙ **[Strawberry Skies](https://www.last.fm/music/Games/_/Strawberry+Skies)** - [Games](https://www.last.fm/music/Games)<br/>
 > `2 ▶️` ∙ **[Push & Pull](https://www.last.fm/music/A+Good+Year,+Helena+Gao/_/Push+&+Pull)** - [A Good Year, Helena Gao](https://www.last.fm/music/A+Good+Year,+Helena+Gao)<br/>
-> `2 ▶️` ∙ **[Glue Your Eyelids Together](https://www.last.fm/music/ADULT./_/Glue+Your+Eyelids+Together)** - [ADULT.](https://www.last.fm/music/ADULT.)<br/>
+> `2 ▶️` ∙ **[Starblood](https://www.last.fm/music/Cranes/_/Starblood)** - [Cranes](https://www.last.fm/music/Cranes)<br/>
 <!--END_LASTFM_TRACKS-->
