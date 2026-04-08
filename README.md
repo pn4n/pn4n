@@ -3,9 +3,9 @@
 
 > `27 ▶️` ∙ **[Games](https://www.last.fm/music/Games)**<br/>
 > `14 ▶️` ∙ **[Ashrae Fax](https://www.last.fm/music/Ashrae+Fax)**<br/>
+> `13 ▶️` ∙ **[Prince Innocence](https://www.last.fm/music/Prince+Innocence)**<br/>
 > `12 ▶️` ∙ **[The Lewers](https://www.last.fm/music/The+Lewers)**<br/>
-> `11 ▶️` ∙ **[Prince Innocence](https://www.last.fm/music/Prince+Innocence)**<br/>
-> `10 ▶️` ∙ **[Felix Lee, Ecco2k](https://www.last.fm/music/Felix+Lee,+Ecco2k)**<br/>
+> `11 ▶️` ∙ **[Psychic Twin](https://www.last.fm/music/Psychic+Twin)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `25 ▶️` ∙ **[That We Can Play](https://www.last.fm/music/Games/That+We+Can+Play)** - [Games](https://www.last.fm/music/Games)<br/>
 > `12 ▶️` ∙ **[518A](https://www.last.fm/music/The+Lewers/518A)** - [The Lewers](https://www.last.fm/music/The+Lewers)<br/>
 > `11 ▶️` ∙ **[Never Really Been Into It](https://www.last.fm/music/Ashrae+Fax/Never+Really+Been+Into+It)** - [Ashrae Fax](https://www.last.fm/music/Ashrae+Fax)<br/>
+> `11 ▶️` ∙ **[Strange Diary](https://www.last.fm/music/Psychic+Twin/Strange+Diary)** - [Psychic Twin](https://www.last.fm/music/Psychic+Twin)<br/>
 > `10 ▶️` ∙ **[Skullstepper](https://www.last.fm/music/Felix+Lee/Skullstepper)** - [Felix Lee](https://www.last.fm/music/Felix+Lee)<br/>
-> `10 ▶️` ∙ **[Strange Diary](https://www.last.fm/music/Psychic+Twin/Strange+Diary)** - [Psychic Twin](https://www.last.fm/music/Psychic+Twin)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
