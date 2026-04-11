@@ -5,7 +5,7 @@
 > `19 ▶️` ∙ **[Порез на Собаке](https://www.last.fm/music/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7+%D0%BD%D0%B0+%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B5)**<br/>
 > `15 ▶️` ∙ **[Ashrae Fax](https://www.last.fm/music/Ashrae+Fax)**<br/>
 > `15 ▶️` ∙ **[Prince Innocence](https://www.last.fm/music/Prince+Innocence)**<br/>
-> `12 ▶️` ∙ **[The Lewers](https://www.last.fm/music/The+Lewers)**<br/>
+> `12 ▶️` ∙ **[Fever Ray](https://www.last.fm/music/Fever+Ray)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `17 ▶️` ∙ **[Strawberry Skies](https://www.last.fm/music/Games/_/Strawberry+Skies)** - [Games](https://www.last.fm/music/Games)<br/>
 > `11 ▶️` ∙ **[And The Parasite Speaks](https://www.last.fm/music/Felix+Lee,+Ecco2k/_/And+The+Parasite+Speaks)** - [Felix Lee, Ecco2k](https://www.last.fm/music/Felix+Lee,+Ecco2k)<br/>
 > `8 ▶️` ∙ **[The Vampyre of Time and Memory](https://www.last.fm/music/Queens+of+the+Stone+Age/_/The+Vampyre+of+Time+and+Memory)** - [Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age)<br/>
+> `7 ▶️` ∙ **[Mama's Hand](https://www.last.fm/music/Fever+Ray/_/Mama%27s+Hand)** - [Fever Ray](https://www.last.fm/music/Fever+Ray)<br/>
 > `7 ▶️` ∙ **[Girls](https://www.last.fm/music/Prince+Innocence/_/Girls)** - [Prince Innocence](https://www.last.fm/music/Prince+Innocence)<br/>
-> `7 ▶️` ∙ **[Pastoral](https://www.last.fm/music/The+Lewers/_/Pastoral)** - [The Lewers](https://www.last.fm/music/The+Lewers)<br/>
 <!--END_LASTFM_TRACKS-->
