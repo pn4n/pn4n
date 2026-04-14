@@ -15,7 +15,7 @@
 > `12 ▶️` ∙ **[GOODBYE SALÒ](https://www.last.fm/music/Brutalismus+3000/GOODBYE+SAL%C3%92)** - [Brutalismus 3000](https://www.last.fm/music/Brutalismus+3000)<br/>
 > `11 ▶️` ∙ **[Never Really Been Into It](https://www.last.fm/music/Ashrae+Fax/Never+Really+Been+Into+It)** - [Ashrae Fax](https://www.last.fm/music/Ashrae+Fax)<br/>
 > `11 ▶️` ∙ **[Lapse - EP](https://www.last.fm/music/Prince+Innocence/Lapse+-+EP)** - [Prince Innocence](https://www.last.fm/music/Prince+Innocence)<br/>
-> `11 ▶️` ∙ **[Strange Diary](https://www.last.fm/music/Psychic+Twin/Strange+Diary)** - [Psychic Twin](https://www.last.fm/music/Psychic+Twin)<br/>
+> `10 ▶️` ∙ **[Plunge](https://www.last.fm/music/Fever+Ray/Plunge)** - [Fever Ray](https://www.last.fm/music/Fever+Ray)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
