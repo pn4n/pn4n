@@ -5,7 +5,7 @@
 > `14 ▶️` ∙ **[Brutalismus 3000](https://www.last.fm/music/Brutalismus+3000)**<br/>
 > `12 ▶️` ∙ **[Fever Ray](https://www.last.fm/music/Fever+Ray)**<br/>
 > `9 ▶️` ∙ **[DIIV](https://www.last.fm/music/DIIV)**<br/>
-> `9 ▶️` ∙ **[Flawed Mangoes](https://www.last.fm/music/Flawed+Mangoes)**<br/>
+> `8 ▶️` ∙ **[Kontravoid](https://www.last.fm/music/Kontravoid)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `10 ▶️` ∙ **[Mama's Hand](https://www.last.fm/music/Fever+Ray/_/Mama%27s+Hand)** - [Fever Ray](https://www.last.fm/music/Fever+Ray)<br/>
 > `8 ▶️` ∙ **[Too Deep](https://www.last.fm/music/Kontravoid/_/Too+Deep)** - [Kontravoid](https://www.last.fm/music/Kontravoid)<br/>
 > `5 ▶️` ∙ **[Fading Away](https://www.last.fm/music/Echoberyl/_/Fading+Away)** - [Echoberyl](https://www.last.fm/music/Echoberyl)<br/>
-> `4 ▶️` ∙ **[Surreal](https://www.last.fm/music/Flawed+Mangoes/_/Surreal)** - [Flawed Mangoes](https://www.last.fm/music/Flawed+Mangoes)<br/>
+> `4 ▶️` ∙ **[Girls](https://www.last.fm/music/Prince+Innocence/_/Girls)** - [Prince Innocence](https://www.last.fm/music/Prince+Innocence)<br/>
 <!--END_LASTFM_TRACKS-->
