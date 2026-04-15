@@ -13,8 +13,8 @@
 
 > `12 ▶️` ∙ **[GOODBYE SALÒ](https://www.last.fm/music/Brutalismus+3000/GOODBYE+SAL%C3%92)** - [Brutalismus 3000](https://www.last.fm/music/Brutalismus+3000)<br/>
 > `10 ▶️` ∙ **[Plunge](https://www.last.fm/music/Fever+Ray/Plunge)** - [Fever Ray](https://www.last.fm/music/Fever+Ray)<br/>
-> `8 ▶️` ∙ **[That We Can Play](https://www.last.fm/music/Games/That+We+Can+Play)** - [Games](https://www.last.fm/music/Games)<br/>
 > `8 ▶️` ∙ **[Too Deep](https://www.last.fm/music/Kontravoid/Too+Deep)** - [Kontravoid](https://www.last.fm/music/Kontravoid)<br/>
+> `7 ▶️` ∙ **[That We Can Play](https://www.last.fm/music/Games/That+We+Can+Play)** - [Games](https://www.last.fm/music/Games)<br/>
 > `7 ▶️` ∙ **[Предъявы Сверху](https://www.last.fm/music/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7+%D0%BD%D0%B0+%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B5/%D0%9F%D1%80%D0%B5%D0%B4%D1%8A%D1%8F%D0%B2%D1%8B+%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%83)** - [Порез на Собаке](https://www.last.fm/music/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7+%D0%BD%D0%B0+%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B5)<br/>
 <!--END_LASTFM_ALBUMS-->
 
@@ -24,6 +24,6 @@
 > `12 ▶️` ∙ **[Europaträume](https://www.last.fm/music/Brutalismus+3000/_/Europatr%C3%A4ume)** - [Brutalismus 3000](https://www.last.fm/music/Brutalismus+3000)<br/>
 > `10 ▶️` ∙ **[Mama's Hand](https://www.last.fm/music/Fever+Ray/_/Mama%27s+Hand)** - [Fever Ray](https://www.last.fm/music/Fever+Ray)<br/>
 > `8 ▶️` ∙ **[Too Deep](https://www.last.fm/music/Kontravoid/_/Too+Deep)** - [Kontravoid](https://www.last.fm/music/Kontravoid)<br/>
-> `6 ▶️` ∙ **[Strawberry Skies](https://www.last.fm/music/Games/_/Strawberry+Skies)** - [Games](https://www.last.fm/music/Games)<br/>
 > `5 ▶️` ∙ **[Fading Away](https://www.last.fm/music/Echoberyl/_/Fading+Away)** - [Echoberyl](https://www.last.fm/music/Echoberyl)<br/>
+> `5 ▶️` ∙ **[Strawberry Skies](https://www.last.fm/music/Games/_/Strawberry+Skies)** - [Games](https://www.last.fm/music/Games)<br/>
 <!--END_LASTFM_TRACKS-->
