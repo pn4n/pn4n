@@ -14,8 +14,8 @@
 > `12 ▶️` ∙ **[GOODBYE SALÒ](https://www.last.fm/music/Brutalismus+3000/GOODBYE+SAL%C3%92)** - [Brutalismus 3000](https://www.last.fm/music/Brutalismus+3000)<br/>
 > `8 ▶️` ∙ **[Too Deep](https://www.last.fm/music/Kontravoid/Too+Deep)** - [Kontravoid](https://www.last.fm/music/Kontravoid)<br/>
 > `6 ▶️` ∙ **[Plunge](https://www.last.fm/music/Fever+Ray/Plunge)** - [Fever Ray](https://www.last.fm/music/Fever+Ray)<br/>
-> `5 ▶️` ∙ **[Red Exposure (Bonus Track Version)](https://www.last.fm/music/Chrome/Red+Exposure+(Bonus+Track+Version))** - [Chrome](https://www.last.fm/music/Chrome)<br/>
 > `4 ▶️` ∙ **[Through the Chaos](https://www.last.fm/music/Echoberyl/Through+the+Chaos)** - [Echoberyl](https://www.last.fm/music/Echoberyl)<br/>
+> `4 ▶️` ∙ **[That We Can Play](https://www.last.fm/music/Games/That+We+Can+Play)** - [Games](https://www.last.fm/music/Games)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
