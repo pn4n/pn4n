@@ -25,5 +25,5 @@
 > `7 ▶️` ∙ **[Strawberry Skies](https://www.last.fm/music/Games/_/Strawberry+Skies)** - [Games](https://www.last.fm/music/Games)<br/>
 > `5 ▶️` ∙ **[Europaträume](https://www.last.fm/music/Brutalismus+3000/_/Europatr%C3%A4ume)** - [Brutalismus 3000](https://www.last.fm/music/Brutalismus+3000)<br/>
 > `5 ▶️` ∙ **[Enter Laughing](https://www.last.fm/music/Electrelane/_/Enter+Laughing)** - [Electrelane](https://www.last.fm/music/Electrelane)<br/>
-> `5 ▶️` ∙ **[Катарсис](https://www.last.fm/music/%D0%9F%D1%82%D0%B8%D1%86%D1%83+%D0%95%D0%BC%D1%8A/_/%D0%9A%D0%B0%D1%82%D0%B0%D1%80%D1%81%D0%B8%D1%81)** - [Птицу Емъ](https://www.last.fm/music/%D0%9F%D1%82%D0%B8%D1%86%D1%83+%D0%95%D0%BC%D1%8A)<br/>
+> `5 ▶️` ∙ **[Rent](https://www.last.fm/music/Pet+Shop+Boys/_/Rent)** - [Pet Shop Boys](https://www.last.fm/music/Pet+Shop+Boys)<br/>
 <!--END_LASTFM_TRACKS-->
