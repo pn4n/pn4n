@@ -3,9 +3,9 @@
 
 > `57 ▶️` ∙ **[Kate Bush](https://www.last.fm/music/Kate+Bush)**<br/>
 > `35 ▶️` ∙ **[girl_irl](https://www.last.fm/music/girl_irl)**<br/>
-> `25 ▶️` ∙ **[Elliott Smith](https://www.last.fm/music/Elliott+Smith)**<br/>
+> `27 ▶️` ∙ **[Elliott Smith](https://www.last.fm/music/Elliott+Smith)**<br/>
+> `25 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `24 ▶️` ∙ **[Heatmiser](https://www.last.fm/music/Heatmiser)**<br/>
-> `23 ▶️` ∙ **[bbpue](https://www.last.fm/music/bbpue)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `32 ▶️` ∙ **[(re) introduction](https://www.last.fm/music/girl_irl/(re)+introduction)** - [girl_irl](https://www.last.fm/music/girl_irl)<br/>
 > `21 ▶️` ∙ **[bbpue](https://www.last.fm/music/bbpue/bbpue)** - [bbpue](https://www.last.fm/music/bbpue)<br/>
+> `21 ▶️` ∙ **[The Argument](https://www.last.fm/music/Fugazi/The+Argument)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `20 ▶️` ∙ **[Haunts](https://www.last.fm/music/German+Error+Message/Haunts)** - [German Error Message](https://www.last.fm/music/German+Error+Message)<br/>
 > `20 ▶️` ∙ **[Mic City Sons](https://www.last.fm/music/Heatmiser/Mic+City+Sons)** - [Heatmiser](https://www.last.fm/music/Heatmiser)<br/>
-> `19 ▶️` ∙ **[The Argument](https://www.last.fm/music/Fugazi/The+Argument)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
