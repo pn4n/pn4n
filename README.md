@@ -23,7 +23,7 @@
 
 > `18 ▶️` ∙ **[A Lingering](https://www.last.fm/music/German+Error+Message/_/A+Lingering)** - [German Error Message](https://www.last.fm/music/German+Error+Message)<br/>
 > `16 ▶️` ∙ **[buzz](https://www.last.fm/music/girl_irl/_/buzz)** - [girl_irl](https://www.last.fm/music/girl_irl)<br/>
-> `13 ▶️` ∙ **[Rent](https://www.last.fm/music/Pet+Shop+Boys/_/Rent)** - [Pet Shop Boys](https://www.last.fm/music/Pet+Shop+Boys)<br/>
 > `12 ▶️` ∙ **[Good Girl](https://www.last.fm/music/S.Maharba/_/Good+Girl)** - [S.Maharba](https://www.last.fm/music/S.Maharba)<br/>
 > `10 ▶️` ∙ **[King's Crossing](https://www.last.fm/music/Elliott+Smith/_/King%27s+Crossing)** - [Elliott Smith](https://www.last.fm/music/Elliott+Smith)<br/>
+> `10 ▶️` ∙ **[lock](https://www.last.fm/music/girl_irl/_/lock)** - [girl_irl](https://www.last.fm/music/girl_irl)<br/>
 <!--END_LASTFM_TRACKS-->
