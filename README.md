@@ -3,9 +3,9 @@
 
 > `24 ▶️` ∙ **[meat computer](https://www.last.fm/music/meat+computer)**<br/>
 > `23 ▶️` ∙ **[Mumblr](https://www.last.fm/music/Mumblr)**<br/>
+> `21 ▶️` ∙ **[FREE.99](https://www.last.fm/music/FREE.99)**<br/>
 > `20 ▶️` ∙ **[Garett Caramel](https://www.last.fm/music/Garett+Caramel)**<br/>
 > `20 ▶️` ∙ **[Klangkuenstler](https://www.last.fm/music/Klangkuenstler)**<br/>
-> `17 ▶️` ∙ **[brothel in belize](https://www.last.fm/music/brothel+in+belize)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `18 ▶️` ∙ **[Breeze](https://www.last.fm/music/Garett+Caramel/Breeze)** - [Garett Caramel](https://www.last.fm/music/Garett+Caramel)<br/>
 > `16 ▶️` ∙ **[SWEAT](https://www.last.fm/music/Jett+Mucicca/SWEAT)** - [Jett Mucicca](https://www.last.fm/music/Jett+Mucicca)<br/>
 > `16 ▶️` ∙ **[Wirehair](https://www.last.fm/music/Sacred+holes/Wirehair)** - [Sacred holes](https://www.last.fm/music/Sacred+holes)<br/>
-> `15 ▶️` ∙ **[(re) introduction](https://www.last.fm/music/girl_irl/(re)+introduction)** - [girl_irl](https://www.last.fm/music/girl_irl)<br/>
+> `15 ▶️` ∙ **[New Moon](https://www.last.fm/music/Reverie/New+Moon)** - [Reverie](https://www.last.fm/music/Reverie)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
