@@ -13,9 +13,9 @@
 
 > `20 ▶️` ∙ **[Toter Schmetterling](https://www.last.fm/music/Klangkuenstler/Toter+Schmetterling)** - [Klangkuenstler](https://www.last.fm/music/Klangkuenstler)<br/>
 > `18 ▶️` ∙ **[Breeze](https://www.last.fm/music/Garett+Caramel/Breeze)** - [Garett Caramel](https://www.last.fm/music/Garett+Caramel)<br/>
+> `16 ▶️` ∙ **[The Most Dear and The Future](https://www.last.fm/music/ear/The+Most+Dear+and+The+Future)** - [ear](https://www.last.fm/music/ear)<br/>
 > `16 ▶️` ∙ **[SWEAT](https://www.last.fm/music/Jett+Mucicca/SWEAT)** - [Jett Mucicca](https://www.last.fm/music/Jett+Mucicca)<br/>
 > `16 ▶️` ∙ **[Wirehair](https://www.last.fm/music/Sacred+holes/Wirehair)** - [Sacred holes](https://www.last.fm/music/Sacred+holes)<br/>
-> `15 ▶️` ∙ **[The Most Dear and The Future](https://www.last.fm/music/ear/The+Most+Dear+and+The+Future)** - [ear](https://www.last.fm/music/ear)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
