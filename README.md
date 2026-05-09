@@ -5,7 +5,7 @@
 > `31 ▶️` ∙ **[FREE.99](https://www.last.fm/music/FREE.99)**<br/>
 > `22 ▶️` ∙ **[Garett Caramel](https://www.last.fm/music/Garett+Caramel)**<br/>
 > `19 ▶️` ∙ **[Jett Mucicca](https://www.last.fm/music/Jett+Mucicca)**<br/>
-> `19 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
+> `17 ▶️` ∙ **[Reverie](https://www.last.fm/music/Reverie)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `21 ▶️` ∙ **[Burning](https://www.last.fm/music/Sacred+holes/_/Burning)** - [Sacred holes](https://www.last.fm/music/Sacred+holes)<br/>
 > `20 ▶️` ∙ **[Cities n' Dust](https://www.last.fm/music/Garett+Caramel/_/Cities+n%27+Dust)** - [Garett Caramel](https://www.last.fm/music/Garett+Caramel)<br/>
 > `19 ▶️` ∙ **[SWEAT](https://www.last.fm/music/Jett+Mucicca/_/SWEAT)** - [Jett Mucicca](https://www.last.fm/music/Jett+Mucicca)<br/>
-> `17 ▶️` ∙ **[.](https://www.last.fm/music/voice+message/_/%252E)** - [voice message](https://www.last.fm/music/voice+message)<br/>
 > `15 ▶️` ∙ **[Blood Moon](https://www.last.fm/music/Reverie/_/Blood+Moon)** - [Reverie](https://www.last.fm/music/Reverie)<br/>
+> `15 ▶️` ∙ **[.](https://www.last.fm/music/voice+message/_/%252E)** - [voice message](https://www.last.fm/music/voice+message)<br/>
 <!--END_LASTFM_TRACKS-->
