@@ -5,7 +5,7 @@
 > `10 ▶️` ∙ **[Amon Tobin](https://www.last.fm/music/Amon+Tobin)**<br/>
 > `7 ▶️` ∙ **[Oasis](https://www.last.fm/music/Oasis)**<br/>
 > `6 ▶️` ∙ **[Talking Heads](https://www.last.fm/music/Talking+Heads)**<br/>
-> `5 ▶️` ∙ **[Kumo 99](https://www.last.fm/music/Kumo+99)**<br/>
+> `5 ▶️` ∙ **[Elliott Smith](https://www.last.fm/music/Elliott+Smith)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,7 +14,7 @@
 > `22 ▶️` ∙ **[Wirehair](https://www.last.fm/music/Sacred+holes/Wirehair)** - [Sacred holes](https://www.last.fm/music/Sacred+holes)<br/>
 > `10 ▶️` ∙ **[Foley Room](https://www.last.fm/music/Amon+Tobin/Foley+Room)** - [Amon Tobin](https://www.last.fm/music/Amon+Tobin)<br/>
 > `6 ▶️` ∙ **[Remain In Light (Deluxe Version)](https://www.last.fm/music/Talking+Heads/Remain+In+Light+(Deluxe+Version))** - [Talking Heads](https://www.last.fm/music/Talking+Heads)<br/>
-> `4 ▶️` ∙ **[From a Basement on the Hill](https://www.last.fm/music/Elliott+Smith/From+a+Basement+on+the+Hill)** - [Elliott Smith](https://www.last.fm/music/Elliott+Smith)<br/>
+> `5 ▶️` ∙ **[From a Basement on the Hill](https://www.last.fm/music/Elliott+Smith/From+a+Basement+on+the+Hill)** - [Elliott Smith](https://www.last.fm/music/Elliott+Smith)<br/>
 > `4 ▶️` ∙ **[chrome is lullaby: re](https://www.last.fm/music/Her+New+Knife/chrome+is+lullaby:+re)** - [Her New Knife](https://www.last.fm/music/Her+New+Knife)<br/>
 <!--END_LASTFM_ALBUMS-->
 
