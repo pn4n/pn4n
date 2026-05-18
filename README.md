@@ -4,8 +4,8 @@
 > `16 ▶️` ∙ **[Sacred holes](https://www.last.fm/music/Sacred+holes)**<br/>
 > `10 ▶️` ∙ **[Amon Tobin](https://www.last.fm/music/Amon+Tobin)**<br/>
 > `7 ▶️` ∙ **[Oasis](https://www.last.fm/music/Oasis)**<br/>
+> `6 ▶️` ∙ **[Caribou](https://www.last.fm/music/Caribou)**<br/>
 > `6 ▶️` ∙ **[Talking Heads](https://www.last.fm/music/Talking+Heads)**<br/>
-> `5 ▶️` ∙ **[Caribou](https://www.last.fm/music/Caribou)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
