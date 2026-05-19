@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `22 ▶️` ∙ **[Sacred holes](https://www.last.fm/music/Sacred+holes)**<br/>
-> `10 ▶️` ∙ **[Amon Tobin](https://www.last.fm/music/Amon+Tobin)**<br/>
+> `11 ▶️` ∙ **[Amon Tobin](https://www.last.fm/music/Amon+Tobin)**<br/>
 > `8 ▶️` ∙ **[Kumo 99](https://www.last.fm/music/Kumo+99)**<br/>
 > `7 ▶️` ∙ **[Caribou](https://www.last.fm/music/Caribou)**<br/>
 > `7 ▶️` ∙ **[Oasis](https://www.last.fm/music/Oasis)**<br/>
