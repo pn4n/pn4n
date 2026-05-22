@@ -5,7 +5,7 @@
 > `17 ▶️` ∙ **[Sacred holes](https://www.last.fm/music/Sacred+holes)**<br/>
 > `12 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
 > `9 ▶️` ∙ **[Soft Cell](https://www.last.fm/music/Soft+Cell)**<br/>
-> `7 ▶️` ∙ **[Caribou](https://www.last.fm/music/Caribou)**<br/>
+> `8 ▶️` ∙ **[Mindless Self Indulgence](https://www.last.fm/music/Mindless+Self+Indulgence)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `5 ▶️` ∙ **[Irene](https://www.last.fm/music/Caribou/_/Irene)** - [Caribou](https://www.last.fm/music/Caribou)<br/>
 > `5 ▶️` ∙ **[Pathos y Lagrimas](https://www.last.fm/music/Mood+Rings/_/Pathos+y+Lagrimas)** - [Mood Rings](https://www.last.fm/music/Mood+Rings)<br/>
 > `4 ▶️` ∙ **[Entertain Me](https://www.last.fm/music/Soft+Cell/_/Entertain+Me)** - [Soft Cell](https://www.last.fm/music/Soft+Cell)<br/>
-> `4 ▶️` ∙ **[Let The Sunshine In (Reprise)](https://www.last.fm/music/The+5th+Dimension/_/Let+The+Sunshine+In+(Reprise))** - [The 5th Dimension](https://www.last.fm/music/The+5th+Dimension)<br/>
+> `4 ▶️` ∙ **[President Gas](https://www.last.fm/music/The+Psychedelic+Furs/_/President+Gas)** - [The Psychedelic Furs](https://www.last.fm/music/The+Psychedelic+Furs)<br/>
 <!--END_LASTFM_TRACKS-->
