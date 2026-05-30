@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `108 ▶️` ∙ **[Bloody Mercury](https://www.last.fm/music/Bloody+Mercury)**<br/>
-> `35 ▶️` ∙ **[Death Grips](https://www.last.fm/music/Death+Grips)**<br/>
+> `32 ▶️` ∙ **[Death Grips](https://www.last.fm/music/Death+Grips)**<br/>
 > `13 ▶️` ∙ **[La Fresca](https://www.last.fm/music/La+Fresca)**<br/>
 > `12 ▶️` ∙ **[Zhnoi](https://www.last.fm/music/Zhnoi)**<br/>
 > `10 ▶️` ∙ **[Squarepusher](https://www.last.fm/music/Squarepusher)**<br/>
@@ -11,7 +11,7 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `33 ▶️` ∙ **[The Money Store](https://www.last.fm/music/Death+Grips/The+Money+Store)** - [Death Grips](https://www.last.fm/music/Death+Grips)<br/>
+> `30 ▶️` ∙ **[The Money Store](https://www.last.fm/music/Death+Grips/The+Money+Store)** - [Death Grips](https://www.last.fm/music/Death+Grips)<br/>
 > `19 ▶️` ∙ **[poisonous scarlet night](https://www.last.fm/music/Bloody+Mercury/poisonous+scarlet+night)** - [Bloody Mercury](https://www.last.fm/music/Bloody+Mercury)<br/>
 > `9 ▶️` ∙ **[bloody events caused by traumatic experiences](https://www.last.fm/music/Bloody+Mercury/bloody+events+caused+by+traumatic+experiences)** - [Bloody Mercury](https://www.last.fm/music/Bloody+Mercury)<br/>
 > `9 ▶️` ∙ **[ULTIMATUM](https://www.last.fm/music/Fresca/ULTIMATUM)** - [Fresca](https://www.last.fm/music/Fresca)<br/>
