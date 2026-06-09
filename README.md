@@ -13,9 +13,9 @@
 
 > `18 ▶️` ∙ **[Their Money Is Your Money](https://www.last.fm/music/1+800+PAIN/Their+Money+Is+Your+Money)** - [1 800 PAIN](https://www.last.fm/music/1+800+PAIN)<br/>
 > `8 ▶️` ∙ **[The Mother Stone](https://www.last.fm/music/Caleb+Landry+Jones/The+Mother+Stone)** - [Caleb Landry Jones](https://www.last.fm/music/Caleb+Landry+Jones)<br/>
-> `6 ▶️` ∙ **[The Money Store](https://www.last.fm/music/Death+Grips/The+Money+Store)** - [Death Grips](https://www.last.fm/music/Death+Grips)<br/>
 > `6 ▶️` ∙ **[NASTYWERKKKK!](https://www.last.fm/music/femtanyl/NASTYWERKKKK!)** - [femtanyl](https://www.last.fm/music/femtanyl)<br/>
 > `5 ▶️` ∙ **[Misery Is a Butterfly](https://www.last.fm/music/Blonde+Redhead/Misery+Is+a+Butterfly)** - [Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)<br/>
+> `5 ▶️` ∙ **[Through The Window](https://www.last.fm/music/Prewn/Through+The+Window)** - [Prewn](https://www.last.fm/music/Prewn)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
