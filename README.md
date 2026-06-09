@@ -4,8 +4,8 @@
 > `17 ▶️` ∙ **[1 800 PAIN](https://www.last.fm/music/1+800+PAIN)**<br/>
 > `8 ▶️` ∙ **[Caleb Landry Jones](https://www.last.fm/music/Caleb+Landry+Jones)**<br/>
 > `7 ▶️` ∙ **[Ada Rook](https://www.last.fm/music/Ada+Rook)**<br/>
-> `7 ▶️` ∙ **[Badtime](https://www.last.fm/music/Badtime)**<br/>
 > `7 ▶️` ∙ **[Death Grips](https://www.last.fm/music/Death+Grips)**<br/>
+> `7 ▶️` ∙ **[femtanyl](https://www.last.fm/music/femtanyl)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
