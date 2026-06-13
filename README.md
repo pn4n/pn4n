@@ -14,8 +14,8 @@
 > `19 ▶️` ∙ **[Their Money Is Your Money](https://www.last.fm/music/1+800+PAIN/Their+Money+Is+Your+Money)** - [1 800 PAIN](https://www.last.fm/music/1+800+PAIN)<br/>
 > `7 ▶️` ∙ **[NASTYWERKKKK!](https://www.last.fm/music/femtanyl/NASTYWERKKKK!)** - [femtanyl](https://www.last.fm/music/femtanyl)<br/>
 > `6 ▶️` ∙ **[Misery Is a Butterfly](https://www.last.fm/music/Blonde+Redhead/Misery+Is+a+Butterfly)** - [Blonde Redhead](https://www.last.fm/music/Blonde+Redhead)<br/>
-> `6 ▶️` ∙ **[The Mother Stone](https://www.last.fm/music/Caleb+Landry+Jones/The+Mother+Stone)** - [Caleb Landry Jones](https://www.last.fm/music/Caleb+Landry+Jones)<br/>
 > `5 ▶️` ∙ **[The noise is a fog, look beyond it and you will find beauty.](https://www.last.fm/music/blednost./The+noise+is+a+fog,+look+beyond+it+and+you+will+find+beauty.)** - [blednost.](https://www.last.fm/music/blednost.)<br/>
+> `5 ▶️` ∙ **[The Mother Stone](https://www.last.fm/music/Caleb+Landry+Jones/The+Mother+Stone)** - [Caleb Landry Jones](https://www.last.fm/music/Caleb+Landry+Jones)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
