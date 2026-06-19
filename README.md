@@ -24,6 +24,6 @@
 > `6 ▶️` ∙ **[Forbes List](https://www.last.fm/music/1+800+PAIN/_/Forbes+List)** - [1 800 PAIN](https://www.last.fm/music/1+800+PAIN)<br/>
 > `4 ▶️` ∙ **[NASTYWERKKKK!](https://www.last.fm/music/femtanyl/_/NASTYWERKKKK!)** - [femtanyl](https://www.last.fm/music/femtanyl)<br/>
 > `2 ▶️` ∙ **[dikloniikore](https://www.last.fm/music/blednost./_/dikloniikore)** - [blednost.](https://www.last.fm/music/blednost.)<br/>
+> `2 ▶️` ∙ **[Bitch Please](https://www.last.fm/music/Death+Grips/_/Bitch+Please)** - [Death Grips](https://www.last.fm/music/Death+Grips)<br/>
 > `2 ▶️` ∙ **[buzz](https://www.last.fm/music/girl_irl/_/buzz)** - [girl_irl](https://www.last.fm/music/girl_irl)<br/>
-> `2 ▶️` ∙ **[She Wants](https://www.last.fm/music/Metronomy/_/She+Wants)** - [Metronomy](https://www.last.fm/music/Metronomy)<br/>
 <!--END_LASTFM_TRACKS-->
