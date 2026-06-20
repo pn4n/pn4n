@@ -23,7 +23,7 @@
 
 > `6 ▶️` ∙ **[Forbes List](https://www.last.fm/music/1+800+PAIN/_/Forbes+List)** - [1 800 PAIN](https://www.last.fm/music/1+800+PAIN)<br/>
 > `4 ▶️` ∙ **[NASTYWERKKKK!](https://www.last.fm/music/femtanyl/_/NASTYWERKKKK!)** - [femtanyl](https://www.last.fm/music/femtanyl)<br/>
+> `3 ▶️` ∙ **[FEAR THE CROSS](https://www.last.fm/music/The+Virus+and+Antidote/_/FEAR+THE+CROSS)** - [The Virus and Antidote](https://www.last.fm/music/The+Virus+and+Antidote)<br/>
 > `2 ▶️` ∙ **[dikloniikore](https://www.last.fm/music/blednost./_/dikloniikore)** - [blednost.](https://www.last.fm/music/blednost.)<br/>
 > `2 ▶️` ∙ **[Bitch Please](https://www.last.fm/music/Death+Grips/_/Bitch+Please)** - [Death Grips](https://www.last.fm/music/Death+Grips)<br/>
-> `2 ▶️` ∙ **[buzz](https://www.last.fm/music/girl_irl/_/buzz)** - [girl_irl](https://www.last.fm/music/girl_irl)<br/>
 <!--END_LASTFM_TRACKS-->
