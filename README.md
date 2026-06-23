@@ -1,7 +1,7 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `28 ▶️` ∙ **[Lutalo](https://www.last.fm/music/Lutalo)**<br/>
+> `29 ▶️` ∙ **[Lutalo](https://www.last.fm/music/Lutalo)**<br/>
 > `27 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `14 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
 > `12 ▶️` ∙ **[Seren Saraç](https://www.last.fm/music/Seren+Sara%C3%A7)**<br/>
@@ -25,5 +25,5 @@
 > `6 ▶️` ∙ **[I Figured](https://www.last.fm/music/Lutalo/_/I+Figured)** - [Lutalo](https://www.last.fm/music/Lutalo)<br/>
 > `6 ▶️` ∙ **[YEKTE - Live Session](https://www.last.fm/music/Seren+Sara%C3%A7/_/YEKTE+-+Live+Session)** - [Seren Saraç](https://www.last.fm/music/Seren+Sara%C3%A7)<br/>
 > `6 ▶️` ∙ **[FEAR THE CROSS](https://www.last.fm/music/The+Virus+and+Antidote/_/FEAR+THE+CROSS)** - [The Virus and Antidote](https://www.last.fm/music/The+Virus+and+Antidote)<br/>
-> `5 ▶️` ∙ **[Devil On My Shoulder](https://www.last.fm/music/PureSnow/_/Devil+On+My+Shoulder)** - [PureSnow](https://www.last.fm/music/PureSnow)<br/>
+> `5 ▶️` ∙ **[Warned Her](https://www.last.fm/music/Lutalo/_/Warned+Her)** - [Lutalo](https://www.last.fm/music/Lutalo)<br/>
 <!--END_LASTFM_TRACKS-->
