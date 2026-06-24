@@ -3,7 +3,7 @@
 
 > `29 ▶️` ∙ **[Lutalo](https://www.last.fm/music/Lutalo)**<br/>
 > `27 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
-> `14 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
+> `15 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
 > `12 ▶️` ∙ **[Seren Saraç](https://www.last.fm/music/Seren+Sara%C3%A7)**<br/>
 > `11 ▶️` ∙ **[PureSnow](https://www.last.fm/music/PureSnow)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -11,7 +11,7 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `9 ▶️` ∙ **[.Ziptape](https://www.last.fm/music/Human+Part/.Ziptape)** - [Human Part](https://www.last.fm/music/Human+Part)<br/>
+> `10 ▶️` ∙ **[.Ziptape](https://www.last.fm/music/Human+Part/.Ziptape)** - [Human Part](https://www.last.fm/music/Human+Part)<br/>
 > `8 ▶️` ∙ **[Play Me Again](https://www.last.fm/music/Kid+Francescoli/Play+Me+Again)** - [Kid Francescoli](https://www.last.fm/music/Kid+Francescoli)<br/>
 > `7 ▶️` ∙ **[Darkeve Duet](https://www.last.fm/music/Lutalo/Darkeve+Duet)** - [Lutalo](https://www.last.fm/music/Lutalo)<br/>
 > `7 ▶️` ∙ **[Once Now, Then Again](https://www.last.fm/music/Lutalo/Once+Now,+Then+Again)** - [Lutalo](https://www.last.fm/music/Lutalo)<br/>
