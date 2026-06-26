@@ -2,8 +2,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `31 ▶️` ∙ **[Lutalo](https://www.last.fm/music/Lutalo)**<br/>
-> `22 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `17 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
+> `17 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `16 ▶️` ∙ **[clipping.](https://www.last.fm/music/clipping.)**<br/>
 > `12 ▶️` ∙ **[Seren Saraç](https://www.last.fm/music/Seren+Sara%C3%A7)**<br/>
 <!--END_LASTFM_ARTISTS-->
