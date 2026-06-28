@@ -5,7 +5,7 @@
 > `20 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
 > `20 ▶️` ∙ **[maniken05](https://www.last.fm/music/maniken05)**<br/>
 > `19 ▶️` ∙ **[clipping.](https://www.last.fm/music/clipping.)**<br/>
-> `11 ▶️` ∙ **[PureSnow](https://www.last.fm/music/PureSnow)**<br/>
+> `11 ▶️` ∙ **[Mietze Conte](https://www.last.fm/music/Mietze+Conte)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
