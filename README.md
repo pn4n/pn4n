@@ -3,9 +3,9 @@
 
 > `10 ▶️` ∙ **[PureSnow](https://www.last.fm/music/PureSnow)**<br/>
 > `8 ▶️` ∙ **[New Order](https://www.last.fm/music/New+Order)**<br/>
-> `6 ▶️` ∙ **[Daft Punk](https://www.last.fm/music/Daft+Punk)**<br/>
 > `6 ▶️` ∙ **[thredd](https://www.last.fm/music/thredd)**<br/>
 > `5 ▶️` ∙ **[John Maus](https://www.last.fm/music/John+Maus)**<br/>
+> `5 ▶️` ∙ **[Lowlife](https://www.last.fm/music/Lowlife)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `6 ▶️` ∙ **[It’s Lovely, Come On In](https://www.last.fm/music/thredd/It%E2%80%99s+Lovely,+Come+On+In)** - [thredd](https://www.last.fm/music/thredd)<br/>
 > `5 ▶️` ∙ **[Mietzee](https://www.last.fm/music/Mietze+Conte/Mietzee)** - [Mietze Conte](https://www.last.fm/music/Mietze+Conte)<br/>
 > `4 ▶️` ∙ **[Wriggle](https://www.last.fm/music/clipping./Wriggle)** - [clipping.](https://www.last.fm/music/clipping.)<br/>
-> `3 ▶️` ∙ **[Random Access Memories](https://www.last.fm/music/Daft+Punk/Random+Access+Memories)** - [Daft Punk](https://www.last.fm/music/Daft+Punk)<br/>
+> `3 ▶️` ∙ **[In The Marshes](https://www.last.fm/music/For+Against/In+The+Marshes)** - [For Against](https://www.last.fm/music/For+Against)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
