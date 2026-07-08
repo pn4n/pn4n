@@ -3,7 +3,7 @@
 
 > `14 ▶️` ∙ **[PureSnow](https://www.last.fm/music/PureSnow)**<br/>
 > `7 ▶️` ∙ **[thredd](https://www.last.fm/music/thredd)**<br/>
-> `4 ▶️` ∙ **[John Maus](https://www.last.fm/music/John+Maus)**<br/>
+> `3 ▶️` ∙ **[John Maus](https://www.last.fm/music/John+Maus)**<br/>
 > `3 ▶️` ∙ **[Lowlife](https://www.last.fm/music/Lowlife)**<br/>
 > `3 ▶️` ∙ **[SHVDE](https://www.last.fm/music/SHVDE)**<br/>
 <!--END_LASTFM_ARTISTS-->
