@@ -5,7 +5,7 @@
 > `7 ▶️` ∙ **[Elliott Smith](https://www.last.fm/music/Elliott+Smith)**<br/>
 > `6 ▶️` ∙ **[Alessi Brothers](https://www.last.fm/music/Alessi+Brothers)**<br/>
 > `4 ▶️` ∙ **[Boney M.](https://www.last.fm/music/Boney+M.)**<br/>
-> `4 ▶️` ∙ **[soulworn](https://www.last.fm/music/soulworn)**<br/>
+> `4 ▶️` ∙ **[Kumo 99](https://www.last.fm/music/Kumo+99)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `6 ▶️` ∙ **[Revelation](https://www.last.fm/music/PureSnow/Revelation)** - [PureSnow](https://www.last.fm/music/PureSnow)<br/>
 > `4 ▶️` ∙ **[All for a Reason](https://www.last.fm/music/Alessi+Brothers/All+for+a+Reason)** - [Alessi Brothers](https://www.last.fm/music/Alessi+Brothers)<br/>
 > `4 ▶️` ∙ **[Take the Heat Off Me](https://www.last.fm/music/Boney+M./Take+the+Heat+Off+Me)** - [Boney M.](https://www.last.fm/music/Boney+M.)<br/>
-> `3 ▶️` ∙ **[Die Selektion](https://www.last.fm/music/Die+Selektion/Die+Selektion)** - [Die Selektion](https://www.last.fm/music/Die+Selektion)<br/>
+> `3 ▶️` ∙ **[Aphro Classics 2](https://www.last.fm/music/Aphrodite/Aphro+Classics+2)** - [Aphrodite](https://www.last.fm/music/Aphrodite)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `6 ▶️` ∙ **[Coast to Coast](https://www.last.fm/music/Elliott+Smith/_/Coast+to+Coast)** - [Elliott Smith](https://www.last.fm/music/Elliott+Smith)<br/>
 > `4 ▶️` ∙ **[All for a Reason](https://www.last.fm/music/Alessi+Brothers/_/All+for+a+Reason)** - [Alessi Brothers](https://www.last.fm/music/Alessi+Brothers)<br/>
+> `3 ▶️` ∙ **[Bomber](https://www.last.fm/music/Aphrodite/_/Bomber)** - [Aphrodite](https://www.last.fm/music/Aphrodite)<br/>
 > `3 ▶️` ∙ **[Sunny](https://www.last.fm/music/Boney+M./_/Sunny)** - [Boney M.](https://www.last.fm/music/Boney+M.)<br/>
-> `3 ▶️` ∙ **[buzz](https://www.last.fm/music/girl_irl,+Crosstalk/_/buzz)** - [girl_irl, Crosstalk](https://www.last.fm/music/girl_irl,+Crosstalk)<br/>
-> `3 ▶️` ∙ **[I Know Your Future](https://www.last.fm/music/PureSnow/_/I+Know+Your+Future)** - [PureSnow](https://www.last.fm/music/PureSnow)<br/>
+> `3 ▶️` ∙ **[I'll Come Running](https://www.last.fm/music/Brian+Eno/_/I%27ll+Come+Running)** - [Brian Eno](https://www.last.fm/music/Brian+Eno)<br/>
 <!--END_LASTFM_TRACKS-->
