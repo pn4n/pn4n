@@ -3,9 +3,9 @@
 
 > `10 ▶️` ∙ **[PureSnow](https://www.last.fm/music/PureSnow)**<br/>
 > `7 ▶️` ∙ **[Elliott Smith](https://www.last.fm/music/Elliott+Smith)**<br/>
+> `6 ▶️` ∙ **[Sufjan Stevens](https://www.last.fm/music/Sufjan+Stevens)**<br/>
 > `4 ▶️` ∙ **[Alessi Brothers](https://www.last.fm/music/Alessi+Brothers)**<br/>
 > `4 ▶️` ∙ **[Boney M.](https://www.last.fm/music/Boney+M.)**<br/>
-> `4 ▶️` ∙ **[Kumo 99](https://www.last.fm/music/Kumo+99)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
