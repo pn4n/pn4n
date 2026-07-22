@@ -3,7 +3,7 @@
 
 > `63 ▶️` ∙ **[Joey Cash](https://www.last.fm/music/Joey+Cash)**<br/>
 > `15 ▶️` ∙ **[Knifehandchop](https://www.last.fm/music/Knifehandchop)**<br/>
-> `14 ▶️` ∙ **[Pretty Sick](https://www.last.fm/music/Pretty+Sick)**<br/>
+> `15 ▶️` ∙ **[Pretty Sick](https://www.last.fm/music/Pretty+Sick)**<br/>
 > `13 ▶️` ∙ **[MCR-T](https://www.last.fm/music/MCR-T)**<br/>
 > `11 ▶️` ∙ **[meat computer](https://www.last.fm/music/meat+computer)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -15,7 +15,7 @@
 > `12 ▶️` ∙ **[Fuck You, Play Me](https://www.last.fm/music/MCR-T/Fuck+You,+Play+Me)** - [MCR-T](https://www.last.fm/music/MCR-T)<br/>
 > `11 ▶️` ∙ **[Random Shit 1998-2008](https://www.last.fm/music/Knifehandchop/Random+Shit+1998-2008)** - [Knifehandchop](https://www.last.fm/music/Knifehandchop)<br/>
 > `9 ▶️` ∙ **[rights of spring](https://www.last.fm/music/oxhy/rights+of+spring)** - [oxhy](https://www.last.fm/music/oxhy)<br/>
-> `8 ▶️` ∙ **[Streetwise](https://www.last.fm/music/Pretty+Sick/Streetwise)** - [Pretty Sick](https://www.last.fm/music/Pretty+Sick)<br/>
+> `9 ▶️` ∙ **[Streetwise](https://www.last.fm/music/Pretty+Sick/Streetwise)** - [Pretty Sick](https://www.last.fm/music/Pretty+Sick)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `11 ▶️` ∙ **[Housefucker](https://www.last.fm/music/MCR-T/_/Housefucker)** - [MCR-T](https://www.last.fm/music/MCR-T)<br/>
 > `10 ▶️` ∙ **[Fabric](https://www.last.fm/music/Knifehandchop/_/Fabric)** - [Knifehandchop](https://www.last.fm/music/Knifehandchop)<br/>
 > `9 ▶️` ∙ **[new low](https://www.last.fm/music/Joey+Cash/_/new+low)** - [Joey Cash](https://www.last.fm/music/Joey+Cash)<br/>
-> `8 ▶️` ∙ **[Headliner](https://www.last.fm/music/Pretty+Sick/_/Headliner)** - [Pretty Sick](https://www.last.fm/music/Pretty+Sick)<br/>
+> `9 ▶️` ∙ **[Headliner](https://www.last.fm/music/Pretty+Sick/_/Headliner)** - [Pretty Sick](https://www.last.fm/music/Pretty+Sick)<br/>
 <!--END_LASTFM_TRACKS-->
