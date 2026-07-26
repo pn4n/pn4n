@@ -3,9 +3,9 @@
 
 > `38 ▶️` ∙ **[Joey Cash](https://www.last.fm/music/Joey+Cash)**<br/>
 > `18 ▶️` ∙ **[Pretty Sick](https://www.last.fm/music/Pretty+Sick)**<br/>
-> `10 ▶️` ∙ **[brothel in belize](https://www.last.fm/music/brothel+in+belize)**<br/>
 > `8 ▶️` ∙ **[MCR-T](https://www.last.fm/music/MCR-T)**<br/>
-> `8 ▶️` ∙ **[meat computer](https://www.last.fm/music/meat+computer)**<br/>
+> `8 ▶️` ∙ **[PureSnow](https://www.last.fm/music/PureSnow)**<br/>
+> `7 ▶️` ∙ **[brothel in belize](https://www.last.fm/music/brothel+in+belize)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `14 ▶️` ∙ **[rights of spring](https://www.last.fm/music/oxhy/rights+of+spring)** - [oxhy](https://www.last.fm/music/oxhy)<br/>
 > `12 ▶️` ∙ **[Streetwise](https://www.last.fm/music/Pretty+Sick/Streetwise)** - [Pretty Sick](https://www.last.fm/music/Pretty+Sick)<br/>
 > `8 ▶️` ∙ **[Fuck You, Play Me](https://www.last.fm/music/MCR-T/Fuck+You,+Play+Me)** - [MCR-T](https://www.last.fm/music/MCR-T)<br/>
-> `6 ▶️` ∙ **[emulator](https://www.last.fm/music/brothel+in+belize/emulator)** - [brothel in belize](https://www.last.fm/music/brothel+in+belize)<br/>
+> `6 ▶️` ∙ **[Random Shit 1998-2008](https://www.last.fm/music/Knifehandchop/Random+Shit+1998-2008)** - [Knifehandchop](https://www.last.fm/music/Knifehandchop)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `12 ▶️` ∙ **[Headliner](https://www.last.fm/music/Pretty+Sick/_/Headliner)** - [Pretty Sick](https://www.last.fm/music/Pretty+Sick)<br/>
 > `11 ▶️` ∙ **[everything](https://www.last.fm/music/Joey+Cash/_/everything)** - [Joey Cash](https://www.last.fm/music/Joey+Cash)<br/>
 > `8 ▶️` ∙ **[Housefucker](https://www.last.fm/music/MCR-T/_/Housefucker)** - [MCR-T](https://www.last.fm/music/MCR-T)<br/>
-> `6 ▶️` ∙ **[Emulator](https://www.last.fm/music/brothel+in+belize/_/Emulator)** - [brothel in belize](https://www.last.fm/music/brothel+in+belize)<br/>
+> `6 ▶️` ∙ **[Fabric](https://www.last.fm/music/Knifehandchop/_/Fabric)** - [Knifehandchop](https://www.last.fm/music/Knifehandchop)<br/>
 <!--END_LASTFM_TRACKS-->
