@@ -4,8 +4,8 @@
 > `13 ▶️` ∙ **[Joey Cash](https://www.last.fm/music/Joey+Cash)**<br/>
 > `12 ▶️` ∙ **[AFX](https://www.last.fm/music/AFX)**<br/>
 > `12 ▶️` ∙ **[PureSnow](https://www.last.fm/music/PureSnow)**<br/>
+> `12 ▶️` ∙ **[YABUJIN](https://www.last.fm/music/YABUJIN)**<br/>
 > `11 ▶️` ∙ **[Con Dolore](https://www.last.fm/music/Con+Dolore)**<br/>
-> `11 ▶️` ∙ **[YABUJIN](https://www.last.fm/music/YABUJIN)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
