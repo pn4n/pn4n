@@ -1,21 +1,21 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `16 ▶️` ∙ **[toe](https://www.last.fm/music/toe)**<br/>
+> `28 ▶️` ∙ **[toe](https://www.last.fm/music/toe)**<br/>
+> `15 ▶️` ∙ **[TV on the Radio](https://www.last.fm/music/TV+on+the+Radio)**<br/>
 > `15 ▶️` ∙ **[YABUJIN](https://www.last.fm/music/YABUJIN)**<br/>
 > `14 ▶️` ∙ **[AFX](https://www.last.fm/music/AFX)**<br/>
 > `13 ▶️` ∙ **[Con Dolore](https://www.last.fm/music/Con+Dolore)**<br/>
-> `13 ▶️` ∙ **[Joey Cash](https://www.last.fm/music/Joey+Cash)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `14 ▶️` ∙ **[Hangable Auto Bulb](https://www.last.fm/music/AFX/Hangable+Auto+Bulb)** - [AFX](https://www.last.fm/music/AFX)<br/>
+> `14 ▶️` ∙ **[NOW I SEE THE LIGHT](https://www.last.fm/music/toe/NOW+I+SEE+THE+LIGHT)** - [toe](https://www.last.fm/music/toe)<br/>
 > `13 ▶️` ∙ **[poser](https://www.last.fm/music/Joey+Cash/poser)** - [Joey Cash](https://www.last.fm/music/Joey+Cash)<br/>
 > `13 ▶️` ∙ **[Epithalamia](https://www.last.fm/music/Various+Artists/Epithalamia)** - [Various Artists](https://www.last.fm/music/Various+Artists)<br/>
 > `11 ▶️` ∙ **[Taki 183](https://www.last.fm/music/DyE/Taki+183)** - [DyE](https://www.last.fm/music/DyE)<br/>
-> `11 ▶️` ∙ **[bootleg (+)](https://www.last.fm/music/Isyti/bootleg+(%252B))** - [Isyti](https://www.last.fm/music/Isyti)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
