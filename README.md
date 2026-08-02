@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `28 ▶️` ∙ **[toe](https://www.last.fm/music/toe)**<br/>
-> `15 ▶️` ∙ **[TV on the Radio](https://www.last.fm/music/TV+on+the+Radio)**<br/>
+> `16 ▶️` ∙ **[TV on the Radio](https://www.last.fm/music/TV+on+the+Radio)**<br/>
 > `15 ▶️` ∙ **[YABUJIN](https://www.last.fm/music/YABUJIN)**<br/>
 > `14 ▶️` ∙ **[AFX](https://www.last.fm/music/AFX)**<br/>
 > `13 ▶️` ∙ **[Con Dolore](https://www.last.fm/music/Con+Dolore)**<br/>
