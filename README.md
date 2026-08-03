@@ -24,6 +24,6 @@
 > `13 ▶️` ∙ **[Keeper](https://www.last.fm/music/Con+Dolore/_/Keeper)** - [Con Dolore](https://www.last.fm/music/Con+Dolore)<br/>
 > `13 ▶️` ∙ **[Film Burn](https://www.last.fm/music/Yppah,+Anomie+Belle/_/Film+Burn)** - [Yppah, Anomie Belle](https://www.last.fm/music/Yppah,+Anomie+Belle)<br/>
 > `11 ▶️` ∙ **[Hole In Ocean](https://www.last.fm/music/DyE/_/Hole+In+Ocean)** - [DyE](https://www.last.fm/music/DyE)<br/>
-> `10 ▶️` ∙ **[Every Day](https://www.last.fm/music/AFX/_/Every+Day)** - [AFX](https://www.last.fm/music/AFX)<br/>
+> `8 ▶️` ∙ **[Every Day](https://www.last.fm/music/AFX/_/Every+Day)** - [AFX](https://www.last.fm/music/AFX)<br/>
 > `8 ▶️` ∙ **[everything](https://www.last.fm/music/Joey+Cash/_/everything)** - [Joey Cash](https://www.last.fm/music/Joey+Cash)<br/>
 <!--END_LASTFM_TRACKS-->
