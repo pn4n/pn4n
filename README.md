@@ -14,8 +14,8 @@
 > `19 ▶️` ∙ **[Eighty One](https://www.last.fm/music/Yppah/Eighty+One)** - [Yppah](https://www.last.fm/music/Yppah)<br/>
 > `14 ▶️` ∙ **[NOW I SEE THE LIGHT](https://www.last.fm/music/toe/NOW+I+SEE+THE+LIGHT)** - [toe](https://www.last.fm/music/toe)<br/>
 > `8 ▶️` ∙ **[poser](https://www.last.fm/music/Joey+Cash/poser)** - [Joey Cash](https://www.last.fm/music/Joey+Cash)<br/>
+> `6 ▶️` ∙ **[Flounder King](https://www.last.fm/music/Aldo+Fisk/Flounder+King)** - [Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)<br/>
 > `6 ▶️` ∙ **[NASTYWERKKKK!](https://www.last.fm/music/femtanyl/NASTYWERKKKK!)** - [femtanyl](https://www.last.fm/music/femtanyl)<br/>
-> `6 ▶️` ∙ **[the book about my idle plot on a vague anxiety](https://www.last.fm/music/toe/the+book+about+my+idle+plot+on+a+vague+anxiety)** - [toe](https://www.last.fm/music/toe)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
