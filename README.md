@@ -12,10 +12,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `11 ▶️` ∙ **[Flounder King](https://www.last.fm/music/Aldo+Fisk/Flounder+King)** - [Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)<br/>
-> `5 ▶️` ∙ **[The Sunset Violent](https://www.last.fm/music/Mount+Kimbie/The+Sunset+Violent)** - [Mount Kimbie](https://www.last.fm/music/Mount+Kimbie)<br/>
+> `8 ▶️` ∙ **[The Sunset Violent](https://www.last.fm/music/Mount+Kimbie/The+Sunset+Violent)** - [Mount Kimbie](https://www.last.fm/music/Mount+Kimbie)<br/>
 > `4 ▶️` ∙ **[Tall Tales](https://www.last.fm/music/Mark+Pritchard/Tall+Tales)** - [Mark Pritchard](https://www.last.fm/music/Mark+Pritchard)<br/>
-> `4 ▶️` ∙ **[Olenka & The Autumn Lovers](https://www.last.fm/music/Olenka+and+The+Autumn+Lovers/Olenka+&+The+Autumn+Lovers)** - [Olenka and The Autumn Lovers](https://www.last.fm/music/Olenka+and+The+Autumn+Lovers)<br/>
 > `3 ▶️` ∙ **[Modern Failures](https://www.last.fm/music/All+Your+Sisters/Modern+Failures)** - [All Your Sisters](https://www.last.fm/music/All+Your+Sisters)<br/>
+> `3 ▶️` ∙ **[Believe You Me (Deluxe Edition)](https://www.last.fm/music/Blancmange/Believe+You+Me+(Deluxe+Edition))** - [Blancmange](https://www.last.fm/music/Blancmange)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
