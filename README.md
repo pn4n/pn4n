@@ -2,9 +2,9 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `9 ▶️` ∙ **[Mount Kimbie](https://www.last.fm/music/Mount+Kimbie)**<br/>
+> `7 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
 > `6 ▶️` ∙ **[The Snake Corps](https://www.last.fm/music/The+Snake+Corps)**<br/>
 > `6 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
-> `6 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
 > `5 ▶️` ∙ **[Blancmange](https://www.last.fm/music/Blancmange)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
