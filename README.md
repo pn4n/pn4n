@@ -1,29 +1,29 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `20 ▶️` ∙ **[PureSnow](https://www.last.fm/music/PureSnow)**<br/>
-> `15 ▶️` ∙ **[Mount Kimbie](https://www.last.fm/music/Mount+Kimbie)**<br/>
+> `25 ▶️` ∙ **[PureSnow](https://www.last.fm/music/PureSnow)**<br/>
 > `14 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
-> `13 ▶️` ∙ **[Joey Cash](https://www.last.fm/music/Joey+Cash)**<br/>
-> `10 ▶️` ∙ **[Pussy Heaven](https://www.last.fm/music/Pussy+Heaven)**<br/>
+> `11 ▶️` ∙ **[Mount Kimbie](https://www.last.fm/music/Mount+Kimbie)**<br/>
+> `11 ▶️` ∙ **[Pussy Heaven](https://www.last.fm/music/Pussy+Heaven)**<br/>
+> `9 ▶️` ∙ **[Joey Cash](https://www.last.fm/music/Joey+Cash)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `13 ▶️` ∙ **[poser](https://www.last.fm/music/Joey+Cash/poser)** - [Joey Cash](https://www.last.fm/music/Joey+Cash)<br/>
-> `13 ▶️` ∙ **[Revelation](https://www.last.fm/music/PureSnow/Revelation)** - [PureSnow](https://www.last.fm/music/PureSnow)<br/>
-> `10 ▶️` ∙ **[The Sunset Violent](https://www.last.fm/music/Mount+Kimbie/The+Sunset+Violent)** - [Mount Kimbie](https://www.last.fm/music/Mount+Kimbie)<br/>
-> `10 ▶️` ∙ **[Hymn](https://www.last.fm/music/Pussy+Heaven/Hymn)** - [Pussy Heaven](https://www.last.fm/music/Pussy+Heaven)<br/>
-> `7 ▶️` ∙ **[Rossz csillag alatt született](https://www.last.fm/music/Venetian+Snares/Rossz+csillag+alatt+sz%C3%BCletett)** - [Venetian Snares](https://www.last.fm/music/Venetian+Snares)<br/>
+> `15 ▶️` ∙ **[Revelation](https://www.last.fm/music/PureSnow/Revelation)** - [PureSnow](https://www.last.fm/music/PureSnow)<br/>
+> `11 ▶️` ∙ **[Hymn](https://www.last.fm/music/Pussy+Heaven/Hymn)** - [Pussy Heaven](https://www.last.fm/music/Pussy+Heaven)<br/>
+> `9 ▶️` ∙ **[poser](https://www.last.fm/music/Joey+Cash/poser)** - [Joey Cash](https://www.last.fm/music/Joey+Cash)<br/>
+> `8 ▶️` ∙ **[The Sunset Violent](https://www.last.fm/music/Mount+Kimbie/The+Sunset+Violent)** - [Mount Kimbie](https://www.last.fm/music/Mount+Kimbie)<br/>
+> `8 ▶️` ∙ **[Get Out Of My Head](https://www.last.fm/music/PureSnow/Get+Out+Of+My+Head)** - [PureSnow](https://www.last.fm/music/PureSnow)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `12 ▶️` ∙ **[.](https://www.last.fm/music/voice+message/_/%252E)** - [voice message](https://www.last.fm/music/voice+message)<br/>
-> `10 ▶️` ∙ **[everything](https://www.last.fm/music/Joey+Cash/_/everything)** - [Joey Cash](https://www.last.fm/music/Joey+Cash)<br/>
-> `10 ▶️` ∙ **[Empty and Silent (feat. King Krule)](https://www.last.fm/music/Mount+Kimbie/_/Empty+and+Silent+(feat.+King+Krule))** - [Mount Kimbie](https://www.last.fm/music/Mount+Kimbie)<br/>
-> `7 ▶️` ∙ **[Öngyilkos vasárnap](https://www.last.fm/music/Venetian+Snares/_/%C3%96ngyilkos+vas%C3%A1rnap)** - [Venetian Snares](https://www.last.fm/music/Venetian+Snares)<br/>
-> `6 ▶️` ∙ **[Perfect Chaos](https://www.last.fm/music/taleamii/_/Perfect+Chaos)** - [taleamii](https://www.last.fm/music/taleamii)<br/>
+> `8 ▶️` ∙ **[Empty and Silent (feat. King Krule)](https://www.last.fm/music/Mount+Kimbie/_/Empty+and+Silent+(feat.+King+Krule))** - [Mount Kimbie](https://www.last.fm/music/Mount+Kimbie)<br/>
+> `8 ▶️` ∙ **[CONTROL](https://www.last.fm/music/PureSnow/_/CONTROL)** - [PureSnow](https://www.last.fm/music/PureSnow)<br/>
+> `8 ▶️` ∙ **[Öngyilkos vasárnap](https://www.last.fm/music/Venetian+Snares/_/%C3%96ngyilkos+vas%C3%A1rnap)** - [Venetian Snares](https://www.last.fm/music/Venetian+Snares)<br/>
+> `7 ▶️` ∙ **[Perfect Chaos](https://www.last.fm/music/taleamii/_/Perfect+Chaos)** - [taleamii](https://www.last.fm/music/taleamii)<br/>
 <!--END_LASTFM_TRACKS-->
