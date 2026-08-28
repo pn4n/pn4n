@@ -5,7 +5,7 @@
 > `15 ▶️` ∙ **[PureSnow](https://www.last.fm/music/PureSnow)**<br/>
 > `5 ▶️` ∙ **[Elliott Smith](https://www.last.fm/music/Elliott+Smith)**<br/>
 > `5 ▶️` ∙ **[Joey Cash](https://www.last.fm/music/Joey+Cash)**<br/>
-> `4 ▶️` ∙ **[taleamii](https://www.last.fm/music/taleamii)**<br/>
+> `5 ▶️` ∙ **[Video message](https://www.last.fm/music/Video+message)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
