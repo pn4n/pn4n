@@ -1,7 +1,7 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `30 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
+> `34 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
 > `19 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `13 ▶️` ∙ **[PureSnow](https://www.last.fm/music/PureSnow)**<br/>
 > `6 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
@@ -21,7 +21,7 @@
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `25 ▶️` ∙ **[.](https://www.last.fm/music/voice+message/_/%252E)** - [voice message](https://www.last.fm/music/voice+message)<br/>
+> `29 ▶️` ∙ **[.](https://www.last.fm/music/voice+message/_/%252E)** - [voice message](https://www.last.fm/music/voice+message)<br/>
 > `5 ▶️` ∙ **[everything](https://www.last.fm/music/Joey+Cash/_/everything)** - [Joey Cash](https://www.last.fm/music/Joey+Cash)<br/>
 > `5 ▶️` ∙ **[Everything Goes My Way](https://www.last.fm/music/Metronomy/_/Everything+Goes+My+Way)** - [Metronomy](https://www.last.fm/music/Metronomy)<br/>
 > `4 ▶️` ∙ **[CONTROL](https://www.last.fm/music/PureSnow/_/CONTROL)** - [PureSnow](https://www.last.fm/music/PureSnow)<br/>
