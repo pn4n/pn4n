@@ -1,11 +1,11 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `35 ▶️` ∙ **[voice message](https://www.last.fm/music/voice+message)**<br/>
 > `29 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
-> `15 ▶️` ∙ **[PureSnow](https://www.last.fm/music/PureSnow)**<br/>
+> `16 ▶️` ∙ **[PureSnow](https://www.last.fm/music/PureSnow)**<br/>
 > `12 ▶️` ∙ **[Mumblr](https://www.last.fm/music/Mumblr)**<br/>
 > `6 ▶️` ∙ **[Joey Cash](https://www.last.fm/music/Joey+Cash)**<br/>
+> `6 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -21,9 +21,9 @@
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `30 ▶️` ∙ **[.](https://www.last.fm/music/voice+message/_/%252E)** - [voice message](https://www.last.fm/music/voice+message)<br/>
 > `6 ▶️` ∙ **[everything](https://www.last.fm/music/Joey+Cash/_/everything)** - [Joey Cash](https://www.last.fm/music/Joey+Cash)<br/>
 > `5 ▶️` ∙ **[Everything Goes My Way](https://www.last.fm/music/Metronomy/_/Everything+Goes+My+Way)** - [Metronomy](https://www.last.fm/music/Metronomy)<br/>
+> `4 ▶️` ∙ **[CONTROL](https://www.last.fm/music/PureSnow/_/CONTROL)** - [PureSnow](https://www.last.fm/music/PureSnow)<br/>
 > `4 ▶️` ∙ **[You Are The Blood](https://www.last.fm/music/Sufjan+Stevens/_/You+Are+The+Blood)** - [Sufjan Stevens](https://www.last.fm/music/Sufjan+Stevens)<br/>
 > `3 ▶️` ∙ **[Coast to Coast](https://www.last.fm/music/Elliott+Smith/_/Coast+to+Coast)** - [Elliott Smith](https://www.last.fm/music/Elliott+Smith)<br/>
 <!--END_LASTFM_TRACKS-->
