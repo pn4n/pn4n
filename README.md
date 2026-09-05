@@ -2,8 +2,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `38 ▶️` ∙ **[Clan of Xymox](https://www.last.fm/music/Clan+of+Xymox)**<br/>
-> `12 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `12 ▶️` ∙ **[Mumblr](https://www.last.fm/music/Mumblr)**<br/>
+> `10 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `9 ▶️` ∙ **[Cocteau Twins](https://www.last.fm/music/Cocteau+Twins)**<br/>
 > `7 ▶️` ∙ **[PureSnow](https://www.last.fm/music/PureSnow)**<br/>
 <!--END_LASTFM_ARTISTS-->
