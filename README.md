@@ -3,9 +3,9 @@
 
 > `38 ▶️` ∙ **[Clan of Xymox](https://www.last.fm/music/Clan+of+Xymox)**<br/>
 > `12 ▶️` ∙ **[Mumblr](https://www.last.fm/music/Mumblr)**<br/>
-> `10 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `9 ▶️` ∙ **[Cocteau Twins](https://www.last.fm/music/Cocteau+Twins)**<br/>
 > `7 ▶️` ∙ **[PureSnow](https://www.last.fm/music/PureSnow)**<br/>
+> `6 ▶️` ∙ **[Hooverphonic](https://www.last.fm/music/Hooverphonic)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
