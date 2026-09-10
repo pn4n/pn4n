@@ -3,9 +3,9 @@
 
 > `21 ▶️` ∙ **[Clan of Xymox](https://www.last.fm/music/Clan+of+Xymox)**<br/>
 > `11 ▶️` ∙ **[GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)**<br/>
-> `9 ▶️` ∙ **[Cocteau Twins](https://www.last.fm/music/Cocteau+Twins)**<br/>
 > `6 ▶️` ∙ **[Sophya](https://www.last.fm/music/Sophya)**<br/>
 > `6 ▶️` ∙ **[Twin Tribes, Bootblacks](https://www.last.fm/music/Twin+Tribes,+Bootblacks)**<br/>
+> `5 ▶️` ∙ **[beansclub](https://www.last.fm/music/beansclub)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
