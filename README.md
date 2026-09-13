@@ -4,8 +4,8 @@
 > `35 ▶️` ∙ **[GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)**<br/>
 > `8 ▶️` ∙ **[Cosmo Sheldrake](https://www.last.fm/music/Cosmo+Sheldrake)**<br/>
 > `4 ▶️` ∙ **[Cosmo Sheldrake, Deep Throat Choir](https://www.last.fm/music/Cosmo+Sheldrake,+Deep+Throat+Choir)**<br/>
+> `4 ▶️` ∙ **[PIXEL GRIP](https://www.last.fm/music/PIXEL+GRIP)**<br/>
 > `4 ▶️` ∙ **[The Hellp](https://www.last.fm/music/The+Hellp)**<br/>
-> `3 ▶️` ∙ **[Hooverphonic](https://www.last.fm/music/Hooverphonic)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `14 ▶️` ∙ **[Gaburger](https://www.last.fm/music/GEZEBELLE+GABURGABLY/Gaburger)** - [GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)<br/>
 > `4 ▶️` ∙ **[In Berlin](https://www.last.fm/music/Cosmo+Sheldrake/In+Berlin)** - [Cosmo Sheldrake](https://www.last.fm/music/Cosmo+Sheldrake)<br/>
 > `4 ▶️` ∙ **[The Much Much How How and I](https://www.last.fm/music/Cosmo+Sheldrake/The+Much+Much+How+How+and+I)** - [Cosmo Sheldrake](https://www.last.fm/music/Cosmo+Sheldrake)<br/>
-> `3 ▶️` ∙ **[A New Stereophonic Sound Spectacular](https://www.last.fm/music/Hooverphonic/A+New+Stereophonic+Sound+Spectacular)** - [Hooverphonic](https://www.last.fm/music/Hooverphonic)<br/>
+> `3 ▶️` ∙ **[Basspunk](https://www.last.fm/music/bassvictim/Basspunk)** - [bassvictim](https://www.last.fm/music/bassvictim)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `9 ▶️` ∙ **[Magenta Placenta](https://www.last.fm/music/GEZEBELLE+GABURGABLY/_/Magenta+Placenta)** - [GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)<br/>
 > `4 ▶️` ∙ **[Solar Waltz](https://www.last.fm/music/Cosmo+Sheldrake/_/Solar+Waltz)** - [Cosmo Sheldrake](https://www.last.fm/music/Cosmo+Sheldrake)<br/>
 > `4 ▶️` ∙ **[In Berlin](https://www.last.fm/music/Cosmo+Sheldrake,+Deep+Throat+Choir/_/In+Berlin)** - [Cosmo Sheldrake, Deep Throat Choir](https://www.last.fm/music/Cosmo+Sheldrake,+Deep+Throat+Choir)<br/>
-> `3 ▶️` ∙ **[Barabas](https://www.last.fm/music/Hooverphonic/_/Barabas)** - [Hooverphonic](https://www.last.fm/music/Hooverphonic)<br/>
+> `3 ▶️` ∙ **[Air on a G String](https://www.last.fm/music/bassvictim/_/Air+on+a+G+String)** - [bassvictim](https://www.last.fm/music/bassvictim)<br/>
 <!--END_LASTFM_TRACKS-->
