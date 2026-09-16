@@ -5,7 +5,7 @@
 > `19 ▶️` ∙ **[The Hellp](https://www.last.fm/music/The+Hellp)**<br/>
 > `13 ▶️` ∙ **[Lil Ugly Mane](https://www.last.fm/music/Lil+Ugly+Mane)**<br/>
 > `10 ▶️` ∙ **[beansclub](https://www.last.fm/music/beansclub)**<br/>
-> `9 ▶️` ∙ **[Cosmo Sheldrake](https://www.last.fm/music/Cosmo+Sheldrake)**<br/>
+> `8 ▶️` ∙ **[bassvictim](https://www.last.fm/music/bassvictim)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
