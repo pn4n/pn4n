@@ -2,7 +2,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `35 ▶️` ∙ **[GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)**<br/>
-> `19 ▶️` ∙ **[The Hellp](https://www.last.fm/music/The+Hellp)**<br/>
+> `22 ▶️` ∙ **[The Hellp](https://www.last.fm/music/The+Hellp)**<br/>
 > `13 ▶️` ∙ **[Lil Ugly Mane](https://www.last.fm/music/Lil+Ugly+Mane)**<br/>
 > `10 ▶️` ∙ **[beansclub](https://www.last.fm/music/beansclub)**<br/>
 > `8 ▶️` ∙ **[bassvictim](https://www.last.fm/music/bassvictim)**<br/>
@@ -11,8 +11,8 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `19 ▶️` ∙ **[LL](https://www.last.fm/music/The+Hellp/LL)** - [The Hellp](https://www.last.fm/music/The+Hellp)<br/>
 > `18 ▶️` ∙ **[The Freezer](https://www.last.fm/music/GEZEBELLE+GABURGABLY/The+Freezer)** - [GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)<br/>
-> `16 ▶️` ∙ **[LL](https://www.last.fm/music/The+Hellp/LL)** - [The Hellp](https://www.last.fm/music/The+Hellp)<br/>
 > `12 ▶️` ∙ **[Gaburger](https://www.last.fm/music/GEZEBELLE+GABURGABLY/Gaburger)** - [GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)<br/>
 > `11 ▶️` ∙ **[Mista Thug Isolation](https://www.last.fm/music/Lil+Ugly+Mane/Mista+Thug+Isolation)** - [Lil Ugly Mane](https://www.last.fm/music/Lil+Ugly+Mane)<br/>
 > `9 ▶️` ∙ **[TRANSIENT FLEETING MEMOIRS](https://www.last.fm/music/beansclub/TRANSIENT+FLEETING+MEMOIRS)** - [beansclub](https://www.last.fm/music/beansclub)<br/>
@@ -21,7 +21,7 @@
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `15 ▶️` ∙ **[ether](https://www.last.fm/music/The+Hellp/_/ether)** - [The Hellp](https://www.last.fm/music/The+Hellp)<br/>
+> `18 ▶️` ∙ **[ether](https://www.last.fm/music/The+Hellp/_/ether)** - [The Hellp](https://www.last.fm/music/The+Hellp)<br/>
 > `10 ▶️` ∙ **[Magenta Placenta](https://www.last.fm/music/GEZEBELLE+GABURGABLY/_/Magenta+Placenta)** - [GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)<br/>
 > `10 ▶️` ∙ **[Serious Shit](https://www.last.fm/music/Lil+Ugly+Mane/_/Serious+Shit)** - [Lil Ugly Mane](https://www.last.fm/music/Lil+Ugly+Mane)<br/>
 > `9 ▶️` ∙ **[sweet](https://www.last.fm/music/beansclub/_/sweet)** - [beansclub](https://www.last.fm/music/beansclub)<br/>
