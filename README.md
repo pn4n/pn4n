@@ -3,9 +3,9 @@
 
 > `23 ▶️` ∙ **[The Hellp](https://www.last.fm/music/The+Hellp)**<br/>
 > `14 ▶️` ∙ **[Lil Ugly Mane](https://www.last.fm/music/Lil+Ugly+Mane)**<br/>
-> `11 ▶️` ∙ **[beansclub](https://www.last.fm/music/beansclub)**<br/>
+> `12 ▶️` ∙ **[beansclub](https://www.last.fm/music/beansclub)**<br/>
 > `11 ▶️` ∙ **[GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)**<br/>
-> `10 ▶️` ∙ **[Monolithic](https://www.last.fm/music/Monolithic)**<br/>
+> `11 ▶️` ∙ **[Monolithic](https://www.last.fm/music/Monolithic)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,8 +13,8 @@
 
 > `20 ▶️` ∙ **[LL](https://www.last.fm/music/The+Hellp/LL)** - [The Hellp](https://www.last.fm/music/The+Hellp)<br/>
 > `12 ▶️` ∙ **[Mista Thug Isolation](https://www.last.fm/music/Lil+Ugly+Mane/Mista+Thug+Isolation)** - [Lil Ugly Mane](https://www.last.fm/music/Lil+Ugly+Mane)<br/>
-> `10 ▶️` ∙ **[TRANSIENT FLEETING MEMOIRS](https://www.last.fm/music/beansclub/TRANSIENT+FLEETING+MEMOIRS)** - [beansclub](https://www.last.fm/music/beansclub)<br/>
-> `10 ▶️` ∙ **[Alone With You](https://www.last.fm/music/Monolithic/Alone+With+You)** - [Monolithic](https://www.last.fm/music/Monolithic)<br/>
+> `11 ▶️` ∙ **[TRANSIENT FLEETING MEMOIRS](https://www.last.fm/music/beansclub/TRANSIENT+FLEETING+MEMOIRS)** - [beansclub](https://www.last.fm/music/beansclub)<br/>
+> `11 ▶️` ∙ **[Alone With You](https://www.last.fm/music/Monolithic/Alone+With+You)** - [Monolithic](https://www.last.fm/music/Monolithic)<br/>
 > `8 ▶️` ∙ **[Basspunk](https://www.last.fm/music/bassvictim/Basspunk)** - [bassvictim](https://www.last.fm/music/bassvictim)<br/>
 <!--END_LASTFM_ALBUMS-->
 
@@ -23,7 +23,7 @@
 
 > `19 ▶️` ∙ **[ether](https://www.last.fm/music/The+Hellp/_/ether)** - [The Hellp](https://www.last.fm/music/The+Hellp)<br/>
 > `11 ▶️` ∙ **[Serious Shit](https://www.last.fm/music/Lil+Ugly+Mane/_/Serious+Shit)** - [Lil Ugly Mane](https://www.last.fm/music/Lil+Ugly+Mane)<br/>
-> `10 ▶️` ∙ **[Alone With You](https://www.last.fm/music/Monolithic/_/Alone+With+You)** - [Monolithic](https://www.last.fm/music/Monolithic)<br/>
-> `9 ▶️` ∙ **[sweet](https://www.last.fm/music/beansclub/_/sweet)** - [beansclub](https://www.last.fm/music/beansclub)<br/>
+> `11 ▶️` ∙ **[Alone With You](https://www.last.fm/music/Monolithic/_/Alone+With+You)** - [Monolithic](https://www.last.fm/music/Monolithic)<br/>
+> `10 ▶️` ∙ **[sweet](https://www.last.fm/music/beansclub/_/sweet)** - [beansclub](https://www.last.fm/music/beansclub)<br/>
 > `6 ▶️` ∙ **[I Don't Love Me Anymore](https://www.last.fm/music/Oneohtrix+Point+Never/_/I+Don%27t+Love+Me+Anymore)** - [Oneohtrix Point Never](https://www.last.fm/music/Oneohtrix+Point+Never)<br/>
 <!--END_LASTFM_TRACKS-->
