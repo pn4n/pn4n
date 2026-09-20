@@ -4,8 +4,8 @@
 > `23 ▶️` ∙ **[The Hellp](https://www.last.fm/music/The+Hellp)**<br/>
 > `14 ▶️` ∙ **[Lil Ugly Mane](https://www.last.fm/music/Lil+Ugly+Mane)**<br/>
 > `12 ▶️` ∙ **[beansclub](https://www.last.fm/music/beansclub)**<br/>
-> `11 ▶️` ∙ **[GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)**<br/>
 > `11 ▶️` ∙ **[Monolithic](https://www.last.fm/music/Monolithic)**<br/>
+> `9 ▶️` ∙ **[GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
