@@ -1,21 +1,21 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `11 ▶️` ∙ **[Slowdive](https://www.last.fm/music/Slowdive)**<br/>
 > `8 ▶️` ∙ **[damon r.](https://www.last.fm/music/damon+r.)**<br/>
+> `8 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `7 ▶️` ∙ **[Aphex Twin](https://www.last.fm/music/Aphex+Twin)**<br/>
 > `7 ▶️` ∙ **[Cosmo Sheldrake](https://www.last.fm/music/Cosmo+Sheldrake)**<br/>
-> `7 ▶️` ∙ **[Monolithic](https://www.last.fm/music/Monolithic)**<br/>
-> `5 ▶️` ∙ **[GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `11 ▶️` ∙ **[Souvlaki](https://www.last.fm/music/Slowdive/Souvlaki)** - [Slowdive](https://www.last.fm/music/Slowdive)<br/>
 > `7 ▶️` ∙ **[Just Obliterate](https://www.last.fm/music/damon+r./Just+Obliterate)** - [damon r.](https://www.last.fm/music/damon+r.)<br/>
 > `7 ▶️` ∙ **[Alone With You](https://www.last.fm/music/Monolithic/Alone+With+You)** - [Monolithic](https://www.last.fm/music/Monolithic)<br/>
 > `4 ▶️` ∙ **[TRANSIENT FLEETING MEMOIRS](https://www.last.fm/music/beansclub/TRANSIENT+FLEETING+MEMOIRS)** - [beansclub](https://www.last.fm/music/beansclub)<br/>
 > `4 ▶️` ∙ **[poser](https://www.last.fm/music/Joey+Cash/poser)** - [Joey Cash](https://www.last.fm/music/Joey+Cash)<br/>
-> `4 ▶️` ∙ **[Mista Thug Isolation](https://www.last.fm/music/Lil+Ugly+Mane/Mista+Thug+Isolation)** - [Lil Ugly Mane](https://www.last.fm/music/Lil+Ugly+Mane)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
