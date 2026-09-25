@@ -14,8 +14,8 @@
 > `11 ▶️` ∙ **[Souvlaki](https://www.last.fm/music/Slowdive/Souvlaki)** - [Slowdive](https://www.last.fm/music/Slowdive)<br/>
 > `6 ▶️` ∙ **[Just Obliterate](https://www.last.fm/music/damon+r./Just+Obliterate)** - [damon r.](https://www.last.fm/music/damon+r.)<br/>
 > `5 ▶️` ∙ **[Alone With You](https://www.last.fm/music/Monolithic/Alone+With+You)** - [Monolithic](https://www.last.fm/music/Monolithic)<br/>
-> `4 ▶️` ∙ **[overdose](https://www.last.fm/music/timesgone/overdose)** - [timesgone](https://www.last.fm/music/timesgone)<br/>
 > `3 ▶️` ∙ **[TRANSIENT FLEETING MEMOIRS](https://www.last.fm/music/beansclub/TRANSIENT+FLEETING+MEMOIRS)** - [beansclub](https://www.last.fm/music/beansclub)<br/>
+> `3 ▶️` ∙ **[Eye To The Ear](https://www.last.fm/music/Cosmo+Sheldrake/Eye+To+The+Ear)** - [Cosmo Sheldrake](https://www.last.fm/music/Cosmo+Sheldrake)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `6 ▶️` ∙ **[Just Obliterate](https://www.last.fm/music/damon+r./_/Just+Obliterate)** - [damon r.](https://www.last.fm/music/damon+r.)<br/>
 > `5 ▶️` ∙ **[Alone With You](https://www.last.fm/music/Monolithic/_/Alone+With+You)** - [Monolithic](https://www.last.fm/music/Monolithic)<br/>
-> `4 ▶️` ∙ **[corrupted state](https://www.last.fm/music/timesgone/_/corrupted+state)** - [timesgone](https://www.last.fm/music/timesgone)<br/>
 > `3 ▶️` ∙ **[sweet](https://www.last.fm/music/beansclub/_/sweet)** - [beansclub](https://www.last.fm/music/beansclub)<br/>
 > `3 ▶️` ∙ **[A Drowning](https://www.last.fm/music/How+to+Destroy+Angels/_/A+Drowning)** - [How to Destroy Angels](https://www.last.fm/music/How+to+Destroy+Angels)<br/>
+> `3 ▶️` ∙ **[Serious Shit](https://www.last.fm/music/Lil+Ugly+Mane/_/Serious+Shit)** - [Lil Ugly Mane](https://www.last.fm/music/Lil+Ugly+Mane)<br/>
 <!--END_LASTFM_TRACKS-->
