@@ -1,23 +1,29 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `1 ▶️` ∙ **[Aphrodite](https://www.last.fm/music/Aphrodite)**<br/>
-> `1 ▶️` ∙ **[Melody Gardot](https://www.last.fm/music/Melody+Gardot)**<br/>
-> `1 ▶️` ∙ **[TV on the Radio](https://www.last.fm/music/TV+on+the+Radio)**<br/>
+> `4 ▶️` ∙ **[TV on the Radio](https://www.last.fm/music/TV+on+the+Radio)**<br/>
+> `2 ▶️` ∙ **[Aphrodite](https://www.last.fm/music/Aphrodite)**<br/>
+> `1 ▶️` ∙ **[Circa Waves](https://www.last.fm/music/Circa+Waves)**<br/>
+> `1 ▶️` ∙ **[Echo & the Bunnymen](https://www.last.fm/music/Echo+&+the+Bunnymen)**<br/>
+> `1 ▶️` ∙ **[Gene Loves Jezebel](https://www.last.fm/music/Gene+Loves+Jezebel)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `1 ▶️` ∙ **[Aphro Classics 2](https://www.last.fm/music/Aphrodite/Aphro+Classics+2)** - [Aphrodite](https://www.last.fm/music/Aphrodite)<br/>
-> `1 ▶️` ∙ **[Currency of Man](https://www.last.fm/music/Melody+Gardot/Currency+of+Man)** - [Melody Gardot](https://www.last.fm/music/Melody+Gardot)<br/>
-> `1 ▶️` ∙ **[Dear Science](https://www.last.fm/music/TV+on+the+Radio/Dear+Science)** - [TV on the Radio](https://www.last.fm/music/TV+on+the+Radio)<br/>
+> `2 ▶️` ∙ **[Aphro Classics 2](https://www.last.fm/music/Aphrodite/Aphro+Classics+2)** - [Aphrodite](https://www.last.fm/music/Aphrodite)<br/>
+> `1 ▶️` ∙ **[Something Like You](https://www.last.fm/music/Circa+Waves/Something+Like+You)** - [Circa Waves](https://www.last.fm/music/Circa+Waves)<br/>
+> `1 ▶️` ∙ **[Echo & the Bunnymen](https://www.last.fm/music/Echo+&+the+Bunnymen/Echo+&+the+Bunnymen)** - [Echo & the Bunnymen](https://www.last.fm/music/Echo+&+the+Bunnymen)<br/>
+> `1 ▶️` ∙ **[Greatest Hits, Remixes & More](https://www.last.fm/music/Gene+Loves+Jezebel/Greatest+Hits,+Remixes+&+More)** - [Gene Loves Jezebel](https://www.last.fm/music/Gene+Loves+Jezebel)<br/>
+> `1 ▶️` ∙ **[Screen Memories](https://www.last.fm/music/John+Maus/Screen+Memories)** - [John Maus](https://www.last.fm/music/John+Maus)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `1 ▶️` ∙ **[Bomber](https://www.last.fm/music/Aphrodite/_/Bomber)** - [Aphrodite](https://www.last.fm/music/Aphrodite)<br/>
-> `1 ▶️` ∙ **[It Gonna Come](https://www.last.fm/music/Melody+Gardot/_/It+Gonna+Come)** - [Melody Gardot](https://www.last.fm/music/Melody+Gardot)<br/>
-> `1 ▶️` ∙ **[Love Dog](https://www.last.fm/music/TV+on+the+Radio/_/Love+Dog)** - [TV on the Radio](https://www.last.fm/music/TV+on+the+Radio)<br/>
+> `2 ▶️` ∙ **[Bomber](https://www.last.fm/music/Aphrodite/_/Bomber)** - [Aphrodite](https://www.last.fm/music/Aphrodite)<br/>
+> `1 ▶️` ∙ **[Something Like You](https://www.last.fm/music/Circa+Waves/_/Something+Like+You)** - [Circa Waves](https://www.last.fm/music/Circa+Waves)<br/>
+> `1 ▶️` ∙ **[Lips Like Sugar](https://www.last.fm/music/Echo+&+the+Bunnymen/_/Lips+Like+Sugar)** - [Echo & the Bunnymen](https://www.last.fm/music/Echo+&+the+Bunnymen)<br/>
+> `1 ▶️` ∙ **[Desire](https://www.last.fm/music/Gene+Loves+Jezebel/_/Desire)** - [Gene Loves Jezebel](https://www.last.fm/music/Gene+Loves+Jezebel)<br/>
+> `1 ▶️` ∙ **[The Combine](https://www.last.fm/music/John+Maus/_/The+Combine)** - [John Maus](https://www.last.fm/music/John+Maus)<br/>
 <!--END_LASTFM_TRACKS-->
