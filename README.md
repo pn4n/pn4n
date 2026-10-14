@@ -4,8 +4,8 @@
 > `4 ▶️` ∙ **[TV on the Radio](https://www.last.fm/music/TV+on+the+Radio)**<br/>
 > `2 ▶️` ∙ **[Aphrodite](https://www.last.fm/music/Aphrodite)**<br/>
 > `1 ▶️` ∙ **[Circa Waves](https://www.last.fm/music/Circa+Waves)**<br/>
+> `1 ▶️` ∙ **[Daft Punk, Julian Casablancas](https://www.last.fm/music/Daft+Punk,+Julian+Casablancas)**<br/>
 > `1 ▶️` ∙ **[Echo & the Bunnymen](https://www.last.fm/music/Echo+&+the+Bunnymen)**<br/>
-> `1 ▶️` ∙ **[Gene Loves Jezebel](https://www.last.fm/music/Gene+Loves+Jezebel)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -13,9 +13,9 @@
 
 > `2 ▶️` ∙ **[Aphro Classics 2](https://www.last.fm/music/Aphrodite/Aphro+Classics+2)** - [Aphrodite](https://www.last.fm/music/Aphrodite)<br/>
 > `1 ▶️` ∙ **[Something Like You](https://www.last.fm/music/Circa+Waves/Something+Like+You)** - [Circa Waves](https://www.last.fm/music/Circa+Waves)<br/>
+> `1 ▶️` ∙ **[Random Access Memories](https://www.last.fm/music/Daft+Punk/Random+Access+Memories)** - [Daft Punk](https://www.last.fm/music/Daft+Punk)<br/>
 > `1 ▶️` ∙ **[Echo & the Bunnymen](https://www.last.fm/music/Echo+&+the+Bunnymen/Echo+&+the+Bunnymen)** - [Echo & the Bunnymen](https://www.last.fm/music/Echo+&+the+Bunnymen)<br/>
 > `1 ▶️` ∙ **[Greatest Hits, Remixes & More](https://www.last.fm/music/Gene+Loves+Jezebel/Greatest+Hits,+Remixes+&+More)** - [Gene Loves Jezebel](https://www.last.fm/music/Gene+Loves+Jezebel)<br/>
-> `1 ▶️` ∙ **[Screen Memories](https://www.last.fm/music/John+Maus/Screen+Memories)** - [John Maus](https://www.last.fm/music/John+Maus)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `2 ▶️` ∙ **[Bomber](https://www.last.fm/music/Aphrodite/_/Bomber)** - [Aphrodite](https://www.last.fm/music/Aphrodite)<br/>
 > `1 ▶️` ∙ **[Something Like You](https://www.last.fm/music/Circa+Waves/_/Something+Like+You)** - [Circa Waves](https://www.last.fm/music/Circa+Waves)<br/>
+> `1 ▶️` ∙ **[Instant Crush (feat. Julian Casablancas)](https://www.last.fm/music/Daft+Punk,+Julian+Casablancas/_/Instant+Crush+(feat.+Julian+Casablancas))** - [Daft Punk, Julian Casablancas](https://www.last.fm/music/Daft+Punk,+Julian+Casablancas)<br/>
 > `1 ▶️` ∙ **[Lips Like Sugar](https://www.last.fm/music/Echo+&+the+Bunnymen/_/Lips+Like+Sugar)** - [Echo & the Bunnymen](https://www.last.fm/music/Echo+&+the+Bunnymen)<br/>
 > `1 ▶️` ∙ **[Desire](https://www.last.fm/music/Gene+Loves+Jezebel/_/Desire)** - [Gene Loves Jezebel](https://www.last.fm/music/Gene+Loves+Jezebel)<br/>
-> `1 ▶️` ∙ **[The Combine](https://www.last.fm/music/John+Maus/_/The+Combine)** - [John Maus](https://www.last.fm/music/John+Maus)<br/>
 <!--END_LASTFM_TRACKS-->
