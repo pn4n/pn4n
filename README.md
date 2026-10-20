@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `30 ▶️` ∙ **[Ghostpoet](https://www.last.fm/music/Ghostpoet)**<br/>
-> `3 ▶️` ∙ **[TV on the Radio](https://www.last.fm/music/TV+on+the+Radio)**<br/>
 > `2 ▶️` ∙ **[Francesca Belmonte](https://www.last.fm/music/Francesca+Belmonte)**<br/>
 > `2 ▶️` ∙ **[Hatari](https://www.last.fm/music/Hatari)**<br/>
 > `2 ▶️` ∙ **[King Hannah](https://www.last.fm/music/King+Hannah)**<br/>
+> `1 ▶️` ∙ **[Akon, eminem](https://www.last.fm/music/Akon,+eminem)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
