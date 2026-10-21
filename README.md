@@ -4,8 +4,8 @@
 > `39 ▶️` ∙ **[Ghostpoet](https://www.last.fm/music/Ghostpoet)**<br/>
 > `6 ▶️` ∙ **[Hatari](https://www.last.fm/music/Hatari)**<br/>
 > `4 ▶️` ∙ **[King Hannah](https://www.last.fm/music/King+Hannah)**<br/>
+> `2 ▶️` ∙ **[damon r.](https://www.last.fm/music/damon+r.)**<br/>
 > `2 ▶️` ∙ **[Francesca Belmonte](https://www.last.fm/music/Francesca+Belmonte)**<br/>
-> `1 ▶️` ∙ **[Akon, eminem](https://www.last.fm/music/Akon,+eminem)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
