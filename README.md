@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `42 ▶️` ∙ **[Ghostpoet](https://www.last.fm/music/Ghostpoet)**<br/>
+> `9 ▶️` ∙ **[Cage the Elephant](https://www.last.fm/music/Cage+the+Elephant)**<br/>
 > `6 ▶️` ∙ **[Hatari](https://www.last.fm/music/Hatari)**<br/>
 > `4 ▶️` ∙ **[King Hannah](https://www.last.fm/music/King+Hannah)**<br/>
 > `2 ▶️` ∙ **[damon r.](https://www.last.fm/music/damon+r.)**<br/>
-> `2 ▶️` ∙ **[Francesca Belmonte](https://www.last.fm/music/Francesca+Belmonte)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `29 ▶️` ∙ **[I Grow Tired But Dare Not Fall Asleep](https://www.last.fm/music/Ghostpoet/I+Grow+Tired+But+Dare+Not+Fall+Asleep)** - [Ghostpoet](https://www.last.fm/music/Ghostpoet)<br/>
 > `9 ▶️` ∙ **[Peanut Butter Blues and Melancholy Jam](https://www.last.fm/music/Ghostpoet/Peanut+Butter+Blues+and+Melancholy+Jam)** - [Ghostpoet](https://www.last.fm/music/Ghostpoet)<br/>
 > `9 ▶️` ∙ **[Neyslutrans](https://www.last.fm/music/Hatari/Neyslutrans)** - [Hatari](https://www.last.fm/music/Hatari)<br/>
+> `7 ▶️` ∙ **[Melophobia](https://www.last.fm/music/Cage+the+Elephant/Melophobia)** - [Cage the Elephant](https://www.last.fm/music/Cage+the+Elephant)<br/>
 > `4 ▶️` ∙ **[Crème Brûlée](https://www.last.fm/music/King+Hannah/Cr%C3%A8me+Br%C3%BBl%C3%A9e)** - [King Hannah](https://www.last.fm/music/King+Hannah)<br/>
-> `3 ▶️` ∙ **[Dark Days + Canapés](https://www.last.fm/music/Ghostpoet/Dark+Days+%252B+Canap%C3%A9s)** - [Ghostpoet](https://www.last.fm/music/Ghostpoet)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
