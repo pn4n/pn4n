@@ -5,7 +5,7 @@
 > `5 ▶️` ∙ **[The Smiths](https://www.last.fm/music/The+Smiths)**<br/>
 > `3 ▶️` ∙ **[The Stone Roses](https://www.last.fm/music/The+Stone+Roses)**<br/>
 > `2 ▶️` ∙ **[Klaus Nomi](https://www.last.fm/music/Klaus+Nomi)**<br/>
-> `2 ▶️` ∙ **[Rome](https://www.last.fm/music/Rome)**<br/>
+> `2 ▶️` ∙ **[Lee Moses](https://www.last.fm/music/Lee+Moses)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `3 ▶️` ∙ **[I Grow Tired But Dare Not Fall Asleep](https://www.last.fm/music/Ghostpoet/I+Grow+Tired+But+Dare+Not+Fall+Asleep)** - [Ghostpoet](https://www.last.fm/music/Ghostpoet)<br/>
 > `2 ▶️` ∙ **[Peanut Butter Blues and Melancholy Jam](https://www.last.fm/music/Ghostpoet/Peanut+Butter+Blues+and+Melancholy+Jam)** - [Ghostpoet](https://www.last.fm/music/Ghostpoet)<br/>
 > `2 ▶️` ∙ **[Za Bakdaz: The Unfinished Opera](https://www.last.fm/music/Klaus+Nomi/Za+Bakdaz:+The+Unfinished+Opera)** - [Klaus Nomi](https://www.last.fm/music/Klaus+Nomi)<br/>
-> `2 ▶️` ∙ **[A Passage to Rhodesia](https://www.last.fm/music/Rome/A+Passage+to+Rhodesia)** - [Rome](https://www.last.fm/music/Rome)<br/>
+> `2 ▶️` ∙ **[Bad Girl (Pt. 1)](https://www.last.fm/music/Lee+Moses/Bad+Girl+(Pt.+1))** - [Lee Moses](https://www.last.fm/music/Lee+Moses)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `2 ▶️` ∙ **[When Mouths Collide](https://www.last.fm/music/Ghostpoet/_/When+Mouths+Collide)** - [Ghostpoet](https://www.last.fm/music/Ghostpoet)<br/>
 > `2 ▶️` ∙ **[Valentine's Day](https://www.last.fm/music/Klaus+Nomi/_/Valentine%27s+Day)** - [Klaus Nomi](https://www.last.fm/music/Klaus+Nomi)<br/>
 > `2 ▶️` ∙ **[One Fire](https://www.last.fm/music/Rome/_/One+Fire)** - [Rome](https://www.last.fm/music/Rome)<br/>
+> `1 ▶️` ∙ **[All for a Reason](https://www.last.fm/music/Alessi+Brothers/_/All+for+a+Reason)** - [Alessi Brothers](https://www.last.fm/music/Alessi+Brothers)<br/>
 > `1 ▶️` ∙ **[Arcadia](https://www.last.fm/music/Apparat/_/Arcadia)** - [Apparat](https://www.last.fm/music/Apparat)<br/>
-> `1 ▶️` ∙ **[Ravel In The Rain](https://www.last.fm/music/Black/_/Ravel+In+The+Rain)** - [Black](https://www.last.fm/music/Black)<br/>
 <!--END_LASTFM_TRACKS-->
