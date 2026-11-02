@@ -2,10 +2,10 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `6 ▶️` ∙ **[Kumo 99](https://www.last.fm/music/Kumo+99)**<br/>
-> `5 ▶️` ∙ **[Ghostpoet](https://www.last.fm/music/Ghostpoet)**<br/>
 > `5 ▶️` ∙ **[The Smiths](https://www.last.fm/music/The+Smiths)**<br/>
 > `4 ▶️` ∙ **[Sweet Trip](https://www.last.fm/music/Sweet+Trip)**<br/>
 > `3 ▶️` ∙ **[The Stone Roses](https://www.last.fm/music/The+Stone+Roses)**<br/>
+> `2 ▶️` ∙ **[Klaus Nomi](https://www.last.fm/music/Klaus+Nomi)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `5 ▶️` ∙ **[Body N. Will](https://www.last.fm/music/Kumo+99/Body+N.+Will)** - [Kumo 99](https://www.last.fm/music/Kumo+99)<br/>
 > `4 ▶️` ∙ **[Velocity: Design: Comfort.](https://www.last.fm/music/Sweet+Trip/Velocity:+Design:+Comfort.)** - [Sweet Trip](https://www.last.fm/music/Sweet+Trip)<br/>
 > `4 ▶️` ∙ **[Louder Than Bombs](https://www.last.fm/music/The+Smiths/Louder+Than+Bombs)** - [The Smiths](https://www.last.fm/music/The+Smiths)<br/>
-> `3 ▶️` ∙ **[I Grow Tired But Dare Not Fall Asleep](https://www.last.fm/music/Ghostpoet/I+Grow+Tired+But+Dare+Not+Fall+Asleep)** - [Ghostpoet](https://www.last.fm/music/Ghostpoet)<br/>
-> `2 ▶️` ∙ **[Peanut Butter Blues and Melancholy Jam](https://www.last.fm/music/Ghostpoet/Peanut+Butter+Blues+and+Melancholy+Jam)** - [Ghostpoet](https://www.last.fm/music/Ghostpoet)<br/>
+> `2 ▶️` ∙ **[Za Bakdaz: The Unfinished Opera](https://www.last.fm/music/Klaus+Nomi/Za+Bakdaz:+The+Unfinished+Opera)** - [Klaus Nomi](https://www.last.fm/music/Klaus+Nomi)<br/>
+> `2 ▶️` ∙ **[Bad Girl (Pt. 1)](https://www.last.fm/music/Lee+Moses/Bad+Girl+(Pt.+1))** - [Lee Moses](https://www.last.fm/music/Lee+Moses)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -23,7 +23,7 @@
 
 > `4 ▶️` ∙ **[Chocolate Matter](https://www.last.fm/music/Sweet+Trip/_/Chocolate+Matter)** - [Sweet Trip](https://www.last.fm/music/Sweet+Trip)<br/>
 > `3 ▶️` ∙ **[UUU](https://www.last.fm/music/Kumo+99/_/UUU)** - [Kumo 99](https://www.last.fm/music/Kumo+99)<br/>
-> `2 ▶️` ∙ **[When Mouths Collide](https://www.last.fm/music/Ghostpoet/_/When+Mouths+Collide)** - [Ghostpoet](https://www.last.fm/music/Ghostpoet)<br/>
 > `2 ▶️` ∙ **[Valentine's Day](https://www.last.fm/music/Klaus+Nomi/_/Valentine%27s+Day)** - [Klaus Nomi](https://www.last.fm/music/Klaus+Nomi)<br/>
 > `2 ▶️` ∙ **[One Fire](https://www.last.fm/music/Rome/_/One+Fire)** - [Rome](https://www.last.fm/music/Rome)<br/>
+> `1 ▶️` ∙ **[Voices of Hope](https://www.last.fm/music/Adham+Shaikh/_/Voices+of+Hope)** - [Adham Shaikh](https://www.last.fm/music/Adham+Shaikh)<br/>
 <!--END_LASTFM_TRACKS-->
