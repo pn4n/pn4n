@@ -24,6 +24,6 @@
 > `5 ▶️` ∙ **[Chocolate Matter](https://www.last.fm/music/Sweet+Trip/_/Chocolate+Matter)** - [Sweet Trip](https://www.last.fm/music/Sweet+Trip)<br/>
 > `4 ▶️` ∙ **[when to stay out](https://www.last.fm/music/oxhy/_/when+to+stay+out)** - [oxhy](https://www.last.fm/music/oxhy)<br/>
 > `3 ▶️` ∙ **[UUU](https://www.last.fm/music/Kumo+99/_/UUU)** - [Kumo 99](https://www.last.fm/music/Kumo+99)<br/>
-> `2 ▶️` ∙ **[Valentine's Day](https://www.last.fm/music/Klaus+Nomi/_/Valentine%27s+Day)** - [Klaus Nomi](https://www.last.fm/music/Klaus+Nomi)<br/>
-> `2 ▶️` ∙ **[One Fire](https://www.last.fm/music/Rome/_/One+Fire)** - [Rome](https://www.last.fm/music/Rome)<br/>
+> `2 ▶️` ∙ **[Teen Age Riot (album version)](https://www.last.fm/music/Sonic+Youth/_/Teen+Age+Riot+(album+version))** - [Sonic Youth](https://www.last.fm/music/Sonic+Youth)<br/>
+> `1 ▶️` ∙ **[Just Talk](https://www.last.fm/music/A.C.+Marias/_/Just+Talk)** - [A.C. Marias](https://www.last.fm/music/A.C.+Marias)<br/>
 <!--END_LASTFM_TRACKS-->
