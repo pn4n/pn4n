@@ -1,17 +1,17 @@
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `6 ▶️` ∙ **[Kumo 99](https://www.last.fm/music/Kumo+99)**<br/>
+> `7 ▶️` ∙ **[Kumo 99](https://www.last.fm/music/Kumo+99)**<br/>
+> `7 ▶️` ∙ **[TV on the Radio](https://www.last.fm/music/TV+on+the+Radio)**<br/>
 > `5 ▶️` ∙ **[oxhy](https://www.last.fm/music/oxhy)**<br/>
 > `5 ▶️` ∙ **[Sweet Trip](https://www.last.fm/music/Sweet+Trip)**<br/>
 > `5 ▶️` ∙ **[The Smiths](https://www.last.fm/music/The+Smiths)**<br/>
-> `5 ▶️` ∙ **[The Sound](https://www.last.fm/music/The+Sound)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `5 ▶️` ∙ **[Body N. Will](https://www.last.fm/music/Kumo+99/Body+N.+Will)** - [Kumo 99](https://www.last.fm/music/Kumo+99)<br/>
+> `6 ▶️` ∙ **[Body N. Will](https://www.last.fm/music/Kumo+99/Body+N.+Will)** - [Kumo 99](https://www.last.fm/music/Kumo+99)<br/>
 > `5 ▶️` ∙ **[Velocity: Design: Comfort.](https://www.last.fm/music/Sweet+Trip/Velocity:+Design:+Comfort.)** - [Sweet Trip](https://www.last.fm/music/Sweet+Trip)<br/>
 > `4 ▶️` ∙ **[rights of spring](https://www.last.fm/music/oxhy/rights+of+spring)** - [oxhy](https://www.last.fm/music/oxhy)<br/>
 > `4 ▶️` ∙ **[Louder Than Bombs](https://www.last.fm/music/The+Smiths/Louder+Than+Bombs)** - [The Smiths](https://www.last.fm/music/The+Smiths)<br/>
