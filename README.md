@@ -21,9 +21,9 @@
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `2 ▶️` ∙ **[Just Obliterate](https://www.last.fm/music/damon+r./_/Just+Obliterate)** - [damon r.](https://www.last.fm/music/damon+r.)<br/>
 > `2 ▶️` ∙ **[Magenta Placenta](https://www.last.fm/music/GEZEBELLE+GABURGABLY/_/Magenta+Placenta)** - [GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)<br/>
 > `2 ▶️` ∙ **[Quarter Pounder](https://www.last.fm/music/GEZEBELLE+GABURGABLY/_/Quarter+Pounder)** - [GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)<br/>
 > `2 ▶️` ∙ **[UNDER THE BRIDGE - MAFIA MIX](https://www.last.fm/music/Human+Part/_/UNDER+THE+BRIDGE+-+MAFIA+MIX)** - [Human Part](https://www.last.fm/music/Human+Part)<br/>
 > `2 ▶️` ∙ **[Being In Love](https://www.last.fm/music/Songs:+Ohia,+Jason+Molina/_/Being+In+Love)** - [Songs: Ohia, Jason Molina](https://www.last.fm/music/Songs:+Ohia,+Jason+Molina)<br/>
+> `2 ▶️` ∙ **[Will Do](https://www.last.fm/music/TV+on+the+Radio/_/Will+Do)** - [TV on the Radio](https://www.last.fm/music/TV+on+the+Radio)<br/>
 <!--END_LASTFM_TRACKS-->
