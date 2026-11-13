@@ -5,7 +5,7 @@
 > `8 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `5 ▶️` ∙ **[Aldo Fisk, Burnt Beans](https://www.last.fm/music/Aldo+Fisk,+Burnt+Beans)**<br/>
 > `4 ▶️` ∙ **[GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)**<br/>
-> `4 ▶️` ∙ **[Rendez Vous](https://www.last.fm/music/Rendez+Vous)**<br/>
+> `4 ▶️` ∙ **[Mietze Conte](https://www.last.fm/music/Mietze+Conte)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
