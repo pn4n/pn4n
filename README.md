@@ -4,8 +4,8 @@
 > `8 ▶️` ∙ **[Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)**<br/>
 > `8 ▶️` ∙ **[Metronomy](https://www.last.fm/music/Metronomy)**<br/>
 > `5 ▶️` ∙ **[Aldo Fisk, Burnt Beans](https://www.last.fm/music/Aldo+Fisk,+Burnt+Beans)**<br/>
-> `4 ▶️` ∙ **[GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)**<br/>
 > `4 ▶️` ∙ **[Mietze Conte](https://www.last.fm/music/Mietze+Conte)**<br/>
+> `2 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -14,8 +14,8 @@
 > `11 ▶️` ∙ **[Flounder King](https://www.last.fm/music/Aldo+Fisk/Flounder+King)** - [Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)<br/>
 > `3 ▶️` ∙ **[Nights Out](https://www.last.fm/music/Metronomy/Nights+Out)** - [Metronomy](https://www.last.fm/music/Metronomy)<br/>
 > `3 ▶️` ∙ **[The English Riviera](https://www.last.fm/music/Metronomy/The+English+Riviera)** - [Metronomy](https://www.last.fm/music/Metronomy)<br/>
-> `2 ▶️` ∙ **[New Kind Of Cross](https://www.last.fm/music/Buzz+Kull/New+Kind+Of+Cross)** - [Buzz Kull](https://www.last.fm/music/Buzz+Kull)<br/>
-> `2 ▶️` ∙ **[Gaburger](https://www.last.fm/music/GEZEBELLE+GABURGABLY/Gaburger)** - [GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)<br/>
+> `2 ▶️` ∙ **[bunnybunnybunny](https://www.last.fm/music/Mietze+Conte/bunnybunnybunny)** - [Mietze Conte](https://www.last.fm/music/Mietze+Conte)<br/>
+> `2 ▶️` ∙ **[Mietzee](https://www.last.fm/music/Mietze+Conte/Mietzee)** - [Mietze Conte](https://www.last.fm/music/Mietze+Conte)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `3 ▶️` ∙ **[Splinner Bitch](https://www.last.fm/music/Aldo+Fisk,+Burnt+Beans/_/Splinner+Bitch)** - [Aldo Fisk, Burnt Beans](https://www.last.fm/music/Aldo+Fisk,+Burnt+Beans)<br/>
 > `2 ▶️` ∙ **[Flounder King](https://www.last.fm/music/Aldo+Fisk/_/Flounder+King)** - [Aldo Fisk](https://www.last.fm/music/Aldo+Fisk)<br/>
 > `2 ▶️` ∙ **[Look](https://www.last.fm/music/Aldo+Fisk,+Burnt+Beans/_/Look)** - [Aldo Fisk, Burnt Beans](https://www.last.fm/music/Aldo+Fisk,+Burnt+Beans)<br/>
-> `2 ▶️` ∙ **[Magenta Placenta](https://www.last.fm/music/GEZEBELLE+GABURGABLY/_/Magenta+Placenta)** - [GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)<br/>
+> `2 ▶️` ∙ **[bunnybunnybunny](https://www.last.fm/music/Mietze+Conte/_/bunnybunnybunny)** - [Mietze Conte](https://www.last.fm/music/Mietze+Conte)<br/>
 <!--END_LASTFM_TRACKS-->
