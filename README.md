@@ -5,7 +5,7 @@
 > `5 ▶️` ∙ **[Kryptonyte, Lord Byron](https://www.last.fm/music/Kryptonyte,+Lord+Byron)**<br/>
 > `5 ▶️` ∙ **[The Horrors](https://www.last.fm/music/The+Horrors)**<br/>
 > `4 ▶️` ∙ **[Joey Cash](https://www.last.fm/music/Joey+Cash)**<br/>
-> `2 ▶️` ∙ **[Bar Italia](https://www.last.fm/music/Bar+Italia)**<br/>
+> `3 ▶️` ∙ **[Human Part](https://www.last.fm/music/Human+Part)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -25,5 +25,5 @@
 > `5 ▶️` ∙ **[Knock Knock](https://www.last.fm/music/Kryptonyte,+Lord+Byron/_/Knock+Knock)** - [Kryptonyte, Lord Byron](https://www.last.fm/music/Kryptonyte,+Lord+Byron)<br/>
 > `2 ▶️` ∙ **[Just Obliterate](https://www.last.fm/music/damon+r./_/Just+Obliterate)** - [damon r.](https://www.last.fm/music/damon+r.)<br/>
 > `2 ▶️` ∙ **[everything](https://www.last.fm/music/Joey+Cash/_/everything)** - [Joey Cash](https://www.last.fm/music/Joey+Cash)<br/>
-> `1 ▶️` ∙ **[Splinner Bitch](https://www.last.fm/music/Aldo+Fisk,+Burnt+Beans/_/Splinner+Bitch)** - [Aldo Fisk, Burnt Beans](https://www.last.fm/music/Aldo+Fisk,+Burnt+Beans)<br/>
+> `2 ▶️` ∙ **[Silver Current](https://www.last.fm/music/White+Heaven/_/Silver+Current)** - [White Heaven](https://www.last.fm/music/White+Heaven)<br/>
 <!--END_LASTFM_TRACKS-->
