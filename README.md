@@ -3,9 +3,9 @@
 
 > `14 ▶️` ∙ **[Bedwetter](https://www.last.fm/music/Bedwetter)**<br/>
 > `13 ▶️` ∙ **[Bloodhound Gang](https://www.last.fm/music/Bloodhound+Gang)**<br/>
+> `9 ▶️` ∙ **[Sade](https://www.last.fm/music/Sade)**<br/>
 > `6 ▶️` ∙ **[Kryptonyte, Lord Byron](https://www.last.fm/music/Kryptonyte,+Lord+Byron)**<br/>
-> `5 ▶️` ∙ **[The Horrors](https://www.last.fm/music/The+Horrors)**<br/>
-> `4 ▶️` ∙ **[GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)**<br/>
+> `6 ▶️` ∙ **[The Brian Jonestown Massacre](https://www.last.fm/music/The+Brian+Jonestown+Massacre)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
@@ -15,7 +15,7 @@
 > `6 ▶️` ∙ **[KRYPTONYTE](https://www.last.fm/music/Kryptonyte/KRYPTONYTE)** - [Kryptonyte](https://www.last.fm/music/Kryptonyte)<br/>
 > `4 ▶️` ∙ **[Hefty Fine](https://www.last.fm/music/Bloodhound+Gang/Hefty+Fine)** - [Bloodhound Gang](https://www.last.fm/music/Bloodhound+Gang)<br/>
 > `4 ▶️` ∙ **[Hooray for Boobies](https://www.last.fm/music/Bloodhound+Gang/Hooray+for+Boobies)** - [Bloodhound Gang](https://www.last.fm/music/Bloodhound+Gang)<br/>
-> `4 ▶️` ∙ **[poser](https://www.last.fm/music/Joey+Cash/poser)** - [Joey Cash](https://www.last.fm/music/Joey+Cash)<br/>
+> `4 ▶️` ∙ **[Sun](https://www.last.fm/music/Cat+Power/Sun)** - [Cat Power](https://www.last.fm/music/Cat+Power)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
@@ -24,6 +24,6 @@
 > `14 ▶️` ∙ **[stoop lights](https://www.last.fm/music/Bedwetter/_/stoop+lights)** - [Bedwetter](https://www.last.fm/music/Bedwetter)<br/>
 > `6 ▶️` ∙ **[Knock Knock](https://www.last.fm/music/Kryptonyte,+Lord+Byron/_/Knock+Knock)** - [Kryptonyte, Lord Byron](https://www.last.fm/music/Kryptonyte,+Lord+Byron)<br/>
 > `3 ▶️` ∙ **[Magenta Placenta](https://www.last.fm/music/GEZEBELLE+GABURGABLY/_/Magenta+Placenta)** - [GEZEBELLE GABURGABLY](https://www.last.fm/music/GEZEBELLE+GABURGABLY)<br/>
+> `3 ▶️` ∙ **[Fingertips](https://www.last.fm/music/The+Brian+Jonestown+Massacre/_/Fingertips)** - [The Brian Jonestown Massacre](https://www.last.fm/music/The+Brian+Jonestown+Massacre)<br/>
 > `2 ▶️` ∙ **[Just Obliterate](https://www.last.fm/music/damon+r./_/Just+Obliterate)** - [damon r.](https://www.last.fm/music/damon+r.)<br/>
-> `2 ▶️` ∙ **[everything](https://www.last.fm/music/Joey+Cash/_/everything)** - [Joey Cash](https://www.last.fm/music/Joey+Cash)<br/>
 <!--END_LASTFM_TRACKS-->
