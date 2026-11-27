@@ -5,7 +5,7 @@
 > `9 ▶️` ∙ **[Cage the Elephant](https://www.last.fm/music/Cage+the+Elephant)**<br/>
 > `9 ▶️` ∙ **[Sade](https://www.last.fm/music/Sade)**<br/>
 > `6 ▶️` ∙ **[The Brian Jonestown Massacre](https://www.last.fm/music/The+Brian+Jonestown+Massacre)**<br/>
-> `5 ▶️` ∙ **[The Horrors](https://www.last.fm/music/The+Horrors)**<br/>
+> `5 ▶️` ∙ **[TV on the Radio](https://www.last.fm/music/TV+on+the+Radio)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 5}-->
